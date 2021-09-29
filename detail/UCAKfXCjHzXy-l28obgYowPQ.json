@@ -70,6 +70,19 @@
                     "c"
                 ]
             }
+        },
+        {
+            "type": "title_ar",
+            "data": {
+                "title": "AR(Android only)",
+                "ar_path": "https://raw.githubusercontent.com/hkvtuber/dev_data/master/resource/ar/html/index.html",
+                "ar_list": [
+                    {
+                        "image": "https://raw.githubusercontent.com/hkvtuber/dev_data/master/resource/ar/preview/test.png",
+                        "path": "https://raw.githubusercontent.com/hkvtuber/dev_data/master/resource/ar/glb/test.glb"
+                    }
+                ]
+            }
         }
     ]
 }
