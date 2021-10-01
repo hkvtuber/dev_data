@@ -1,0 +1,34 @@
+<html>
+
+<head>
+  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+  <script>
+  function appendAR(path){
+    var text = '<model-viewer alt="A 3D model " src="'+path+'" camera-controls ar environment-image="neutral" shadow-intensity="1"></model-viewer>';
+    document.getElementById("ar").insertAdjacentHTML('afterbegin',text);
+  }
+
+  </script>
+  <style>
+  body {
+    background-color: #696969;
+  }
+  model-viewer {
+    width: 100%;
+    height: 100%;
+    background-color: #696969;
+    overflow-x: hidden;
+    --poster-color: #696969;
+  }
+
+  model-viewer#interaction {
+    --poster-color: transparent;
+  }
+</style>
+</head>
+
+<body>
+  <div id="ar"></div>
+</body>
+
+</html>
