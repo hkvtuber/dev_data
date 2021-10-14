@@ -78,7 +78,7 @@
                 "ar_path": "https://hkvtuber.github.io/ar_page_dev/",
                 "ar_list": [
                     {
-                        "image": "https://raw.githubusercontent.com/hkvtuber/dev_data/master/resource/ar/preview/test.png",
+                        "image": "https://raw.githubusercontent.com/hkvtuber/dev_data/master/resource/ar/preview/test.webp",
                         "path": "https://raw.githubusercontent.com/hkvtuber/dev_data/master/resource/ar/glb/test.glb",
                         "ios_path": "https://raw.githubusercontent.com/hkvtuber/dev_data/master/resource/ar/usdz/test.usdz"
                     }
