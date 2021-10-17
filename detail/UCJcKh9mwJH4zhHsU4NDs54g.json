@@ -9,8 +9,8 @@
         {
             "type": "title_content",
             "data": {
-                "title": "Introduction",
-                "content": "content"
+                "title": "描述",
+                "content": "魔界大魔王的女兒。可惡的人類多次侵略魔王城，以致魔王需要大量金錢支付士兵的薪水、幫補傷亡的士兵(魔王城已通過法例保障勞動階層)、維修城堡的費用，造成魔王城庫房乾涸。Rumii為了幫補家計，逼不得已離開魔界來到人類世界當VTUBER賣藝。Rumii努力練習唱歌魔法，希望有一天可以成為大家的偶像，用歌聲魅惑人類，然後盡量匯多點家用回去給魔王城。\n喜歡電音歌的惡魔IDOL，想跟粉絲一起享受電音歌一起HIGH✨✨"
             }
         },
         {
@@ -19,16 +19,68 @@
                 "title": "Info",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "如月ルミィ / 如月瑠美 / RumiiKisaragi"
+                    },
+                    {
                         "key": "生日",
                         "content": "11月10日"
                     },
                     {
-                        "key": "愛好",
-                        "content": "太陽蛋"
+                        "key": "年齡",
+                        "content": "19（00）"
                     },
                     {
-                        "key": "其他",
-                        "content": "xxxxx"
+                        "key": "身高",
+                        "content": "155cm"
+                    },
+                    {
+                        "key": "Like",
+                        "content": "唱歌, Vocaloid, EDM(Dustep/FutureCore)"
+                    },
+                    {
+                        "key": "Like",
+                        "content": "推理解謎作品，音樂街機，兔子，太陽蛋"
+                    },
+                    {
+                        "key": "Dislike",
+                        "content": "一切恐怖的東西，色士風，FPSGAME，紅豆"
+                    },
+                    {
+                        "key": "Artist",
+                        "content": "GipaP，Deco*27，KIRA，Reol，YOASOBI PSYQUI"
+                    },
+                    {
+                        "key": "Artist",
+                        "content": "Terminite，Virtual Riot，Dt+pazolite"
+                    },
+                    {
+                        "key": "Live Tag",
+                        "content": "#itsRumiinouse"
+                    },
+                    {
+                        "key": "Music Tag",
+                        "content": "#itsRumii48kHz"
+                    },
+                    {
+                        "key": "Art Tag",
+                        "content": "#RumiiArt"
+                    },
+                    {
+                        "key": "Art Tag",
+                        "content": "#如月病"
+                    },
+                    {
+                        "key": "Fan Mark",
+                        "content": "🎀 🕯"
+                    },
+                    {
+                        "key": "直播內容",
+                        "content": "唱歌，遊戲，聊天，多語言直播"
+                    },
+                    {
+                        "key": "打call/應援棒",
+                        "content": "❓❔"
                     }
                 ]
             }
@@ -45,6 +97,10 @@
                     {
                         "key": "twitter",
                         "path": "https://twitter.com/rumiikisaragi"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/pages/category/Music-Video/Rumii-Ch-%E5%A6%82%E6%9C%88%E3%83%AB%E3%83%9F%E3%82%A3HKVTuber-104404504840255/"
                     }
                 ]
             }
@@ -55,28 +111,20 @@
                 "title": "推薦",
                 "suggest_list": [
                     {
-                        "video_code": "EoHN-xqBbeE",
-                        "image": "https://i.ytimg.com/vi/EoHN-xqBbeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnXCxBK3OJDNvwKKF4rY3scelAFQ",
-                        "title": "【精華】面對燈謎竟然說出了ＯＯ字眼？面臨BAN台危機！【米亞】",
-                        "author": "米亞MYA【HKVTuber】",
-                        "origen_video_code":"AJsCM1Ejmh4",
-                        "suggest_code": "UCVDrzfo7NnOvNx8dU-Ebitg"
+                        "video_code": "4hpxyVidUIo",
+                        "image": "https://i.ytimg.com/vi/4hpxyVidUIo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_P4Se13mTGp5VmdkaYGyCUa3EBQ",
+                        "title": "【自我介紹】你要來點惡魔IDOL嗎♡【HKVTuber/如月瑠美】",
+                        "author": "Rumii Ch. 如月ルミィ【HKVTuber】",
+                        "origen_video_code":"4hpxyVidUIo",
+                        "suggest_code": "UCJcKh9mwJH4zhHsU4NDs54g"
                     },
                     {
-                        "video_code": "EoHN-xqBbeE",
-                        "image": "https://i.ytimg.com/vi/EoHN-xqBbeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnXCxBK3OJDNvwKKF4rY3scelAFQ",
-                        "title": "【精華】面對燈謎竟然說出了ＯＯ字眼？面臨BAN台危機！【米亞】",
-                        "author": "米亞MYA【HKVTuber】",
-                        "origen_video_code":"AJsCM1Ejmh4",
-                        "suggest_code": "UCVDrzfo7NnOvNx8dU-Ebitg"
-                    },
-                    {
-                        "video_code": "EoHN-xqBbeE",
-                        "image": "https://i.ytimg.com/vi/EoHN-xqBbeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnXCxBK3OJDNvwKKF4rY3scelAFQ",
-                        "title": "【精華】面對燈謎竟然說出了ＯＯ字眼？面臨BAN台危機！【米亞】",
-                        "author": "米亞MYA【HKVTuber】",
-                        "origen_video_code":"AJsCM1Ejmh4",
-                        "suggest_code": "UCVDrzfo7NnOvNx8dU-Ebitg"
+                        "video_code": "-GTx-cievm8",
+                        "image": "https://i.ytimg.com/vi/-GTx-cievm8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6yM1GZv1-u4PoRNiMILlbhbsKLw",
+                        "title": "【初次直播】NICE RUMII UUU!! 最清楚純潔友善的惡魔IDOL在這邊真心不騙。【HKVTuber/如月瑠美】",
+                        "author": "Rumii Ch. 如月ルミィ【HKVTuber】",
+                        "origen_video_code":"-GTx-cievm8",
+                        "suggest_code": "UCJcKh9mwJH4zhHsU4NDs54g"
                     }
                 ]
             }
@@ -87,28 +135,19 @@
                 "title": "烤肉",
                 "suggest_list": [
                     {
-                        "video_code": "EoHN-xqBbeE",
-                        "image": "https://i.ytimg.com/vi/EoHN-xqBbeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnXCxBK3OJDNvwKKF4rY3scelAFQ",
-                        "title": "【精華】面對燈謎竟然說出了ＯＯ字眼？面臨BAN台危機！【米亞】",
-                        "author": "米亞MYA【HKVTuber】",
-                        "origen_video_code":"AJsCM1Ejmh4",
-                        "suggest_code": "UCVDrzfo7NnOvNx8dU-Ebitg"
-                    },
-                    {
-                        "video_code": "EoHN-xqBbeE",
-                        "image": "https://i.ytimg.com/vi/EoHN-xqBbeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnXCxBK3OJDNvwKKF4rY3scelAFQ",
-                        "title": "【精華】面對燈謎竟然說出了ＯＯ字眼？面臨BAN台危機！【米亞】",
-                        "author": "米亞MYA【HKVTuber】",
-                        "origen_video_code":"AJsCM1Ejmh4",
-                        "suggest_code": "UCVDrzfo7NnOvNx8dU-Ebitg"
-                    },
-                    {
-                        "video_code": "EoHN-xqBbeE",
-                        "image": "https://i.ytimg.com/vi/EoHN-xqBbeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnXCxBK3OJDNvwKKF4rY3scelAFQ",
-                        "title": "【精華】面對燈謎竟然說出了ＯＯ字眼？面臨BAN台危機！【米亞】",
-                        "author": "米亞MYA【HKVTuber】",
-                        "origen_video_code":"AJsCM1Ejmh4",
-                        "suggest_code": "UCVDrzfo7NnOvNx8dU-Ebitg"
+                        "video_code": "sRz5oZVe2uc",
+                        "image": "https://i.ytimg.com/vi/sRz5oZVe2uc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVrHxcUZ8dEMTdVAhPQw0Iv_RCVQ",
+                        "title": "全港最純潔的vtuber慘遭觀眾陷害【如月ルミィ】",
+                        "author": "勇者大人",
+                        "origen_video_code":"DrY_Z7g1nDo",
+                        "suggest_code": "UCJcKh9mwJH4zhHsU4NDs54g"
+                    },{
+                        "video_code": "wsfP_3fTGQ",
+                        "image": "https://i.ytimg.com/vi/-wsfP_3fTGQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKQo1N8k0C0z2oUXpADQiQVdFfJA",
+                        "title": "【如月瑠美】Rumii慘被叫姨姨 摘名記住你們【香港VTuber】",
+                        "author": "湯姆烤肉店【在幸國患如月病的黑騎】",
+                        "origen_video_code":"rIelCYpW7bE",
+                        "suggest_code": "UCJcKh9mwJH4zhHsU4NDs54g"
                     }
                 ]
             }
@@ -116,7 +155,7 @@
         {
             "type": "title_ar",
             "data": {
-                "title": "AR(Android only)",
+                "title": "AR",
                 "ar_path": "https://hkvtuber.github.io/ar_page_dev/",
                 "ar_list": [
                     {
