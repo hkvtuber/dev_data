@@ -16,7 +16,7 @@
         {
             "type": "title_map",
             "data": {
-                "title": "Info",
+                "title": "個人資料",
                 "map_list": [
                     {
                         "key": "名字",
@@ -36,23 +36,27 @@
                     },
                     {
                         "key": "Like",
-                        "content": "唱歌, Vocaloid, EDM(Dustep/FutureCore)"
+                        "content": "唱歌, Vocaloid,\n EDM(Dustep/FutureCore)"
                     },
                     {
-                        "key": "Like",
+                        "key": "",
                         "content": "推理解謎作品，音樂街機，兔子，太陽蛋"
                     },
                     {
                         "key": "Dislike",
-                        "content": "一切恐怖的東西，色士風，FPSGAME，紅豆"
+                        "content": "一切恐怖的東西，色士風，\nFPSGAME，紅豆"
                     },
                     {
                         "key": "Artist",
-                        "content": "GipaP，Deco*27，KIRA，Reol，YOASOBI PSYQUI"
+                        "content": "GipaP，Deco*27，KIRA，\nReol，YOASOBI PSYQUI"
                     },
                     {
-                        "key": "Artist",
+                        "key": "",
                         "content": "Terminite，Virtual Riot，Dt+pazolite"
+                    },
+                    {
+                        "key": "直播內容",
+                        "content": "唱歌，遊戲，聊天，多語言直播"
                     },
                     {
                         "key": "Live Tag",
@@ -73,10 +77,6 @@
                     {
                         "key": "Fan Mark",
                         "content": "🎀 🕯"
-                    },
-                    {
-                        "key": "直播內容",
-                        "content": "唱歌，遊戲，聊天，多語言直播"
                     },
                     {
                         "key": "打call/應援棒",
@@ -142,7 +142,7 @@
                         "origen_video_code":"DrY_Z7g1nDo",
                         "suggest_code": "UCJcKh9mwJH4zhHsU4NDs54g"
                     },{
-                        "video_code": "wsfP_3fTGQ",
+                        "video_code": "-wsfP_3fTGQ",
                         "image": "https://i.ytimg.com/vi/-wsfP_3fTGQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKQo1N8k0C0z2oUXpADQiQVdFfJA",
                         "title": "【如月瑠美】Rumii慘被叫姨姨 摘名記住你們【香港VTuber】",
                         "author": "湯姆烤肉店【在幸國患如月病的黑騎】",
