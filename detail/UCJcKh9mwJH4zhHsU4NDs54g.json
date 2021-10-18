@@ -92,15 +92,19 @@
                 "content": [
                     {
                         "key": "youtube",
-                        "path": "https://www.youtube.com/channel/UCJcKh9mwJH4zhHsU4NDs54g"
+                        "path": "UCJcKh9mwJH4zhHsU4NDs54g"
                     },
                     {
                         "key": "twitter",
-                        "path": "https://twitter.com/rumiikisaragi"
+                        "path": "rumiikisaragi"
                     },
                     {
                         "key": "facebook",
                         "path": "https://www.facebook.com/pages/category/Music-Video/Rumii-Ch-%E5%A6%82%E6%9C%88%E3%83%AB%E3%83%9F%E3%82%A3HKVTuber-104404504840255/"
+                    },
+                    {
+                        "key": "飛天奶茶",
+                        "path": "https://market.flyingmilktea.com/shop/108500"
                     }
                 ]
             }

@@ -40,11 +40,11 @@
                 "content": [
                     {
                         "key": "youtube",
-                        "path": "https://www.youtube.com/channel/UCAKfXCjHzXy-l28obgYowPQ"
+                        "path": "UCAKfXCjHzXy-l28obgYowPQ"
                     },
                     {
                         "key": "twitter",
-                        "path": "https://twitter.com/amaha_ari"
+                        "path": "amaha_ari"
                     }
                 ]
             }
