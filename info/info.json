@@ -56,30 +56,48 @@
             "explanation": "結束VTuber事業"
         }
     ],
-    "suggest_list": [
+    "suggest_roast_list": [
         {
             "video_code": "EoHN-xqBbeE",
             "image": "https://i.ytimg.com/vi/EoHN-xqBbeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnXCxBK3OJDNvwKKF4rY3scelAFQ",
             "title": "【精華】面對燈謎竟然說出了ＯＯ字眼？面臨BAN台危機！【米亞】",
-            "author": "米亞MYA【HKVTuber】",
-            "origen_video_code":"AJsCM1Ejmh4",
-            "suggest_code": "UCVDrzfo7NnOvNx8dU-Ebitg"
+            "author": "米亞MYA【HKVTuber】"
         },
         {
             "video_code": "EoHN-xqBbeE",
             "image": "https://i.ytimg.com/vi/EoHN-xqBbeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnXCxBK3OJDNvwKKF4rY3scelAFQ",
             "title": "【精華】面對燈謎竟然說出了ＯＯ字眼？面臨BAN台危機！【米亞】",
-            "author": "米亞MYA【HKVTuber】",
-            "origen_video_code":"AJsCM1Ejmh4",
-            "suggest_code": "UCVDrzfo7NnOvNx8dU-Ebitg"
+            "author": "米亞MYA【HKVTuber】"
         },
         {
             "video_code": "EoHN-xqBbeE",
             "image": "https://i.ytimg.com/vi/EoHN-xqBbeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnXCxBK3OJDNvwKKF4rY3scelAFQ",
             "title": "【精華】面對燈謎竟然說出了ＯＯ字眼？面臨BAN台危機！【米亞】",
-            "author": "米亞MYA【HKVTuber】",
-            "origen_video_code":"AJsCM1Ejmh4",
-            "suggest_code": "UCVDrzfo7NnOvNx8dU-Ebitg"
+            "author": "米亞MYA【HKVTuber】"
+        }
+    ],
+    "suggest_video_list": [
+        {
+            "video_code": "EoHN-xqBbeE",
+            "image": "https://i.ytimg.com/vi/EoHN-xqBbeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnXCxBK3OJDNvwKKF4rY3scelAFQ",
+            "title": "(Video)【精華】面對燈謎竟然說出了ＯＯ字眼？面臨BAN台危機！【米亞】",
+            "author": "米亞MYA【HKVTuber】"
+        }
+    ],
+    "suggest_live_list": [
+        {
+            "video_code": "EoHN-xqBbeE",
+            "image": "https://i.ytimg.com/vi/EoHN-xqBbeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnXCxBK3OJDNvwKKF4rY3scelAFQ",
+            "title": "(Live)【精華】面對燈謎竟然說出了ＯＯ字眼？面臨BAN台危機！【米亞】",
+            "author": "米亞MYA【HKVTuber】"
+        }
+    ],
+    "other_video_list": [
+        {
+            "video_code": "EoHN-xqBbeE",
+            "image": "https://i.ytimg.com/vi/EoHN-xqBbeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnXCxBK3OJDNvwKKF4rY3scelAFQ",
+            "title": "(Other)【精華】面對燈謎竟然說出了ＯＯ字眼？面臨BAN台危機！【米亞】",
+            "author": "米亞MYA【HKVTuber】"
         }
     ]
 }

@@ -10,7 +10,7 @@
             "type": "title_content",
             "data": {
                 "title": "描述",
-                "content": "魔界大魔王的女兒。可惡的人類多次侵略魔王城，以致魔王需要大量金錢支付士兵的薪水、幫補傷亡的士兵(魔王城已通過法例保障勞動階層)、維修城堡的費用，造成魔王城庫房乾涸。Rumii為了幫補家計，逼不得已離開魔界來到人類世界當VTUBER賣藝。Rumii努力練習唱歌魔法，希望有一天可以成為大家的偶像，用歌聲魅惑人類，然後盡量匯多點家用回去給魔王城。\n喜歡電音歌的惡魔IDOL，想跟粉絲一起享受電音歌一起HIGH✨✨"
+                "content": "魔界大魔王的女兒。可惡的人類多次侵略魔王城，以致魔王需要大量金錢支付士兵的薪水、幫補傷亡的士兵(魔王城已通過法例保障勞動階層)、維修城堡的費用，造成魔王城庫房乾涸。Rumii為了幫補家計，逼不得已離開魔界來到人類世界當VTUBER賣藝。Rumii努力練習唱歌魔法，希望有一天可以成為大家的偶像，用歌聲魅惑人類，然後盡量匯多點家用回去給魔王城。"
             }
         },
         {
@@ -20,7 +20,8 @@
                 "map_list": [
                     {
                         "key": "名字",
-                        "content": "如月ルミィ / 如月瑠美 / RumiiKisaragi"
+                        "content": "如月ルミィ\n如月瑠美\nRumiiKisaragi",
+                        "heightRate": "2"
                     },
                     {
                         "key": "生日",
@@ -28,7 +29,7 @@
                     },
                     {
                         "key": "年齡",
-                        "content": "19（00）"
+                        "content": "人類19歲"
                     },
                     {
                         "key": "身高",
@@ -36,27 +37,31 @@
                     },
                     {
                         "key": "Like",
-                        "content": "唱歌, Vocaloid,\n EDM(Dustep/FutureCore)"
-                    },
-                    {
-                        "key": "",
-                        "content": "推理解謎作品，音樂街機，兔子，太陽蛋"
+                        "content": "唱歌\nVocaloid\nEDM(Dustep/FutureCore)\n推理解謎作品\n音樂街機\n兔子\n太陽蛋",
+                        "heightRate": "4.5"
                     },
                     {
                         "key": "Dislike",
-                        "content": "一切恐怖的東西，色士風，\nFPSGAME，紅豆"
+                        "content": "一切恐怖的東西\n色士風\nFPSGAME\n紅豆",
+                        "heightRate": "3"
                     },
                     {
                         "key": "Artist",
-                        "content": "GipaP，Deco*27，KIRA，\nReol，YOASOBI PSYQUI"
-                    },
-                    {
-                        "key": "",
-                        "content": "Terminite，Virtual Riot，Dt+pazolite"
-                    },
+                        "content": "GipaP\nDeco*27\nKIRA\nReol\nYOASOBI PSYQUI\nTerminite\nVirtual Riot\nDt+pazolite",
+                        "heightRate": "4.5"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
                     {
                         "key": "直播內容",
-                        "content": "唱歌，遊戲，聊天，多語言直播"
+                        "content": "唱歌\n遊戲\n聊天\n多語言直播",
+                        "heightRate": "3"
                     },
                     {
                         "key": "Live Tag",
@@ -113,22 +118,18 @@
             "type": "title_youtube",
             "data": {
                 "title": "推薦",
-                "suggest_list": [
+                "video_list": [
                     {
                         "video_code": "4hpxyVidUIo",
                         "image": "https://i.ytimg.com/vi/4hpxyVidUIo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_P4Se13mTGp5VmdkaYGyCUa3EBQ",
                         "title": "【自我介紹】你要來點惡魔IDOL嗎♡【HKVTuber/如月瑠美】",
-                        "author": "Rumii Ch. 如月ルミィ【HKVTuber】",
-                        "origen_video_code":"4hpxyVidUIo",
-                        "suggest_code": "UCJcKh9mwJH4zhHsU4NDs54g"
+                        "author": "Rumii Ch. 如月ルミィ【HKVTuber】"
                     },
                     {
                         "video_code": "-GTx-cievm8",
                         "image": "https://i.ytimg.com/vi/-GTx-cievm8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6yM1GZv1-u4PoRNiMILlbhbsKLw",
                         "title": "【初次直播】NICE RUMII UUU!! 最清楚純潔友善的惡魔IDOL在這邊真心不騙。【HKVTuber/如月瑠美】",
-                        "author": "Rumii Ch. 如月ルミィ【HKVTuber】",
-                        "origen_video_code":"-GTx-cievm8",
-                        "suggest_code": "UCJcKh9mwJH4zhHsU4NDs54g"
+                        "author": "Rumii Ch. 如月ルミィ【HKVTuber】"
                     }
                 ]
             }
@@ -137,21 +138,17 @@
             "type": "title_youtube",
             "data": {
                 "title": "烤肉",
-                "suggest_list": [
+                "video_list": [
                     {
                         "video_code": "sRz5oZVe2uc",
                         "image": "https://i.ytimg.com/vi/sRz5oZVe2uc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVrHxcUZ8dEMTdVAhPQw0Iv_RCVQ",
                         "title": "全港最純潔的vtuber慘遭觀眾陷害【如月ルミィ】",
-                        "author": "勇者大人",
-                        "origen_video_code":"DrY_Z7g1nDo",
-                        "suggest_code": "UCJcKh9mwJH4zhHsU4NDs54g"
+                        "author": "勇者大人"
                     },{
                         "video_code": "-wsfP_3fTGQ",
                         "image": "https://i.ytimg.com/vi/-wsfP_3fTGQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKQo1N8k0C0z2oUXpADQiQVdFfJA",
                         "title": "【如月瑠美】Rumii慘被叫姨姨 摘名記住你們【香港VTuber】",
-                        "author": "湯姆烤肉店【在幸國患如月病的黑騎】",
-                        "origen_video_code":"rIelCYpW7bE",
-                        "suggest_code": "UCJcKh9mwJH4zhHsU4NDs54g"
+                        "author": "湯姆烤肉店【在幸國患如月病的黑騎】"
                     }
                 ]
             }
