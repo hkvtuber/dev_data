@@ -1,0 +1,67 @@
+{
+    "id": "UCWiyW8dKj9mrU9YQqUrxiaQ",
+    "header": {
+        "name": "魔王城電台 Yozora Radio",
+        "image": "https://yt3.ggpht.com/qqr5ZxyzWYxF_A0qoLK23wyf6QYLoOfMh7I1mb1dHfMLNnLBLBLV1gNtSQ7KZHF0_O3qG_vHYF8=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "content"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "Info",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": ""
+                    },
+                    {
+                        "key": "愛好",
+                        "content": ""
+                    },
+                    {
+                        "key": "其他",
+                        "content": "xxxxx"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCWiyW8dKj9mrU9YQqUrxiaQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦",
+                "video_list": [
+                    {
+                        "video_code": "",
+                        "image": "",
+                        "title": "",
+                        "author": ""
+                    }
+                ]
+            }
+        }
+    ]
+}

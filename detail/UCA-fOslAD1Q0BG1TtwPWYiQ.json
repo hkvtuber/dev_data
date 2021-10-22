@@ -1,0 +1,67 @@
+{
+    "id": "UCA-fOslAD1Q0BG1TtwPWYiQ",
+    "header": {
+        "name": "桃野薔薇 ch . 【HKVtuber】",
+        "image": "https://yt3.ggpht.com/vipmcbcsk-qu69PeKCX7zF5cVfrXXDWIDc2zXiLN04DUAPWXYNPaLETY43z2mzVrJAWTC0NS=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "content"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "Info",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": ""
+                    },
+                    {
+                        "key": "愛好",
+                        "content": ""
+                    },
+                    {
+                        "key": "其他",
+                        "content": "xxxxx"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCA-fOslAD1Q0BG1TtwPWYiQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦",
+                "video_list": [
+                    {
+                        "video_code": "",
+                        "image": "",
+                        "title": "",
+                        "author": ""
+                    }
+                ]
+            }
+        }
+    ]
+}

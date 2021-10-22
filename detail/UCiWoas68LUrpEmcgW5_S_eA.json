@@ -1,0 +1,67 @@
+{
+    "id": "UCiWoas68LUrpEmcgW5_S_eA",
+    "header": {
+        "name": "Sakira Channel / 咲娜 サキラ ",
+        "image": "https://yt3.ggpht.com/0Kbl-FecuDxh9jbLWO6cKc_Iu7oXH6IUWjIcmwkeWHMuMzSW6hma0HimjIZ-y79sPp-MenxjOw=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "content"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "Info",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": ""
+                    },
+                    {
+                        "key": "愛好",
+                        "content": ""
+                    },
+                    {
+                        "key": "其他",
+                        "content": "xxxxx"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCiWoas68LUrpEmcgW5_S_eA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦",
+                "video_list": [
+                    {
+                        "video_code": "",
+                        "image": "",
+                        "title": "",
+                        "author": ""
+                    }
+                ]
+            }
+        }
+    ]
+}

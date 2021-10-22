@@ -1,0 +1,75 @@
+{
+    "id": "UCVDrzfo7NnOvNx8dU-Ebitg",
+    "header": {
+        "name": "米亞MYA【HKVTuber】",
+        "image": "https://yt3.ggpht.com/cHyOVYnsAxK4EJ1XTxYLXPZJIjhqrxAHfwLpEsA6avXJ5M8_Ad0jxfmDAagkCRGIotiVmp-37g=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/Blj5UCfXxruMiW6gVtA7Va2zsAaJNCoDkr6v6HwPLHXWg9olIr25BmaucDn4wISFfjEUg-xw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "Introduction",
+                "content": "天才可愛熊貓IDOL！米亞です—！♥♥♥\n～要體驗十萬伏特的愛嗎？ ♬"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "Info",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": ""
+                    },
+                    {
+                        "key": "愛好",
+                        "content": ""
+                    },
+                    {
+                        "key": "其他",
+                        "content": "xxxxx"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCVDrzfo7NnOvNx8dU-Ebitg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "MyaVtuber"
+                    },
+                    {
+                        "key": "Instagram",
+                        "path": "Mya_Vtuber"
+                    },
+                    {
+                        "key": "飛天奶茶",
+                        "path": "https://market.flyingmilktea.com/shop/113469"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦",
+                "video_list": [
+                    {
+                        "video_code": "",
+                        "image": "",
+                        "title": "",
+                        "author": ""
+                    }
+                ]
+            }
+        }
+    ]
+}

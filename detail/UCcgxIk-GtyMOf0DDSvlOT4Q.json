@@ -1,0 +1,67 @@
+{
+    "id": "UCcgxIk-GtyMOf0DDSvlOT4Q",
+    "header": {
+        "name": "Waleria.Crawford /華萊莉雅.克勞福德【HK VTUBER準備中】",
+        "image": "https://yt3.ggpht.com/F8WgWN2d5V0qcJDPrFxOaxUNhNKttYhN1KX4CLgon5bqnjTv0pZtZEgrcHjWDh7XkJqs7xaj7w=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "content"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "Info",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": ""
+                    },
+                    {
+                        "key": "愛好",
+                        "content": ""
+                    },
+                    {
+                        "key": "其他",
+                        "content": "xxxxx"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCcgxIk-GtyMOf0DDSvlOT4Q"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦",
+                "video_list": [
+                    {
+                        "video_code": "",
+                        "image": "",
+                        "title": "",
+                        "author": ""
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": "UCxL1rR0b9GW0ToMadYMyTsw",
+    "header": {
+        "name": "啊尼[HK Vtuber]",
+        "image": "https://yt3.ggpht.com/9zTKrkQDQQ96GO_LivT-d2GSoM12pB6DhKL6vL3sRQwtXSEYZFPvsmgV35Mod2s4DR4fk8bH5w=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "content"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "Info",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": ""
+                    },
+                    {
+                        "key": "愛好",
+                        "content": ""
+                    },
+                    {
+                        "key": "其他",
+                        "content": "xxxxx"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCxL1rR0b9GW0ToMadYMyTsw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦",
+                "video_list": [
+                    {
+                        "video_code": "",
+                        "image": "",
+                        "title": "",
+                        "author": ""
+                    }
+                ]
+            }
+        }
+    ]
+}
