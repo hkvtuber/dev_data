@@ -28,13 +28,6 @@
         {
             "type": "title_map",
             "data": {
-                "title": "個人資料",
-                "map_list": []
-            }
-        },
-        {
-            "type": "title_map",
-            "data": {
                 "title": "關於直播",
                 "map_list": [
                     {
@@ -50,7 +43,7 @@
                     {
                         "key": "通用Tag",
                         "content": "#迫良會\r\n#保良會",
-                        "heightRate": "1"
+                        "heightRate": "2"
                     },
                     {
                         "key": "直播Tag",
@@ -70,7 +63,7 @@
                     {
                         "key": "Fan Name Tag",
                         "content": "#迫良會\n#保良會",
-                        "heightRate": "1"
+                        "heightRate": "2"
                     }
                 ]
             }

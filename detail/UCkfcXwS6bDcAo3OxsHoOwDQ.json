@@ -16,13 +16,6 @@
         {
             "type": "title_map",
             "data": {
-                "title": "個人資料",
-                "map_list": []
-            }
-        },
-        {
-            "type": "title_map",
-            "data": {
                 "title": "關於直播",
                 "map_list": [
                     {
@@ -38,27 +31,27 @@
                     {
                         "key": "通用Tag",
                         "content": "#Yuuseesee\n#ユウちゃん見てみて",
-                        "heightRate": "1"
+                        "heightRate": "2"
                     },
                     {
                         "key": "直播Tag",
                         "content": "#Yuualive\n#ユウアライフ",
-                        "heightRate": "1"
+                        "heightRate": "2"
                     },
                     {
                         "key": "音樂Tag",
                         "content": "#Yuunokoe\n#ユウの声",
-                        "heightRate": "1"
+                        "heightRate": "2"
                     },
                     {
                         "key": "Fan Art Tag(可用)",
                         "content": "#YuuSart\n#ユウスアート",
-                        "heightRate": "1"
+                        "heightRate": "2"
                     },
                     {
                         "key": "Fan Name Tag",
                         "content": "#Yuunokioku\n#ユウの記憶",
-                        "heightRate": "1"
+                        "heightRate": "2"
                     }
                 ]
             }

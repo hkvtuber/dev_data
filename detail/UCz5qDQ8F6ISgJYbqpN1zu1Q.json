@@ -28,13 +28,6 @@
         {
             "type": "title_map",
             "data": {
-                "title": "個人資料",
-                "map_list": []
-            }
-        },
-        {
-            "type": "title_map",
-            "data": {
                 "title": "關於直播",
                 "map_list": [
                     {
@@ -65,7 +58,7 @@
                     {
                         "key": "Fan Name Tag",
                         "content": "#愛露信者\n#我愛蘿 ",
-                        "heightRate": "1"
+                        "heightRate": "2"
                     }
                 ]
             }

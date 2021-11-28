@@ -32,13 +32,6 @@
         {
             "type": "title_map",
             "data": {
-                "title": "個人資料",
-                "map_list": []
-            }
-        },
-        {
-            "type": "title_map",
-            "data": {
                 "title": "關於直播",
                 "map_list": [
                     {
@@ -69,7 +62,7 @@
                     {
                         "key": "Fan Name Tag",
                         "content": "#芽菜精靈\n#小芽菜",
-                        "heightRate": "1"
+                        "heightRate": "2"
                     },
                     {
                         "key": "烤肉／精華Tag",

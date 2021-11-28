@@ -16,19 +16,12 @@
         {
             "type": "title_map",
             "data": {
-                "title": "個人資料",
-                "map_list": []
-            }
-        },
-        {
-            "type": "title_map",
-            "data": {
                 "title": "關於直播",
                 "map_list": [
                     {
                         "key": "類別",
                         "content": "企業勢\nEggtart",
-                        "heightRate": "1"
+                        "heightRate": "2"
                     },
                     {
                         "key": "語言",

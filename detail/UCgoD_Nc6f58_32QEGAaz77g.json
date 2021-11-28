@@ -28,13 +28,6 @@
         {
             "type": "title_map",
             "data": {
-                "title": "個人資料",
-                "map_list": []
-            }
-        },
-        {
-            "type": "title_map",
-            "data": {
                 "title": "關於直播",
                 "map_list": [
                     {
@@ -60,7 +53,7 @@
                     {
                         "key": "Fan Name Tag",
                         "content": "#龍鬚糖\n#dragonbeardcandy",
-                        "heightRate": "1"
+                        "heightRate": "2"
                     }
                 ]
             }

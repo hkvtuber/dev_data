@@ -36,13 +36,6 @@
         {
             "type": "title_map",
             "data": {
-                "title": "個人資料",
-                "map_list": []
-            }
-        },
-        {
-            "type": "title_map",
-            "data": {
                 "title": "關於直播",
                 "map_list": [
                     {
@@ -53,7 +46,7 @@
                     {
                         "key": "語言",
                         "content": "廣東話\n普通話",
-                        "heightRate": "1"
+                        "heightRate": "2"
                     },
                     {
                         "key": "直播Tag",
@@ -68,7 +61,7 @@
                     {
                         "key": "Fan Name Tag",
                         "content": "#Koel雀友會\n#雀友",
-                        "heightRate": "1"
+                        "heightRate": "2"
                     },
                     {
                         "key": "Meme Tag",
