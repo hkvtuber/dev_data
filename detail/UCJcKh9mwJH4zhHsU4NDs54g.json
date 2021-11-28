@@ -130,7 +130,7 @@
             "type": "title_contact",
             "data": {
                 "title": "更多聯絡方式",
-                "data": [
+                "content": [
                     {
                         "key": "youtube",
                         "path": "UCJcKh9mwJH4zhHsU4NDs54g"
