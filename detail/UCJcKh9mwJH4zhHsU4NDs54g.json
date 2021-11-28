@@ -38,17 +38,17 @@
                     {
                         "key": "生日",
                         "content": "11月10日",
-                        "heightRate": 1
+                        "heightRate": "1"
                     },
                     {
                         "key": "年齡",
                         "content": "人類19歲",
-                        "heightRate": 1
+                        "heightRate": "1"
                     },
                     {
                         "key": "身高",
                         "content": "155cm",
-                        "heightRate": 1
+                        "heightRate": "1"
                     },
                     {
                         "key": "喜歡",
@@ -86,42 +86,42 @@
                     {
                         "key": "直播tag",
                         "content": "#itsRumiinouse",
-                        "heightRate": 1
+                        "heightRate": "1"
                     },
                     {
                         "key": "音樂tag",
                         "content": "#itsRumii48kHz",
-                        "heightRate": 1
+                        "heightRate": "1"
                     },
                     {
                         "key": "Fan Art tag(可用)",
                         "content": "#RumiiArt",
-                        "heightRate": 1
+                        "heightRate": "1"
                     },
                     {
                         "key": "R18 Fan Arttag",
                         "content": "#R18miiArt",
-                        "heightRate": 1
+                        "heightRate": "1"
                     },
                     {
                         "key": "Fan Name_ ag",
                         "content": "#如月病",
-                        "heightRate": 1
+                        "heightRate": "1"
                     },
                     {
                         "key": "meme tag",
                         "content": "#Rumiime",
-                        "heightRate": 1
+                        "heightRate": "1"
                     },
                     {
                         "key": "Fan Mark",
                         "content": "🎀 🕯",
-                        "heightRate": 1
+                        "heightRate": "1"
                     },
                     {
                         "key": "打call/應援棒",
                         "content": "❓❔",
-                        "heightRate": 1
+                        "heightRate": "1"
                     }
                 ]
             }
