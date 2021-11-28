@@ -1,0 +1,130 @@
+{
+    "id": "UCJlWGT95wcAZMZtxwqsc1YA",
+    "header": {
+        "name": "852Virtual Uncle B.B. ",
+        "image": "https://yt3.ggpht.com/DpXoaNiZS5mOxGxs6uL85tKjKfM6SU9iGkIdrlA95XW7kMudwItQutPpEPAKscIP2e0EBNyrc2o=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/xePYvchN6AJ8PlH6_2QCMEO2I2c1GmOlWz3d3zYXgtl0A6RovB6njOQeHXHWPx41dQQyAOPpNw"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FCt63elVIAMOVua?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FCt63elVIAMOVua?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "因為喜愛Vtuber文化而進入數碼之海\n轉生成為Vtuber\n希望可以與各位Vtuber\n還有觀眾(DD)們一起聊天和玩遊戲"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#unclebb852",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#DD們\n#大夫\n#小夫",
+                        "heightRate": "2.00"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCJlWGT95wcAZMZtxwqsc1YA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "BB2020852"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/B.B.2020852"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "Um3EgUYWIYA",
+                        "image": "https://i.ytimg.com/vi/Um3EgUYWIYA/hqdefault.jpg",
+                        "title": "【初配信】Uncle系Vtuber首次直播！！！[HKVtuber/Uncle B.B.]",
+                        "author": "852Virtual Uncle B.B. "
+                    },
+                    {
+                        "video_code": "fdG1FTduQ1g",
+                        "image": "https://i.ytimg.com/vi/fdG1FTduQ1g/hqdefault.jpg",
+                        "title": "【同時視聽】【機戰30週年】到底《機戰30》還有什麼機器人作品登場？一起看機戰鋼之超感謝祭2021！ft.緯太郎老師[HKVtuber/Uncle B.B.]",
+                        "author": "852Virtual Uncle B.B. "
+                    },
+                    {
+                        "video_code": "UwhrWHjGe58",
+                        "image": "https://i.ytimg.com/vi/UwhrWHjGe58/hqdefault.jpg",
+                        "title": "【Virtual廚房】【中秋特別篇】到底我會不會成為第一位直播中途入醫院的Vtuber...!?ft.五位美女大廚(?)[HKVtuber/Uncle B.B.]",
+                        "author": "852Virtual Uncle B.B. "
+                    },
+                    {
+                        "video_code": "KIa24ud47L8",
+                        "image": "https://i.ytimg.com/vi/KIa24ud47L8/hqdefault.jpg",
+                        "title": "【Uncle酒廊】【酒雜特別篇】圈外人對Vtuber的看法與Vtuber文化應該怎樣發展？[HKVtuber/Uncle B.B.]",
+                        "author": "852Virtual Uncle B.B. "
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "烤肉",
+                "video_list": [
+                    {
+                        "video_code": "t23qZGqLJMU",
+                        "image": "https://i.ytimg.com/vi/t23qZGqLJMU/hqdefault.jpg",
+                        "title": "【香港Vtuber精華】B叔跌落渠...【Uncle B.B.+Dolla朵拉】",
+                        "author": "香港Vtuber宣傳大使"
+                    }
+                ]
+            }
+        }
+    ]
+}

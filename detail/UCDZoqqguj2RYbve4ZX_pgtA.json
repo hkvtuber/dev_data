@@ -1,0 +1,152 @@
+{
+    "id": "UCDZoqqguj2RYbve4ZX_pgtA",
+    "header": {
+        "name": "Fuko 風子【HKVtuber】",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLS9AktxtFBHTJllSHvrRkqMc2A-vfggSZMfna6NrQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/rekZVx2wNQSO5y8nN-8BcfYYgoa8ZZEGgFUU-IZRW_coNur2BPTx9Nj-j97771TPDB3-MKdX5uM"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E5qJr8pVUAIWCQl?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E5qJr8pVUAIWCQl?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/E5qJtNfUYAMV-Nq?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E5qJtNfUYAMV-Nq?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/E5qJh5QUUAUYVFn?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E5qJh5QUUAUYVFn?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "想嘗試做Vtubers所以整咗Fuko 風子出嚟。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#Art4Fuko",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#FukoReload",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCDZoqqguj2RYbve4ZX_pgtA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Fuko_v"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "EEp9uoYcOn8",
+                        "image": "https://i.ytimg.com/vi/EEp9uoYcOn8/hqdefault.jpg",
+                        "title": "【教學】10分鐘學識成為vtuber！ | Fuko Hikari 【HKVtuber】",
+                        "author": "Fuko 風子【HKVtuber】"
+                    },
+                    {
+                        "video_code": "ekHkuL1W3D8",
+                        "image": "https://i.ytimg.com/vi/ekHkuL1W3D8/hqdefault.jpg",
+                        "title": "R18【女性向ASMR】早上的慾求◯◯（含大量嬌喘）（日／廣東話）",
+                        "author": "Fuko 風子【HKVtuber】"
+                    },
+                    {
+                        "video_code": "cdtI1cxJLKM",
+                        "image": "https://i.ytimg.com/vi/cdtI1cxJLKM/hqdefault.jpg",
+                        "title": "【女性向ASMR】舔耳嬌喘聲（廣東話）",
+                        "author": "Fuko 風子【HKVtuber】"
+                    },
+                    {
+                        "video_code": "VY_qqg56jzM",
+                        "image": "https://i.ytimg.com/vi/VY_qqg56jzM/hqdefault.jpg",
+                        "title": "R18【女性向ASMR】晚上我忍不住和你◯◯（日／廣東話）",
+                        "author": "Fuko 風子【HKVtuber】"
+                    },
+                    {
+                        "video_code": "knSgj6n_4Xg",
+                        "image": "https://i.ytimg.com/vi/knSgj6n_4Xg/hqdefault.jpg",
+                        "title": "【女性向ASMR】男友床上濕吻（日語&廣東話）",
+                        "author": "Fuko 風子【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "8mH_nuBeUPY",
+                        "image": "https://i.ytimg.com/vi/8mH_nuBeUPY/hqdefault.jpg",
+                        "title": "19.6.2021 | 21:30:00",
+                        "author": "Fuko 風子【HKVtuber】"
+                    },
+                    {
+                        "video_code": "PtLgvE96pHA",
+                        "image": "https://i.ytimg.com/vi/PtLgvE96pHA/hqdefault.jpg",
+                        "title": "【大叔的愛】手撕雞髀！！！【Fuko風子】9/7/2021",
+                        "author": "Fuko 風子【HKVtuber】"
+                    },
+                    {
+                        "video_code": "oWuP2nDZS9c",
+                        "image": "https://i.ytimg.com/vi/oWuP2nDZS9c/hqdefault.jpg",
+                        "title": "【女性向ASMR】直播台詞+傾計傾心【Fuko風子】7/7/2021",
+                        "author": "Fuko 風子【HKVtuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

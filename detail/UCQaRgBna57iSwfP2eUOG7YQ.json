@@ -1,0 +1,141 @@
+{
+    "id": "UCQaRgBna57iSwfP2eUOG7YQ",
+    "header": {
+        "name": "Rina Ch. 梨奈 - HKVTuber",
+        "image": "https://yt3.ggpht.com/nGCk4YYX6eseRk1IclMRLIB4ei4dyicPxptzoCBbG25osb1PPryq7DafMczfsUhxqUorIMEb=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/5uSc9C-wI6RlaiSRb-a6dGVYEqNW_KH4xlUzDIoyFn-DvNundTMcKliLSwu_w4PlKkICZgTt-LY"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "Hello 我是梨奈Rina～"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#梨奈Chatroom",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#梨奈Artroom",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#梨奈BBQ",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCQaRgBna57iSwfP2eUOG7YQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "RinaChannel0729"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/Rina-Ch-%E6%A2%A8%E5%A5%88-HKVTuber-103052915462592/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "-4sy0EbWCjA",
+                        "image": "https://i.ytimg.com/vi/-4sy0EbWCjA/hqdefault.jpg",
+                        "title": "【HKVTuber】Hello 大家好！梨奈です！【自我介紹】",
+                        "author": "Rina Ch. 梨奈 - HKVTuber"
+                    },
+                    {
+                        "video_code": "Dcj7zA-YvRU",
+                        "image": "https://i.ytimg.com/vi/Dcj7zA-YvRU/hqdefault.jpg",
+                        "title": "【歌ってみた/Cover】Legend of Mermaid／マーメイドぴちぴちぴっち【HKVTuber/梨奈Rina】",
+                        "author": "Rina Ch. 梨奈 - HKVTuber"
+                    },
+                    {
+                        "video_code": "gSAosF0arH0",
+                        "image": "https://i.ytimg.com/vi/gSAosF0arH0/hqdefault.jpg",
+                        "title": "【RO教學】強大的飾品！施密特徽章製作實錄 | 巨大成本*30%失敗機率【RO仙境傳說】",
+                        "author": "Rina Ch. 梨奈 - HKVTuber"
+                    },
+                    {
+                        "video_code": "eHPU0H2_b-A",
+                        "image": "https://i.ytimg.com/vi/eHPU0H2_b-A/hqdefault.jpg",
+                        "title": "【RO日常】非出新境界！開抽 2021週年慶禮盒*20！【RO仙境傳說】",
+                        "author": "Rina Ch. 梨奈 - HKVTuber"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "md6xBwGuDsM",
+                        "image": "https://i.ytimg.com/vi/md6xBwGuDsM/hqdefault.jpg",
+                        "title": "【初配信】🎉梨奈Rina生日會🎊with✨初配信❤️【歌あり/雜談あり】",
+                        "author": "Rina Ch. 梨奈 - HKVTuber"
+                    },
+                    {
+                        "video_code": "v7g78d-e0L0",
+                        "image": "https://i.ytimg.com/vi/v7g78d-e0L0/hqdefault.jpg",
+                        "title": "【歌枠】每週歌會：❤️今天是唱自己喜歡的歌的歌會！❤️【HKVTuber/梨奈Rina】",
+                        "author": "Rina Ch. 梨奈 - HKVTuber"
+                    },
+                    {
+                        "video_code": "Q4J7Apzuvvo",
+                        "image": "https://i.ytimg.com/vi/Q4J7Apzuvvo/hqdefault.jpg",
+                        "title": "【歌枠】每週歌會：❤️今天又來唱自己喜歡的歌！❤️【HKVTuber/梨奈Rina】",
+                        "author": "Rina Ch. 梨奈 - HKVTuber"
+                    },
+                    {
+                        "video_code": "xDh2GEg5WBk",
+                        "image": "https://i.ytimg.com/vi/xDh2GEg5WBk/hqdefault.jpg",
+                        "title": "【歌枠】夏🌞歌會！アニソン動漫歌縛り！✨【HKVTuber/梨奈Rina】",
+                        "author": "Rina Ch. 梨奈 - HKVTuber"
+                    }
+                ]
+            }
+        }
+    ]
+}

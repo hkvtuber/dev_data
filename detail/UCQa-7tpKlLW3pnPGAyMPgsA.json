@@ -1,0 +1,171 @@
+{
+    "id": "UCQa-7tpKlLW3pnPGAyMPgsA",
+    "header": {
+        "name": "榎川幸【香港VTuber】",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLTkvmAjWLG53C36yyK2LItBgeFWaFi8TWfpXw4A=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/xYwn8yAd4UzpyUwcxCP8frrEE-nW9kH0wzIfZwOXvy4OBvt0f2LVZQILk8QoRqyK_FUX4EUZpA"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/EhKVljOUYAEGODH?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/EhKVljOUYAEGODH?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "只是一名喜歡ACG 有點奇怪的社障宅宅\n為了訓練自己日漸退化的說話能力而當VTuber\n可以的話...能跟幸一起玩嗎...?"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#榎川幸在宅中",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#繪川幸",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#裏繪川幸",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#幸飯",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Mark",
+                        "content": "🌸🍙",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCQa-7tpKlLW3pnPGAyMPgsA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "enokawasaya"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/people/%E6%A6%8E%E5%B7%9D%E5%B9%B8%E9%A6%99%E6%B8%AFVTuber/100063706900068/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "QZbHraIyTbg",
+                        "image": "https://i.ytimg.com/vi/QZbHraIyTbg/hqdefault.jpg",
+                        "title": "【香港VTuber】榎川幸、VTuber出道～！【自己紹介】",
+                        "author": "榎川幸【香港VTuber】"
+                    },
+                    {
+                        "video_code": "htqTPlAcXOI",
+                        "image": "https://i.ytimg.com/vi/htqTPlAcXOI/hqdefault.jpg",
+                        "title": "情人節、能幫我一個忙嗎？【香港VTuber/榎川幸】",
+                        "author": "榎川幸【香港VTuber】"
+                    },
+                    {
+                        "video_code": "WZzqXyvnP4c",
+                        "image": "https://i.ytimg.com/vi/WZzqXyvnP4c/hqdefault.jpg",
+                        "title": "※建議開啟CC字幕※【謝罪會見】有關上星期休止直播一事 謝罪+說明【香港VTuber/榎川幸】",
+                        "author": "榎川幸【香港VTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "GEvRq4WUJWA",
+                        "image": "https://i.ytimg.com/vi/GEvRq4WUJWA/hqdefault.jpg",
+                        "title": "【歌枠】1000 Subs 感謝LIVE【香港VTuber/榎川幸】",
+                        "author": "榎川幸【香港VTuber】"
+                    },
+                    {
+                        "video_code": "oiZIdw_MCq8",
+                        "image": "https://i.ytimg.com/vi/oiZIdw_MCq8/hqdefault.jpg",
+                        "title": "【惡夢來襲】當作業用BGM用也可以哦☆(誤)【香港VTuber/榎川幸】",
+                        "author": "榎川幸【香港VTuber】"
+                    },
+                    {
+                        "video_code": "gseeXzKoUi0",
+                        "image": "https://i.ytimg.com/vi/gseeXzKoUi0/hqdefault.jpg",
+                        "title": "【雜談】其實只是個一起吃午餐休休閒閒的雜談直播【香港VTuber/榎川幸】",
+                        "author": "榎川幸【香港VTuber】"
+                    },
+                    {
+                        "video_code": "BTZOt6kIdJQ",
+                        "image": "https://i.ytimg.com/vi/BTZOt6kIdJQ/hqdefault.jpg",
+                        "title": "【#榎川幸半年記念新衣裝】抱歉、讓你等待了。【香港VTuber/榎川幸】",
+                        "author": "榎川幸【香港VTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "烤肉",
+                "video_list": [
+                    {
+                        "video_code": "yJ9YZcPRaPM",
+                        "image": "https://i.ytimg.com/vi/yJ9YZcPRaPM/hqdefault.jpg",
+                        "title": "【VTuber精華】趕不上看自推首播而逐漸瘋掉【香港VTuber/榎川幸】",
+                        "author": "榎川幸【香港VTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

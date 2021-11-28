@@ -1,0 +1,122 @@
+{
+    "id": "UCdsZImmQ-GekGPV5cwhlYiQ",
+    "header": {
+        "name": "Ding's Gaming Channel",
+        "image": "https://yt3.ggpht.com/E7QHhC26SV079Q7eAORYWWnqOzICN-qKmUbdRQfL5ni51bqXz0DGv1d0pTDMGTOEZ64MSngNUw=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/h7uiP-L8XJ3CoVE4gQYBYYBRVxm9MoJjAzIDi6SQR7bcxayRd6yIAjB0KeVVt_1glhdQQV-9"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E7Y-1wNVUAMJVCT?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E7Y-1wNVUAMJVCT?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "定居香港既外星人GAME台\n主要實況Switch既game"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCdsZImmQ-GekGPV5cwhlYiQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "DingGamingHK"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "vUYOPJSUxiI",
+                        "image": "https://i.ytimg.com/vi/vUYOPJSUxiI/hqdefault.jpg",
+                        "title": "地球侵略介紹",
+                        "author": "Ding's Gaming Channel"
+                    },
+                    {
+                        "video_code": "lrAKnaOuNCM",
+                        "image": "https://i.ytimg.com/vi/lrAKnaOuNCM/hqdefault.jpg",
+                        "title": "karaoke いのちの名前",
+                        "author": "Ding's Gaming Channel"
+                    },
+                    {
+                        "video_code": "uo_h_sWERv0",
+                        "image": "https://i.ytimg.com/vi/uo_h_sWERv0/hqdefault.jpg",
+                        "title": "じっくり絵心教室 - スプラトゥーン",
+                        "author": "Ding's Gaming Channel"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "AWotFvLwaR4",
+                        "image": "https://i.ytimg.com/vi/AWotFvLwaR4/hqdefault.jpg",
+                        "title": "香港外星人試玩Made in Wario",
+                        "author": "Ding's Gaming Channel"
+                    },
+                    {
+                        "video_code": "wEZnVDOgt6Y",
+                        "image": "https://i.ytimg.com/vi/wEZnVDOgt6Y/hqdefault.jpg",
+                        "title": "香港外星人卡拉OK",
+                        "author": "Ding's Gaming Channel"
+                    },
+                    {
+                        "video_code": "-EWesLqTjLw",
+                        "image": "https://i.ytimg.com/vi/-EWesLqTjLw/hqdefault.jpg",
+                        "title": "香港外星人試玩《Metroid Dread》",
+                        "author": "Ding's Gaming Channel"
+                    }
+                ]
+            }
+        }
+    ]
+}

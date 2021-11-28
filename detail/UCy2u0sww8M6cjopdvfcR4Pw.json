@@ -1,0 +1,127 @@
+{
+    "id": "UCy2u0sww8M6cjopdvfcR4Pw",
+    "header": {
+        "name": "Emerald Ch. エメラルド",
+        "image": "https://yt3.ggpht.com/YP4w99UgilW9fUDhr3R13UKhPRIk8fsShLNo7QkftCljDRw8rhv67OzMUSWKtprp07E4_nLr=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/xZYX8g5clPbM18p1OCfA2ennXIrp9X6jGcie5gvVwQnihEUutSlkQzNLGy0MCBUbuAQ3t2X0Vg"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E4mMgv8VcAESVAL?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E4mMgv8VcAESVAL?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "Emerald 可以叫我綠寶"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#尋綠寶記\r",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#綠寶鑑定",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#黃寶鑑定",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#綠帽",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#綠草寶",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCy2u0sww8M6cjopdvfcR4Pw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "emerald_ch_"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "7Rwa0GmLcm8",
+                        "image": "https://i.ytimg.com/vi/7Rwa0GmLcm8/hqdefault.jpg",
+                        "title": "【初配信】從前有一顆emerald要出道!〔Emerald / 新人vtuber〕",
+                        "author": "Emerald Ch. エメラルド"
+                    },
+                    {
+                        "video_code": "qiDHM90B4RQ",
+                        "image": "https://i.ytimg.com/vi/qiDHM90B4RQ/hqdefault.jpg",
+                        "title": "【酒雜】2.0發表+回歸!!!!!!〔emerald / 香港vtuber〕",
+                        "author": "Emerald Ch. エメラルド"
+                    },
+                    {
+                        "video_code": "5hvHbHpTOUI",
+                        "image": "https://i.ytimg.com/vi/5hvHbHpTOUI/hqdefault.jpg",
+                        "title": "【練歌】好崩潰rrrrrrrrrrrrrrrrr〔emerald / 香港vtuber〕",
+                        "author": "Emerald Ch. エメラルド"
+                    },
+                    {
+                        "video_code": "thUl_VgTbXU",
+                        "image": "https://i.ytimg.com/vi/thUl_VgTbXU/hqdefault.jpg",
+                        "title": "【練歌】練夜に駆ける!!!〔emerald / 香港vtuber〕",
+                        "author": "Emerald Ch. エメラルド"
+                    }
+                ]
+            }
+        }
+    ]
+}

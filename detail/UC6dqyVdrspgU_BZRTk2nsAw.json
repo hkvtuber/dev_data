@@ -1,0 +1,175 @@
+{
+    "id": "UC6dqyVdrspgU_BZRTk2nsAw",
+    "header": {
+        "name": "甘美KimmyJe Ch.【HKVTuber】",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLRXC9om0fUXg1fUDUVQaDElAYKBs9VFjKGfdCrx8g=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/A0ScssWS0IGMoOhLu-_lJ_3qj8jjoHfniuxF_i6bjDkp6Ui9G6CUtE8VpqytX-Fd9r3Fqb9A"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E5cGy-qVcAMPEEJ?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E5cGy-qVcAMPEEJ?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#甘來了",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#甘圖",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#甘舒服",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#樹熊奴",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#甘精彩",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC6dqyVdrspgU_BZRTk2nsAw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "kimmyjekoala"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/kimmyjettv/"
+                    },
+                    {
+                        "key": "twitch",
+                        "path": "https://www.twitch.tv/kimmyje"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "d96BDWYSYDw",
+                        "image": "https://i.ytimg.com/vi/d96BDWYSYDw/hqdefault.jpg",
+                        "title": "【自我介紹】甘美‧Kimmy姐 我係樹熊RRRR 💜[HKVtuber]",
+                        "author": "甘美KimmyJe Ch.【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "aEYFuex44jU",
+                        "image": "https://i.ytimg.com/vi/aEYFuex44jU/hqdefault.jpg",
+                        "title": "【初配信】甘美‧Kimmy到YT配信嚕~~【HKVtuber】",
+                        "author": "甘美KimmyJe Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "uMOmlKWa0sY",
+                        "image": "https://i.ytimg.com/vi/uMOmlKWa0sY/hqdefault.jpg",
+                        "title": "【Apex】甘美‧Kimmy 初次聯動獻給 虛空Voider 💜~~【HKVtuber】",
+                        "author": "甘美KimmyJe Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "aqafA3meInQ",
+                        "image": "https://i.ytimg.com/vi/aqafA3meInQ/hqdefault.jpg",
+                        "title": "🌿[直播遊戲紀錄] Little Nightmare 2 -💜 [HKVtuber]",
+                        "author": "甘美KimmyJe Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "7Rir-qImxUQ",
+                        "image": "https://i.ytimg.com/vi/7Rir-qImxUQ/hqdefault.jpg",
+                        "title": "【直播紀錄】🐨Vtuber💜MHR",
+                        "author": "甘美KimmyJe Ch.【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "烤肉",
+                "video_list": [
+                    {
+                        "video_code": "lI37hN-7m-k",
+                        "image": "https://i.ytimg.com/vi/lI37hN-7m-k/hqdefault.jpg",
+                        "title": "【精華片段】哩隻恐怖Game係我叫得最多次 💜[#HKVtuber]",
+                        "author": "甘美KimmyJe Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "ZIZDucdN17s",
+                        "image": "https://i.ytimg.com/vi/ZIZDucdN17s/hqdefault.jpg",
+                        "title": "直播精華 - 吃雞APEX",
+                        "author": "甘美KimmyJe Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "UZAfliU4XaI",
+                        "image": "https://i.ytimg.com/vi/UZAfliU4XaI/hqdefault.jpg",
+                        "title": "[直播遊戲精華] Apex 吃雞 2000Dam",
+                        "author": "甘美KimmyJe Ch.【HKVTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

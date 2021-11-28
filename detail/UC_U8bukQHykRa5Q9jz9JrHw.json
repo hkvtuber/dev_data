@@ -1,0 +1,136 @@
+{
+    "id": "UC_U8bukQHykRa5Q9jz9JrHw",
+    "header": {
+        "name": "Mari Ch. 悠夜まり【HKVtuber】",
+        "image": "https://yt3.ggpht.com/JOrKhC67sWQSd5xmI_HypUD-0T4tUK5MMe63j5RXT8j8PJ8oHIhTNPgE0_ThHwdTk6sGEIdAtg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/IkllWtrcoOpozwNeM-gzGhdaTOpVXsCmM_513GyKEqIodbAKe4RbRk9foxTLoaAA3kvdh1qn"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E3Ce-GJVUAEnKiM?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E3Ce-GJVUAEnKiM?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "💜讓Mari成為大家的墮天使吧🖤"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#Mari配信",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#YuuyaMRArt",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#麻芽餅",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#大麻理迷因 ",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC_U8bukQHykRa5Q9jz9JrHw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "yuuyamari"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "78RJzxte6eU",
+                        "image": "https://i.ytimg.com/vi/78RJzxte6eU/hqdefault.jpg",
+                        "title": "【自我介紹】來自異世界的混血兒【HKVtuber/悠夜麻理】",
+                        "author": "Mari Ch. 悠夜まり【HKVtuber】"
+                    },
+                    {
+                        "video_code": "2C73yJR5dRs",
+                        "image": "https://i.ytimg.com/vi/2C73yJR5dRs/hqdefault.jpg",
+                        "title": "【Cover】百鬼祭/悠夜まり【HKVtuber】",
+                        "author": "Mari Ch. 悠夜まり【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "_PHu-QHPw94",
+                        "image": "https://i.ytimg.com/vi/_PHu-QHPw94/hqdefault.jpg",
+                        "title": "【記招會】Kira V聯動記招會+ 二選一答題♥︎(feat.神秘嘉賓)【HKVtuber/悠夜麻理】",
+                        "author": "Mari Ch. 悠夜まり【HKVtuber】"
+                    },
+                    {
+                        "video_code": "uf4-mS44dy0",
+                        "image": "https://i.ytimg.com/vi/uf4-mS44dy0/hqdefault.jpg",
+                        "title": "【初次配信】讓Mari成為大家的墮天使♥︎【HKVtuber/悠夜麻理】",
+                        "author": "Mari Ch. 悠夜まり【HKVtuber】"
+                    },
+                    {
+                        "video_code": "Jp-ggngqRnY",
+                        "image": "https://i.ytimg.com/vi/Jp-ggngqRnY/hqdefault.jpg",
+                        "title": "【歌回】Mari今次要來認真歌回♥︎【HKVtuber/悠夜麻理】",
+                        "author": "Mari Ch. 悠夜まり【HKVtuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

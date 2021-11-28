@@ -1,0 +1,94 @@
+{
+    "id": "UCQjDThWF4f6F5EWJ2vNUT2w",
+    "header": {
+        "name": "鈴萌兎琉HKVtuber-準備中",
+        "image": "https://yt3.ggpht.com/WbgLWquhvpGVOHQ64xvGutwjJp7BmyYXxCSio36nnLx0bWRnWO6smEu1U-XMPxWNPv3ZxqMm6Q=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/CSoyeQ2BK8hjwtFdM24hgtWWFVjXp7TNcT2G9JqrSWApC53gpDCt8f-6UJVKsqYEb801tgeIqA"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FEaSMBDaIAA5VAX?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FEaSMBDaIAA5VAX?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "準備中~"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\r\n普通話\r",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#supertorulive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#牆上的兎琉",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#放慢時刻",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#精神兎琉",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCQjDThWF4f6F5EWJ2vNUT2w"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Doll_Toru"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://instagram.com/rimotoru/"
+                    }
+                ]
+            }
+        }
+    ]
+}

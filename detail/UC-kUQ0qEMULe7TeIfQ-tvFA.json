@@ -1,0 +1,169 @@
+{
+    "id": "UC-kUQ0qEMULe7TeIfQ-tvFA",
+    "header": {
+        "name": "浅羽和紗 Kazusa Ch.",
+        "image": "https://yt3.ggpht.com/7NUl2-8_p-0JIDPBgu8spe_TFr4EPaCMSDZgExeSqFBiUxya0rp5az7_FyX6AwQ9LbN2-27-92E=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/UevKF0Eeqat9vGo1ae2ZnXy6kgAooyAkE5G7Bkbj8ST7MPLy-b6Y14T-hhEUcVVMv6eNVIvKLw"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E5SznEiVcAQZlM8?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E5SznEiVcAQZlM8?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "你好！我是淺羽和紗～以後還請多多指教！(*´∇｀*)"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#和紗魔法學習日誌",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#和紗魔法教室",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#和紗魔法日記",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(不可用)",
+                        "content": "#和紗禁忌魔法書庫",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#魔法學徒",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#和紗魔法學習日誌",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#和紗魔法學習日誌",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC-kUQ0qEMULe7TeIfQ-tvFA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Asaba_Kazusa"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "BgmEBHv6sSI",
+                        "image": "https://i.ytimg.com/vi/BgmEBHv6sSI/hqdefault.jpg",
+                        "title": "【廣東話自我介紹】治癒系見習魔法師登場！【香港新人Vtuber/浅羽和紗】",
+                        "author": "浅羽和紗 Kazusa Ch."
+                    },
+                    {
+                        "video_code": "wCiKPHrHcM0",
+                        "image": "https://i.ytimg.com/vi/wCiKPHrHcM0/hqdefault.jpg",
+                        "title": "【Vtuber一問一答自己紹介】癒し系見習い魔法使い登場！【香港新人Vtuber/浅羽和紗】",
+                        "author": "浅羽和紗 Kazusa Ch."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "jBd5jbjWFsE",
+                        "image": "https://i.ytimg.com/vi/jBd5jbjWFsE/hqdefault.jpg",
+                        "title": "【初配信】和紗的第一堂魔法教室！【HKVtuber/浅羽和紗】",
+                        "author": "浅羽和紗 Kazusa Ch."
+                    },
+                    {
+                        "video_code": "gupaKFnKYVg",
+                        "image": "https://i.ytimg.com/vi/gupaKFnKYVg/hqdefault.jpg",
+                        "title": "【100VtuberQuestions】心結現場？邊雜談邊做Vtuber100問～ 【HKVtuber/浅羽和紗】",
+                        "author": "浅羽和紗 Kazusa Ch."
+                    },
+                    {
+                        "video_code": "q8prD5tbQ7Q",
+                        "image": "https://i.ytimg.com/vi/q8prD5tbQ7Q/hqdefault.jpg",
+                        "title": "【跑Online觀眾場】重拾童年…？久違地去跑步！【HKVtuber/浅羽和紗】",
+                        "author": "浅羽和紗 Kazusa Ch."
+                    },
+                    {
+                        "video_code": "4x4DUe_9FwM",
+                        "image": "https://i.ytimg.com/vi/4x4DUe_9FwM/hqdefault.jpg",
+                        "title": "【雜談】你有去過華麗/乾淨/奇特/伏的香港廁所嗎？ft.猫宮あゆめ【HKVtuber/浅羽和紗】",
+                        "author": "浅羽和紗 Kazusa Ch."
+                    },
+                    {
+                        "video_code": "tWgWdYdT3FM",
+                        "image": "https://i.ytimg.com/vi/tWgWdYdT3FM/hqdefault.jpg",
+                        "title": "【初歌回/歌枠/Singing】出道一個月紀念歌回！【HKVtuber/浅羽和紗】",
+                        "author": "浅羽和紗 Kazusa Ch."
+                    },
+                    {
+                        "video_code": "Z_nLsds1iuc",
+                        "image": "https://i.ytimg.com/vi/Z_nLsds1iuc/hqdefault.jpg",
+                        "title": "【雜談】推坑！和大家介紹本人DD的2.5次元企劃【HKVtuber/浅羽和紗】",
+                        "author": "浅羽和紗 Kazusa Ch."
+                    }
+                ]
+            }
+        }
+    ]
+}

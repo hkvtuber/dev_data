@@ -1,0 +1,160 @@
+{
+    "id": "UC70SnzS9Zb_gEXP2WCx34eg",
+    "header": {
+        "name": "淡水魚【香港VTuber】",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLSRwyC2Ldw87gv1KhN4fJmoKnKs1Muu4KfT0O3clw=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/EWj8WoIzTpEAFqI6fBHMSvUw-IVAmfuc-BdycpqOQd35RKsvm68evT_eu6bc6KHSR4Dj3ETaAw"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/EopR3K_UcAMg65G?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/EopR3K_UcAMg65G?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "為了見有一面之緣的王子殿下而跟湖底女巫交易，交易失敗後不得不來到岸上的過氣人魚公主。\n喜歡唱歌卻不會唱歌，希望能成為大家心中最可愛的人魚公主。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#淡水湖派對",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#淡水湖音樂會",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#淡水魚寶藏",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#魚毛仔\n#魚M仔",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC70SnzS9Zb_gEXP2WCx34eg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "__tansuigyo"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "sDVEcuRIeyI",
+                        "image": "https://i.ytimg.com/vi/sDVEcuRIeyI/hqdefault.jpg",
+                        "title": "【重大公告】不做翻唱歌手了。【引退】",
+                        "author": "淡水魚【香港VTuber】"
+                    },
+                    {
+                        "video_code": "IGG6-3Ly8WE",
+                        "image": "https://i.ytimg.com/vi/IGG6-3Ly8WE/hqdefault.jpg",
+                        "title": "【香港VTuber】回歸！終於以V身份出道了！【自我介紹】",
+                        "author": "淡水魚【香港VTuber】"
+                    },
+                    {
+                        "video_code": "YGtJk0dimHc",
+                        "image": "https://i.ytimg.com/vi/YGtJk0dimHc/hqdefault.jpg",
+                        "title": "淡水魚＊「夜明けと蛍」粵語翻唱",
+                        "author": "淡水魚【香港VTuber】"
+                    },
+                    {
+                        "video_code": "c7ElslEwhuY",
+                        "image": "https://i.ytimg.com/vi/c7ElslEwhuY/hqdefault.jpg",
+                        "title": "淡水魚＊「私、アイドル宣言」粵語翻唱",
+                        "author": "淡水魚【香港VTuber】"
+                    },
+                    {
+                        "video_code": "xnPp-bV_Pgk",
+                        "image": "https://i.ytimg.com/vi/xnPp-bV_Pgk/hqdefault.jpg",
+                        "title": "淡水魚＊「アサガオの散る頃に」粵語翻唱",
+                        "author": "淡水魚【香港VTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "-eh9LaR-ihI",
+                        "image": "https://i.ytimg.com/vi/-eh9LaR-ihI/hqdefault.jpg",
+                        "title": "【新衣裝發佈會】人魚公主的新衣裝！來到陸地後最想穿的衣服🥺✨【HKVTuber / 淡水魚】",
+                        "author": "淡水魚【香港VTuber】"
+                    },
+                    {
+                        "video_code": "afOZx_Q6htY",
+                        "image": "https://i.ytimg.com/vi/afOZx_Q6htY/hqdefault.jpg",
+                        "title": "【初配信】人魚公主（過去式）的自我介紹！【香港VTuber】",
+                        "author": "淡水魚【香港VTuber】"
+                    },
+                    {
+                        "video_code": "GTJmNYPM8Rc",
+                        "image": "https://i.ytimg.com/vi/GTJmNYPM8Rc/hqdefault.jpg",
+                        "title": "【回歸歌枠】好久不見！【HKVTuber】",
+                        "author": "淡水魚【香港VTuber】"
+                    },
+                    {
+                        "video_code": "41UlI66jQSk",
+                        "image": "https://i.ytimg.com/vi/41UlI66jQSk/hqdefault.jpg",
+                        "title": "【歌枠】初配信後的音樂會【HKVTuber】",
+                        "author": "淡水魚【香港VTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

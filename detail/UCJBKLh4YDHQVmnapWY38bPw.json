@@ -1,0 +1,177 @@
+{
+    "id": "UCJBKLh4YDHQVmnapWY38bPw",
+    "header": {
+        "name": "8rice [HK VTuber]",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLQuEzkAic4tjFthbbWAC1XA4p7hgiRzbyE-c07b=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/fx1bUlWePYs1wam_31wg7rUhn7m8Q6dRnMaykvBlpy6vx7vahuKHlJCY2rw3vzg2DY-90N9F"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/Esy9iOYUYAIJyLI?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Esy9iOYUYAIJyLI?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "大家好！我是8rice\n鼻敏感超煩人(╬ﾟдﾟ) \n明明是可愛的龍龍為什麼要流鼻涕！\n目標是征服全世界！"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#8rice出沒中",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#8rice傷害耳朵",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#8riceArt",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCJBKLh4YDHQVmnapWY38bPw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "8rice_"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/8bowlsofrice"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://instagram.com/8rice_?igshid=1dm4i1jrbm1wx"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "5MhXkKaS-TE",
+                        "image": "https://i.ytimg.com/vi/5MhXkKaS-TE/hqdefault.jpg",
+                        "title": "[GGJ2021]  迷圖 Lost in Ancient",
+                        "author": "8rice [HK VTuber]"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "6TLezfqa0Js",
+                        "image": "https://i.ytimg.com/vi/6TLezfqa0Js/hqdefault.jpg",
+                        "title": "[初配信] 自我介紹!?",
+                        "author": "8rice [HK VTuber]"
+                    },
+                    {
+                        "video_code": "wm_QZHL-AVI",
+                        "image": "https://i.ytimg.com/vi/wm_QZHL-AVI/hqdefault.jpg",
+                        "title": "Happy Birthday to me Take2",
+                        "author": "8rice [HK VTuber]"
+                    },
+                    {
+                        "video_code": "N7R8ha1j3Ew",
+                        "image": "https://i.ytimg.com/vi/N7R8ha1j3Ew/hqdefault.jpg",
+                        "title": "[畫畫台] R15 rice EP2",
+                        "author": "8rice [HK VTuber]"
+                    },
+                    {
+                        "video_code": "p6vh2vlMnIw",
+                        "image": "https://i.ytimg.com/vi/p6vh2vlMnIw/hqdefault.jpg",
+                        "title": "心情不好來陪我吧！",
+                        "author": "8rice [HK VTuber]"
+                    },
+                    {
+                        "video_code": "uIKvFmm0-sk",
+                        "image": "https://i.ytimg.com/vi/uIKvFmm0-sk/hqdefault.jpg",
+                        "title": "[500 sub EP1] NEW! MIC! TEST!",
+                        "author": "8rice [HK VTuber]"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "烤肉",
+                "video_list": [
+                    {
+                        "video_code": "naRVUD_1vdM",
+                        "image": "https://i.ytimg.com/vi/naRVUD_1vdM/hqdefault.jpg",
+                        "title": "[APEX精華] 玻璃英雄?",
+                        "author": "8rice [HK VTuber]"
+                    },
+                    {
+                        "video_code": "sRpVdNcFkw8",
+                        "image": "https://i.ytimg.com/vi/sRpVdNcFkw8/hqdefault.jpg",
+                        "title": "[練歌成果??] 怪物 /YOASOBI",
+                        "author": "8rice [HK VTuber]"
+                    },
+                    {
+                        "video_code": "na5RtePbx6E",
+                        "image": "https://i.ytimg.com/vi/na5RtePbx6E/hqdefault.jpg",
+                        "title": "[練歌成果] なだめスかし Negotiation",
+                        "author": "8rice [HK VTuber]"
+                    },
+                    {
+                        "video_code": "WhIGSeWDu9U",
+                        "image": "https://i.ytimg.com/vi/WhIGSeWDu9U/hqdefault.jpg",
+                        "title": "[觀眾剪輯] 妹控福利",
+                        "author": "8rice [HK VTuber]"
+                    }
+                ]
+            }
+        }
+    ]
+}

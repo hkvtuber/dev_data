@@ -1,0 +1,124 @@
+{
+    "id": "UCSch3q7TLdUBfeeI9srbp-g",
+    "header": {
+        "name": "ホタル",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLR1TUlddBImHWHzlwyo1qKSun-xZEhbbzAgQZM0SA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/JiiP0i_cGoVRfsSUgDc2lwWjcVoRMkDKTnbjla01r9xeV_n2qx7BHyf1iu0Edc21SY5rh_sVwAw"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "香港からです、日本語独学です。\n言語ジャンル関係なく、自分の好きな曲を\n皆さまにシェアハッピーできたら嬉しいです。\n自分なりに楽しみずつも精一杯がんばります。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCSch3q7TLdUBfeeI9srbp-g"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "nekofancier"
+                    },
+                    {
+                        "key": "niconico",
+                        "path": "https://sp.nicovideo.jp/user/93667751/video"
+                    },
+                    {
+                        "key": "twitcast",
+                        "path": "https://twitcasting.tv/nekofancier"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "tkCfo0Bp6Ic",
+                        "image": "https://i.ytimg.com/vi/tkCfo0Bp6Ic/hqdefault.jpg",
+                        "title": "Circle of Karma / FUZI x MAAS・歌ってみた【ホタル】",
+                        "author": "ホタル"
+                    },
+                    {
+                        "video_code": "3g379shKulA",
+                        "image": "https://i.ytimg.com/vi/3g379shKulA/hqdefault.jpg",
+                        "title": "Mela！ / 緑黄色社会・歌ってみた【ホタル】",
+                        "author": "ホタル"
+                    },
+                    {
+                        "video_code": "f2TTBqZ2tOw",
+                        "image": "https://i.ytimg.com/vi/f2TTBqZ2tOw/hqdefault.jpg",
+                        "title": "君という神話 / やなぎなぎ x 麻枝准・歌ってみた【ホタル】",
+                        "author": "ホタル"
+                    },
+                    {
+                        "video_code": "sjGmaS-EF3M",
+                        "image": "https://i.ytimg.com/vi/sjGmaS-EF3M/hqdefault.jpg",
+                        "title": "Together / あきよしふみえ・歌ってみた【ホタル】",
+                        "author": "ホタル"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "DDbaU0fUlM0",
+                        "image": "https://i.ytimg.com/vi/DDbaU0fUlM0/hqdefault.jpg",
+                        "title": "ちょっとしたお知らせ・I’ve got a live2D model!!",
+                        "author": "ホタル"
+                    },
+                    {
+                        "video_code": "y98sRo0hUfY",
+                        "image": "https://i.ytimg.com/vi/y98sRo0hUfY/hqdefault.jpg",
+                        "title": "配信暫く休む前にもうちょい歌いたい・",
+                        "author": "ホタル"
+                    },
+                    {
+                        "video_code": "X_Z3r470J3E",
+                        "image": "https://i.ytimg.com/vi/X_Z3r470J3E/hqdefault.jpg",
+                        "title": "【全END回収◎】マッチングアプリで出会い厨してみた - 短編ノベルゲーム",
+                        "author": "ホタル"
+                    }
+                ]
+            }
+        }
+    ]
+}

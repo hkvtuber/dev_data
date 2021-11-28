@@ -1,0 +1,162 @@
+{
+    "id": "UC31OJY7vky0J0QWT_DTlFDw",
+    "header": {
+        "name": "冰咲ユキセ / Yukise.Ch. 【HK Vtuber】",
+        "image": "https://yt3.ggpht.com/FQN4jJ0FUzmOSp1HrvMtdRFjNbwGrd3JplCTgQFowSsx_u0xCX6s7JjCuXNolFBiPCz_Qa2VS1k=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/VqskeOsqPbSlBk9I4S7fdUnuGjDmcM9cWcile3S8Zgl-EI7xG7LZ1LtT8i03DZchJH4hNuwe1Xk"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "🌨❄️冰之都偶像ー冰咲ユキセ！✨☃️"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "8月26日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#雪丸週記",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#冰雕設計",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#禁忌冰窖收藏物",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#冰粒",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#迷夢冰因",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Mark",
+                        "content": "❄️🧊☃️",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC31OJY7vky0J0QWT_DTlFDw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Yukise_0826"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://instagram.com/yuki.se_00/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "4aWcWI1vGBQ",
+                        "image": "https://i.ytimg.com/vi/4aWcWI1vGBQ/hqdefault.jpg",
+                        "title": "[ #冰織碎片 | 背景故事 ] 冰粒聽我講…其實…我…係…［ HK vtuber/Yukise ]",
+                        "author": "冰咲ユキセ / Yukise.Ch. 【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "9QH3kN71F7k",
+                        "image": "https://i.ytimg.com/vi/9QH3kN71F7k/hqdefault.jpg",
+                        "title": "[ 港V/自我介紹 ] 香港vtuber 小薯偶像--- 冰咲ユキセ 登場!! [ HKvtuber/Yukise ]",
+                        "author": "冰咲ユキセ / Yukise.Ch. 【HK Vtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "TV31YWUSWi4",
+                        "image": "https://i.ytimg.com/vi/TV31YWUSWi4/hqdefault.jpg",
+                        "title": "[ 生日正日 | 一週年紀念配信 ] 原來咁快…就已經1年啦…之後都要多多指教呀！ [ HK vtuber/Yukise ]",
+                        "author": "冰咲ユキセ / Yukise.Ch. 【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "2hmsKGZukbs",
+                        "image": "https://i.ytimg.com/vi/2hmsKGZukbs/hqdefault.jpg",
+                        "title": "[ 初配信 x 雜談 ] 大家一齊了解下我啦！^.^ [ HKvtuber/Yukise ]",
+                        "author": "冰咲ユキセ / Yukise.Ch. 【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "2FaBKwkPdw8",
+                        "image": "https://i.ytimg.com/vi/2FaBKwkPdw8/hqdefault.jpg",
+                        "title": "破冰雜玩｜聖誕 萌萌殭屍 遇上戰機同偶像...［ゲスト：零戰 、 粟米 、 肉粒］ [ HKvtuber/Yukise ]",
+                        "author": "冰咲ユキセ / Yukise.Ch. 【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "LiWOlAI0Etg",
+                        "image": "https://i.ytimg.com/vi/LiWOlAI0Etg/hqdefault.jpg",
+                        "title": "[ 凸待ちあり | 生日配信 ] 提早要大家陪我生日倒數！ [ HK vtuber/Yukise ]",
+                        "author": "冰咲ユキセ / Yukise.Ch. 【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "2HUEIRLgD7I",
+                        "image": "https://i.ytimg.com/vi/2HUEIRLgD7I/hqdefault.jpg",
+                        "title": "[ 歌枠 | 燃冰歌夜祭 #11 ] 聽完被剪出嚟嘅唱歌精華之後…表示…我要一雪前恥（？） [ HK vtuber/Yukise ]",
+                        "author": "冰咲ユキセ / Yukise.Ch. 【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "cql6r-DjPlA",
+                        "image": "https://i.ytimg.com/vi/cql6r-DjPlA/hqdefault.jpg",
+                        "title": "[ 歌枠｜燃冰歌夜祭 #1 ] 終於唱歌啦～比冰粒見識下我歌聲啦(¯︶¯) [ HKvtuber/Yukise ]",
+                        "author": "冰咲ユキセ / Yukise.Ch. 【HK Vtuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

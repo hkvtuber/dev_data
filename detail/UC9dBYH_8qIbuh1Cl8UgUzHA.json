@@ -1,0 +1,123 @@
+{
+    "id": "UC9dBYH_8qIbuh1Cl8UgUzHA",
+    "header": {
+        "name": "吉祥物マスコット【hkvtuber準備中】",
+        "image": "https://yt3.ggpht.com/x4k3dA_VLNBU_UFCnfh_hcIr3N7NzEFt6w6UIzEBfVCE3k1uaS75Ffi8pXUgaYFwlqVaY6FPclI=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/5zmq8BhmlIs5fTbxpLdh6wqJPSh_jptl_Pe3LnaKpYfhv4APhdNU1HhsGznLwRNIKkPI--FCfQ"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E81srhdUYAIuDMq?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E81srhdUYAIuDMq?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "初次見面 Masuko Masuko"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#Masukolive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#tomasuko",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "時間表Tag",
+                        "content": "#Masukotimetable ",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC9dBYH_8qIbuh1Cl8UgUzHA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Masukotto_vt"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/masukotto_hkvtuber"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "EQg_CBITFIM",
+                        "image": "https://i.ytimg.com/vi/EQg_CBITFIM/hqdefault.jpg",
+                        "title": "【自我介紹】Masukotto  vtuber【hkvtuber/香港vtuber】",
+                        "author": "吉祥物マスコット【hkvtuber】"
+                    },
+                    {
+                        "video_code": "PPrmFX_EIOY",
+                        "image": "https://i.ytimg.com/vi/PPrmFX_EIOY/hqdefault.jpg",
+                        "title": "Masukotto vtuber[#live2Dshowcase]",
+                        "author": "吉祥物マスコット【hkvtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "E8DbrAUqawg",
+                        "image": "https://i.ytimg.com/vi/E8DbrAUqawg/hqdefault.jpg",
+                        "title": "[初配信]masukotto正式出道masuko[hkvtuber]",
+                        "author": "吉祥物マスコット【hkvtuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

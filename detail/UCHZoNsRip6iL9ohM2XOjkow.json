@@ -1,0 +1,132 @@
+{
+    "id": "UCHZoNsRip6iL9ohM2XOjkow",
+    "header": {
+        "name": "Kinoko暁きのこ",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLRpNtmjujUm5bM2Lq_zziI8NVU-lXDmF5_yxhQO-dc=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCHZoNsRip6iL9ohM2XOjkow"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "akatsukikinoko"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/gaming/akatsukikinoko/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "eV56ODo5kiw",
+                        "image": "https://i.ytimg.com/vi/eV56ODo5kiw/hqdefault.jpg",
+                        "title": "自己紹介出来だじゃぞ！「暁きのこ Akatsuki Kinoko/個人勢Vtuber」",
+                        "author": "Kinoko暁きのこ"
+                    },
+                    {
+                        "video_code": "yjlhD3fsCqE",
+                        "image": "https://i.ytimg.com/vi/yjlhD3fsCqE/hqdefault.jpg",
+                        "title": "仮面ライダー龍騎ーAlive A Life／Covered by暁きのこ【歌ってみた】",
+                        "author": "Kinoko暁きのこ"
+                    },
+                    {
+                        "video_code": "tAhSizYdmBo",
+                        "image": "https://i.ytimg.com/vi/tAhSizYdmBo/hqdefault.jpg",
+                        "title": "FINAL FANTASY XIVーDRAGONSONG／Covered by暁きのこ【歌ってみた】",
+                        "author": "Kinoko暁きのこ"
+                    },
+                    {
+                        "video_code": "nOhkZo2ae7A",
+                        "image": "https://i.ytimg.com/vi/nOhkZo2ae7A/hqdefault.jpg",
+                        "title": "KING／Covered by暁きのこ【歌ってみた】",
+                        "author": "Kinoko暁きのこ"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "c6sM6SYTQAE",
+                        "image": "https://i.ytimg.com/vi/c6sM6SYTQAE/hqdefault.jpg",
+                        "title": "【初配信】暁きのこ Akatsuki Kinoko",
+                        "author": "Kinoko暁きのこ"
+                    },
+                    {
+                        "video_code": "jvo_DMPVYGg",
+                        "image": "https://i.ytimg.com/vi/jvo_DMPVYGg/hqdefault.jpg",
+                        "title": "【新衣装！ & Apex #52】新衣装発表＆マシュマロ雑談／22:30くらい~ 火曜定期APEX参加型！「暁きのこ Akatsuki Kinoko」",
+                        "author": "Kinoko暁きのこ"
+                    },
+                    {
+                        "video_code": "1IKO377xg24",
+                        "image": "https://i.ytimg.com/vi/1IKO377xg24/hqdefault.jpg",
+                        "title": "【FF14 #09】漆黒のヴィランズー5.3「暁きのこ Akatsuki Kinoko」",
+                        "author": "Kinoko暁きのこ"
+                    },
+                    {
+                        "video_code": "EwVwgR80ZUQ",
+                        "image": "https://i.ytimg.com/vi/EwVwgR80ZUQ/hqdefault.jpg",
+                        "title": "【歌枠Singing #6】3600人いくまで歌うぞ！！！応援＆登録よろしくな！「暁きのこ Akatsuki Kinoko/個人Vtuber」",
+                        "author": "Kinoko暁きのこ"
+                    },
+                    {
+                        "video_code": "6InlXnuR4lE",
+                        "image": "https://i.ytimg.com/vi/6InlXnuR4lE/hqdefault.jpg",
+                        "title": "【Apex #27】＊中国語＆広東語ONLY＊APEX参加型✨「暁きのこ Akatsuki Kinoko」",
+                        "author": "Kinoko暁きのこ"
+                    }
+                ]
+            }
+        }
+    ]
+}

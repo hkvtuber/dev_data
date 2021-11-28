@@ -1,0 +1,58 @@
+{
+    "id": "UCfbBcakpypGywE0EtMXpGdw",
+    "header": {
+        "name": "嘉寶@香港Vtuber準備中",
+        "image": "https://yt3.ggpht.com/KOBcE9lCgRWo6nVhh6JrXbEHSZUkNH5i3sFguinYFbR_KS0ZJytfXMm32ANIHKDY5XirWKH-mg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCfbBcakpypGywE0EtMXpGdw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "carbohkv"
+                    }
+                ]
+            }
+        }
+    ]
+}

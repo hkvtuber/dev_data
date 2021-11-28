@@ -1,0 +1,93 @@
+{
+    "id": "UCYwIou8tS4N10gODwWcxVvA",
+    "header": {
+        "name": "Hana Ch.葉奈ちゃん",
+        "image": "https://yt3.ggpht.com/SiIh74TQz5kTlGZ8Lm455pNUEBOlNCePPzBuQdjJi-TdY-g0s-fR8HxKO87gPcDVQAeKmxscAg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/xT6ANXUm1G465Q0g9C_lo1P0kQOdxoEgTmbcyOEGkylEEKXGImo_4KWuZCWSEKyeCNjYLp8-YQ"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E8p_imKVEAE1cNB?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E8p_imKVEAE1cNB?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/E8p_iiRVkAE_cqF?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E8p_iiRVkAE_cqF?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "大家好，我是葉奈ちゃん～是香港的Vtuber ,請多多指教(*≧∀≦*)\n本頻道主要擺放日文歌曲翻唱，小量遊戲活動等～\n以及一些畫畫影片～"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#賞花時間",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#HanaChanArt",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#太陽",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCYwIou8tS4N10gODwWcxVvA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "HanaChan_0725"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/han_misic_ada"
+                    }
+                ]
+            }
+        }
+    ]
+}

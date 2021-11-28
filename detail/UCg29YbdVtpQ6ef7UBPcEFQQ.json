@@ -1,0 +1,135 @@
+{
+    "id": "UCg29YbdVtpQ6ef7UBPcEFQQ",
+    "header": {
+        "name": "Shouta Channel (叶翔太)",
+        "image": "https://yt3.ggpht.com/BWWn5xi1Qg_cTOtGAwn6E9BKqkmdJVisSFlQ_H9VC9ud8yZbHAthTbLwF3psnr76kygJyYOtDg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/p0aUyHCV3Mz81sPGNZq6fM1-ZzZJ31vAUDkY_Y8INx0SkQj170Gtb23f5XJHDopC9-WlyiYE_A"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "叶翔太"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#shouart",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCg29YbdVtpQ6ef7UBPcEFQQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "shoutakanou"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "4NisjvgTm5Q",
+                        "image": "https://i.ytimg.com/vi/4NisjvgTm5Q/hqdefault.jpg",
+                        "title": "初次見面，自我介紹！ #vtuber #HK #worldofwarship",
+                        "author": "Shouta Channel (叶翔太)"
+                    },
+                    {
+                        "video_code": "3eyC56ng82g",
+                        "image": "https://i.ytimg.com/vi/3eyC56ng82g/hqdefault.jpg",
+                        "title": "{香港VTuber}[精華]出道不久就要轉型！？呢位女仔快啲走呀！",
+                        "author": "Shouta Channel (叶翔太)"
+                    },
+                    {
+                        "video_code": "3H1As5-YndI",
+                        "image": "https://i.ytimg.com/vi/3H1As5-YndI/hqdefault.jpg",
+                        "title": "叶翔太．REBORN",
+                        "author": "Shouta Channel (叶翔太)"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "cxWAbfDWFJA",
+                        "image": "https://i.ytimg.com/vi/cxWAbfDWFJA/hqdefault.jpg",
+                        "title": "【香港VTuber】　叶翔太　｜　可能係香港第一間線上牛郎店正式開張",
+                        "author": "Shouta Channel (叶翔太)"
+                    },
+                    {
+                        "video_code": "FOTvI6Suigg",
+                        "image": "https://i.ytimg.com/vi/FOTvI6Suigg/hqdefault.jpg",
+                        "title": "[香港VTuber](雜談)垃圾掉進垃圾桶，負面情感掉這裏",
+                        "author": "Shouta Channel (叶翔太)"
+                    },
+                    {
+                        "video_code": "qOwlVtIB8ic",
+                        "image": "https://i.ytimg.com/vi/qOwlVtIB8ic/hqdefault.jpg",
+                        "title": "【香港VTuber】　叶翔太　｜　書檯上的東西 『morning cafe』",
+                        "author": "Shouta Channel (叶翔太)"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "烤肉",
+                "video_list": [
+                    {
+                        "video_code": "JsUf85eE2F0",
+                        "image": "https://i.ytimg.com/vi/JsUf85eE2F0/hqdefault.jpg",
+                        "title": "{香港VTuber}[精華]新鮮掛爐鴨現貨發售！(葵鼠たろう、光子 Photon、叶翔太)(Dead by daylight)",
+                        "author": "Shouta Channel (叶翔太)"
+                    },
+                    {
+                        "video_code": "W049NgBT_6o",
+                        "image": "https://i.ytimg.com/vi/W049NgBT_6o/hqdefault.jpg",
+                        "title": "{香港VTuber}[精華]賣友求榮有首勝！點解個天唔畀我做好人？(with 光子 Photon 葵鼠たろう)",
+                        "author": "Shouta Channel (叶翔太)"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "id": "UC1aT4jORPj8qMzdVhdMWFhA",
+    "header": {
+        "name": "星音Estrella",
+        "image": "https://yt3.ggpht.com/rZmevOlCcwEDiIG8wQtkEz04J5gskbucBtI6tLzd6RUaopK44QTb_VpRSeBkVGIHk9rB0qvB=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/gmdWxdbPB1Ckm8wgqoE6fxjIZfKaB13HZ8Q1gFyGk0p7CvuGQJ35c-Rz344gErdBwINLRxe4oKM"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "來自月亮的月兔，孤獨、迷惘，最後為了逃避而逃跑至地球。\n在吃下特製的月餅後化身人類形態，然而留下了兔耳和兔仔牙。\n\n星音，如天際的其中一顆星，Estrella在西班牙語中代表明星、命運。\n將兩者合併，擅自理解為：聲音像黑夜中一顆明亮星，照耀未來的道路，點亮你的心情。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC1aT4jORPj8qMzdVhdMWFhA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "estrellavoice"
+                    }
+                ]
+            }
+        }
+    ]
+}

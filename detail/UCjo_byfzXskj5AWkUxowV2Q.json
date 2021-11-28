@@ -1,0 +1,90 @@
+{
+    "id": "UCjo_byfzXskj5AWkUxowV2Q",
+    "header": {
+        "name": "獵人公會",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLT7Ir_DnBJyx1EZ-9AuHjxY_SVqeLG1AM0qgwHz=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/WrWbOaeNmtTpMPwyYR4yO4hIPPR3txC9Uggy_sadfB4Q2fjyqqWpCEkg8M9cUA9qUAmXp6wEFw"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCjo_byfzXskj5AWkUxowV2Q"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "hkvhunterguild"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "lfh1zZjJihA",
+                        "image": "https://i.ytimg.com/vi/lfh1zZjJihA/hqdefault.jpg",
+                        "title": "【獵人公會第一屆香港VTuber三麻盃】4/24 準決賽West組/米亞 沈醒 紡霊拉比",
+                        "author": "獵人公會"
+                    },
+                    {
+                        "video_code": "nA6lIitVRvo",
+                        "image": "https://i.ytimg.com/vi/nA6lIitVRvo/hqdefault.jpg",
+                        "title": "【獵人公會第一屆香港VTuber三麻盃】5/8 決賽/米亞 水澄のぞみ 猫村彌音",
+                        "author": "獵人公會"
+                    },
+                    {
+                        "video_code": "rXthAiShZU4",
+                        "image": "https://i.ytimg.com/vi/rXthAiShZU4/hqdefault.jpg",
+                        "title": "【獵人公會第一屆香港VTuber四麻盃】8/14 淘汰賽 第八組/Yona Moana 菊理しおり 鵑鳴曉春 紡霊拉比",
+                        "author": "獵人公會"
+                    },
+                    {
+                        "video_code": "AEQO1J4vIaY",
+                        "image": "https://i.ytimg.com/vi/AEQO1J4vIaY/hqdefault.jpg",
+                        "title": "【獵人公會第一屆香港VTuber四麻盃】8/13 淘汰賽 第二組&第六組/8rice Dumbo子 狛井葵 水琴五月 川森千秋 望月ルーナ",
+                        "author": "獵人公會"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "id": "UCx0Yy7_fAzkPUjCoLgDTc2w",
+    "header": {
+        "name": "如月兎苺 Kisaragi Ui Ch.",
+        "image": "https://yt3.ggpht.com/KMVE9bcVtm1DNAfTC1gWlhgeyFtCEAnVTPVjhOiFWzhPWCz_vqhFSN1AIC3gkAdnQzd56h4uXA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/21XaiIZeZwZ-dRklbGLnUFbndGGqlYonv_owY48CRbGETbgpF0xmGNU6Ak3zslxfjf-O2zcs"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/EmUH1WhU4AEuqCu?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/EmUH1WhU4AEuqCu?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "在前往其他星球的時候飛船壞掉，而來到地球的羅白星兔子（？）\n目前居住在虛擬香港，沉迷地球的遊戲中。目標是把不同遊戲直播給大家看，讓大家開心！\n頻道主要以粵語為主，其餘國語，英文會看情況而定~"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "2月22日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n羅白語",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#兔苺研究冊",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#兔苺寶物箱",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(不可用)",
+                        "content": "#兔苺秘密檔案",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#兔絲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#兔苺記錄冊",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#兔苺記錄冊",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCx0Yy7_fAzkPUjCoLgDTc2w"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "kisaragiui_"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/KisaragiUi.Ch/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "QAGhri_9hOU",
+                        "image": "https://i.ytimg.com/vi/QAGhri_9hOU/hqdefault.jpg",
+                        "title": "【自我介紹】如月兎苺，參上！",
+                        "author": "如月兎苺 Kisaragi Ui Ch."
+                    },
+                    {
+                        "video_code": "JoBdVFaoliM",
+                        "image": "https://i.ytimg.com/vi/JoBdVFaoliM/hqdefault.jpg",
+                        "title": "【#000 秘密檔案】誰？",
+                        "author": "如月兎苺 Kisaragi Ui Ch."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "-zKcv15_iG8",
+                        "image": "https://i.ytimg.com/vi/-zKcv15_iG8/hqdefault.jpg",
+                        "title": "【雜談+Minecraft】決定了！就在此刻讓大家認識我吧！【香港Vtuber】",
+                        "author": "如月兎苺 Kisaragi Ui Ch."
+                    },
+                    {
+                        "video_code": "jDl2MPJTfqQ",
+                        "image": "https://i.ytimg.com/vi/jDl2MPJTfqQ/hqdefault.jpg",
+                        "title": "【#一週年兔莓】一週年當然是要OOO啦！！【#兔談time】",
+                        "author": "如月兎苺 Kisaragi Ui Ch."
+                    },
+                    {
+                        "video_code": "Vbw0RduHzKY",
+                        "image": "https://i.ytimg.com/vi/Vbw0RduHzKY/hqdefault.jpg",
+                        "title": "【生日雜談】有新衣服有蛋糕還有棉花糖！！【#兔談time 】",
+                        "author": "如月兎苺 Kisaragi Ui Ch."
+                    },
+                    {
+                        "video_code": "ddheeAC9jqk",
+                        "image": "https://i.ytimg.com/vi/ddheeAC9jqk/hqdefault.jpg",
+                        "title": "【2.0更新】A whole new me ~【#兔談time】",
+                        "author": "如月兎苺 Kisaragi Ui Ch."
+                    },
+                    {
+                        "video_code": "eLIkrgF5PqE",
+                        "image": "https://i.ytimg.com/vi/eLIkrgF5PqE/hqdefault.jpg",
+                        "title": "【雜談+重大告知】假日後的閒聊時間~ #兔談time【如月兎苺】",
+                        "author": "如月兎苺 Kisaragi Ui Ch."
+                    }
+                ]
+            }
+        }
+    ]
+}

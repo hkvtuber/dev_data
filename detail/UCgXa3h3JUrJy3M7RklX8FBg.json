@@ -1,0 +1,118 @@
+{
+    "id": "UCgXa3h3JUrJy3M7RklX8FBg",
+    "header": {
+        "name": "Mizuki Ch. 秋本瑞希 SkyliveHK",
+        "image": "https://yt3.ggpht.com/BT7OPL4-_Czrxy2lHBRT2uDI2U9kEURgtrIqyh8umzK65ekvg9mdAHI4vecG_7rOg6kWb98nmw=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/_bMPXl5G-CNCUpqzYjPSRYljxBYclyregoWaFVtN6wLw3rpvJNX3xhfx_z7DR96wwmWkJ_5iBg"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FDkKL9waAAEGd-S?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FDkKL9waAAEGd-S?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "早晨！我系zukizuki☆\n一個為增加人類的活力與希望而成為Vtuber且受罰中的卑微天使( ；∀；)\nSkyLive所屬Vtuber HK一期生☆"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#mizukiを飲む",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#MZKART",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCgXa3h3JUrJy3M7RklX8FBg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "mizukiDD1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "hb2IuMtMkYo",
+                        "image": "https://i.ytimg.com/vi/hb2IuMtMkYo/hqdefault.jpg",
+                        "title": "【#秋本瑞希初配信】初見wi 我係mizuki!【スカイライブHK / 秋本瑞希☆】",
+                        "author": "Mizuki Ch. 秋本瑞希 SkyliveHK"
+                    },
+                    {
+                        "video_code": "KRb4xy_M9Ms",
+                        "image": "https://i.ytimg.com/vi/KRb4xy_M9Ms/hqdefault.jpg",
+                        "title": "【半夜作業雜談】初配信前純聊天室直播desu╰(￣ω￣ｏ)【スカイライブHK / 秋本瑞希☆】",
+                        "author": "Mizuki Ch. 秋本瑞希 SkyliveHK"
+                    },
+                    {
+                        "video_code": "ZdV2L3wnN5A",
+                        "image": "https://i.ytimg.com/vi/ZdV2L3wnN5A/hqdefault.jpg",
+                        "title": "【突發/待機雜談作業(?)】待機的過程中來做一下作業吧【スカイライブHK / 秋本瑞希☆】",
+                        "author": "Mizuki Ch. 秋本瑞希 SkyliveHK"
+                    },
+                    {
+                        "video_code": "Ib1gMwrgnpE",
+                        "image": "https://i.ytimg.com/vi/Ib1gMwrgnpE/hqdefault.jpg",
+                        "title": "【突發/練歌台】初見舞台！不是歌回！練習而已！【スカイライブHK / 秋本瑞希☆】",
+                        "author": "Mizuki Ch. 秋本瑞希 SkyliveHK"
+                    },
+                    {
+                        "video_code": "2-yTpX0bW6o",
+                        "image": "https://i.ytimg.com/vi/2-yTpX0bW6o/hqdefault.jpg",
+                        "title": "【突發/作業雜談】就非常普通地小聊一下(？【スカイライブHK / 秋本瑞希☆】",
+                        "author": "Mizuki Ch. 秋本瑞希 SkyliveHK"
+                    }
+                ]
+            }
+        }
+    ]
+}

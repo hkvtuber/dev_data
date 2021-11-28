@@ -1,0 +1,131 @@
+{
+    "id": "UCz10h0t2CAZJeJI2UbcZS-g",
+    "header": {
+        "name": "宗樹-かずき- Ch.",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLSV9jI3NczwrlbxoWz80-Aja6TO0c5IHU4TrzS6LQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/7WeKmsHuDOk7LkWJSJpQ3o7e1ZM00n0in9JfAGUk032XLNI_xt5X2fhfJNMSi6WRIBTWj4lRO64"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "你好、歡迎嚟到萬事屋宗樹"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "12月24日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#萬事屋出差中",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#宗樹Art",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#客人\n#お客さん",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCz10h0t2CAZJeJI2UbcZS-g"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "kazuki1224byhk"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "bqdb3ToSesI",
+                        "image": "https://i.ytimg.com/vi/bqdb3ToSesI/hqdefault.jpg",
+                        "title": "【Live2D 1.5】歡迎來到萬事屋宗樹【#香港Vtuber】",
+                        "author": "宗樹-かずき- Ch."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "qdpMmHNS0aY",
+                        "image": "https://i.ytimg.com/vi/qdpMmHNS0aY/hqdefault.jpg",
+                        "title": "【Live2D  お披露会】擁有大叔聲線的宅男被人壓扁了【宗樹かずき】",
+                        "author": "宗樹-かずき- Ch."
+                    },
+                    {
+                        "video_code": "gW-x0Fwm908",
+                        "image": "https://i.ytimg.com/vi/gW-x0Fwm908/hqdefault.jpg",
+                        "title": "【生日倒數配信】Vtuber生涯第二次生日慶祝！+凸待ち 【#萬事屋出差中】",
+                        "author": "宗樹-かずき- Ch."
+                    },
+                    {
+                        "video_code": "atDyxTEAb2U",
+                        "image": "https://i.ytimg.com/vi/atDyxTEAb2U/hqdefault.jpg",
+                        "title": "【APEX】ドッキリ！裏配信~被發現就Out?【香港VTuber】",
+                        "author": "宗樹-かずき- Ch."
+                    },
+                    {
+                        "video_code": "s02d9HkzVxM",
+                        "image": "https://i.ytimg.com/vi/s02d9HkzVxM/hqdefault.jpg",
+                        "title": "【深夜輕鬆台】搵野玩【香港VTuber】",
+                        "author": "宗樹-かずき- Ch."
+                    },
+                    {
+                        "video_code": "Yuj2eTlklRs",
+                        "image": "https://i.ytimg.com/vi/Yuj2eTlklRs/hqdefault.jpg",
+                        "title": "【Apex Legends】可能算係第一次耐久直播【Vtuber】#萬事屋出差中",
+                        "author": "宗樹-かずき- Ch."
+                    }
+                ]
+            }
+        }
+    ]
+}

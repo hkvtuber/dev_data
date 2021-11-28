@@ -1,0 +1,143 @@
+{
+    "id": "UCU1kK3Qi1215uDWMvjFphOA",
+    "header": {
+        "name": "Little Channel-莉絲X優桃【香港VTuber】",
+        "image": "https://yt3.ggpht.com/Dyyy6pyK0RsGP5rBYN96I-fVXjvCyn9wy1pLuaZ6vBB3xG4kP4RyfWmEPJBsXpxyKeu8fn7g=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/voqZuERK70TByPrKb8Z_FbAZzA2ws8RgCw_3S4mVUu1rPxC8la46IfNkHb0w5qiZVmPVH6atdA"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E9Fp3ixUYAA07Cb?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E9Fp3ixUYAA07Cb?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/E9Fp3i1VIAE4r4L?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E9Fp3i1VIAE4r4L?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "莉絲🌸跟優桃🍑兩人組成的VTuber Channel ! 請多多指教~"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#莉桃視藝室",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(不可用)",
+                        "content": "#莉桃地下畫室",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#插班生",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCU1kK3Qi1215uDWMvjFphOA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "littlechannelry"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/little_channel_ry/?igshid=1c95u3k034co9"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "pfjbF7n5KBI",
+                        "image": "https://i.ytimg.com/vi/pfjbF7n5KBI/hqdefault.jpg",
+                        "title": "【HKVTuber / 自我介紹】莉絲篇-#01 歡迎來到杏壇中學!",
+                        "author": "Little Channel-莉絲X優桃【香港VTuber】"
+                    },
+                    {
+                        "video_code": "qxwCCyiW5c0",
+                        "image": "https://i.ytimg.com/vi/qxwCCyiW5c0/hqdefault.jpg",
+                        "title": "【HKVTuber / 自我介紹】優桃篇-#02 新來的插班生?",
+                        "author": "Little Channel-莉絲X優桃【香港VTuber】"
+                    },
+                    {
+                        "video_code": "M4-OyrXTRiU",
+                        "image": "https://i.ytimg.com/vi/M4-OyrXTRiU/hqdefault.jpg",
+                        "title": "【HKVTuber/ 自我介紹】Little Channel篇-#03 課外活動?",
+                        "author": "Little Channel-莉絲X優桃【香港VTuber】"
+                    },
+                    {
+                        "video_code": "9wFNYs7uq2g",
+                        "image": "https://i.ytimg.com/vi/9wFNYs7uq2g/hqdefault.jpg",
+                        "title": "【HKVTuber / 自我介紹】Little Channel篇-#04 VTuber課外活動！",
+                        "author": "Little Channel-莉絲X優桃【香港VTuber】"
+                    },
+                    {
+                        "video_code": "RlugyuIESCI",
+                        "image": "https://i.ytimg.com/vi/RlugyuIESCI/hqdefault.jpg",
+                        "title": "【HKVTuber / 自我介紹】精華篇-#05 歡迎加入Little Channel！",
+                        "author": "Little Channel-莉絲X優桃【香港VTuber】"
+                    },
+                    {
+                        "video_code": "ZYn9jom3vFk",
+                        "image": "https://i.ytimg.com/vi/ZYn9jom3vFk/hqdefault.jpg",
+                        "title": "【HKVTuber】Operation: Tango/行動代號: 探戈-Mission#1 Part A 史上最不可靠的組合要來拯(毀)救(滅)世界",
+                        "author": "Little Channel-莉絲X優桃【香港VTuber】"
+                    },
+                    {
+                        "video_code": "x7SHEFrePkc",
+                        "image": "https://i.ytimg.com/vi/x7SHEFrePkc/hqdefault.jpg",
+                        "title": "【HKVTuber】Little Channel 100訂閱慶祝回饋活動!",
+                        "author": "Little Channel-莉絲X優桃【香港VTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

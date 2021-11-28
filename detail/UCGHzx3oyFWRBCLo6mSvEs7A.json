@@ -1,0 +1,98 @@
+{
+    "id": "UCGHzx3oyFWRBCLo6mSvEs7A",
+    "header": {
+        "name": "亞兔與倉鼠仔【香港VTuber】",
+        "image": "https://yt3.ggpht.com/s_Wiap3IR8XbbVjpRCCMnK3M34oSr1eh30_Q3XJdn2m9AWqShIcala6LzdLCFF2H6A6qfvCp-w=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/o5LwZp3BU4zKIXSpaE-A3tEbKDI5Nm0Y9qMKJRwH1KUXawZ0pBmZkacWQuaOBtxqj-V16ofr"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "亞兔與倉鼠仔是在90年代降落地球的兩隻小動物，其中亞兔已經修煉成人形，沉迷恐怖片的倉鼠仔仍在努力中。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCGHzx3oyFWRBCLo6mSvEs7A"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "akiandjig"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/%E4%BA%9E%E5%85%94%E8%88%87%E5%80%89%E9%BC%A0%E4%BB%94%E9%A6%99%E6%B8%AFVTuber-115036540684754"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/akiandjig/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "_54h9JtTWx8",
+                        "image": "https://i.ytimg.com/vi/_54h9JtTWx8/hqdefault.jpg",
+                        "title": "【香港VTuber】自我介紹唔覺意變咗靈異故事==” 【知識型Vtuber】",
+                        "author": "亞兔與倉鼠仔【香港VTuber】"
+                    },
+                    {
+                        "video_code": "OaMo3oMq8FE",
+                        "image": "https://i.ytimg.com/vi/OaMo3oMq8FE/hqdefault.jpg",
+                        "title": "【知識型VTuber】亞兔講圍棋故事｜棋魂的預言在20年後實現？｜圍棋如何在日本承傳下來？｜Go chess (中文/ENG/日本語字幕)",
+                        "author": "亞兔與倉鼠仔【香港VTuber】"
+                    },
+                    {
+                        "video_code": "JrIYUEyguyU",
+                        "image": "https://i.ytimg.com/vi/JrIYUEyguyU/hqdefault.jpg",
+                        "title": "【香港VTuber】亞兔試食GLAM.D 代餐  一個月減左。。。磅？ [開箱系列]",
+                        "author": "亞兔與倉鼠仔【香港VTuber】"
+                    },
+                    {
+                        "video_code": "ZQ3HxNSfToE",
+                        "image": "https://i.ytimg.com/vi/ZQ3HxNSfToE/hqdefault.jpg",
+                        "title": "【香港VTuber】亞兔講藝術小知識+九唔搭八名畫小劇場｜唐伯虎也來了～？｜當名畫變成萌萌的貓貓和兔兔",
+                        "author": "亞兔與倉鼠仔【香港VTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

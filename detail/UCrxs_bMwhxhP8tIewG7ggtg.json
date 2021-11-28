@@ -1,0 +1,151 @@
+{
+    "id": "UCrxs_bMwhxhP8tIewG7ggtg",
+    "header": {
+        "name": "十六夜 蒼月 Aotuki Ch.【HKVTuber】",
+        "image": "https://yt3.ggpht.com/PUx0slGY7sR5Zc8zY2cAYMQ_bcd8QHb0V1EZSSPdXzG-bzIMkqOUC5D4UrCtxpMhoGuRn_Jo=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/xHs63T0_U-OCKaswA5dzwC_luI5GGkkDxWu85mOkkK6v1-JkJ2jKJbxt983AUpyqog4zEcdwPpc"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FDRBPkYakAEXHJE?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FDRBPkYakAEXHJE?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "大家好! 我是來自香港的魔女Vtuber- 十六夜蒼月\n很高興能與你見面❤  未來也請多多指教~\n按一下訂閱就不會錯過新影片跟配信囉!"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#aotukilive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#aotukiart",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#皮露露",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCrxs_bMwhxhP8tIewG7ggtg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Aotuki_channel"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "cfu7ktVfcWQ",
+                        "image": "https://i.ytimg.com/vi/cfu7ktVfcWQ/hqdefault.jpg",
+                        "title": "【自己紹介】Vtuber一問一答自己紹介【香港VTuber 十六夜蒼月】",
+                        "author": "十六夜 蒼月 Aotuki Ch.【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "5ZcQsZZMFKI",
+                        "image": "https://i.ytimg.com/vi/5ZcQsZZMFKI/hqdefault.jpg",
+                        "title": "【初配信】初次見面~!歡迎來到十六夜魔女之村【香港Vtuber/十六夜蒼月】",
+                        "author": "十六夜 蒼月 Aotuki Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "OxK6JQsM3ns",
+                        "image": "https://i.ytimg.com/vi/OxK6JQsM3ns/hqdefault.jpg",
+                        "title": "【雜談TIME】那些我們玩過的遊戲, 陪伴過的時光【香港Vtuber/十六夜蒼月】",
+                        "author": "十六夜 蒼月 Aotuki Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "nuHAP5x3riw",
+                        "image": "https://i.ytimg.com/vi/nuHAP5x3riw/hqdefault.jpg",
+                        "title": "【Super Animal Royale】PVP渣渣也想吃一次雞【香港Vtuber/十六夜蒼月】",
+                        "author": "十六夜 蒼月 Aotuki Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "dVGzX7dWRXE",
+                        "image": "https://i.ytimg.com/vi/dVGzX7dWRXE/hqdefault.jpg",
+                        "title": "【Farcry 6】又來閒聊打打人囉~【香港Vtuber/十六夜蒼月】",
+                        "author": "十六夜 蒼月 Aotuki Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "tFHl8_nyFDg",
+                        "image": "https://i.ytimg.com/vi/tFHl8_nyFDg/hqdefault.jpg",
+                        "title": "【Going Under】要成為實習生了!沒有薪水嗎?! 【香港Vtuber/十六夜蒼月】",
+                        "author": "十六夜 蒼月 Aotuki Ch.【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "烤肉",
+                "video_list": [
+                    {
+                        "video_code": "yiurq6wZeyg",
+                        "image": "https://i.ytimg.com/vi/yiurq6wZeyg/hqdefault.jpg",
+                        "title": "【直播精華】那隻將自己發射出去的狼【香港Vtuber/十六夜蒼月】",
+                        "author": "十六夜 蒼月 Aotuki Ch.【HKVTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

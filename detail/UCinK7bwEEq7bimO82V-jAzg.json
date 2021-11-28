@@ -1,0 +1,70 @@
+{
+    "id": "UCinK7bwEEq7bimO82V-jAzg",
+    "header": {
+        "name": "狐師傅 【HKV道長】",
+        "image": "https://yt3.ggpht.com/ne3ROGrgdBdHz27qozRqnTPTmL-hllesatCb4OJx1vOYG57JG7iTsPrklcuBHBc4Mxcb3hpIzw=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/3iaowsunf0osheYGNpvRphrCierzi1zv-GQdJaSX4epreszEGuPdo58BUg0-beK_rZftliKN7Q"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FCY8kIgVcAUWkEy?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FCY8kIgVcAUWkEy?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "師傅愛你 XoX\n祝你平安 全家幸福 OuO"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCinK7bwEEq7bimO82V-jAzg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "MasterFoxy_991"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "id": "UCXczjUxErgKihYIPDDpbsgQ",
+    "header": {
+        "name": "Hanna Ch. 里見ハンナ【HKVtuber】",
+        "image": "https://yt3.ggpht.com/kTFvzEq6a9d5L-780TRxrjUBGwxTklqoPQGB1IKA8uJ57a4Cxhk4XQxCNazj-g-cQlwbEjUmrP4=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/XzOfV4oQ9oFGM8Gsy5o34MBUFP4Bk2mRa0CBnZEtEc_J8r7xAtcoVV_IsS5DPe1dsPqp1K7ouw"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/EzujyIHUcAA-JfD?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/EzujyIHUcAA-JfD?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "里見ハンナでーすー！\n「🐻將你哋變晒做蜜糖之後食晒你哋！🍯」\n已出道的香港Vtuber 絕對偶像路線！"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#Hannaくま",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#Hanna採蜜日記",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#HannaAk_47",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#Hanna豐滿觀察記",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#Honey",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#邪教Honey",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCXczjUxErgKihYIPDDpbsgQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "HannaSatomi"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/%E9%87%8C%E8%A6%8B%E3%83%8F%E3%83%B3%E3%83%8A-109226571271699"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://instagram.com/satomi_hanna_?igshid=c7pmdmgxe0ov"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "_lp6xeKbrL8",
+                        "image": "https://i.ytimg.com/vi/_lp6xeKbrL8/hqdefault.jpg",
+                        "title": "【自我介紹】轉生成為Honey 也是一個不錯的選擇？！【里見ハンナ/HKVtuber】",
+                        "author": "Hanna Ch. 里見ハンナ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "CuVvpw5obMI",
+                        "image": "https://i.ytimg.com/vi/CuVvpw5obMI/hqdefault.jpg",
+                        "title": "AXIA～ダイスキでダイキライ～ ワルキューレ/ covered by 里見ハンナ【HKVTuber】",
+                        "author": "Hanna Ch. 里見ハンナ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "eAtNIA2X0G0",
+                        "image": "https://i.ytimg.com/vi/eAtNIA2X0G0/hqdefault.jpg",
+                        "title": "フォニイ / phony/ covered by 里見ハンナ【HKVTuber】",
+                        "author": "Hanna Ch. 里見ハンナ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "8-BNu_JGRls",
+                        "image": "https://i.ytimg.com/vi/8-BNu_JGRls/hqdefault.jpg",
+                        "title": "踊-Ado/cover by 里見ハンナ【里見ハンナ/HKVtuber】",
+                        "author": "Hanna Ch. 里見ハンナ【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "wKeGvIBxpLM",
+                        "image": "https://i.ytimg.com/vi/wKeGvIBxpLM/hqdefault.jpg",
+                        "title": "【初配信】初見🐻初見！🍯絕對清楚偶像((??【里見ハンナ/HKVtuber】",
+                        "author": "Hanna Ch. 里見ハンナ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "cu30GQ0YlTI",
+                        "image": "https://i.ytimg.com/vi/cu30GQ0YlTI/hqdefault.jpg",
+                        "title": "【2.0發表！】500訂閱感謝！！2.0+新OP發表！！【里見ハンナ/HKVtuber】",
+                        "author": "Hanna Ch. 里見ハンナ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "7V6g9f5VJTw",
+                        "image": "https://i.ytimg.com/vi/7V6g9f5VJTw/hqdefault.jpg",
+                        "title": "【一個月特別企劃】Hanna陪足你一日!!【里見ハンナ/HKVtuber】",
+                        "author": "Hanna Ch. 里見ハンナ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "d4WUTz6vHdg",
+                        "image": "https://i.ytimg.com/vi/d4WUTz6vHdg/hqdefault.jpg",
+                        "title": "【ASMR/3dio】睡眠導入!!(希望) 吐息/梵天耳かき/囁き【里見ハンナ/HKVtuber】",
+                        "author": "Hanna Ch. 里見ハンナ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "-pmI53Jm7OI",
+                        "image": "https://i.ytimg.com/vi/-pmI53Jm7OI/hqdefault.jpg",
+                        "title": "【半週年紀念】原來已經半年了!!陪伴你們半日吧！【里見ハンナ/HKVtuber】",
+                        "author": "Hanna Ch. 里見ハンナ【HKVtuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

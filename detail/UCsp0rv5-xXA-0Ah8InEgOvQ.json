@@ -1,0 +1,158 @@
+{
+    "id": "UCsp0rv5-xXA-0Ah8InEgOvQ",
+    "header": {
+        "name": "Rosalia Elina Ch. 【HKVtuber】",
+        "image": "https://yt3.ggpht.com/Uy1AvmAEnI22dbXfcoU5lyYxvIaIAfs80E3V2OX4y3aEuwXeKd8ajEEY076sX64Xvk15piIs=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E8WQ0LKUYAQq-V2?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E8WQ0LKUYAQq-V2?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "羅莎莉亞國因天災，家園毀於一旦。\n非繼承人嘅二小姐Elina決定帶住好朋友-羅柚，\n前往香港，體驗生活，係學園途中認識媽媽。\n係媽媽嘅甜蜜誘惑之下，繪里奈決定成為Vtuber。\n進入黑心企業MeNoLife，（被逼）工作同時，為世界帶黎歡樂。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#繪里奈的酒窖\n#ElinaWinery",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#繪里奈畫廊",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "血腥 Fan Art Tag",
+                        "content": "#HlinaWinery",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "時間表Tag",
+                        "content": "#請問您今天要來點繪里奈嗎",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCsp0rv5-xXA-0Ah8InEgOvQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Rosalia_Elina"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/rosalia__elina/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "pFnpDDrsb-c",
+                        "image": "https://i.ytimg.com/vi/pFnpDDrsb-c/hqdefault.jpg",
+                        "title": "【初自介】初見( ̀⌄ ́)你唔喺唔睇本小姐自介啩？【Rosalia.Elina l HKVtuber】",
+                        "author": "Rosalia Elina Ch. 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "XhJee-Nbq8Y",
+                        "image": "https://i.ytimg.com/vi/XhJee-Nbq8Y/hqdefault.jpg",
+                        "title": "【唔廢嘅片】可能係全香港最廢嘅大小姐？20號記得黎睇本小姐！【HKVtuber l Rosalia.Elina】",
+                        "author": "Rosalia Elina Ch. 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "SDG7QE-dSuY",
+                        "image": "https://i.ytimg.com/vi/SDG7QE-dSuY/hqdefault.jpg",
+                        "title": "不可以吃吃",
+                        "author": "Rosalia Elina Ch. 【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "Wuv1n-OL45M",
+                        "image": "https://i.ytimg.com/vi/Wuv1n-OL45M/hqdefault.jpg",
+                        "title": "【#初配信】準備好跟本小姐乾杯了嗎🥂【Rosalia.Elina l HKVtuber】",
+                        "author": "Rosalia Elina Ch. 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "OoW93OZhSTI",
+                        "image": "https://i.ytimg.com/vi/OoW93OZhSTI/hqdefault.jpg",
+                        "title": "【跑Online】你班觀眾唔係輸比本小姐啊嘛^w^【Rosalia.Elina l HKVtuber】",
+                        "author": "Rosalia Elina Ch. 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "V9SQnWezO0o",
+                        "image": "https://i.ytimg.com/vi/V9SQnWezO0o/hqdefault.jpg",
+                        "title": "【雀魂觀眾場】夠薑就黎同本小姐隻抽!【Rosalia.Elina l HKVtuber】🍇羅莎莉亞·繪里奈🥂",
+                        "author": "Rosalia Elina Ch. 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "KHmQiC6gNA4",
+                        "image": "https://i.ytimg.com/vi/KHmQiC6gNA4/hqdefault.jpg",
+                        "title": "【AmongUs 觀眾台】電腦laglaglag!!!【Rosalia.Elina l HKVtuber】",
+                        "author": "Rosalia Elina Ch. 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "49lX-8xtgac",
+                        "image": "https://i.ytimg.com/vi/49lX-8xtgac/hqdefault.jpg",
+                        "title": "【Phasmophobia恐鬼症】有大小姐sss!! 唔驚!!!!!【Rosalia.Elina l HKVtuber】",
+                        "author": "Rosalia Elina Ch. 【HKVtuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

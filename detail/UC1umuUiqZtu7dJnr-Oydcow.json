@@ -1,0 +1,108 @@
+{
+    "id": "UC1umuUiqZtu7dJnr-Oydcow",
+    "header": {
+        "name": "雪骨小白_Shiro[HKVtuber]",
+        "image": "https://yt3.ggpht.com/u5K0t8KPvO-WC_t4llnbUFFzuyUjOk6HFRjuK6pOIwMyovGKExt00Uv_DgLXylMfW1CXuMrfw34=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/gVhDyyavaJfjUbmQK9tTuqXK6Gx-htdy7Qj9wVJomX8aYFdi8otdgvrglRMzbspnl970m86XXA"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "小白殿下,火星&林樱雪要成为Vtuber啦!快D Like同Subscribe啊！~"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC1umuUiqZtu7dJnr-Oydcow"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "YukihoneS"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/vtuber.shir"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "QPL01J-x3z8",
+                        "image": "https://i.ytimg.com/vi/QPL01J-x3z8/hqdefault.jpg",
+                        "title": "【Vtuber一問一答自我介紹】第二次出尷尬嘅自我介紹【雪骨小白_Shiro】",
+                        "author": "雪骨小白_Shiro[HKVtuber]"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "5dw85-zmMAw",
+                        "image": "https://i.ytimg.com/vi/5dw85-zmMAw/hqdefault.jpg",
+                        "title": "[HKVtuber/雪骨小白&Wishes]初配信!齊來拜見小白殿下,火星&小樱公主La!~",
+                        "author": "雪骨小白_Shiro[HKVtuber]"
+                    },
+                    {
+                        "video_code": "g3RcyDodlUg",
+                        "image": "https://i.ytimg.com/vi/g3RcyDodlUg/hqdefault.jpg",
+                        "title": "[HKVtuber/雪骨小白&Wishes]第一次歌华！",
+                        "author": "雪骨小白_Shiro[HKVtuber]"
+                    },
+                    {
+                        "video_code": "6Y61_JI-tbs",
+                        "image": "https://i.ytimg.com/vi/6Y61_JI-tbs/hqdefault.jpg",
+                        "title": "[HKVtuber/雪骨小白]惡狼遊戲+雜談{幻想}",
+                        "author": "雪骨小白_Shiro[HKVtuber]"
+                    },
+                    {
+                        "video_code": "ENDmHPMalJw",
+                        "image": "https://i.ytimg.com/vi/ENDmHPMalJw/hqdefault.jpg",
+                        "title": "[HKVtuber/雪骨小白]又一次嘅Among us , 唔知今次有冇得做鬼呢?",
+                        "author": "雪骨小白_Shiro[HKVtuber]"
+                    }
+                ]
+            }
+        }
+    ]
+}

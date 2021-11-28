@@ -1,0 +1,154 @@
+{
+    "id": "UCrb_2igKereyn7D4N019oXQ",
+    "header": {
+        "name": "Kappa卡帕",
+        "image": "https://yt3.ggpht.com/eGH0rqqt3z5nrF2B9aJp_r1US48TIIOUh84xf3IeFZy_SJt7ZzxtTgzZvmLzq9reNKwT8bRTGw=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/VkJdYL0DY_eAZblHXeAj8JC5Y4-a09JCwvOj_WeP_kOV9oGHI7Pqe36cMSloTpIMDO9tqyTzdA"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E_we5w0VUAwrozt?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E_we5w0VUAwrozt?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "大家好 我是卡帕Kappa 🐸\n✿I am Kappa from Shomons ✿ \n✿不是青蛙是河童(～￣▽￣)～ ✿ "
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#KapLive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#KapTtS",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#KapArt",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#青瓜魔人",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCrb_2igKereyn7D4N019oXQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "kappa_shomons"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "9gcg3psqnro",
+                        "image": "https://i.ytimg.com/vi/9gcg3psqnro/hqdefault.jpg",
+                        "title": "【自己紹介】Vtuber 一問一答自己紹介 【Kappa/卡帕 】",
+                        "author": "Kappa卡帕"
+                    },
+                    {
+                        "video_code": "asDa16CSyd8",
+                        "image": "https://i.ytimg.com/vi/asDa16CSyd8/hqdefault.jpg",
+                        "title": "【Cover】DECO*27 - 愛言葉 (short ver.)｜cover by Kappa卡帕🐸",
+                        "author": "Kappa卡帕"
+                    },
+                    {
+                        "video_code": "l8tiuIaatXQ",
+                        "image": "https://i.ytimg.com/vi/l8tiuIaatXQ/hqdefault.jpg",
+                        "title": "【Cover】DECO*27 - 愛言葉 (Full ver.)｜cover by Kappa卡帕🐸",
+                        "author": "Kappa卡帕"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "dagXlB-bw5M",
+                        "image": "https://i.ytimg.com/vi/dagXlB-bw5M/hqdefault.jpg",
+                        "title": "【Vtuber初配信】卡帕和大家分享青瓜 !｜Kappa卡帕",
+                        "author": "Kappa卡帕"
+                    },
+                    {
+                        "video_code": "IIPXc7FTM5M",
+                        "image": "https://i.ytimg.com/vi/IIPXc7FTM5M/hqdefault.jpg",
+                        "title": "【L4D2】 L4D2聯動~四人小隊出動！ ｜Kappa卡帕🐸 Feat. 梓神月, 2常者, 水月いずき｜",
+                        "author": "Kappa卡帕"
+                    },
+                    {
+                        "video_code": "IMcH6FI7uhk",
+                        "image": "https://i.ytimg.com/vi/IMcH6FI7uhk/hqdefault.jpg",
+                        "title": "【Apex】初聯動!! 鐵拳無雙二人組!!!!｜Kappa卡帕🐸feat. 神白ウノ🌫｜",
+                        "author": "Kappa卡帕"
+                    },
+                    {
+                        "video_code": "RB2jAHkHWLI",
+                        "image": "https://i.ytimg.com/vi/RB2jAHkHWLI/hqdefault.jpg",
+                        "title": "【MHW】到底是屠龍還是被龍屠? ! #1｜Kappa卡帕🐸",
+                        "author": "Kappa卡帕"
+                    },
+                    {
+                        "video_code": "9gvc1vuiJ9g",
+                        "image": "https://i.ytimg.com/vi/9gvc1vuiJ9g/hqdefault.jpg",
+                        "title": "【ARK】 ARK生存!! 打恐龍了!! ｜Kappa卡帕🐸",
+                        "author": "Kappa卡帕"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "id": "UCpZzF7Qr5lOMHJTM1sh2rbw",
+    "header": {
+        "name": "Suraimu Xeno Ch.",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLRFWSS9Dtxh1emC18hFnoeRX3wVwBcpDRE1Cl9q=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/maCVKFng8-6M_1sFhY8g888ofeq36rycW_aXgPc4OwIzQL41SLMDWkk9RU_88VdN3YBklBDnzw"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/EuaU-LJVkAMv2fQ?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/EuaU-LJVkAMv2fQ?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "一隻由外太空來到銀河系第三行星的外星史萊姆。\n為了和名為地球中的人類進行溝通，所以逗留於此成為香港vtuber而進行各種網絡活動(直播)。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#xenomu_live",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#xenomu_art",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#xenomu_HL",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCpZzF7Qr5lOMHJTM1sh2rbw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "suraimuxeno"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "yfBErxLPVlU",
+                        "image": "https://i.ytimg.com/vi/yfBErxLPVlU/hqdefault.jpg",
+                        "title": "【World War Z: Aftermath】#1 面對無盡屍潮 該何去何從？",
+                        "author": "Suraimu Xeno Ch."
+                    },
+                    {
+                        "video_code": "kaFB5H-CPaQ",
+                        "image": "https://i.ytimg.com/vi/kaFB5H-CPaQ/hqdefault.jpg",
+                        "title": "【BIOHAZARD7 RESIDENT EVIL】#6！一邊食咖哩一邊完埋個Bio7。",
+                        "author": "Suraimu Xeno Ch."
+                    },
+                    {
+                        "video_code": "_HUpum1INCI",
+                        "image": "https://i.ytimg.com/vi/_HUpum1INCI/hqdefault.jpg",
+                        "title": "【初配信之BIO7遊戲部份】從前從前，有一隻史萊姆流浪到地球。。。",
+                        "author": "Suraimu Xeno Ch."
+                    },
+                    {
+                        "video_code": "fF66cdxLMP8",
+                        "image": "https://i.ytimg.com/vi/fF66cdxLMP8/hqdefault.jpg",
+                        "title": "【Getting Over It With Bennett Foddy】聽聞係做V都會爬既山。",
+                        "author": "Suraimu Xeno Ch."
+                    }
+                ]
+            }
+        }
+    ]
+}

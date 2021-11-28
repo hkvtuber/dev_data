@@ -1,0 +1,134 @@
+{
+    "id": "UCzM0pNUsr_OfMmxccZ57dFw",
+    "header": {
+        "name": "OkitaBuru ch. 沖田ブル 【HKVtuber準備中】",
+        "image": "https://yt3.ggpht.com/ZSOB-QIWk_JfQxjLwK6lxW5LQvY_TBWQfaVBDIOwkMrqnp-mQf_xfwwZ1Zj08VJUE8YJ4pzA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/dIQ5Dek5VfOfDQV970HRJbF8tQUdC0LSZYPali_Vy21ozvEbJedDaVyrs9t4yuyYnAjyFGl4"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E8sMt9LUcAgzn3s?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E8sMt9LUcAgzn3s?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/E8sMvKkVcAINOm9?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E8sMvKkVcAINOm9?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "一隻從事耕作工作的水牛由於同另外一個時空的青年波長太過敏合，導致兩個個體融合，意識由水牛主導, 人類的身體出現了水牛的特徵, 失去了水牛的身體的ブル於是無法很好效率地繼續進行耕作工作，這個時候ブル看見網上有很多Vtuber出現, 激發了ブル出來當Vtuber。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n日文\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#牛肉增量",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#牛欄開門",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#牛肉雜繪",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#牛色睇肉",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#草草",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#牛牛食草",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCzM0pNUsr_OfMmxccZ57dFw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "okitaburu206"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://twitter.com/OkitaCow"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "ka7_eaGS5rE",
+                        "image": "https://i.ytimg.com/vi/ka7_eaGS5rE/hqdefault.jpg",
+                        "title": "PV制作練習 Pale Blue -米津玄師　3：３３‐４：５６",
+                        "author": "OkitaBuru ch. 沖田ブル 【HKVtuber準備中】"
+                    },
+                    {
+                        "video_code": "NaP0ApLNG4I",
+                        "image": "https://i.ytimg.com/vi/NaP0ApLNG4I/hqdefault.jpg",
+                        "title": "【恥力100%】 ネコガネコロンダ Cover by 沖田ブル",
+                        "author": "OkitaBuru ch. 沖田ブル 【HKVtuber準備中】"
+                    },
+                    {
+                        "video_code": "82sOx4sxhbw",
+                        "image": "https://i.ytimg.com/vi/82sOx4sxhbw/hqdefault.jpg",
+                        "title": "【Showcase】沖田ブル OkitaBuru - Live2D Model",
+                        "author": "OkitaBuru ch. 沖田ブル 【HKVtuber準備中】"
+                    }
+                ]
+            }
+        }
+    ]
+}

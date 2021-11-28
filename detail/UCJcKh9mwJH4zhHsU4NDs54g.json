@@ -52,8 +52,8 @@
                     },
                     {
                         "key": "喜歡",
-                        "content": "唱歌\nVocaloid\\nEDM(Dustep/FutureCore)\n推理解謎作品\n音樂街機\n兔子\n太陽蛋",
-                        "heightRate": "4.00"
+                        "content": "唱歌\nVocaloid\nEDM(Dustep/FutureCore)\n推理解謎作品\n音樂街機\n兔子\n太陽蛋",
+                        "heightRate": "4.67"
                     },
                     {
                         "key": "討厭",
@@ -73,6 +73,11 @@
             "data": {
                 "title": "關於直播",
                 "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
                     {
                         "key": "語言",
                         "content": "廣東話\n普通話\n日文\n英文",

@@ -1,0 +1,122 @@
+{
+    "id": "UC_tqc47-kLL_OyuFQamLPGA",
+    "header": {
+        "name": "蜂蜜紅茶 Red Tea Ch.【香港VTuber】",
+        "image": "https://yt3.ggpht.com/EBmordhJ5IF7uBrphXK8JXKl43MQVqD8QMAndE1IpHc3rblM4WEH22mBvL9TRqhHT5CJ6QYaLQg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/F_tWv5JYMVkRigfB76NrNmGsS0fyZhp2LuylXv0FOFzfPIkbkrav2E7ZjrzQEiQCEtuTreKx_Q"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "來自異世界的邊緣機械人🌱"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\r",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC_tqc47-kLL_OyuFQamLPGA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Red_Tea_O_O"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "4Sl3S_Fsb_g",
+                        "image": "https://i.ytimg.com/vi/4Sl3S_Fsb_g/hqdefault.jpg",
+                        "title": "蜂蜜紅茶、VTuber出道～！【自我介紹】【香港VTuber】",
+                        "author": "蜂蜜紅茶 Red Tea Ch.【香港VTuber】"
+                    },
+                    {
+                        "video_code": "fRpA0cYnM6M",
+                        "image": "https://i.ytimg.com/vi/fRpA0cYnM6M/hqdefault.jpg",
+                        "title": "【不滅的桐生會】 香港巴士站電子燈箱 廣告牌",
+                        "author": "蜂蜜紅茶 Red Tea Ch.【香港VTuber】"
+                    },
+                    {
+                        "video_code": "I-SelZRuj04",
+                        "image": "https://i.ytimg.com/vi/I-SelZRuj04/hqdefault.jpg",
+                        "title": "【偵探已經死了】真正的名偵探會在事件發生前解決事件~ 【癈片】",
+                        "author": "蜂蜜紅茶 Red Tea Ch.【香港VTuber】"
+                    },
+                    {
+                        "video_code": "R62oX0h1HKs",
+                        "image": "https://i.ytimg.com/vi/R62oX0h1HKs/hqdefault.jpg",
+                        "title": "【Palette Ring 4】「推薦以手機觀看」好油的同人展Vlog ｜整個場都是vtuber週邊｜!!觀看時小心地滑!!",
+                        "author": "蜂蜜紅茶 Red Tea Ch.【香港VTuber】"
+                    },
+                    {
+                        "video_code": "R58s4XIeDZw",
+                        "image": "https://i.ytimg.com/vi/R58s4XIeDZw/hqdefault.jpg",
+                        "title": "【香港書展2021】我好興奮啊!!!【癈片】",
+                        "author": "蜂蜜紅茶 Red Tea Ch.【香港VTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "KkgvK4izD54",
+                        "image": "https://i.ytimg.com/vi/KkgvK4izD54/hqdefault.jpg",
+                        "title": "【蜂蜜紅茶】宅男的人間冒險｜初配信信信信｜",
+                        "author": "蜂蜜紅茶 Red Tea Ch.【香港VTuber】"
+                    },
+                    {
+                        "video_code": "-xBlQ4i_YA8",
+                        "image": "https://i.ytimg.com/vi/-xBlQ4i_YA8/hqdefault.jpg",
+                        "title": "【蜂蜜紅茶】宅男的人間冒險｜第三集｜",
+                        "author": "蜂蜜紅茶 Red Tea Ch.【香港VTuber】"
+                    },
+                    {
+                        "video_code": "ihR5kAkqUnU",
+                        "image": "https://i.ytimg.com/vi/ihR5kAkqUnU/hqdefault.jpg",
+                        "title": "【蜂蜜紅茶】宅男的人間冒險｜第二集｜",
+                        "author": "蜂蜜紅茶 Red Tea Ch.【香港VTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

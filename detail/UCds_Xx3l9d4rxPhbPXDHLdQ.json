@@ -1,0 +1,157 @@
+{
+    "id": "UCds_Xx3l9d4rxPhbPXDHLdQ",
+    "header": {
+        "name": "男 コトリ Kotori Ch [HKVtuber]",
+        "image": "https://yt3.ggpht.com/uyCNixA59lGSckOylan4HXdUHyFcwsKIM9bciEOmDag2RmKSqRO_217flUGX8jdCquX-1UwtaQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/toXBoxr-Sswjc3BniuUyTu-4AqXBXny3-GEDTI_bj2eOd7D2y6V6wjGDOjHBa-Q6Nbx-tx-P"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E9ettTJVoAc5V2n?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E9ettTJVoAc5V2n?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "とりげんよう🕊來自鳥類文明亞菲斯的落難大法官"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\r\n普通話\r\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#ToRigenyo",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#鳥語音樂台",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#雀粟魔法集",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#雀粟黑魔法",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#雀粟",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCds_Xx3l9d4rxPhbPXDHLdQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "otoko_kotori"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/otokokotori_lyrics/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "duktK7PH5oQ",
+                        "image": "https://i.ytimg.com/vi/duktK7PH5oQ/hqdefault.jpg",
+                        "title": "【香港VTuber】鸚鵡 啊啦呢 終於可以出現係大家眼前啦owo【初見面】",
+                        "author": "Arare Ch. 津雲啊啦呢【香港VTuber】"
+                    },
+                    {
+                        "video_code": "Q5BlC5nV5-A",
+                        "image": "https://i.ytimg.com/vi/Q5BlC5nV5-A/hqdefault.jpg",
+                        "title": "新觀眾專用:3 類似自我介紹的東東w",
+                        "author": "Arare Ch. 津雲啊啦呢【香港VTuber】"
+                    },
+                    {
+                        "video_code": "EYYNXma2JOo",
+                        "image": "https://i.ytimg.com/vi/EYYNXma2JOo/hqdefault.jpg",
+                        "title": "Me Dead",
+                        "author": "Arare Ch. 津雲啊啦呢【香港VTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "HfkWqR-Wr1A",
+                        "image": "https://i.ytimg.com/vi/HfkWqR-Wr1A/hqdefault.jpg",
+                        "title": "鸚鵡 啊啦呢 ★ 自我介紹 雜談 棉花糖owo【初配信】",
+                        "author": "Arare Ch. 津雲啊啦呢【香港VTuber】"
+                    },
+                    {
+                        "video_code": "AByfLg1hXgg",
+                        "image": "https://i.ytimg.com/vi/AByfLg1hXgg/hqdefault.jpg",
+                        "title": "【直播配信】 12人 心結 太空狼人殺 - 大大大聯動 - Ft.去下低睇 唔夠位:3  | 2021-06-23 | Among Us ★ 鸚鵡 啊啦呢",
+                        "author": "Arare Ch. 津雲啊啦呢【香港VTuber】"
+                    },
+                    {
+                        "video_code": "pENyoJgnJ2c",
+                        "image": "https://i.ytimg.com/vi/pENyoJgnJ2c/hqdefault.jpg",
+                        "title": "安安靜靜// 時間表 同埋 縮圖 | 2021-07-26 | 雜談。工作生態？ ★ 鸚鵡 啊啦呢",
+                        "author": "Arare Ch. 津雲啊啦呢【香港VTuber】"
+                    },
+                    {
+                        "video_code": "yNau1ncw4rw",
+                        "image": "https://i.ytimg.com/vi/yNau1ncw4rw/hqdefault.jpg",
+                        "title": "鸚鵡 啊啦呢 ★ 遲左既聖誕配信:3【直播配信】",
+                        "author": "Arare Ch. 津雲啊啦呢【香港VTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

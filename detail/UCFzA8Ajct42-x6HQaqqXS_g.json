@@ -1,0 +1,168 @@
+{
+    "id": "UCFzA8Ajct42-x6HQaqqXS_g",
+    "header": {
+        "name": "Dumbo子[個人勢Vtuber]",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLRsaICRsXmErKDMz4vWdv-rX6tt3m9ThXgqWj3h=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/fY5VUve-BQ9Jd3bB03JBuIm9tGF2emB6i3LkepSzJJsb3bWjejLHFWouEMSEOb7xpflVUFBuhg"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E4aJdJWVcAopnWG?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E4aJdJWVcAopnWG?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/E4aJdJWVcAopnWG?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E4aJdJWVcAopnWG?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "VTuber Dumbo子 "
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#一齊食海草",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#珍珠",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#章魚乜乜乜",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#Dumbo章魚燒",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCFzA8Ajct42-x6HQaqqXS_g"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "DumboVtuber_HK"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/dumbo_and_friends_/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "bONOfYr3HMg",
+                        "image": "https://i.ytimg.com/vi/bONOfYr3HMg/hqdefault.jpg",
+                        "title": "【自己紹介】Vtuber一問一答自己紹介【Dumbo子/HKVtuber】",
+                        "author": "Dumbo子[生物系Vtuber]"
+                    },
+                    {
+                        "video_code": "3ihhNoNyVZc",
+                        "image": "https://i.ytimg.com/vi/3ihhNoNyVZc/hqdefault.jpg",
+                        "title": "[Pre-debut] Dumbo Dumbo出來了",
+                        "author": "Dumbo子[生物系Vtuber]"
+                    },
+                    {
+                        "video_code": "I-mZd-3CuOQ",
+                        "image": "https://i.ytimg.com/vi/I-mZd-3CuOQ/hqdefault.jpg",
+                        "title": "飲多D水 痾多D尿 feat. 津路あさひ",
+                        "author": "Dumbo子[生物系Vtuber]"
+                    },
+                    {
+                        "video_code": "ULXfH-03_Po",
+                        "image": "https://i.ytimg.com/vi/ULXfH-03_Po/hqdefault.jpg",
+                        "title": "道歉!",
+                        "author": "Dumbo子[生物系Vtuber]"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "Uxs3hs2UwsM",
+                        "image": "https://i.ytimg.com/vi/Uxs3hs2UwsM/hqdefault.jpg",
+                        "title": "【動物森友會】同時視聽 動森發表會!【Dumbo子/HKVtuber】",
+                        "author": "Dumbo子[生物系Vtuber]"
+                    },
+                    {
+                        "video_code": "VEP_c3fHKq8",
+                        "image": "https://i.ytimg.com/vi/VEP_c3fHKq8/hqdefault.jpg",
+                        "title": "[雜談]Dumbo Dumbo 星期一 Monday Monday Blue #6 戀愛心事篇Feat 津路 あさひ, GP07",
+                        "author": "Dumbo子[生物系Vtuber]"
+                    },
+                    {
+                        "video_code": "8Vb_qknZgZU",
+                        "image": "https://i.ytimg.com/vi/8Vb_qknZgZU/hqdefault.jpg",
+                        "title": "【生日大快樂】新衣裝發表/???發表/開箱生日禮物【Dumbo子/HKVtuber】",
+                        "author": "Dumbo子[生物系Vtuber]"
+                    },
+                    {
+                        "video_code": "cGYnM4yr-JM",
+                        "image": "https://i.ytimg.com/vi/cGYnM4yr-JM/hqdefault.jpg",
+                        "title": "Dumbo Dumbo 繪圖日 - 港V Dumbo 化!",
+                        "author": "Dumbo子[生物系Vtuber]"
+                    },
+                    {
+                        "video_code": "xJI389sEeo8",
+                        "image": "https://i.ytimg.com/vi/xJI389sEeo8/hqdefault.jpg",
+                        "title": "[Mario Kart] 第一屆Dumbo 聯動賽車杯 #賽你個車 feat.Yona, 瑠花, 粟米,あり",
+                        "author": "Dumbo子[生物系Vtuber]"
+                    }
+                ]
+            }
+        }
+    ]
+}

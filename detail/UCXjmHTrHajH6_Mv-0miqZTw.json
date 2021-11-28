@@ -1,0 +1,155 @@
+{
+    "id": "UCXjmHTrHajH6_Mv-0miqZTw",
+    "header": {
+        "name": "ノテアユグNotiaYug",
+        "image": "https://yt3.ggpht.com/hb1LMfXQ8DsYaY3PeAU6_ORsPhWlo-5-TueHgtoE98S553_SnsDP4UPDzyiiAF4-rAX6dkEu=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/qbnbQvKIqHj-V8ybLIQrQQIWGJyN-0Mq07UzahU_gsceRL-wNEqYp__ztwopBujd9TZWwdeQCw"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E2UqPlNVkAQxLPg?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E2UqPlNVkAQxLPg?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/E2UqQt6VgAMvMUM?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E2UqQt6VgAMvMUM?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/E2UqReGVUAU9-Du?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E2UqReGVUAU9-Du?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#ノテアユグ",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#瘋狂精靈世界",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#朋友",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCXjmHTrHajH6_Mv-0miqZTw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "VtuberNotiaYug"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/notia.yug.3"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "4x7Rfo-Rezk",
+                        "image": "https://i.ytimg.com/vi/4x7Rfo-Rezk/hqdefault.jpg",
+                        "title": "【香港Vtuber自我介紹】堅稱自己係精靈嘅Vtuber?!／ノテアユグ#01",
+                        "author": "ノテアユグNotiaYug"
+                    },
+                    {
+                        "video_code": "oh88KQkB-ak",
+                        "image": "https://i.ytimg.com/vi/oh88KQkB-ak/hqdefault.jpg",
+                        "title": "【香港Vtuber】精靈翻唱 KING【Kanaria】／ノテアユグ#66",
+                        "author": "ノテアユグNotiaYug"
+                    },
+                    {
+                        "video_code": "2vYN_utirmk",
+                        "image": "https://i.ytimg.com/vi/2vYN_utirmk/hqdefault.jpg",
+                        "title": "【香港Vtuber】精靈翻唱『獸拳戰隊』／ノテアユグ#30",
+                        "author": "ノテアユグNotiaYug"
+                    },
+                    {
+                        "video_code": "lizslduxCqU",
+                        "image": "https://i.ytimg.com/vi/lizslduxCqU/hqdefault.jpg",
+                        "title": "【香港Vtuber】精靈翻唱 君にできるなにか／ノテアユグ#40",
+                        "author": "ノテアユグNotiaYug"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "H29rY0aBKXM",
+                        "image": "https://i.ytimg.com/vi/H29rY0aBKXM/hqdefault.jpg",
+                        "title": "{有聲}我抽卡抽到人同我玩APEX /w RedBlueCP+airu",
+                        "author": "ノテアユグNotiaYug"
+                    },
+                    {
+                        "video_code": "n45INaeIQvI",
+                        "image": "https://i.ytimg.com/vi/n45INaeIQvI/hqdefault.jpg",
+                        "title": "打比賽-動物之鬪V家盃雙拳出擊",
+                        "author": "ノテアユグNotiaYug"
+                    },
+                    {
+                        "video_code": "sksDWwwff0s",
+                        "image": "https://i.ytimg.com/vi/sksDWwwff0s/hqdefault.jpg",
+                        "title": "雜 談 精 靈",
+                        "author": "ノテアユグNotiaYug"
+                    }
+                ]
+            }
+        }
+    ]
+}

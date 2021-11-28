@@ -1,0 +1,83 @@
+{
+    "id": "UC1jCOsHmO2oOq5paDu_l1Ew",
+    "header": {
+        "name": "空鈦SORATA【HKVTuber】",
+        "image": "https://yt3.ggpht.com/8cStbsI5TzEWPU2g-L5eHh8UnCPg8MZUzNznPWuu-9blNL3aqsDPKXZ1o0-D5xHiYOkvusgocWQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#空鈦研究日記",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#鈦合金HIFI",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#鈦空畫畫",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#鈦仔",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#空鈦故障中",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC1jCOsHmO2oOq5paDu_l1Ew"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "sorata153916"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": "UCYArS4aaUfJTOhWt70SbmBQ",
+    "header": {
+        "name": "澤莎Zsa ch.",
+        "image": "https://yt3.ggpht.com/kC_vb0imMZlIRu5wgG51kkqWhRBrTmsYypKNBxkvVbJsZM1B13n75obhOs3A78W7jkldjWs_rGM=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCYArS4aaUfJTOhWt70SbmBQ"
+                    }
+                ]
+            }
+        }
+    ]
+}

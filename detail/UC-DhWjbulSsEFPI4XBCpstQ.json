@@ -1,0 +1,168 @@
+{
+    "id": "UC-DhWjbulSsEFPI4XBCpstQ",
+    "header": {
+        "name": "Reiyi Ch.森月澪依 【HKVTuber】",
+        "image": "https://yt3.ggpht.com/fbtAPuVpvH5IWeRIseXSoRtH3IhNpQ9M3AV4dT2-cMav025HD7fSjdUYY2eZVsuzVKonSuiQyBQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/rzOMu9rXleCaEIeCez8DsKELDx60XLvCeuBwbQ_hKoXjYrfdyhit9YRGBJ0zN0W9XOLV24ra"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E-3BrCoVIBIcX7O?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E-3BrCoVIBIcX7O?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "小時候被遺棄在森林，被住在森林的狐狸爸爸發現並收養下來，\n跟狐狸爸爸和一些收養的小動物一直住在森林裡過著簡單的生活。\n作為家中的長女，為了可以更快幫助狐狸爸爸，目前努力學習外面的世界中。\n所以請大家多多指教哦～"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#狐狸小窩",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#澪依學習日常",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#森狐之繪",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#Boge",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#狐狸狐塗",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Mark",
+                        "content": "🦊👓🐣",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC-DhWjbulSsEFPI4XBCpstQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "moritsukireiyi"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/%E6%A3%AE%E6%9E%97%E7%9A%84%E7%8B%90%E5%B0%8F%E7%AA%A9-104700425226538"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "US3nQUAhyaM",
+                        "image": "https://i.ytimg.com/vi/US3nQUAhyaM/hqdefault.jpg",
+                        "title": "【自我介紹】要來抱走小狐狸嗎?OuO [森月れい/HKVtuber]",
+                        "author": "Reiyi Ch.森月澪依 【HKVTuber】"
+                    },
+                    {
+                        "video_code": "Oh7zaw108g8",
+                        "image": "https://i.ytimg.com/vi/Oh7zaw108g8/hqdefault.jpg",
+                        "title": "聽說現在很夯這個OuO [森月れい/HKVtuber]",
+                        "author": "Reiyi Ch.森月澪依 【HKVTuber】"
+                    },
+                    {
+                        "video_code": "YhXTeW3I9oY",
+                        "image": "https://i.ytimg.com/vi/YhXTeW3I9oY/hqdefault.jpg",
+                        "title": "Reiyi Ankha Dance???  [森月れい/HKVtuber]",
+                        "author": "Reiyi Ch.森月澪依 【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "9Qfgt0cz8Zg",
+                        "image": "https://i.ytimg.com/vi/9Qfgt0cz8Zg/hqdefault.jpg",
+                        "title": "【初配信】可愛狐狸要出道了？[森月れい/HKVtuber]",
+                        "author": "Reiyi Ch.森月澪依 【HKVTuber】"
+                    },
+                    {
+                        "video_code": "tEszbUcsLUI",
+                        "image": "https://i.ytimg.com/vi/tEszbUcsLUI/hqdefault.jpg",
+                        "title": "【傾聽畫語: 最美好的景色】初配後第一款遊戲就獻給你啦w [森月れい/HKVtuber]",
+                        "author": "Reiyi Ch.森月澪依 【HKVTuber】"
+                    },
+                    {
+                        "video_code": "2gmyRzY2XXU",
+                        "image": "https://i.ytimg.com/vi/2gmyRzY2XXU/hqdefault.jpg",
+                        "title": "【Phasmophobia聯動】可愛妹子抓鬼敢死隊出動（X  [森月れい/HKVtuber]",
+                        "author": "Reiyi Ch.森月澪依 【HKVTuber】"
+                    },
+                    {
+                        "video_code": "anKu2siR5vE",
+                        "image": "https://i.ytimg.com/vi/anKu2siR5vE/hqdefault.jpg",
+                        "title": "【滿月酒雜OuO】澪依才不會醉!!! + 棉花糖 [森月れい/HKVtuber]",
+                        "author": "Reiyi Ch.森月澪依 【HKVTuber】"
+                    },
+                    {
+                        "video_code": "vE6oGavigAU",
+                        "image": "https://i.ytimg.com/vi/vE6oGavigAU/hqdefault.jpg",
+                        "title": "【Little Nightmare #1】希望不會被嚇死QAQ  [森月れい/HKVtuber]",
+                        "author": "Reiyi Ch.森月澪依 【HKVTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

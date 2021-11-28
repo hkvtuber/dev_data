@@ -1,0 +1,132 @@
+{
+    "id": "UCHqLezo6ib691BhcAADOlCQ",
+    "header": {
+        "name": "Milky ch. 星野ミウキ",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLTvW0j4lmPk06XS59vQagJU8Zk-6cpNaoQHWLhZ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/BxldRaz2A0yO4eB5kzRGmJ0-vD6GyxoaKOkvIM7SyAEkMTGKbr3UUvSkj8lWO1X7x2OuH-93yQ"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "來自外太空的ミウキ，\n因要進行修行離開了母星，來到了藍星！\n發現出道Vtuber似乎非常有挑戰性，她決定試著藉着出道獲得寶貴的修行經歷✨"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCHqLezo6ib691BhcAADOlCQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Hoshinomilky"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/%E6%98%9F%E9%87%8E%E3%83%9F%E3%82%A6%E3%82%ADHoshinoMilky%E9%A6%99%E6%B8%AFvtuber-112322337625725/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "jkHLJIAu_HQ",
+                        "image": "https://i.ytimg.com/vi/jkHLJIAu_HQ/hqdefault.jpg",
+                        "title": "【自我介紹】來自拉莫拉夫的Milky來襲！【星野ミウキ】【香港Vtuber】",
+                        "author": "Milky ch. 星野ミウキ"
+                    },
+                    {
+                        "video_code": "PJRhxADFUtI",
+                        "image": "https://i.ytimg.com/vi/PJRhxADFUtI/hqdefault.jpg",
+                        "title": "【歌ってみた】夜明けと蛍【星野ミウキ】【香港Vtuber】",
+                        "author": "Milky ch. 星野ミウキ"
+                    },
+                    {
+                        "video_code": "MohJCRCxnRk",
+                        "image": "https://i.ytimg.com/vi/MohJCRCxnRk/hqdefault.jpg",
+                        "title": "【歌ってみた】灰色と青＋菅田将暉/米津玄師【星野ミウキ】【香港Vtuber】",
+                        "author": "Milky ch. 星野ミウキ"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "1Ftt_MGfy4M",
+                        "image": "https://i.ytimg.com/vi/1Ftt_MGfy4M/hqdefault.jpg",
+                        "title": "【初配信】各位藍星人，準備好了嗎？最能吃（?）的外星人出道啦！",
+                        "author": "Milky ch. 星野ミウキ"
+                    },
+                    {
+                        "video_code": "50sIaZZMfag",
+                        "image": "https://i.ytimg.com/vi/50sIaZZMfag/hqdefault.jpg",
+                        "title": "【2.0!!】逾期的生日2.0終終終於...【HKVtuber】【星野ミウキ】",
+                        "author": "Milky ch. 星野ミウキ"
+                    },
+                    {
+                        "video_code": "eE1WQBDZGYo",
+                        "image": "https://i.ytimg.com/vi/eE1WQBDZGYo/hqdefault.jpg",
+                        "title": "【睡眠台】噩夢——來襲。【HKVtuber】【星野ミウキ】",
+                        "author": "Milky ch. 星野ミウキ"
+                    },
+                    {
+                        "video_code": "mof8RGI0s9c",
+                        "image": "https://i.ytimg.com/vi/mof8RGI0s9c/hqdefault.jpg",
+                        "title": "【RingFit】魔力不足只好運動減肥。【HKVtuber】【星野ミウキ】",
+                        "author": "Milky ch. 星野ミウキ"
+                    },
+                    {
+                        "video_code": "h0rIdYYg7gE",
+                        "image": "https://i.ytimg.com/vi/h0rIdYYg7gE/hqdefault.jpg",
+                        "title": "【繪圖台#5】畫港V AMOGUS。【HKVtuber】【星野ミウキ】",
+                        "author": "Milky ch. 星野ミウキ"
+                    },
+                    {
+                        "video_code": "JTJSYQfwRHk",
+                        "image": "https://i.ytimg.com/vi/JTJSYQfwRHk/hqdefault.jpg",
+                        "title": "【練歌台】想要認真修煉...【HKVtuber】【星野ミウキ】",
+                        "author": "Milky ch. 星野ミウキ"
+                    }
+                ]
+            }
+        }
+    ]
+}

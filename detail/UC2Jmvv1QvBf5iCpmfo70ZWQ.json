@@ -1,0 +1,168 @@
+{
+    "id": "UC2Jmvv1QvBf5iCpmfo70ZWQ",
+    "header": {
+        "name": "Bana Ch. 白沢バナ",
+        "image": "https://yt3.ggpht.com/fg76YmxN41g0cEYZbmRZEFvaWHOy85VzZ3RMOYk6mQig-V9uLznRoePWOeVDdwnv3stDVtHG2w=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/r1x-zLM1m1t6O13FJOUxMq6NiG3DBzYo3ULdazTHgPyqdq1SY027dkMolpRoFeVDYC0UP4OB0Q"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E7ejAgYUYAQGzQ9?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E7ejAgYUYAQGzQ9?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/E7ejAgaVcAIu5bF?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E7ejAgaVcAIu5bF?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#白沢日常",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#白沢之音",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#白鴨小屋",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#鹹鴨蛋",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#白鴨小屋",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "時間表Tag",
+                        "content": "#白沢週記",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC2Jmvv1QvBf5iCpmfo70ZWQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "hkvbana"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "i3uzEoWLwYw",
+                        "image": "https://i.ytimg.com/vi/i3uzEoWLwYw/hqdefault.jpg",
+                        "title": "【香港ＶＴｕｂｅｒ】白澤バナ🦆 • 自我介紹",
+                        "author": "Bana Ch. 白沢バナ"
+                    },
+                    {
+                        "video_code": "VOXZ7jr-vh4",
+                        "image": "https://i.ytimg.com/vi/VOXZ7jr-vh4/hqdefault.jpg",
+                        "title": "〖 COVER 〗香港早抖 ver.白沢バナ〖 HKVTUBER 〗",
+                        "author": "Bana Ch. 白沢バナ"
+                    },
+                    {
+                        "video_code": "ejWhn7W6Ptw",
+                        "image": "https://i.ytimg.com/vi/ejWhn7W6Ptw/hqdefault.jpg",
+                        "title": "【錄音初體驗】Ado／踊【#新人VTuber​​​】",
+                        "author": "Bana Ch. 白沢バナ"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "CeGlgomJwtE",
+                        "image": "https://i.ytimg.com/vi/CeGlgomJwtE/hqdefault.jpg",
+                        "title": "【初配信】白澤バナ【香港VTuber】",
+                        "author": "Bana Ch. 白沢バナ"
+                    },
+                    {
+                        "video_code": "HEsw13znS4s",
+                        "image": "https://i.ytimg.com/vi/HEsw13znS4s/hqdefault.jpg",
+                        "title": "〖２.０新衣發表〗新的開始，新的出發！〖HKVTUBER〗",
+                        "author": "Bana Ch. 白沢バナ"
+                    },
+                    {
+                        "video_code": "-bvywuw-Dgc",
+                        "image": "https://i.ytimg.com/vi/-bvywuw-Dgc/hqdefault.jpg",
+                        "title": "【雜談台】工作完該睡了 大家今晚見【#新人VTuber​​​】",
+                        "author": "Bana Ch. 白沢バナ"
+                    },
+                    {
+                        "video_code": "whGmHi78HgU",
+                        "image": "https://i.ytimg.com/vi/whGmHi78HgU/hqdefault.jpg",
+                        "title": "〖 耐久天光台 〗我們一起睡吧...〖HKVTUBER〗",
+                        "author": "Bana Ch. 白沢バナ"
+                    },
+                    {
+                        "video_code": "kcdVajyemuw",
+                        "image": "https://i.ytimg.com/vi/kcdVajyemuw/hqdefault.jpg",
+                        "title": "〖 半週年凸待 / 觀眾場 〗雖然已經半週年但我還是社恐〖 白沢バナ ‧ HKVTUBER 〗",
+                        "author": "Bana Ch. 白沢バナ"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "id": "UCMKGEIheyuKcPutQfKCx4zA",
+    "header": {
+        "name": "竺重[佛系出沒中]",
+        "image": "https://yt3.ggpht.com/sj2_AcjeEYJjXTeKdLiAwI6gKJj_8tY5dzD17O_p2nn1wxAyG7p2VtDTOBpiZ8wRdLMJlfS1=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/KzqKLgZtukAFcztx_xZRFCxkOOehJCdarwUkaEB0t7ccCn4go0BgDhIiSNKGd-P9u2qBy92c2A"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "前異世界神明，目前是一條蟲\n語言大概會兩文三語"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCMKGEIheyuKcPutQfKCx4zA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "chongzhu07"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/chongzhu07/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "d9ffpLv9p6A",
+                        "image": "https://i.ytimg.com/vi/d9ffpLv9p6A/hqdefault.jpg",
+                        "title": "[初（？）配信]清楚天真單純可愛偶像系少女|HK VTuber|竺重",
+                        "author": "竺重[佛系出沒中]"
+                    },
+                    {
+                        "video_code": "ioPIZ8OY34U",
+                        "image": "https://i.ytimg.com/vi/ioPIZ8OY34U/hqdefault.jpg",
+                        "title": "[歌][-]哭泣注意|HK VTuber|竺重",
+                        "author": "竺重[佛系出沒中]"
+                    },
+                    {
+                        "video_code": "1Bx5JzWzPT0",
+                        "image": "https://i.ytimg.com/vi/1Bx5JzWzPT0/hqdefault.jpg",
+                        "title": "[蟲的衣櫃超級大]水手服|HK VTuber|竺重",
+                        "author": "竺重[佛系出沒中]"
+                    },
+                    {
+                        "video_code": "UEV0me-jrq0",
+                        "image": "https://i.ytimg.com/vi/UEV0me-jrq0/hqdefault.jpg",
+                        "title": "[說好的10小時]除非我暈左唔會停，暈左記得幫我call白車|HK  VTuber|竺重",
+                        "author": "竺重[佛系出沒中]"
+                    },
+                    {
+                        "video_code": "SeBilAbFKgM",
+                        "image": "https://i.ytimg.com/vi/SeBilAbFKgM/hqdefault.jpg",
+                        "title": "[偽畫畫台]歷史&神話|HK VTuber|竺重",
+                        "author": "竺重[佛系出沒中]"
+                    }
+                ]
+            }
+        }
+    ]
+}

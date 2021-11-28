@@ -1,0 +1,171 @@
+{
+    "id": "UCYPr6jNySMcfpjheFi61U8w",
+    "header": {
+        "name": "Kurona Ch.酒吞クロナ",
+        "image": "https://yt3.ggpht.com/WScIDrVCvtOEdc3YBNxbpgzt19GXhNKhISOgbkk9qRxUiU98cZIJEYr5dKAYWPj8BkiTvjt6=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/T6YQe1QzaOUECtfc1fCxb6gUGGRsJVKGGtfWcZDm2RPK3DLpgTrtzWyzft3kBp5HLY6hCDoctF0"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FCEQeGTWUAAdg11?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FCEQeGTWUAAdg11?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "作為一隻惡鬼嘅967，平日做的事情就是兇兇地踢一下街邊的空瓶子，沒事做的時候就去網吧打打電動。在家瘋狂的喝果汁。聽起來可怕極了對吧？那是當然的。\n\n老娘可是惡鬼的大頭目—酒吞 玖蘿娜"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "7月14日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "50001歲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "150cm",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "喜歡",
+                        "content": "Apex/Lol",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文",
+                        "heightRate": "2.00"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCYPr6jNySMcfpjheFi61U8w"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "kurona967ch"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/people/Oni-Kurona/100066262665214/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "wF2EEsUX8d0",
+                        "image": "https://i.ytimg.com/vi/wF2EEsUX8d0/hqdefault.jpg",
+                        "title": "【自我介紹】我是惡鬼老大，不服來戰？【HKvtuber/酒吞玖蘿娜】",
+                        "author": "Kurona Ch.酒吞クロナ"
+                    },
+                    {
+                        "video_code": "3VZ4vPcF5II",
+                        "image": "https://i.ytimg.com/vi/3VZ4vPcF5II/hqdefault.jpg",
+                        "title": "【COVER】Magnet 歌ってみた【HKvtuber/ 酒吞 玖蘿娜&希琉 柏洛斯‧】",
+                        "author": "Kurona Ch.酒吞クロナ"
+                    },
+                    {
+                        "video_code": "e_uX21TlA6E",
+                        "image": "https://i.ytimg.com/vi/e_uX21TlA6E/hqdefault.jpg",
+                        "title": "【歌ってみた】KING / 酒吞クロナ cover",
+                        "author": "Kurona Ch.酒吞クロナ"
+                    },
+                    {
+                        "video_code": "xecjiArS5UI",
+                        "image": "https://i.ytimg.com/vi/xecjiArS5UI/hqdefault.jpg",
+                        "title": "【歌ってみた】カワキヲアメクShort Ver./美波【hkvtuber/酒吞玖蘿娜】",
+                        "author": "Kurona Ch.酒吞クロナ"
+                    },
+                    {
+                        "video_code": "5L8SY8XWVQk",
+                        "image": "https://i.ytimg.com/vi/5L8SY8XWVQk/hqdefault.jpg",
+                        "title": "【HKvtuber/酒吞玖蘿娜】開場動畫配上專業解說(的廢片)我死了",
+                        "author": "Kurona Ch.酒吞クロナ"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "TNv3dLwDIes",
+                        "image": "https://i.ytimg.com/vi/TNv3dLwDIes/hqdefault.jpg",
+                        "title": "【初配信】惡鬼組初次集合【HKvtuber/酒吞クロナ】",
+                        "author": "Kurona Ch.酒吞クロナ"
+                    },
+                    {
+                        "video_code": "o2GjmxxOzSs",
+                        "image": "https://i.ytimg.com/vi/o2GjmxxOzSs/hqdefault.jpg",
+                        "title": "【歌雜】突發！頭頭又來唱歌啦，有你聽過的嗎【HKvtuber/酒吞クロナ】",
+                        "author": "Kurona Ch.酒吞クロナ"
+                    },
+                    {
+                        "video_code": "GP2wWyLj3jI",
+                        "image": "https://i.ytimg.com/vi/GP2wWyLj3jI/hqdefault.jpg",
+                        "title": "【滿月歌回】滿月大感謝！一路走來因為有你在【HKvtuber/酒吞クロナ】",
+                        "author": "Kurona Ch.酒吞クロナ"
+                    },
+                    {
+                        "video_code": "VpkgTEiDef8",
+                        "image": "https://i.ytimg.com/vi/VpkgTEiDef8/hqdefault.jpg",
+                        "title": "【台詞回】甚麼台詞都好，頭目接受你的挑戰了【HKvtuber/酒吞クロナ】",
+                        "author": "Kurona Ch.酒吞クロナ"
+                    },
+                    {
+                        "video_code": "ol6iNodu5E4",
+                        "image": "https://i.ytimg.com/vi/ol6iNodu5E4/hqdefault.jpg",
+                        "title": "【歌雜】台灣歌限定歌雜，有你聽過的嗎【HKvtuber/酒吞クロナ】",
+                        "author": "Kurona Ch.酒吞クロナ"
+                    }
+                ]
+            }
+        }
+    ]
+}

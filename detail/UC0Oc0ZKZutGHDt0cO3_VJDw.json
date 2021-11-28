@@ -1,0 +1,140 @@
+{
+    "id": "UC0Oc0ZKZutGHDt0cO3_VJDw",
+    "header": {
+        "name": "G11 Ch. 步槍的那個",
+        "image": "https://yt3.ggpht.com/nmjAZPswF5p3IikLMrrAguWNyOQRu81v-ha2ETDFP4TdNzcgb5JicdJPFMoq-Jv0kGJwJz7b=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/Fn1BwcFti9zRh3emn3gqW-TO0HpQyXpbOZJUxxEnYl7EL1ikBiQgVpwsPnVkx4XZ4kUGpd1R"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E5Qv9GaVEAMyXrY?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E5Qv9GaVEAMyXrY?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/E5Qv9GYVIAY28b0?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E5Qv9GYVIAY28b0?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "G11 K2突擊步槍🔫"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#g11復刻中",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#g11art",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#無殼彈",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#g11art",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC0Oc0ZKZutGHDt0cO3_VJDw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "G11Vtuber"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "CJ_cDLxVrII",
+                        "image": "https://i.ytimg.com/vi/CJ_cDLxVrII/hqdefault.jpg",
+                        "title": "大家都在玩vtuber100問【hkvtuber】*字幕*",
+                        "author": "G11 Ch.🔫"
+                    },
+                    {
+                        "video_code": "73baUAXG2DM",
+                        "image": "https://i.ytimg.com/vi/73baUAXG2DM/hqdefault.jpg",
+                        "title": "【初見】盧海鵬試咪 (・∀・)【hkvtuber】#shorts",
+                        "author": "G11 Ch.🔫"
+                    },
+                    {
+                        "video_code": "Sjr2aF85U0k",
+                        "image": "https://i.ytimg.com/vi/Sjr2aF85U0k/hqdefault.jpg",
+                        "title": "【開箱】介紹G11突擊步槍🔫【香港vtuber】*字幕*",
+                        "author": "G11 Ch.🔫"
+                    },
+                    {
+                        "video_code": "hoXZUpr_xfc",
+                        "image": "https://i.ytimg.com/vi/hoXZUpr_xfc/hqdefault.jpg",
+                        "title": "vtuber的30種髮型💇【香港vtuber】*字幕*",
+                        "author": "G11 Ch.🔫"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "sMEFvZUnhhQ",
+                        "image": "https://i.ytimg.com/vi/sMEFvZUnhhQ/hqdefault.jpg",
+                        "title": "【二之國#1】吉卜力版刀劍神域？！👨🏻‍🦳【hkvtuber】",
+                        "author": "G11 Ch.🔫"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "id": "UCd3mg3OLSri8ZWic8M5qnMw",
+    "header": {
+        "name": "小鳥遊璃墨Takanashi Rimo Ch.",
+        "image": "https://yt3.ggpht.com/VWUeAXjN4NzCDQ0gkztG4NZKLLjG_eol95b1oO3Psve7_8SNwHhLKrPpWkwKzArUWTWMzaIt=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/a3HhNctpZ95B_GkFgoko2GW9UUwBfGV0Np1MnFuRbLRJ9Dl9Q9jzvD_jWc-vQwHo6nywZOILESw"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E1a5pTCUUAYiazh?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E1a5pTCUUAYiazh?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#貓星人出沒請注意",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#喵喵叫",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#RimoFanArt",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCd3mg3OLSri8ZWic8M5qnMw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "takanashirimo"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "ERCVtSD5p-s",
+                        "image": "https://i.ytimg.com/vi/ERCVtSD5p-s/hqdefault.jpg",
+                        "title": "【HB2赤洛】彼女は旅に出る/她踏上了旅程【歌ってみた】（原創PV附）",
+                        "author": "小鳥遊璃墨Takanashi Rimo Ch."
+                    },
+                    {
+                        "video_code": "6GF9zQLDVT8",
+                        "image": "https://i.ytimg.com/vi/6GF9zQLDVT8/hqdefault.jpg",
+                        "title": "【女生5人】I MISS YOU（原創PV付）",
+                        "author": "小鳥遊璃墨Takanashi Rimo Ch."
+                    },
+                    {
+                        "video_code": "rxSOg5c4KuQ",
+                        "image": "https://i.ytimg.com/vi/rxSOg5c4KuQ/hqdefault.jpg",
+                        "title": "【小鳥遊リモ】しゅわりん☆どり〜みん ☆歌ってみたい【原創PV付】（625生日投稿）",
+                        "author": "小鳥遊璃墨Takanashi Rimo Ch."
+                    },
+                    {
+                        "video_code": "1zXnwc0tRw8",
+                        "image": "https://i.ytimg.com/vi/1zXnwc0tRw8/hqdefault.jpg",
+                        "title": "【香港女生4人】太陽と向日葵【絕美原創PV付】",
+                        "author": "小鳥遊璃墨Takanashi Rimo Ch."
+                    }
+                ]
+            }
+        }
+    ]
+}

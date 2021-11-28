@@ -1,0 +1,124 @@
+{
+    "id": "UCNeVkzAwpsRtf6nyBrcvicg",
+    "header": {
+        "name": "水瀨鮭魚 ch.【新人HK VTuber 】",
+        "image": "https://yt3.ggpht.com/LDyY6j5K149I3V_TTA9vgN8MgrDXYm6G4jkdFK9YTOJ2NzKe5EY_Rl5WO6y3ilNCP7pRC7HJ0A=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/PWQOoKtULRi5qI_SH6V91UWLhz2It-u9Q971X7qoQqDiJuNeg0QeCjeUabpUWdheDh5qkmc25w"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#水瀨生放送",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#水瀨的旋轉旋轉鮭魚刺身",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#水瀨鮭魚的秘密",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#水瀨的火炙鮭魚",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCNeVkzAwpsRtf6nyBrcvicg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "minasesalmon118"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "iXcvT9u9C6I",
+                        "image": "https://i.ytimg.com/vi/iXcvT9u9C6I/hqdefault.jpg",
+                        "title": "水瀨鮭魚 HKVtuber 那個人一定是你",
+                        "author": "水瀨鮭魚 ch.【新人HK VTuber 】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "zK-1Vnnr1sg",
+                        "image": "https://i.ytimg.com/vi/zK-1Vnnr1sg/hqdefault.jpg",
+                        "title": "第一話！水瀨鮭魚 VS 血輪千和CHiWa 初配大作戰 (上半場)",
+                        "author": "水瀨鮭魚 ch.【新人HK VTuber 】"
+                    },
+                    {
+                        "video_code": "ig0HpNQficc",
+                        "image": "https://i.ytimg.com/vi/ig0HpNQficc/hqdefault.jpg",
+                        "title": "第一話！水瀨鮭魚 VS 血輪千和CHiWa 初配大作戰(下半場)",
+                        "author": "水瀨鮭魚 ch.【新人HK VTuber 】"
+                    },
+                    {
+                        "video_code": "AZNRp0Q8ECM",
+                        "image": "https://i.ytimg.com/vi/AZNRp0Q8ECM/hqdefault.jpg",
+                        "title": "第六話！掉那星！邊間教會架你！放距魯冇假突發歌台！[8小時歌回]",
+                        "author": "水瀨鮭魚 ch.【新人HK VTuber 】"
+                    },
+                    {
+                        "video_code": "TnS5LPwMxcM",
+                        "image": "https://i.ytimg.com/vi/TnS5LPwMxcM/hqdefault.jpg",
+                        "title": "第十四集 抗拒勞動！我要傳火 dark soul 3 唱住歌仔傳火火 / Dicey Dungeons",
+                        "author": "水瀨鮭魚 ch.【新人HK VTuber 】"
+                    }
+                ]
+            }
+        }
+    ]
+}

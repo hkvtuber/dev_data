@@ -1,0 +1,110 @@
+{
+    "id": "UCFNx4Mm9k0oXAY_1wgmamcg",
+    "header": {
+        "name": "神崎狂三 & XXX (HKvtuber)",
+        "image": "https://yt3.ggpht.com/YLRkcOSpvJUKyImw9qGOgnPngHUEUwpP_I2MbqUp-_yRwHy12xpm7kDEP-AanKqPr2JEvjUn=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/KRFB0I6WAtBupVUdUoYsx_HBRX9nOrPK6gFxOgLKpAUYSSi0257wqirlEbqa-p79jkExokIUCw"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "我父母一次戰敗受到所羅門七十二柱魔神之一的詛咒，因而讓我繼承了這個詛咒。\n某次天界之戰中，讓我被詛咒覺醒成為了一名墮天使。\n但在這一次的戰爭，讓我錯手傷害了我愛的人。\n為了修復她的身體，我將她的靈魂寄放在她送給我的公仔裡面。\n一次穿越世界錯手，讓公仔離開了我。\n但是我找回它了。\n它失去了原本的記憶，但沒關係。\n你再次回到我身邊了，你要等我，我會讓你再次回到我身邊。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCFNx4Mm9k0oXAY_1wgmamcg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "KanzakiKurumi"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "_QeHxl9NFDc",
+                        "image": "https://i.ytimg.com/vi/_QeHxl9NFDc/hqdefault.jpg",
+                        "title": "我要出道了嗎? 不理了先出自我介紹",
+                        "author": "迪莫尼奧 & 狄瓦思 (HKvtuber)"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "0tUtPS64XG4",
+                        "image": "https://i.ytimg.com/vi/0tUtPS64XG4/hqdefault.jpg",
+                        "title": "(續)【香港VTuber直播】女神異聞錄5皇家版 EP.1 這是屬於我的面具!?",
+                        "author": "迪莫尼奧 & 狄瓦思 (HKvtuber)"
+                    },
+                    {
+                        "video_code": "1RBNKg0H3AU",
+                        "image": "https://i.ytimg.com/vi/1RBNKg0H3AU/hqdefault.jpg",
+                        "title": "【香港VTuber直播】 生日祭 努力吃棉花糖 + DBD用鬼賺血點",
+                        "author": "迪莫尼奧 & 狄瓦思 (HKvtuber)"
+                    },
+                    {
+                        "video_code": "MUd07PCyLuA",
+                        "image": "https://i.ytimg.com/vi/MUd07PCyLuA/hqdefault.jpg",
+                        "title": "【香港VTuber直播】Phigros EP.2 挑戰一日解鎖所有魔王曲",
+                        "author": "迪莫尼奧 & 狄瓦思 (HKvtuber)"
+                    },
+                    {
+                        "video_code": "z_7l2tOtBvI",
+                        "image": "https://i.ytimg.com/vi/z_7l2tOtBvI/hqdefault.jpg",
+                        "title": "【香港VTuber直播】女神異聞錄5皇家版 EP.7 努力尋找下個目標",
+                        "author": "迪莫尼奧 & 狄瓦思 (HKvtuber)"
+                    },
+                    {
+                        "video_code": "QjG22YJ3Hys",
+                        "image": "https://i.ytimg.com/vi/QjG22YJ3Hys/hqdefault.jpg",
+                        "title": "【香港VTuber直播】JOJO 天國之眼 EP.耐久台 JOJO另一個故事即將展開??",
+                        "author": "迪莫尼奧 & 狄瓦思 (HKvtuber)"
+                    }
+                ]
+            }
+        }
+    ]
+}

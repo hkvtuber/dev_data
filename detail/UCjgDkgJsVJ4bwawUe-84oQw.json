@@ -1,0 +1,78 @@
+{
+    "id": "UCjgDkgJsVJ4bwawUe-84oQw",
+    "header": {
+        "name": "水原 愛理【香港Vtuber】",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLTwWoCXqAKkS559uQ5VZcijhDZg6ZAogwzbWbKU=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FC7wU8GVQAA9D2Z?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FC7wU8GVQAA9D2Z?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "一個會魔法的魔鬼魚~\n居住在Malo World◝(●˙꒳˙●)◜ \n現就讀萊恩哈特魔法學院 一年級新生🔮\n-波提亞王國現任國王-\n以後請多多指教啦~~"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCjgDkgJsVJ4bwawUe-84oQw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Mizuhara_Airi"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/MizuChannel0305"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/mizuhara_airi/"
+                    }
+                ]
+            }
+        }
+    ]
+}

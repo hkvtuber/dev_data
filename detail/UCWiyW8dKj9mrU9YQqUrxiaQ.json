@@ -1,0 +1,94 @@
+{
+    "id": "UCWiyW8dKj9mrU9YQqUrxiaQ",
+    "header": {
+        "name": "魔王城電台 Yozora Radio",
+        "image": "https://yt3.ggpht.com/qqr5ZxyzWYxF_A0qoLK23wyf6QYLoOfMh7I1mb1dHfMLNnLBLBLV1gNtSQ7KZHF0_O3qG_vHYF8=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/WmY8WxOKYkz8MzUfS2RrKhEdDSnfaxWxVguZeqX0Yg2FlGBREcKsk3ww3FeHL3QF7NV9A_neYyE"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/Eu6iC17UYBEdBwb?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Eu6iC17UYBEdBwb?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "魔王大人的廣播電台\n開台時間會在twitter預告\n跟隨我吧, 人類!"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n英文",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#王之演說",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#星空之夜曲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#星に夜空へ",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#夜國的子民",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCWiyW8dKj9mrU9YQqUrxiaQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "KanzakiYozora"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/KanzakiYozora/"
+                    }
+                ]
+            }
+        }
+    ]
+}

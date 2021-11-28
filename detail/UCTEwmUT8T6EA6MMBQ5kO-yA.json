@@ -1,0 +1,102 @@
+{
+    "id": "UCTEwmUT8T6EA6MMBQ5kO-yA",
+    "header": {
+        "name": "MxM • MIR VTuber",
+        "image": "https://yt3.ggpht.com/Ggf80rBWTVr9qEYVF2bC2q-TQ8sQzgfHmxTmaE2LUTOM5O1FeypJcIvqXwWIk7_Tzid0bBKsEg8=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/zG1phyIUfOBNhmG7VDOLL976IyctfJmIAS9lUIOlo1ErJaI_g48519YBrhNUhkMI1af2W-HaLgw"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "RACE QUEEN / RQ（レースクイーン）MIR（ミラ）原型屬 SKYLINE GT-R BNR34。\n於 2002 年停產，在此於 MIR VTuber RACING CIRCUIT 延續東瀛戰神之傳奇。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCTEwmUT8T6EA6MMBQ5kO-yA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "MxMMirVTuber"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/MxMMirVTuber"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "7IAmkKBiTN0",
+                        "image": "https://i.ytimg.com/vi/7IAmkKBiTN0/hqdefault.jpg",
+                        "title": "【MxM • MIR】公告板 • MIR 潛水多月，終以 VTuber 身份浮回水面！",
+                        "author": "MxM • MIR VTuber"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "6kuDE7debbg",
+                        "image": "https://i.ytimg.com/vi/6kuDE7debbg/hqdefault.jpg",
+                        "title": "【MxM • MIR】旅遊歷：3 晚公海遊 - 星夢郵輪「雲頂夢號」Dream Cruises：Genting Dream",
+                        "author": "MxM • MIR VTuber"
+                    },
+                    {
+                        "video_code": "fuRSjrViqC4",
+                        "image": "https://i.ytimg.com/vi/fuRSjrViqC4/hqdefault.jpg",
+                        "title": "【MxM • MIR】超時空之鑰 / 時空之輪 / クロノ・トリガー /（Chrono Trigger）（1）",
+                        "author": "MxM • MIR VTuber"
+                    },
+                    {
+                        "video_code": "9giW9H2-ZhI",
+                        "image": "https://i.ytimg.com/vi/9giW9H2-ZhI/hqdefault.jpg",
+                        "title": "【MxM • MIR】刀劍神域彼岸遊境 / ソードアート・オンライン アリシゼーションリコリス / （SWORD ART ONLINE Alicization Lycoris）（6）",
+                        "author": "MxM • MIR VTuber"
+                    }
+                ]
+            }
+        }
+    ]
+}

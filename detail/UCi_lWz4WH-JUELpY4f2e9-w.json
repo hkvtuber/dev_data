@@ -1,0 +1,116 @@
+{
+    "id": "UCi_lWz4WH-JUELpY4f2e9-w",
+    "header": {
+        "name": "HKBakaSs",
+        "image": "https://yt3.ggpht.com/XwrjOWZPnPgGY1HBGO3L_QtD6ZsEZ7nje6CCJKVQIGNkttRFVGqmXRQl6ZbwIUwySLKCx8NoKBY=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/AsfXINCZBRRi1SyoKIkWzHiqSCBnrtbqOjBpXN6sEOqGKXtf1vsajd5NP4qPVl2aszfYs0PgsA"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "這頻道現正作為vtuber進行各種活動"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCi_lWz4WH-JUELpY4f2e9-w"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/bakasyoutuber/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "ho98b6_mTgk",
+                        "image": "https://i.ytimg.com/vi/ho98b6_mTgk/hqdefault.jpg",
+                        "title": "HkVtuber一問一答自我介紹.翔Ver",
+                        "author": "HKBakaSs"
+                    },
+                    {
+                        "video_code": "Xwt6gVLIaj0",
+                        "image": "https://i.ytimg.com/vi/Xwt6gVLIaj0/hqdefault.jpg",
+                        "title": "HKVtuber一問一答自我介紹.梅子Ver",
+                        "author": "HKBakaSs"
+                    },
+                    {
+                        "video_code": "3qQBgxty57w",
+                        "image": "https://i.ytimg.com/vi/3qQBgxty57w/hqdefault.jpg",
+                        "title": "[馬鹿動畫]第一話-CLS插班生",
+                        "author": "HKBakaSs"
+                    },
+                    {
+                        "video_code": "q2CO8Xa7-Ck",
+                        "image": "https://i.ytimg.com/vi/q2CO8Xa7-Ck/hqdefault.jpg",
+                        "title": "馬鹿動畫第二話-米津玄師搗亂電台",
+                        "author": "HKBakaSs"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "XDgpfh7Gpfo",
+                        "image": "https://i.ytimg.com/vi/XDgpfh7Gpfo/hqdefault.jpg",
+                        "title": "[Hkvtuber][粵]突發感情台節目",
+                        "author": "HKBakaSs"
+                    },
+                    {
+                        "video_code": "c0WvOV-HMZk",
+                        "image": "https://i.ytimg.com/vi/c0WvOV-HMZk/hqdefault.jpg",
+                        "title": "[香港馬鹿電台]第五集-鬼故",
+                        "author": "HKBakaSs"
+                    },
+                    {
+                        "video_code": "A9puIiAC3T0",
+                        "image": "https://i.ytimg.com/vi/A9puIiAC3T0/hqdefault.jpg",
+                        "title": "[Vtuber][粵]一齊黎玩史上最黑暗既遊戲-魷魚遊戲 拎唔到456億唔關台",
+                        "author": "HKBakaSs"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "id": "UCpWpaKzmuJhSkYe-B-179PA",
+    "header": {
+        "name": "十七夜佳奈【香港Vtuber】",
+        "image": "https://yt3.ggpht.com/v4TGSkQp83IR8s8PgS7OoqsVCBPHIdSUzFe_JMpRGkt7_ksmRAtM4LZNpXUM-azHEG5ez3hI8Q=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/Xi4u74X07f6XX1kQPOKGEFOPxQHOevo-SneXDGuFE9Vg207BkEfIZ4QrGYEwiJ9bXwUVaCrd"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "存在於香港某個地方， 由傳説組成的——愉悅的魔女。 "
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "5月25日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#佳奈每天都愉快",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#十七的夜晚",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCpWpaKzmuJhSkYe-B-179PA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "KanagiKeina"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/keinakanagi/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "hFwhV1GvSYE",
+                        "image": "https://i.ytimg.com/vi/hFwhV1GvSYE/hqdefault.jpg",
+                        "title": "【自我介紹】愉悅的魔女！嗒達！登場！！【香港vtuber 十七夜佳奈】",
+                        "author": "十七夜佳奈【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "6XI96kl7zk0",
+                        "image": "https://i.ytimg.com/vi/6XI96kl7zk0/hqdefault.jpg",
+                        "title": "【YOASOBI】怪物 /covered by 十七夜佳奈",
+                        "author": "十七夜佳奈【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "zN5o5MSmhcg",
+                        "image": "https://i.ytimg.com/vi/zN5o5MSmhcg/hqdefault.jpg",
+                        "title": "【花譜】未確認少女進行形/covered by 十七夜佳奈",
+                        "author": "十七夜佳奈【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "yIy4AjIT7Eg",
+                        "image": "https://i.ytimg.com/vi/yIy4AjIT7Eg/hqdefault.jpg",
+                        "title": "【cinnamon × evening cinema 】summertime /covered by 十七夜佳奈",
+                        "author": "十七夜佳奈【香港Vtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "HR6jg0OL82w",
+                        "image": "https://i.ytimg.com/vi/HR6jg0OL82w/hqdefault.jpg",
+                        "title": "「【歌枠】爲了深夜的你能夠安眠。【十七夜佳奈】」的副本",
+                        "author": "十七夜佳奈【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "VNCxxYGYDqg",
+                        "image": "https://i.ytimg.com/vi/VNCxxYGYDqg/hqdefault.jpg",
+                        "title": "【＃2021魔女血月祭​ 】一周年！（自稱）誕生日！ 本體召喚！【十七夜佳奈】",
+                        "author": "十七夜佳奈【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "EJOEdHRnHXs",
+                        "image": "https://i.ytimg.com/vi/EJOEdHRnHXs/hqdefault.jpg",
+                        "title": "【歌枠】聽説你想聽到佳奈的歌聲？【十七夜佳奈】",
+                        "author": "十七夜佳奈【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "YAmTNr1cCs0",
+                        "image": "https://i.ytimg.com/vi/YAmTNr1cCs0/hqdefault.jpg",
+                        "title": "[記憶刪除]慎入，内含讓人發瘋興奮的儀式，可能導致恐慌",
+                        "author": "十七夜佳奈【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "bbEu7oCo9p4",
+                        "image": "https://i.ytimg.com/vi/bbEu7oCo9p4/hqdefault.jpg",
+                        "title": "【Minecraft】夜釣。雜談。【十七夜佳奈】",
+                        "author": "十七夜佳奈【香港Vtuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

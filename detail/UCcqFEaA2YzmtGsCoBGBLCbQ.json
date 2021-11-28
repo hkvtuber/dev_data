@@ -1,0 +1,175 @@
+{
+    "id": "UCcqFEaA2YzmtGsCoBGBLCbQ",
+    "header": {
+        "name": "紡霊拉比 / Bourei Rabbi【HKVTuber】",
+        "image": "https://yt3.ggpht.com/ESbNKZ_D9Jf1O9byJ1M0troKUZ6JfPRzOj6yhFT1N05fQXDMWsWVNbRz48UFrp-sGPLxql3YSQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/kczZGZna9wStKDGEMz2tc5f0eqmAh9gtHX4Ig1sqgmPct0CwbTdq3s6t5AQIodsPUq-_fKDlhw"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/ExPuzS6WgAQ1nVq?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/ExPuzS6WgAQ1nVq?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/E1p-iG4VIAAB9hY?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E1p-iG4VIAAB9hY?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "☆°．\n\n從2000年前陷入沉睡，無法轉生的四次元幽靈少女。\n近日甦醒得到一副身軀，似乎可以出現在舞台上，因此決定在轉生前實現夢想——\n「「「成為IDOL，在舞台上閃閃發光！」」」 \n\n現正作為個人勢的Virtual IDOL活動中，平日直播內容主要是唱歌、遊戲、學習等。\n\n☆°．"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#Rabbi公演中",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#Rabbi彩蛋",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#拉麵包",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#合法唔拉",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#Rabbito\n#有色芝士",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCcqFEaA2YzmtGsCoBGBLCbQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "boureirabbi"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "K-rYbLzTUwA",
+                        "image": "https://i.ytimg.com/vi/K-rYbLzTUwA/hqdefault.jpg",
+                        "title": "【自我介绍】目標是成為王道IDOL！沉睡了2000年的幽靈能做到嗎？【紡霊拉比/香港VTuber】",
+                        "author": "紡霊拉比 / Bourei Rabbi【HKVTuber】"
+                    },
+                    {
+                        "video_code": "kZahoKkRcjk",
+                        "image": "https://i.ytimg.com/vi/kZahoKkRcjk/hqdefault.jpg",
+                        "title": "グッバイ宣言 (Cover) / 紡霊拉比",
+                        "author": "紡霊拉比 / Bourei Rabbi【HKVTuber】"
+                    },
+                    {
+                        "video_code": "BScLIvD_XvY",
+                        "image": "https://i.ytimg.com/vi/BScLIvD_XvY/hqdefault.jpg",
+                        "title": "少女レイ (Cover) / 紡霊拉比",
+                        "author": "紡霊拉比 / Bourei Rabbi【HKVTuber】"
+                    },
+                    {
+                        "video_code": "aoI3BMbedGk",
+                        "image": "https://i.ytimg.com/vi/aoI3BMbedGk/hqdefault.jpg",
+                        "title": "Give it back (Cover) 粵語填詞ver. / 紡霊拉比",
+                        "author": "紡霊拉比 / Bourei Rabbi【HKVTuber】"
+                    },
+                    {
+                        "video_code": "y-9_aBcDZXE",
+                        "image": "https://i.ytimg.com/vi/y-9_aBcDZXE/hqdefault.jpg",
+                        "title": "幽霊東京(Cover) / 紡霊拉比",
+                        "author": "紡霊拉比 / Bourei Rabbi【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "pcfCc9DY7yQ",
+                        "image": "https://i.ytimg.com/vi/pcfCc9DY7yQ/hqdefault.jpg",
+                        "title": "【初配信】擅自居住在大家心靈的幽靈練習生，登場！【紡霊拉比/香港VTuber】",
+                        "author": "紡霊拉比 / Bourei Rabbi【HKVTuber】"
+                    },
+                    {
+                        "video_code": "wneFaKyl9TM",
+                        "image": "https://i.ytimg.com/vi/wneFaKyl9TM/hqdefault.jpg",
+                        "title": "【2.0 新衣裝】在舞台上閃閃發光的新人IDOL！【紡霊拉比/香港VTuber】",
+                        "author": "紡霊拉比 / Bourei Rabbi【HKVTuber】"
+                    },
+                    {
+                        "video_code": "qak0ZVMIAG4",
+                        "image": "https://i.ytimg.com/vi/qak0ZVMIAG4/hqdefault.jpg",
+                        "title": "【一日唱歌】SINGING ALL DAY!!!【紡霊拉比/香港VTuber】",
+                        "author": "紡霊拉比 / Bourei Rabbi【HKVTuber】"
+                    },
+                    {
+                        "video_code": "iod0RY8t3K0",
+                        "image": "https://i.ytimg.com/vi/iod0RY8t3K0/hqdefault.jpg",
+                        "title": "【一日拉比】七月的尾班車～！💚和大家輕鬆11hr耐久🤍【紡霊拉比/香港VTuber】",
+                        "author": "紡霊拉比 / Bourei Rabbi【HKVTuber】"
+                    },
+                    {
+                        "video_code": "hphPhnwnmc4",
+                        "image": "https://i.ytimg.com/vi/hphPhnwnmc4/hqdefault.jpg",
+                        "title": "【一日拉比】終於！解放了！可能有一半時間在睡覺（。）【紡霊拉比/香港VTuber】",
+                        "author": "紡霊拉比 / Bourei Rabbi【HKVTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "id": "UCA-bHh3eI-xq-QPnhxS_Epg",
+    "header": {
+        "name": "ちえみ 千咲｜chiemi ch.",
+        "image": "https://yt3.ggpht.com/ntCaMEVOI_ohdXH4945Nuus4qmDW2RvuZCb7RmCznAToxdJKnKwkY-HiMb99PiRFZuSiT7q63w=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/7nAkXHw1-FdlMe7JJ78rBts4H-134g93TgpPBDXczeyyZUqErd7Guq0AFq8K8yeusdWNqsZh"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "準備中！"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCA-bHh3eI-xq-QPnhxS_Epg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "chiemidesu0"
+                    }
+                ]
+            }
+        }
+    ]
+}

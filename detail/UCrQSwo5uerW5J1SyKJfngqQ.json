@@ -1,0 +1,165 @@
+{
+    "id": "UCrQSwo5uerW5J1SyKJfngqQ",
+    "header": {
+        "name": "GP07_VTUBE",
+        "image": "https://yt3.ggpht.com/7PusFRIVoEHn0JTxK5XyrtY1FwQLJmN6oCOLCJuJG9lJdqrlXlrR4aTP9WPdeTFAu86qd9hqiA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/ovWUgtU-iZlzToKeCIaK97r05OikRmcLhE-Tzvw9RNMK21ocuIkP_J2A0SZmdM7F-gXy11GQJf8"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/EzlFJ_xUcAAJ16D?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/EzlFJ_xUcAAJ16D?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "來自神秘的星球Emptiness的無能機，"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#GP07出擊",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#GP07圖片檔案",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#重複犯錯的人類",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#GP07殘光",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#機掰迷因",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCrQSwo5uerW5J1SyKJfngqQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "GP07_2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "r-nH03Cuj6U",
+                        "image": "https://i.ytimg.com/vi/r-nH03Cuj6U/hqdefault.jpg",
+                        "title": "【自我介紹】我是香港的機械人VTUBER,GP07!",
+                        "author": "GP07_VTUBE"
+                    },
+                    {
+                        "video_code": "9Vwz1vI1adk",
+                        "image": "https://i.ytimg.com/vi/9Vwz1vI1adk/hqdefault.jpg",
+                        "title": "【翻唱】Just Communication 粵語填詞版-《世界要動容》",
+                        "author": "GP07_VTUBE"
+                    },
+                    {
+                        "video_code": "R0nvmUi922U",
+                        "image": "https://i.ytimg.com/vi/R0nvmUi922U/hqdefault.jpg",
+                        "title": "【GP子翻唱】水の星へ愛をこめて",
+                        "author": "GP07_VTUBE"
+                    },
+                    {
+                        "video_code": "FVhGAfszWuI",
+                        "image": "https://i.ytimg.com/vi/FVhGAfszWuI/hqdefault.jpg",
+                        "title": "【粵語配音】GP07...你攻擊了我的村莊？",
+                        "author": "GP07_VTUBE"
+                    },
+                    {
+                        "video_code": "EnQ8qDNeiuU",
+                        "image": "https://i.ytimg.com/vi/EnQ8qDNeiuU/hqdefault.jpg",
+                        "title": "【GP子翻唱】ゴクドルミュージック 後街女孩GP子",
+                        "author": "GP07_VTUBE"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "M2V1MfnhadE",
+                        "image": "https://i.ytimg.com/vi/M2V1MfnhadE/hqdefault.jpg",
+                        "title": "【硬核機甲】#1 翔べ!GP07!",
+                        "author": "GP07_VTUBE"
+                    },
+                    {
+                        "video_code": "vN2alECGtC8",
+                        "image": "https://i.ytimg.com/vi/vN2alECGtC8/hqdefault.jpg",
+                        "title": "【治療低血壓】在召喚峽谷中送頭",
+                        "author": "GP07_VTUBE"
+                    },
+                    {
+                        "video_code": "vEMdSQnk03Q",
+                        "image": "https://i.ytimg.com/vi/vEMdSQnk03Q/hqdefault.jpg",
+                        "title": "【MINECRAFT】#2 GP07要當礦工！WITH DUMBO子",
+                        "author": "GP07_VTUBE"
+                    },
+                    {
+                        "video_code": "lJSxhfQvO0c",
+                        "image": "https://i.ytimg.com/vi/lJSxhfQvO0c/hqdefault.jpg",
+                        "title": "【MINECRAFT】#1 GP07要白手起家！WITH DUMBO子",
+                        "author": "GP07_VTUBE"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "id": "UCOGDUmy_6Gvv_HLSbS_0ntQ",
+    "header": {
+        "name": "卡絲塔【香港VTuber】",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLT_KjoPRO-QYVPOOvUmUeudYauPTVNWrU_MCWkb=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/lPDS-RWLAqOH5UiyEJsjKS2A0YRkXo9UDK0-Zs4KDlF07XxNT7NyQXYO7m5edT1KEOGOb8ihoxw"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/EpFuH8RVEAAJ1HC?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/EpFuH8RVEAAJ1HC?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#卡直播",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#卡圖",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCOGDUmy_6Gvv_HLSbS_0ntQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "carsta0"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "EFotx8dRgwg",
+                        "image": "https://i.ytimg.com/vi/EFotx8dRgwg/hqdefault.jpg",
+                        "title": "【香港VTuber】卡絲塔的自我介紹",
+                        "author": "卡絲塔【香港VTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "cGmPKydE2ZQ",
+                        "image": "https://i.ytimg.com/vi/cGmPKydE2ZQ/hqdefault.jpg",
+                        "title": "【初直播】14:00 小魔女諾貝塔 來打機吧~【卡絲塔／香港VTuber】",
+                        "author": "卡絲塔【香港VTuber】"
+                    },
+                    {
+                        "video_code": "LRtyAHS0cGE",
+                        "image": "https://i.ytimg.com/vi/LRtyAHS0cGE/hqdefault.jpg",
+                        "title": "【棉歌】台詞棉花糖+廣東話卡通歌回【卡絲塔／香港VTuber】",
+                        "author": "卡絲塔【香港VTuber】"
+                    },
+                    {
+                        "video_code": "WMGOps4URUI",
+                        "image": "https://i.ytimg.com/vi/WMGOps4URUI/hqdefault.jpg",
+                        "title": "【繪圖】修羅練畫台(自修練習畫背景)【卡絲塔／香港VTuber】",
+                        "author": "卡絲塔【香港VTuber】"
+                    },
+                    {
+                        "video_code": "qr_F42NQLYs",
+                        "image": "https://i.ytimg.com/vi/qr_F42NQLYs/hqdefault.jpg",
+                        "title": "【繪圖】畫畫台(畫中秋賀圖~【卡絲塔／香港VTuber】",
+                        "author": "卡絲塔【香港VTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

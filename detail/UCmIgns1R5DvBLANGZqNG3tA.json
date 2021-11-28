@@ -1,0 +1,110 @@
+{
+    "id": "UCmIgns1R5DvBLANGZqNG3tA",
+    "header": {
+        "name": "雷達 Ch. 【新人HKVtuber】",
+        "image": "https://yt3.ggpht.com/LtAhtf2XkfQnX0P7beeOM0TiIj3GkPK8_9AfVuOi-veC9rM5urSp54RzcUsA88O4qEgiS3phew=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://lh3.googleusercontent.com/1ZJmnO126i8vFRU2deFTn5oPkFycuJj6VUwU6ZaUXEIeU2BcElr-z7BWEPIhOzlqkVn8GxNlkg"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "大家好我是雷達 "
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCmIgns1R5DvBLANGZqNG3tA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Tatgorxd"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "FZiqNLYIPK8",
+                        "image": "https://i.ytimg.com/vi/FZiqNLYIPK8/hqdefault.jpg",
+                        "title": "雷達Gaming Minecraft Creative skyblock模組包安裝教學(國語版本)",
+                        "author": "雷達 Ch. 【新人HKVtuber】"
+                    },
+                    {
+                        "video_code": "LNm6XZPGaCc",
+                        "image": "https://i.ytimg.com/vi/LNm6XZPGaCc/hqdefault.jpg",
+                        "title": "雷達Gaming Creative Skyblock 礦物生產流水線設計理念 (國語",
+                        "author": "雷達 Ch. 【新人HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "9PvFMFZkOSE",
+                        "image": "https://i.ytimg.com/vi/9PvFMFZkOSE/hqdefault.jpg",
+                        "title": "當1個畫畫大佬+3個畫畫廢柴+1個崩壞天才挽畫畫接龍會發生咩事 pt.1  Ft. 了鳥 オスカ",
+                        "author": "雷達 Ch. 【新人HKVtuber】"
+                    },
+                    {
+                        "video_code": "i2TLwU5I0jo",
+                        "image": "https://i.ytimg.com/vi/i2TLwU5I0jo/hqdefault.jpg",
+                        "title": "雷達Gaming Minecraft直播(creative skyblock) 第3集(下)~  目標:自動化礦物",
+                        "author": "雷達 Ch. 【新人HKVtuber】"
+                    },
+                    {
+                        "video_code": "SRSUGgYVPBU",
+                        "image": "https://i.ytimg.com/vi/SRSUGgYVPBU/hqdefault.jpg",
+                        "title": "雷達Gaming Minecraft直播(Creative skyblock) 順便宣傳鬼鬼新頻道(雖然我沒多少觀眾就是) 第1集~",
+                        "author": "雷達 Ch. 【新人HKVtuber】"
+                    },
+                    {
+                        "video_code": "z4fgAPFypzw",
+                        "image": "https://i.ytimg.com/vi/z4fgAPFypzw/hqdefault.jpg",
+                        "title": "雷達Ch.  R6直播   歡迎觀眾留名加入www",
+                        "author": "雷達 Ch. 【新人HKVtuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

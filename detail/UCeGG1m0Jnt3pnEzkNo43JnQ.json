@@ -1,0 +1,122 @@
+{
+    "id": "UCeGG1m0Jnt3pnEzkNo43JnQ",
+    "header": {
+        "name": "雪櫃 / Reiha",
+        "image": "https://yt3.ggpht.com/v2OH8VGSje42xwqinMzQNMvJJS_tjrH_Tu06BtsHbcclcOl24NmbEzqwcX8Z580oJjX7gaiD1w=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/EF-svGS0s7Tdjf_5TCHnaz5Muy9_Lf74BJGJnIE0RzKMCnb5ozSoIabtqtUQ91ZflXgk8GUZPUs"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FEGn9vfXIAItkgW?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FEGn9vfXIAItkgW?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "曾經服務過一個小家庭，已經退役\n因為很多原因現在變成了人類\n在那個家庭裏，有個很喜歡畫畫的小孩\n那個小孩常常把他的畫貼在自己身上\n雖然作為一個雪櫃根本沒有手，但是雪櫃也逐漸喜歡上了他的畫\n也開始擁有了自我意識\n看見自己的雪櫃後輩們日漸進步、功能越來越豐富，覺得自己也要去挑戰各種新事物，於是就開始嘗試起了當V"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#冷凍室",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#Reiha_Refri_Art",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCeGG1m0Jnt3pnEzkNo43JnQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Reiha_Refri"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/Reiha.refri/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "mujxkX5CLnI",
+                        "image": "https://i.ytimg.com/vi/mujxkX5CLnI/hqdefault.jpg",
+                        "title": "【初配信】「雪櫃、V出道！」自我介紹＋MHIB｜雪櫃/Reiha",
+                        "author": "雪櫃 / Reiha"
+                    },
+                    {
+                        "video_code": "Ijh1J2g1dUM",
+                        "image": "https://i.ytimg.com/vi/Ijh1J2g1dUM/hqdefault.jpg",
+                        "title": "【畫畫台】畫下自己中意嘅V~｜雪櫃/Reiha",
+                        "author": "雪櫃 / Reiha"
+                    },
+                    {
+                        "video_code": "M-2MoA3KI48",
+                        "image": "https://i.ytimg.com/vi/M-2MoA3KI48/hqdefault.jpg",
+                        "title": "【雪櫃自修科 - 香港麻將篇#1】從0開始學打麻將！｜雪櫃Reiha",
+                        "author": "雪櫃 / Reiha"
+                    },
+                    {
+                        "video_code": "TomVDxO-3mE",
+                        "image": "https://i.ytimg.com/vi/TomVDxO-3mE/hqdefault.jpg",
+                        "title": "【MHIB】玩到瞓為止｜雪櫃/Reiha",
+                        "author": "雪櫃 / Reiha"
+                    },
+                    {
+                        "video_code": "vObWfKN7P5c",
+                        "image": "https://i.ytimg.com/vi/vObWfKN7P5c/hqdefault.jpg",
+                        "title": "【雪櫃自修科 - 香港麻將篇#2】練習練習！｜雪櫃Reiha",
+                        "author": "雪櫃 / Reiha"
+                    }
+                ]
+            }
+        }
+    ]
+}

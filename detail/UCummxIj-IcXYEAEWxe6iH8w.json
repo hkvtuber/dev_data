@@ -1,0 +1,43 @@
+{
+    "id": "UCummxIj-IcXYEAEWxe6iH8w",
+    "header": {
+        "name": "凝聚社",
+        "image": "https://yt3.ggpht.com/_Yd80p_ZPjqYqI7OaBIvgEN4MXYxf80EzsFlm8oftizA42aNSKKmYykmU_gi2yT1BS9F-cvJXQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/f4_RQWf0DpS4sZ3h6JXyexDniX9tEZ3e4XFT1LLFU--uRBSdRzIl_FezrUtpYqfHpQ3tO9orpcM"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCummxIj-IcXYEAEWxe6iH8w"
+                    }
+                ]
+            }
+        }
+    ]
+}

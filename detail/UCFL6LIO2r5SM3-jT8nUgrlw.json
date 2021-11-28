@@ -1,0 +1,108 @@
+{
+    "id": "UCFL6LIO2r5SM3-jT8nUgrlw",
+    "header": {
+        "name": "Nao ch. 伊織なお【HKVTuber】",
+        "image": "https://yt3.ggpht.com/3VjxmHAmTPow8HgSOnf8QbZAkhU4j4xKDkGDFMTDEIvx3u2TDzPNd2lxpsNvVklRVFFGvpyH=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/rautS8y9Rj_yxd57cCLAJGgIsDXAPraC9m-fxW_Ujgw8jvJDVvpPwVCQlXzt1c84c4-Yng40ktU"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FEUeYTVVUAE_4xc?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FEUeYTVVUAE_4xc?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FEYP_60VgAU053A?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FEYP_60VgAU053A?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "✿。・ﾟﾟ･✿。・ﾟﾟ･✿。・ﾟﾟ･ ✿。・ﾟﾟ･\n\n🌸なお的故事🐹\n\nなお是出生自桜之國的少女，同時也是桜之列車公司旗下「夢幻號」列車的少女車長。\n\n由於人類世界居民覺得櫻花有著使人著迷的璀燦魔力，除了賺取收入，為希望能讓人類們隨時都能看到櫻花，桜之列車公司便成立了「夢幻號」列車，接載乘客來回桜之國。\n\n原本列車公司的收入倒是不錯，但因班次短缺及長期超負載而導致火車零件損壞，使「夢幻號」暫時失去了回到桜之國的能力。\n\n桜之列車公司為求穩定收支，只好暫時讓なお帶著桜草餅和「夢幻號」留在人類世界，以VTuber的模式為人類帶來快樂能力，及幫助桜之國及其公司度過難關。\n\n✿。・ﾟﾟ･✿。・ﾟﾟ･✿。・ﾟﾟ･ ✿。・ﾟﾟ･"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "企業勢\nMic On Project",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\r\n英文",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#Nao配信",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#Nao食糧",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#Naoの新幹線",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#乘客\n#櫻花瓣",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#Nao精神",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#Nao未食藥",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCFL6LIO2r5SM3-jT8nUgrlw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Iori_Nao0315"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/IoriNao/"
+                    }
+                ]
+            }
+        }
+    ]
+}

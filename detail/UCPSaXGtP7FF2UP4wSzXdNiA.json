@@ -1,0 +1,120 @@
+{
+    "id": "UCPSaXGtP7FF2UP4wSzXdNiA",
+    "header": {
+        "name": "川森千秋【香港VTuber】",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLTU5otDMbgF71BEwteCTvbiOYpzDZxaBanuDOQwhA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/AxdW4rrdhoGbkM66hAIXePhLPNLQUxNdmIntQr3lJH-sv_-ZOf9bir1e29fH_hZJVcRp31ObHw"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "一個住在隱世的狐狸\n想更了解現代的世界所以當VTuber"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCPSaXGtP7FF2UP4wSzXdNiA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "kawamori_chiaki"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/%E5%B7%9D%E6%A3%AE%E5%8D%83%E7%A7%8B%E9%A6%99%E6%B8%AFVTuber-189502912652368/?ref=page_internal"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "1XN2QKe4ojo",
+                        "image": "https://i.ytimg.com/vi/1XN2QKe4ojo/hqdefault.jpg",
+                        "title": "【HKVTuber】川森千秋我正式出道同各位見面啦♡【自我紹介】",
+                        "author": "川森千秋【香港VTuber】"
+                    },
+                    {
+                        "video_code": "_ZjPGwn4vF4",
+                        "image": "https://i.ytimg.com/vi/_ZjPGwn4vF4/hqdefault.jpg",
+                        "title": "Are you crazy??????【川森千秋】",
+                        "author": "川森千秋【香港VTuber】"
+                    },
+                    {
+                        "video_code": "2h3zoCyYqMk",
+                        "image": "https://i.ytimg.com/vi/2h3zoCyYqMk/hqdefault.jpg",
+                        "title": "我要征服藍星!!!【川森千秋】",
+                        "author": "川森千秋【香港VTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "uibHCNy3P8w",
+                        "image": "https://i.ytimg.com/vi/uibHCNy3P8w/hqdefault.jpg",
+                        "title": "【初配信】狐生的第一次直播! 來自隱世的狐狸??【香港VTuber】",
+                        "author": "川森千秋【香港VTuber】"
+                    },
+                    {
+                        "video_code": "cTjsBjowcg4",
+                        "image": "https://i.ytimg.com/vi/cTjsBjowcg4/hqdefault.jpg",
+                        "title": "對唔住! 你哋嘅千秋回來了!【香港VTuber】",
+                        "author": "川森千秋【香港VTuber】"
+                    },
+                    {
+                        "video_code": "KCRFKlwC-Z8",
+                        "image": "https://i.ytimg.com/vi/KCRFKlwC-Z8/hqdefault.jpg",
+                        "title": "【OSU】約定的OSU觀眾場~~ [川森千秋]【香港VTuber】",
+                        "author": "川森千秋【香港VTuber】"
+                    },
+                    {
+                        "video_code": "6V2QjL20HYw",
+                        "image": "https://i.ytimg.com/vi/6V2QjL20HYw/hqdefault.jpg",
+                        "title": "【OSU】終於可以打osu啦 [川森千秋]【香港VTuber】",
+                        "author": "川森千秋【香港VTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

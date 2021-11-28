@@ -1,0 +1,142 @@
+{
+    "id": "UCYXtBPnxZPX_cm6AZlRETYA",
+    "header": {
+        "name": "Mera Airu 米良アイル",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLRjSfSDEsyOjiDxxkynnUOqJRBtTeKroB5FQOrb8A=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/9lyq-BGnXn7w6UD0qnstD1CSPX1vFOmySuGnTl3ZP_o9U6WaHBdz_UNpiJiqL6ZhvAMGkH0cUg"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/EvOZ_fLUUAQkPs-?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/EvOZ_fLUUAQkPs-?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "🇭🇰🐼香港バーチャル高校生 米良アイル （Mera Airu）🐼"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCYXtBPnxZPX_cm6AZlRETYA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "meraairuchannel"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/MeraAiruChannel//"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "http://instagram.com/mera_airu/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "KcVXowOb3_E",
+                        "image": "https://i.ytimg.com/vi/KcVXowOb3_E/hqdefault.jpg",
+                        "title": "【香港虛擬YouTuber】初次見面！我係米良アイル～【香港VTuber】",
+                        "author": "米良 艾露 / Mera Airu"
+                    },
+                    {
+                        "video_code": "e5TG6YvQ3sQ",
+                        "image": "https://i.ytimg.com/vi/e5TG6YvQ3sQ/hqdefault.jpg",
+                        "title": "【香港人測試】我...慢慢就唔再係香港人？！（驚【香港VTuber】",
+                        "author": "米良 艾露 / Mera Airu"
+                    },
+                    {
+                        "video_code": "7xb19ZJBu4A",
+                        "image": "https://i.ytimg.com/vi/7xb19ZJBu4A/hqdefault.jpg",
+                        "title": "【初音未來合作活動】MIKU LAND GATE β in バーチャルキャスト",
+                        "author": "米良 艾露 / Mera Airu"
+                    },
+                    {
+                        "video_code": "KpXT105eG54",
+                        "image": "https://i.ytimg.com/vi/KpXT105eG54/hqdefault.jpg",
+                        "title": "第一次去了台灣藏壽司！！",
+                        "author": "米良 艾露 / Mera Airu"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "UeG-ZHZ_rxQ",
+                        "image": "https://i.ytimg.com/vi/UeG-ZHZ_rxQ/hqdefault.jpg",
+                        "title": "🔵【未來戰】為美好的未來而挺身作戰！【米良アイル】",
+                        "author": "米良 艾露 / Mera Airu"
+                    },
+                    {
+                        "video_code": "azrTL3aOXq4",
+                        "image": "https://i.ytimg.com/vi/azrTL3aOXq4/hqdefault.jpg",
+                        "title": "【Just Dance 2021】跳舞=運動（吧？）",
+                        "author": "米良 艾露 / Mera Airu"
+                    },
+                    {
+                        "video_code": "KhTJZfkGQig",
+                        "image": "https://i.ytimg.com/vi/KhTJZfkGQig/hqdefault.jpg",
+                        "title": "🟢【Apex配信】5點以前想要升上金牌！【米良アイル】",
+                        "author": "米良 艾露 / Mera Airu"
+                    },
+                    {
+                        "video_code": "IFYFLLmPB_s",
+                        "image": "https://i.ytimg.com/vi/IFYFLLmPB_s/hqdefault.jpg",
+                        "title": "🔴【お誕生日記念配信】踏入第2年既17歲少年【米良アイル】",
+                        "author": "米良 艾露 / Mera Airu"
+                    }
+                ]
+            }
+        }
+    ]
+}

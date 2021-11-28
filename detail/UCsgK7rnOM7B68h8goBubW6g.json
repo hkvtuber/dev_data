@@ -1,0 +1,108 @@
+{
+    "id": "UCsgK7rnOM7B68h8goBubW6g",
+    "header": {
+        "name": "錨星こすも Kosumo Ch.【HKVTuber】",
+        "image": "https://yt3.ggpht.com/bpS54ngMWj5GNC-bpti0pwhhqHLKt8GkDRGwCYyDtPesn6qxk4iGVaEKa-DGf8w9qC24eo5G=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/eCp0fiX2n-0ucSRFJG7Yc4XLHDX_Zzxz2pi00MFCkc-7f-awcqI6QoCzee7hRN4x6Mb1ggDP"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "最喜歡藍星的貓咪、寄居在藍星上某戶人家裡的宇宙人!\n錨星こすも ▸ Ikariboshi Kosumo ▸ 錨星小宙"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCsgK7rnOM7B68h8goBubW6g"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "kosumohkv"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/kosumoHKV"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "10OMMyFwKrc",
+                        "image": "https://i.ytimg.com/vi/10OMMyFwKrc/hqdefault.jpg",
+                        "title": "藍星人、可愛的貓咪們，你們好！Hello earthmen, lovely kittens! 【錨星こすも｜HKVTuber】",
+                        "author": "錨星こすも Kosumo Ch.【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "B0BgQU-ZjOw",
+                        "image": "https://i.ytimg.com/vi/B0BgQU-ZjOw/hqdefault.jpg",
+                        "title": "【初配信 | DebutStream】侵略同居人電腦成功！最愛貓咪的宇宙人要來了！【錨星こすも｜HKVTuber】",
+                        "author": "錨星こすも Kosumo Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "-tnLuz4vU88",
+                        "image": "https://i.ytimg.com/vi/-tnLuz4vU88/hqdefault.jpg",
+                        "title": "宇宙人 VS 壺男 #1(?)【錨星こすも｜HKVTuber】",
+                        "author": "錨星こすも Kosumo Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "iJJ2fK-g9Jo",
+                        "image": "https://i.ytimg.com/vi/iJJ2fK-g9Jo/hqdefault.jpg",
+                        "title": "突然繪圖～趕得上嗎？！【錨星こすも｜HKVTuber】",
+                        "author": "錨星こすも Kosumo Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "y5Anh24UVq8",
+                        "image": "https://i.ytimg.com/vi/y5Anh24UVq8/hqdefault.jpg",
+                        "title": "【Apex】初聯動！多元隊伍成最強？！宇宙人雷包豬隊友～【錨星こすも｜HKVTuber】",
+                        "author": "錨星こすも Kosumo Ch.【HKVTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

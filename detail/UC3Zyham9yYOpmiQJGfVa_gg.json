@@ -1,0 +1,156 @@
+{
+    "id": "UC3Zyham9yYOpmiQJGfVa_gg",
+    "header": {
+        "name": "Asame Ch.白熊あさめ",
+        "image": "https://yt3.ggpht.com/wK_5Q2umvUlAQ3ChtLEQY3UWCKQeclTrdLkMjkj_y5LNBtsaqB_ihpPrZfW_OIJ2JUJKCo7yMg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/xcQ9aR4hXP9tjhfbdFuwOcQJyQE4vAFQ5B9thQeW_vcTxj1aL7vNPSt8OC8pXkA57TS8Ry477g"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E8xAK_UUYAUWPTm?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E8xAK_UUYAUWPTm?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/E8xAK_QUcAYWObG?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E8xAK_QUcAYWObG?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "是一隻特別邊緣的熊貓姐姐，很少説話只會亂叫。每日偷懶&經常拖更。\n\n為了克服自己長期的社交恐懼而開始在網路上進行活動⋯⋯之類的，還請大家多多指教！🐼"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#北極熊貓出征",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#白熊_Art",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#本子熊",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#熊遊記錄",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC3Zyham9yYOpmiQJGfVa_gg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "kuma_asame"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/shiro_asame_v"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "aXtvyJXQoVI",
+                        "image": "https://i.ytimg.com/vi/aXtvyJXQoVI/hqdefault.jpg",
+                        "title": "【廢動畫】Dancing 熊糰？",
+                        "author": "Asame Ch.白熊あさめ"
+                    },
+                    {
+                        "video_code": "JdNw7SJxKM8",
+                        "image": "https://i.ytimg.com/vi/JdNw7SJxKM8/hqdefault.jpg",
+                        "title": "【香港VTuber】二次出道！白熊あさめの自我介紹",
+                        "author": "Asame Ch.白熊あさめ"
+                    },
+                    {
+                        "video_code": "BDUHyFriato",
+                        "image": "https://i.ytimg.com/vi/BDUHyFriato/hqdefault.jpg",
+                        "title": "【影片勢HKVTuber】白熊の自己紹介2.0ver",
+                        "author": "Asame Ch.白熊あさめ"
+                    },
+                    {
+                        "video_code": "_fd4X6mnihk",
+                        "image": "https://i.ytimg.com/vi/_fd4X6mnihk/hqdefault.jpg",
+                        "title": "【菜鳥級動畫】熊貓ダンゴくん01話: Boyon～熊貓糰子",
+                        "author": "Asame Ch.白熊あさめ"
+                    },
+                    {
+                        "video_code": "WvqNT394GQ8",
+                        "image": "https://i.ytimg.com/vi/WvqNT394GQ8/hqdefault.jpg",
+                        "title": "復歸⋯⋯⋯",
+                        "author": "Asame Ch.白熊あさめ"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "fmx0zB64RQ8",
+                        "image": "https://i.ytimg.com/vi/fmx0zB64RQ8/hqdefault.jpg",
+                        "title": "『重生，由此刻開始。』白熊あさめの真初配信 & 2.0初始服裝登場！【白熊あさめ／HKVTuber】",
+                        "author": "Asame Ch.白熊あさめ"
+                    },
+                    {
+                        "video_code": "ySv22N0DCOg",
+                        "image": "https://i.ytimg.com/vi/ySv22N0DCOg/hqdefault.jpg",
+                        "title": "LETS DRAW ANIMATION！！【白熊あさめ/HKVTuber】",
+                        "author": "Asame Ch.白熊あさめ"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "id": "UC2AU8M3cCsXlv-T7EHgFNeQ",
+    "header": {
+        "name": "chiyingchannel",
+        "image": "https://yt3.ggpht.com/3ggsfwWdByuZAbhpyi61PBOFNUNorFy4nj_eeHTzCm7tqnQYhLDOHnF1ZZrzm42_Ys_uI5v8cQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/3IjxkRY34I6wjc6Pt22tn1DNkup9SlJV6HCjbW8QIesesgielnjtK01UQ9Mc8cflVyW_K20HtA"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "這是子瑩，是來自香港細不足道的渺小翻唱。會唱日語及粵語作品。宅女及腐女一名，因些翻唱多和動漫有關。\n\n也因為喜愛動漫，現為自由身粵語配音員。\n如果支持我嘅，希望大家可以訂閱我的頻道。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC2AU8M3cCsXlv-T7EHgFNeQ"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/chiyingchannel/"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/chiying_owo_/"
+                    },
+                    {
+                        "key": "mewe",
+                        "path": "https://mewe.com/i/chiying"
+                    },
+                    {
+                        "key": "twitch",
+                        "path": "https://www.twitch.tv/chiying2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "1gZeTFO6bNU",
+                        "image": "https://i.ytimg.com/vi/1gZeTFO6bNU/hqdefault.jpg",
+                        "title": "【粵語翻唱】龍珠GT主題曲 - DAN DAN 心魅かれてく (我們都是孫悟空)【子瑩】",
+                        "author": "chiyingchannel"
+                    },
+                    {
+                        "video_code": "iVqJu7FtOss",
+                        "image": "https://i.ytimg.com/vi/iVqJu7FtOss/hqdefault.jpg",
+                        "title": "【粵語翻唱】無盡戰鬥(新機動戰記GUNDAM W 無盡的華爾茲 主題曲)【white reflection】",
+                        "author": "chiyingchannel"
+                    },
+                    {
+                        "video_code": "mPJpEe8WBPA",
+                        "image": "https://i.ytimg.com/vi/mPJpEe8WBPA/hqdefault.jpg",
+                        "title": "YOASOBI「夜に駆ける」 [粵語翻唱][子瑩]_The Home Take ver.",
+                        "author": "chiyingchannel"
+                    },
+                    {
+                        "video_code": "G6HbjVbHldA",
+                        "image": "https://i.ytimg.com/vi/G6HbjVbHldA/hqdefault.jpg",
+                        "title": "【粵語翻唱】群青 | 廣東話VER【子瑩】",
+                        "author": "chiyingchannel"
+                    },
+                    {
+                        "video_code": "fWKPyhnRsrA",
+                        "image": "https://i.ytimg.com/vi/fWKPyhnRsrA/hqdefault.jpg",
+                        "title": "鬼滅の刃《紅蓮華》[日文翻唱][子瑩]",
+                        "author": "chiyingchannel"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "heMLJ3uNMwM",
+                        "image": "https://i.ytimg.com/vi/heMLJ3uNMwM/hqdefault.jpg",
+                        "title": "悠閒突發歌回一小時_Singing corner",
+                        "author": "chiyingchannel"
+                    },
+                    {
+                        "video_code": "KG2pUkRBV6Y",
+                        "image": "https://i.ytimg.com/vi/KG2pUkRBV6Y/hqdefault.jpg",
+                        "title": "清談清唱，悠閒突發歌回",
+                        "author": "chiyingchannel"
+                    },
+                    {
+                        "video_code": "OKWgGa6EsPI",
+                        "image": "https://i.ytimg.com/vi/OKWgGa6EsPI/hqdefault.jpg",
+                        "title": "[中秋假突發歌回一小時]",
+                        "author": "chiyingchannel"
+                    }
+                ]
+            }
+        }
+    ]
+}

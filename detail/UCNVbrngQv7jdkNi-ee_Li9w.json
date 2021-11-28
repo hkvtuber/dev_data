@@ -1,0 +1,110 @@
+{
+    "id": "UCNVbrngQv7jdkNi-ee_Li9w",
+    "header": {
+        "name": "白棉花糖 white candy ch. 【香港VTuber】",
+        "image": "https://yt3.ggpht.com/u8IzcyKTjhLS48iQfrxxDGdwiYnPfXYMyRLiEWZfSZpxAHFOO08MUbWI3Er3wpFymxzTbsBa6A=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/aP3IjzX-t4wb-Cxd3lA7pK5FQizotqf_SMZ1JEFRR_Q3ZOI5_a1gjXgbZ9Fv_qBNb8ffFn5JzCs"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCNVbrngQv7jdkNi-ee_Li9w"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "whitecandy1224"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "YdIGJyu6Q5I",
+                        "image": "https://i.ytimg.com/vi/YdIGJyu6Q5I/hqdefault.jpg",
+                        "title": "白棉花糖...出道! 【自我介紹】【香港VTuber】",
+                        "author": "白棉花糖 white candy ch. 【香港VTuber】"
+                    },
+                    {
+                        "video_code": "N23PAqzJjv4",
+                        "image": "https://i.ytimg.com/vi/N23PAqzJjv4/hqdefault.jpg",
+                        "title": "白棉花糖 ★ AWSL (神經病 version)",
+                        "author": "白棉花糖 white candy ch. 【香港VTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "d_nDyguEh-M",
+                        "image": "https://i.ytimg.com/vi/d_nDyguEh-M/hqdefault.jpg",
+                        "title": "【男人愛高達,女人明唔明白?】高達常識問答比賽+清談節目 ft.社畜A星野ニア/矢花まい魅/TOTO potato/触愛ネロロ 【白棉花糖/HKvtuber】",
+                        "author": "白棉花糖 white candy ch. 【香港VTuber】"
+                    },
+                    {
+                        "video_code": "zA3grcanRKU",
+                        "image": "https://i.ytimg.com/vi/zA3grcanRKU/hqdefault.jpg",
+                        "title": ".io game 直播 【白棉花糖】",
+                        "author": "白棉花糖 white candy ch. 【香港VTuber】"
+                    },
+                    {
+                        "video_code": "BRMn2bNDQlU",
+                        "image": "https://i.ytimg.com/vi/BRMn2bNDQlU/hqdefault.jpg",
+                        "title": "畫HOLOMYTH #3【白棉花糖/HKvtuber】",
+                        "author": "白棉花糖 white candy ch. 【香港VTuber】"
+                    },
+                    {
+                        "video_code": "-pFNbbLoMns",
+                        "image": "https://i.ytimg.com/vi/-pFNbbLoMns/hqdefault.jpg",
+                        "title": "【Minecraft】ヽ(＾• ω •＾)丿【白棉花糖/HKvtuber】",
+                        "author": "白棉花糖 white candy ch. 【香港VTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

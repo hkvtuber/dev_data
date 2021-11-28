@@ -1,0 +1,70 @@
+{
+    "id": "UCpULFgZp1wwE2BfiN1a76tg",
+    "header": {
+        "name": "Mikan Ch.蜜柑[HKVTuber]",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLSqx3uj1cZD5-YxoJAgqG--z_7odMh4DWMqxrQf=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/ErWAkS5VQAAJeb8?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/ErWAkS5VQAAJeb8?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "來自魔界的底（邊）層（緣）魅魔。\n因為想要交到朋友跟憧憬成為Vtuber,\n來到了人類世界定居。\n然後就一發不可收拾的，\n迷上了人類的娛樂活動，\n現在一天不滑手機跟打遊戲就會死。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n日文",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCpULFgZp1wwE2BfiN1a76tg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Mikan_Succubus"
+                    }
+                ]
+            }
+        }
+    ]
+}

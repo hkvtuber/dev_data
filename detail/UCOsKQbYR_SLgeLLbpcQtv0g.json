@@ -1,0 +1,123 @@
+{
+    "id": "UCOsKQbYR_SLgeLLbpcQtv0g",
+    "header": {
+        "name": "Chris Taru",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLT82vdGSUaZPfwh-2OoRYsv7V7-mbBCLZ1Wp79N=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/t3h52ACAYO8ziqJiTFsQ4DhWo87dYO7YW5adYfyiXojNJXwF1-jr-11hx-pt0o6fr80SzUDW"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/EvypTcHVoAIzGUg?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/EvypTcHVoAIzGUg?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "係一個鍾意玩GBF同遊戲王嘅人\n有時候會嘗試各種唔同嘅遊戲\n希望能跟大家友善相處,請多多指教"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#Chris Taru",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#Taru直播中",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#CtArt",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCOsKQbYR_SLgeLLbpcQtv0g"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "chris_taru"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "LTq9mE-Lmzo",
+                        "image": "https://i.ytimg.com/vi/LTq9mE-Lmzo/hqdefault.jpg",
+                        "title": "【自我介紹】回歸配信!⭐終於返嚟喇~",
+                        "author": "Chris Taru"
+                    },
+                    {
+                        "video_code": "Dd4Ay8ZTYPk",
+                        "image": "https://i.ytimg.com/vi/Dd4Ay8ZTYPk/hqdefault.jpg",
+                        "title": "【GBF】來聊一下天吧!",
+                        "author": "Chris Taru"
+                    },
+                    {
+                        "video_code": "x5BoVYV5fjw",
+                        "image": "https://i.ytimg.com/vi/x5BoVYV5fjw/hqdefault.jpg",
+                        "title": "【GBF】新活動刷箱 目標係20箱",
+                        "author": "Chris Taru"
+                    },
+                    {
+                        "video_code": "sG1_fofqMfk",
+                        "image": "https://i.ytimg.com/vi/sG1_fofqMfk/hqdefault.jpg",
+                        "title": "【DMC5】狩獵惡魔的時間到了#1",
+                        "author": "Chris Taru"
+                    },
+                    {
+                        "video_code": "6fqKqhYF3AU",
+                        "image": "https://i.ytimg.com/vi/6fqKqhYF3AU/hqdefault.jpg",
+                        "title": "【GBF】陪我一齊刷擊滅戰!",
+                        "author": "Chris Taru"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "id": "UCgoD_Nc6f58_32QEGAaz77g",
+    "header": {
+        "name": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLQOH_50kGmxZv_nVhrqqI7pZ_AtkWmf96eS6j_mmA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/liIq2qVHrxUeLyOGmtDfN-UPCwKFtuh4zNHwvM5VG0nLl8dZK4PmfUfb-SemWNTARs0pkShT"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/Eup6x_DVkAMqknX?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Eup6x_DVkAMqknX?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "🍬砂糖"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#staysweet",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#sugart",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#龍鬚糖\n#dragonbeardcandy",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCgoD_Nc6f58_32QEGAaz77g"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "mizuyasatou"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "UNnQKC01Z5Q",
+                        "image": "https://i.ytimg.com/vi/UNnQKC01Z5Q/hqdefault.jpg",
+                        "title": "【自我介紹】水屋砂糖正式出道 Mizuya Sugar DEBUT ♡香港Vtuber♡",
+                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
+                    },
+                    {
+                        "video_code": "uCfzzGIkfEM",
+                        "image": "https://i.ytimg.com/vi/uCfzzGIkfEM/hqdefault.jpg",
+                        "title": "SAY SO - Doja Cat／Japanese Version (cover) by 音準糖 ♡香港Vtuber♡",
+                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
+                    },
+                    {
+                        "video_code": "Q9hccTs1k54",
+                        "image": "https://i.ytimg.com/vi/Q9hccTs1k54/hqdefault.jpg",
+                        "title": "可愛くなりたい - 成海聖奈 CV.：雨宮天 (cover) by 音準糖 ♡香港Vtuber♡",
+                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
+                    },
+                    {
+                        "video_code": "MKINDsbLjl4",
+                        "image": "https://i.ytimg.com/vi/MKINDsbLjl4/hqdefault.jpg",
+                        "title": "早晨呀各位 ♡香港Vtuber♡",
+                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "wZ3UWM9k-HI",
+                        "image": "https://i.ytimg.com/vi/wZ3UWM9k-HI/hqdefault.jpg",
+                        "title": "【精神初配信】砂糖第一次的初次見面♡香港Vtuber♡",
+                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
+                    },
+                    {
+                        "video_code": "msAMspXGiL8",
+                        "image": "https://i.ytimg.com/vi/msAMspXGiL8/hqdefault.jpg",
+                        "title": "【MONSTER HUNTER RISE】準備進入獵人世界🦖好興奮呀♡香港Vtuber♡",
+                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
+                    },
+                    {
+                        "video_code": "jpshH1hL7ok",
+                        "image": "https://i.ytimg.com/vi/jpshH1hL7ok/hqdefault.jpg",
+                        "title": "【突發】ASMR／砂糖深夜pillowtalk ♡香港Vtuber♡",
+                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "id": "UCWAtII_3EPw53F_i1vtGxyw",
+    "header": {
+        "name": "Yuria Ch. 稲荷ゆりあ",
+        "image": "https://yt3.ggpht.com/3dHel1OxY9uu220YZVAASVltpkTgkV93X5vECLNYYyXpqrBzgZANtNOJCLABbIULx-eWP8s8Tg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/Ne47BIFd_ZMy6-RI3uB7AfqpMsJup1_wHlOrHk1WGGaHf5_X6kMGuen5HCPISRcAqG6-sxZswA"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E2Le4dzVUAIcnS-?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E2Le4dzVUAIcnS-?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/E2Le4dzVgAAAAFf?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E2Le4dzVgAAAAFf?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "神社中的其中一隻小狐狸雕像，有一日夜晚偷偷地化為狐狸出去玩嘅時候蕩失路，比一個叫做Dickson 嘅人執咗返屋企之後對電腦產生好奇，之後求稻荷神將佢化做人類，狐狸變做人體驗咗電玩嘅美好之後，想搵返講廣東話嘅Dickson答謝，所以就成為咗香港嘅vtuber 希望透過電玩同直播搵返佢"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#giveuinarm",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#musinaric",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#yuriaart",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#dicsonPic",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#yuriamemes",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCWAtII_3EPw53F_i1vtGxyw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "yuria_inari"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "_wF5B1ofu5s",
+                        "image": "https://i.ytimg.com/vi/_wF5B1ofu5s/hqdefault.jpg",
+                        "title": "【自我介紹】稲荷小狐狸登場! [稲荷ゆりあ/HKVtuber]",
+                        "author": "Yuria Ch. 稲荷ゆりあ"
+                    },
+                    {
+                        "video_code": "zZAvMusrgLA",
+                        "image": "https://i.ytimg.com/vi/zZAvMusrgLA/hqdefault.jpg",
+                        "title": "【手描き】おなじ話 cover［稲荷ゆりあ/葵鼠たろう］",
+                        "author": "Yuria Ch. 稲荷ゆりあ"
+                    },
+                    {
+                        "video_code": "ft78s9dWVZA",
+                        "image": "https://i.ytimg.com/vi/ft78s9dWVZA/hqdefault.jpg",
+                        "title": "【自己紹介】vtuber 一問一答自己紹介[稲荷ゆりあ/HKVtuber]",
+                        "author": "Yuria Ch. 稲荷ゆりあ"
+                    },
+                    {
+                        "video_code": "vwKeKg6j0yo",
+                        "image": "https://i.ytimg.com/vi/vwKeKg6j0yo/hqdefault.jpg",
+                        "title": "ゆりあのことが好きですか？[稲荷ゆりあ/HKVtuber]",
+                        "author": "Yuria Ch. 稲荷ゆりあ"
+                    },
+                    {
+                        "video_code": "FaSd0avppOo",
+                        "image": "https://i.ytimg.com/vi/FaSd0avppOo/hqdefault.jpg",
+                        "title": "【稲荷ゆりあ】給十年後的我 10年後の自分へ　［歌枠切り抜き］",
+                        "author": "Yuria Ch. 稲荷ゆりあ"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "OBSTQ6_zTg0",
+                        "image": "https://i.ytimg.com/vi/OBSTQ6_zTg0/hqdefault.jpg",
+                        "title": "【初配信】要和稲荷小狐狸做朋友嗎？[HKVtuber/稲荷ゆりあ]",
+                        "author": "Yuria Ch. 稲荷ゆりあ"
+                    },
+                    {
+                        "video_code": "oi0CmwxHNRg",
+                        "image": "https://i.ytimg.com/vi/oi0CmwxHNRg/hqdefault.jpg",
+                        "title": "【誕生日配信と歌枠】16歲二周目！友達雜談 [稲荷ゆりあ/HKVtuber]",
+                        "author": "Yuria Ch. 稲荷ゆりあ"
+                    },
+                    {
+                        "video_code": "kVzFsp5a_Sg",
+                        "image": "https://i.ytimg.com/vi/kVzFsp5a_Sg/hqdefault.jpg",
+                        "title": "【歌回配信】練歌回！同狐一齊學唱歌！！！［歌回系列］[稲荷ゆりあ/HKVtuber]",
+                        "author": "Yuria Ch. 稲荷ゆりあ"
+                    }
+                ]
+            }
+        }
+    ]
+}

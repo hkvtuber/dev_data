@@ -1,0 +1,112 @@
+{
+    "id": "UC14aHQWi2NYRdo4JvDpZiSw",
+    "header": {
+        "name": "Nox Sayin (駱晨) 法律系x科技系【HKvTuber】",
+        "image": "https://yt3.ggpht.com/fiL5DbqeNu3-rNVZUGlcERX-e567CxYm9X21ecPa45Up9lIBV4ETjiCwym0pFyjd2HguT3oKmg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/UvluD9MM_-67ZgadsGtB2CcF3-qIdmYKs8tWfYjjHXAOK_qVnSPSZDQrReHvR-u6CfSYIJvL5A"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "職業是教授，任教的科目是日常法律～有時也會幫其他教授代課 資安網絡攻防的相關科目 粉絲就是Nox的學生～ 討厭數學 完全不想碰到數學 數學不應存在世上 反正啦～"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n英文",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#NoxSayin",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#學生",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC14aHQWi2NYRdo4JvDpZiSw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "NoxSayin"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/NoxSayin"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "6OmYHL6jgv0",
+                        "image": "https://i.ytimg.com/vi/6OmYHL6jgv0/hqdefault.jpg",
+                        "title": "[10分鐘科技] Apple M1X / M2 性能設計流出! MacBook Pro 14/16 預計會快4倍？新MacPro有40Core CPU 128Core GPU?",
+                        "author": "Nox Sayin (駱晨) 法律系x科技系【HKvTuber】"
+                    },
+                    {
+                        "video_code": "adTtEvonres",
+                        "image": "https://i.ytimg.com/vi/adTtEvonres/hqdefault.jpg",
+                        "title": "[EN] Can your PS5 support PCIe 3.0 SSD? Let's find it out!",
+                        "author": "Nox Sayin (駱晨) 法律系x科技系【HKvTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "XvNolvNFstg",
+                        "image": "https://i.ytimg.com/vi/XvNolvNFstg/hqdefault.jpg",
+                        "title": "[廢片直播] 任天堂係好野既，同你一齊玩平民化MOBA Pokemon Unite",
+                        "author": "Nox Sayin (駱晨) 法律系x科技系【HKvTuber】"
+                    },
+                    {
+                        "video_code": "h8gSVteiFCg",
+                        "image": "https://i.ytimg.com/vi/h8gSVteiFCg/hqdefault.jpg",
+                        "title": "[廢片直播] 同你一齊一邊傾計一邊安裝試玩最新 Microsoft Windows 11 測驗版 (Build 22000)",
+                        "author": "Nox Sayin (駱晨) 法律系x科技系【HKvTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "id": "UCHagoEbk2sloNAfi1FZtA2A",
+    "header": {
+        "name": "木星とき toki ch.【HKVtuber】",
+        "image": "https://yt3.ggpht.com/NUXyvlWVyBhKTdL2McYKU_B0Ge5IZD63yXhJAnk7fRW-w43Yp-XLo5Lc97MMZGD4HeaMmLIC_g=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/Q3r5hC1dF25HqNgm2XdQyVVyEApmUUuD0KTUBeSGH7IknZeQTkk2-BcZESDEhqF_84axvthHIFQ"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E2tnrVPVUAIJ1_C?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E2tnrVPVUAIJ1_C?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "你好！我是木星晨，可以叫我做toki!\n我是某間魔法學校的學生，因為到魔法世界的各種經歷令我逃走了、並決定成為Vtuber。\n現在努力地學習如何使用為人帶來快樂的魔法。\n理想是成為奇異博士般的知性男子。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#木星time",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#Jupitart",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#Toki暴走中",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCHagoEbk2sloNAfi1FZtA2A"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Kiboshi_Toki"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "FYTGBWbiPzM",
+                        "image": "https://i.ytimg.com/vi/FYTGBWbiPzM/hqdefault.jpg",
+                        "title": "【自我介紹】初次見面、您好！可以陪我練習魔法嗎？【木星とき｜hk vtuber】",
+                        "author": "木星とき toki ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "MaaSzhJf6_I",
+                        "image": "https://i.ytimg.com/vi/MaaSzhJf6_I/hqdefault.jpg",
+                        "title": "ヴァンパイア（Covered by 木星とき）【歌ってみた】",
+                        "author": "木星とき toki ch.【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "X5jpJXLfnQ8",
+                        "image": "https://i.ytimg.com/vi/X5jpJXLfnQ8/hqdefault.jpg",
+                        "title": "【初配信】初次見面、我的名字是木星とき！可以陪我練習魔法嗎？【木星とき｜hk vtuber】",
+                        "author": "木星とき toki ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "3c70OXKKFuo",
+                        "image": "https://i.ytimg.com/vi/3c70OXKKFuo/hqdefault.jpg",
+                        "title": "【睡眠導入】木星的深夜朗讀 「遇見100%的女孩 ー 村上春樹」& 雜談【木星とき｜hkvtuber】",
+                        "author": "木星とき toki ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "3HqQoOQ8TQc",
+                        "image": "https://i.ytimg.com/vi/3HqQoOQ8TQc/hqdefault.jpg",
+                        "title": "【塔羅心事台】十月塔羅相談之夜【木星とき｜hkvtuber】",
+                        "author": "木星とき toki ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "Dmzw0CD9XeI",
+                        "image": "https://i.ytimg.com/vi/Dmzw0CD9XeI/hqdefault.jpg",
+                        "title": "【PAD】倒霉系Vtuber再戰抽蛋龍！パズドラ x Star Warsコラボ20連 + 不專業角色簡評【木星とき｜hkvtuber】",
+                        "author": "木星とき toki ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "ptUBoe6yY-s",
+                        "image": "https://i.ytimg.com/vi/ptUBoe6yY-s/hqdefault.jpg",
+                        "title": "【PAD/咒術迴戰】我帶唔到五条先生同所有角色返屋企！パズドラ呪術廻戦コラボ45抽大爆死+新手向角色簡評【木星とき｜hkvtuber】",
+                        "author": "木星とき toki ch.【HKVtuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

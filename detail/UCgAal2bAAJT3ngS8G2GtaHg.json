@@ -1,0 +1,161 @@
+{
+    "id": "UCgAal2bAAJT3ngS8G2GtaHg",
+    "header": {
+        "name": "虛空Voider Ch.【HKVTuber】",
+        "image": "https://yt3.ggpht.com/FNl3unW_JV3cUJJZ0e8n-CLR9XRxDaC4QhO1JFtVXKrizx_Es_ZClTCY9T5tOuaaBFL9r7ypaQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/VoyBfn-ggzMMR0B2o-2_FULlWH-10WzZ5fUBtDpjhEHxX37k1cjJ5F9gat6qoWifmyeUrzIW"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FBuPXiKUYAAsgci?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FBuPXiKUYAAsgci?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "我是虛空🌟🌟來自異世界既⚔️魔劍士\n讓我們一起開啟未知的旅程吧~"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#半暗半光",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#voiderart",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#不要呀空哥 ",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#星空",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#voidermeme",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCgAal2bAAJT3ngS8G2GtaHg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "voider66978131"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/voider0224"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/voider_0224/ "
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "X39C8V97ivg",
+                        "image": "https://i.ytimg.com/vi/X39C8V97ivg/hqdefault.jpg",
+                        "title": "【自我介紹】來自異世界的魔劍士登場！Link Start！【香港Vtuber / 虛空】",
+                        "author": "虛空Voider Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "5SbniH2wwXo",
+                        "image": "https://i.ytimg.com/vi/5SbniH2wwXo/hqdefault.jpg",
+                        "title": "【⭐自己紹介⭐】Vtuber一問一答🔸自己紹介🔸【香港Vtuber / 虛空】",
+                        "author": "虛空Voider Ch.【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "UTidh-nqnI4",
+                        "image": "https://i.ytimg.com/vi/UTidh-nqnI4/hqdefault.jpg",
+                        "title": "【初配信】準備好和我一起對抗魔王了嗎 ? 【香港Vtuber / 虛空】",
+                        "author": "虛空Voider Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "zEF_iqzAsm8",
+                        "image": "https://i.ytimg.com/vi/zEF_iqzAsm8/hqdefault.jpg",
+                        "title": "【真•初配信🌟】[ ⭐2.0衣裝發佈會⭐ ]  回到原點, 永記初衷~ 真正的自我介紹(?)【香港Vtuber / 虛空】",
+                        "author": "虛空Voider Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "X8AJBckmBQM",
+                        "image": "https://i.ytimg.com/vi/X8AJBckmBQM/hqdefault.jpg",
+                        "title": "【🎊400訂閱達成!!】【Dark Deception】【Murder Monkeys🐒】特別🔸配信~ 🙇雜談+🎮遊戲【香港Vtuber / 虛空】",
+                        "author": "虛空Voider Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "GXJZlezGhTE",
+                        "image": "https://i.ytimg.com/vi/GXJZlezGhTE/hqdefault.jpg",
+                        "title": "【Dark Deception】【Golden Watchers🗿】【微聯動?w?】超難玩的一關😱 !? SCP-173出現 ???  ft.矢花まい魅 【香港Vtuber / 虛空】",
+                        "author": "虛空Voider Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "wjirJ96Dt44",
+                        "image": "https://i.ytimg.com/vi/wjirJ96Dt44/hqdefault.jpg",
+                        "title": "【梗圖台】 爆笑😂MEME !? 一起來欣賞吧ＸD ft.水樹颯斗 & 冰咲ユキセ【香港Vtuber / 虛空】",
+                        "author": "虛空Voider Ch.【HKVTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

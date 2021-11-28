@@ -1,0 +1,152 @@
+{
+    "id": "UCUqGWqjMiErcGYU_XpEzyKQ",
+    "header": {
+        "name": "夢姬 - ありす Arisu Ch.【HKVTuber】",
+        "image": "https://yt3.ggpht.com/mQD1rvuXC0LFAj5JZSVf8885_y_asfyF2Q4WGGlmd9REujdxfgUXxdF4TH48xnuy87w7jKrFFQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/b1A5GMbxjCg0Nbhou13-ZKKrpBP3z4AtpJaPoKU9OA8_cSHuzQagzlQ7lkG3_TNxgLUqndt837g"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E69sFx0VoAISeVj?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E69sFx0VoAISeVj?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "宅在家中的小公主 - 夢姬です～\n名字寫作「夢姬」讀作「ありす(arisu)」\n由垃圾主人養的貓(ฅ'ω'ฅ)\n在家太無聊所以向Vtuber發展"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n英文",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#princessarisu",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#arisuonair",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#toarisu",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#slsarisu",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCUqGWqjMiErcGYU_XpEzyKQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "arisu_hkvtuber"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/arisu_hkvtuber/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "5KvzX-mbY3E",
+                        "image": "https://i.ytimg.com/vi/5KvzX-mbY3E/hqdefault.jpg",
+                        "title": "【自我介紹】不來看看超可愛的本公主嗎？【香港VTuber/夢姬(ありす)】",
+                        "author": "夢姬 - ありす Arisu Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "6toXvpgrd6A",
+                        "image": "https://i.ytimg.com/vi/6toXvpgrd6A/hqdefault.jpg",
+                        "title": "【自己紹介】Vtuber一問一答自己紹介【香港VTuber/夢姬(ありす)】",
+                        "author": "夢姬 - ありす Arisu Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "y5VW-76MclY",
+                        "image": "https://i.ytimg.com/vi/y5VW-76MclY/hqdefault.jpg",
+                        "title": "【真。廢片片】ありす搵你呀！【香港VTuber/夢姬(ありす)】",
+                        "author": "夢姬 - ありす Arisu Ch.【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "kUSU-n6FpKY",
+                        "image": "https://i.ytimg.com/vi/kUSU-n6FpKY/hqdefault.jpg",
+                        "title": "【初配信】公主駕到【香港VTuber/夢姬(ありす)】",
+                        "author": "夢姬 - ありす Arisu Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "4rRoOvl67_g",
+                        "image": "https://i.ytimg.com/vi/4rRoOvl67_g/hqdefault.jpg",
+                        "title": "【生日凸待】還不快來慶祝本公主生日aha【香港VTuber/夢姬(ありす)】",
+                        "author": "夢姬 - ありす Arisu Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "bP8bRkLTaLs",
+                        "image": "https://i.ytimg.com/vi/bP8bRkLTaLs/hqdefault.jpg",
+                        "title": "【香中聯動】第一屆偽1B班動漫問答大會！Ft.13人【香港VTuber/夢姬(ありす)】",
+                        "author": "夢姬 - ありす Arisu Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "KReCdJuXp0E",
+                        "image": "https://i.ytimg.com/vi/KReCdJuXp0E/hqdefault.jpg",
+                        "title": "【雜談】告別新手村棉花糖雜談【香港VTuber/夢姬(ありす)】",
+                        "author": "夢姬 - ありす Arisu Ch.【HKVTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

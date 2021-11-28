@@ -1,0 +1,126 @@
+{
+    "id": "UCj5B1BSI2LfZsElCP3LLY8w",
+    "header": {
+        "name": "Remy Ch.奇拉レイミ",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLQvePLJs7RxN09l68APP9si9zKxiE7zS4EwGJYpqA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/tcAoFI6Q96StMn5vcHShd9747z0FuxX92lrR1uQnVJuS8Szy38VCWRk1XaX05bgSzPUKwJb8XrA"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/EwPN6IoU8AMmyiz?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/EwPN6IoU8AMmyiz?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "**********************************************\n\n加入曙光學院，可能已經用光所有運氣了。雖然我樣樣不行，卻能夠認識到一班志同道合的夥伴，一起學習，互相打氣。\n從無名小卒，變成會長大人，沒有他們，我也應該不會出現在各位面前。\n如果你問我的夢想？當然和我的名字一樣，在人群中閃閃發光，就算天賦不足，也無法阻擋我成為星光的道路！\n而曙光終將到來，燃燒心中的希望，打破黑夜的籠罩，成為一顆耀眼的星光吧！\n\n**********************************************"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#曙光印記",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#星耀者",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCj5B1BSI2LfZsElCP3LLY8w"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "remy_kira"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "0W-4QdNaMsY",
+                        "image": "https://i.ytimg.com/vi/0W-4QdNaMsY/hqdefault.jpg",
+                        "title": "【KiraRemy】終於拍自我介紹了！【香港Vtuber】",
+                        "author": "Aorea Ch. KiraRemy"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "-5XSFjAATv4",
+                        "image": "https://i.ytimg.com/vi/-5XSFjAATv4/hqdefault.jpg",
+                        "title": "【KiraRemy】探索這個世界？【香港Vtuber】",
+                        "author": "Aorea Ch. KiraRemy"
+                    },
+                    {
+                        "video_code": "2Gq2JZdn-dY",
+                        "image": "https://i.ytimg.com/vi/2Gq2JZdn-dY/hqdefault.jpg",
+                        "title": "Minecraft | 終於迎來一次的見面了嗎！⭐HKVtuber/KiraRemy⭐",
+                        "author": "Aorea Ch. KiraRemy"
+                    },
+                    {
+                        "video_code": "BuKxNWlkPW0",
+                        "image": "https://i.ytimg.com/vi/BuKxNWlkPW0/hqdefault.jpg",
+                        "title": "DBD | 來抓我呀 AvA 【ft.社畜A星野二ア 光子 Photon 神崎狂三】⭐HKVtuber/KiraRemy⭐",
+                        "author": "Aorea Ch. KiraRemy"
+                    },
+                    {
+                        "video_code": "a-dymu5hOdk",
+                        "image": "https://i.ytimg.com/vi/a-dymu5hOdk/hqdefault.jpg",
+                        "title": "【KiraRemy】雜談！與新成員一起【香港Vtuber】",
+                        "author": "Aorea Ch. KiraRemy"
+                    }
+                ]
+            }
+        }
+    ]
+}

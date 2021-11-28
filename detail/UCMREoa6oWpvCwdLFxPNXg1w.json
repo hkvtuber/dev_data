@@ -1,0 +1,146 @@
+{
+    "id": "UCMREoa6oWpvCwdLFxPNXg1w",
+    "header": {
+        "name": "百孤－バグ .ch【HKVtuber】 ",
+        "image": "https://yt3.ggpht.com/XGGviVB4Lul1mdHEQPkH6f4kXLeqYq1LpOjm2ngXCm0fbJXwCGez0anyYcWJTkYOyVkewYIhA5w=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/U4zAPLVmN7f9f58nRSYjKvaV3i0NB2DwPW5B8Il_Syv3de3BULEAqkq3YbFSgup_HvYHloJ8wg"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E-iNl4PX0AcZ6KB?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E-iNl4PX0AcZ6KB?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "惡魔係從人類嘅怨念中誕生🐣，\n\n而我就係叫做百孤🦹‍♀️～現正附身在一位人類(?)身上並成為VTuber😈\n\n為了理解大家對程式錯誤的怨恨，成為了VTuber希望從而了解人們為何對程式錯誤充滿怨恨。😈"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#bagubaka",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#孤本畫",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#babu",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#MemeIsBug",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCMREoa6oWpvCwdLFxPNXg1w"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Bagu_Vtuber"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/bagu_vtuber/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "-1BnUccVI2g",
+                        "image": "https://i.ytimg.com/vi/-1BnUccVI2g/hqdefault.jpg",
+                        "title": "【自我介紹】關於誕生自人類怨恨的惡魔【香港Vtuber/百孤－バグ】",
+                        "author": "百孤－バグ .ch【HKVtuber】 "
+                    },
+                    {
+                        "video_code": "NpdrWQbvha4",
+                        "image": "https://i.ytimg.com/vi/NpdrWQbvha4/hqdefault.jpg",
+                        "title": "឵឵឵",
+                        "author": "百孤－バグ .ch【HKVtuber】 "
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "NohXnUC8vWY",
+                        "image": "https://i.ytimg.com/vi/NohXnUC8vWY/hqdefault.jpg",
+                        "title": "【初配信】惡魔降臨 [百孤/バグ- HKVTuber]",
+                        "author": "百孤－バグ .ch【HKVtuber】 "
+                    },
+                    {
+                        "video_code": "o9zjOs52xLg",
+                        "image": "https://i.ytimg.com/vi/o9zjOs52xLg/hqdefault.jpg",
+                        "title": "【VTuber模擬器】成為VTuber真係咁簡單?",
+                        "author": "百孤－バグ .ch【HKVtuber】 "
+                    },
+                    {
+                        "video_code": "LYcIQLi2MvE",
+                        "image": "https://i.ytimg.com/vi/LYcIQLi2MvE/hqdefault.jpg",
+                        "title": "【Virtual City】是日探險日",
+                        "author": "百孤－バグ .ch【HKVtuber】 "
+                    },
+                    {
+                        "video_code": "4q2i7QqJoyQ",
+                        "image": "https://i.ytimg.com/vi/4q2i7QqJoyQ/hqdefault.jpg",
+                        "title": "【港澳聯動｜雙人成行 It takes two】 #2 到底認識多年我哋嘅默契會係..... ft.Piro",
+                        "author": "百孤－バグ .ch【HKVtuber】 "
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "id": "UCKnFS01bFiuUi18wVFvKnCg",
+    "header": {
+        "name": "猫崎家日常【香港Vtuber】",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLQC3pxYJAPs0SPV5EG6aWqAX5NxMU1s6OHvS8Tb=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/lUm5wgrkUEW4ffFr2y4Oi0nQlXHRNxfUBrf2LDrjHITAW5l5vr5GDFsqRurCYXQrWacadSX9fQ"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/EkOvObBU0AAKKnk?format=jpg&name=900x900",
+                        "image_big": "https://pbs.twimg.com/media/EkOvObBU0AAKKnk?format=jpg&name=900x900"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "大家好,歡迎嚟到猫崎家日常( Φ ω Φ )。我哋係由妹妹☀️日向同埋哥哥🦁雷歐組成嘅Channel。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#Felidaily",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#猫崎家的紙箱",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCKnFS01bFiuUi18wVFvKnCg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Nekozaki_Leo"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "ofT-O3HjU-w",
+                        "image": "https://i.ytimg.com/vi/ofT-O3HjU-w/hqdefault.jpg",
+                        "title": "【自我介紹】貓崎兄妹自我介紹，歡迎來到貓崎家！",
+                        "author": "猫崎家日常【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "F9cVjzQ7xkI",
+                        "image": "https://i.ytimg.com/vi/F9cVjzQ7xkI/hqdefault.jpg",
+                        "title": "【COVER】KING - Kanaria/covered by 猫崎ひなた【歌ってみた】",
+                        "author": "猫崎家日常【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "HirjV5CbdjY",
+                        "image": "https://i.ytimg.com/vi/HirjV5CbdjY/hqdefault.jpg",
+                        "title": "貓崎兄妹，出道！",
+                        "author": "猫崎家日常【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "obg9Ko--g6c",
+                        "image": "https://i.ytimg.com/vi/obg9Ko--g6c/hqdefault.jpg",
+                        "title": "🎄🦁聖誕🔥 快樂☀️🎄",
+                        "author": "猫崎家日常【香港Vtuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

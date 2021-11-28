@@ -3,32 +3,57 @@
     "header": {
         "name": "米亞MYA【HKVTuber】",
         "image": "https://yt3.ggpht.com/cHyOVYnsAxK4EJ1XTxYLXPZJIjhqrxAHfwLpEsA6avXJ5M8_Ad0jxfmDAagkCRGIotiVmp-37g=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/Blj5UCfXxruMiW6gVtA7Va2zsAaJNCoDkr6v6HwPLHXWg9olIr25BmaucDn4wISFfjEUg-xw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "bg": "https://yt3.ggpht.com/Blj5UCfXxruMiW6gVtA7Va2zsAaJNCoDkr6v6HwPLHXWg9olIr25BmaucDn4wISFfjEUg-xw"
     },
     "body": [
         {
             "type": "title_content",
             "data": {
-                "title": "Introduction",
-                "content": "天才可愛熊貓IDOL！米亞です—！♥♥♥\n～要體驗十萬伏特的愛嗎？ ♬"
+                "title": "描述",
+                "content": "天才可愛熊貓IDOL！米亞です—！♥♥♥\\n～要體驗十萬伏特的愛嗎？ ♬"
             }
         },
         {
             "type": "title_map",
             "data": {
-                "title": "Info",
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
                 "map_list": [
                     {
-                        "key": "生日",
-                        "content": ""
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
                     },
                     {
-                        "key": "愛好",
-                        "content": ""
+                        "key": "語言",
+                        "content": "廣東話\r\n普通話",
+                        "heightRate": "1"
                     },
                     {
-                        "key": "其他",
-                        "content": "xxxxx"
+                        "key": "直播Tag",
+                        "content": "#myaNOW",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#mya_rt",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#院友",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": " #myameme",
+                        "heightRate": "1"
                     }
                 ]
             }
@@ -45,14 +70,6 @@
                     {
                         "key": "twitter",
                         "path": "MyaVtuber"
-                    },
-                    {
-                        "key": "Instagram",
-                        "path": "https://www.instagram.com/mya_vtuber/"
-                    },
-                    {
-                        "key": "飛天奶茶",
-                        "path": "https://market.flyingmilktea.com/shop/113469"
                     }
                 ]
             }
@@ -60,13 +77,89 @@
         {
             "type": "title_youtube",
             "data": {
-                "title": "推薦",
+                "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "",
-                        "image": "",
-                        "title": "",
-                        "author": ""
+                        "video_code": "Lmlfs8nP23U",
+                        "image": "https://i.ytimg.com/vi/Lmlfs8nP23U/hqdefault.jpg",
+                        "title": "【Original】講你知123 ♡ ！【米亞MYA / HKVtuber】",
+                        "author": "米亞MYA【HKVTuber】"
+                    },
+                    {
+                        "video_code": "gcph9iq77Rw",
+                        "image": "https://i.ytimg.com/vi/gcph9iq77Rw/hqdefault.jpg",
+                        "title": "【７分鐘輕鬆解釋！】要怎樣成為Vtuber？由設計到製作模組全解釋！",
+                        "author": "米亞MYA【HKVTuber】"
+                    },
+                    {
+                        "video_code": "PuRnOyKGDhU",
+                        "image": "https://i.ytimg.com/vi/PuRnOyKGDhU/hqdefault.jpg",
+                        "title": "【HKVtuber】夜に駆ける／ 米亞 MYA【粵語翻唱】",
+                        "author": "米亞MYA【HKVTuber】"
+                    },
+                    {
+                        "video_code": "LPgi0qV-Gko",
+                        "image": "https://i.ytimg.com/vi/LPgi0qV-Gko/hqdefault.jpg",
+                        "title": "【大叔的愛主題曲】突如其來的心跳感覺 -Arrange ver.- cover【米亞 feat.甘米】",
+                        "author": "米亞MYA【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "XJ-QsftvSlY",
+                        "image": "https://i.ytimg.com/vi/XJ-QsftvSlY/hqdefault.jpg",
+                        "title": "【米亞】偽！第一次直播！我是大家的清楚可愛系IDOL！【HKVtuber】",
+                        "author": "米亞MYA【HKVTuber】"
+                    },
+                    {
+                        "video_code": "cuqyJh3sr6M",
+                        "image": "https://i.ytimg.com/vi/cuqyJh3sr6M/hqdefault.jpg",
+                        "title": "【米亞】看熊貓？強制消費！米亞香港旅行團招募中—【HKVtuber】",
+                        "author": "米亞MYA【HKVTuber】"
+                    },
+                    {
+                        "video_code": "5lBLg1sxrIg",
+                        "image": "https://i.ytimg.com/vi/5lBLg1sxrIg/hqdefault.jpg",
+                        "title": "【米亞】晚安星期五 ♬ 睡之前來聽我唱歌！【HKVtuber】",
+                        "author": "米亞MYA【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "烤肉",
+                "video_list": [
+                    {
+                        "video_code": "1ulsVTIFPw4",
+                        "image": "https://i.ytimg.com/vi/1ulsVTIFPw4/hqdefault.jpg",
+                        "title": "【米亞】炎上危機？玩壺男玩到暴露本音！叫觀眾去買點數卡的騙錢Ｖ！【香港Vtuber精華】",
+                        "author": "米亞MYA【HKVTuber】"
+                    },
+                    {
+                        "video_code": "Ji7WyJYzWuI",
+                        "image": "https://i.ytimg.com/vi/Ji7WyJYzWuI/hqdefault.jpg",
+                        "title": "【米亞】被測驗揭穿真面目！觀眾表示「好失望、渣女www」【香港Vtuber精華】",
+                        "author": "米亞MYA【HKVTuber】"
+                    },
+                    {
+                        "video_code": "5j_q6Dflo-o",
+                        "image": "https://i.ytimg.com/vi/5j_q6Dflo-o/hqdefault.jpg",
+                        "title": "【香港Vtuber精華】被集體SC卻暴怒？喝醉酒直接跟觀眾嘴炮！【米亞】",
+                        "author": "米亞MYA【HKVTuber】"
+                    },
+                    {
+                        "video_code": "QaW0xwq63r8",
+                        "image": "https://i.ytimg.com/vi/QaW0xwq63r8/hqdefault.jpg",
+                        "title": "【香港Vtuber精華】乾脆自暴自棄了～在直播脫衣服不會被黃標吧ｗ【米亞】",
+                        "author": "米亞MYA【HKVTuber】"
                     }
                 ]
             }

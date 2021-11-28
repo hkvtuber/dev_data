@@ -1,0 +1,114 @@
+{
+    "id": "UCQJ-6r8cAcJs5yrhM8O288A",
+    "header": {
+        "name": "Yuu Ch. 冬月ゆう【HKVTuber】",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLTLoingnDb_ZWE6_wlg9UDO8xNRO0iI5FHNLQWN=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/SgmedBtZiQ9RMAO4LIHrHo3fRwUO6sxX7_FuPeOPsanqOxQfSfmhHPMUlPKyvV-ab7dCbIHT-w"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E4q0d7oVcAAL4fv?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E4q0d7oVcAAL4fv?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "主要為遊戲介紹及直播~"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#國王來了",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#肥宅水",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#豬兜",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#羊駝實錄",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCQJ-6r8cAcJs5yrhM8O288A"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "siuyo1"
+                    },
+                    {
+                        "key": "twitch",
+                        "path": "https://www.twitch.tv/siuyo_"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "JXu2DJyFoV8",
+                        "image": "https://i.ytimg.com/vi/JXu2DJyFoV8/hqdefault.jpg",
+                        "title": "冬月ゆう前傳 - 誕生 【香港VTuber】",
+                        "author": "Yuu Ch. 冬月ゆう【HKVTuber】"
+                    },
+                    {
+                        "video_code": "vF_kv4KVkXQ",
+                        "image": "https://i.ytimg.com/vi/vF_kv4KVkXQ/hqdefault.jpg",
+                        "title": "【熱愛105°C的你】日語版 熱愛１０５℃の君へ【Coverd by 冬月ゆう/小游】",
+                        "author": "Yuu Ch. 冬月ゆう【HKVTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

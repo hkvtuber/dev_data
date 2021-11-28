@@ -1,0 +1,99 @@
+{
+    "id": "UCNpxc3gd7QrRkNKhq5Dq25Q",
+    "header": {
+        "name": "Eggtart - 香港HK VTuber Production",
+        "image": "https://yt3.ggpht.com/vLacbcixM1Bnx8vIk-KrNq_QF8ya6--hAIDlFu-tCf8BfBVrXw4cH5xFKNzXyfKtNPdD6Sg2jRo=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/zXT45a2tVr9uYSiNnrmqf2tSdFwlvVjQVT3Cy87bIKcUhR328wv5dKT8EW2j-Cc9ICCemCmIUQ"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "我們Eggtart是專門經營與VTuber相關事務的香港團隊。\n\n目標是打造香港首個VTuber共存的幻想空間🌏。\n我們第一期共招募了5位可愛又有趣的虛擬世界居民加入我們Eggtart的世界，\n並由2021年7月24日起連續6個禮拜逐一向大家介紹她們。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "企業勢",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCNpxc3gd7QrRkNKhq5Dq25Q"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "eggtartv"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "_5pBryQjNFU",
+                        "image": "https://i.ytimg.com/vi/_5pBryQjNFU/hqdefault.jpg",
+                        "title": "惡龍來襲 - Eggtart VTuber Official Trailer",
+                        "author": "Eggtart - 香港HK VTuber Production"
+                    },
+                    {
+                        "video_code": "TxvTIIJYGXY",
+                        "image": "https://i.ytimg.com/vi/TxvTIIJYGXY/hqdefault.jpg",
+                        "title": "【Dolla朵拉 - Eggtart VTuber正式出道預告片】",
+                        "author": "Eggtart - 香港HK VTuber Production"
+                    },
+                    {
+                        "video_code": "lT-DIiwf4Gc",
+                        "image": "https://i.ytimg.com/vi/lT-DIiwf4Gc/hqdefault.jpg",
+                        "title": "【桐生ココ】畢業紀念香港紀錄片 ココ卒業記念香港活動記録 Present by Eggtart.co",
+                        "author": "Eggtart - 香港HK VTuber Production"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "ZGHLzYTVfOo",
+                        "image": "https://i.ytimg.com/vi/ZGHLzYTVfOo/hqdefault.jpg",
+                        "title": "HKVTuber首次公開比賽 │ 正式比賽&後夜祭 │ Super Animal Royal比賽",
+                        "author": "Eggtart - 香港HK VTuber Production"
+                    },
+                    {
+                        "video_code": "_tlkR9usrbI",
+                        "image": "https://i.ytimg.com/vi/_tlkR9usrbI/hqdefault.jpg",
+                        "title": "HKVTuber首次公開比賽 │ VTuber爆笑前夜祭 │ Super Animal Royal比賽",
+                        "author": "Eggtart - 香港HK VTuber Production"
+                    }
+                ]
+            }
+        }
+    ]
+}

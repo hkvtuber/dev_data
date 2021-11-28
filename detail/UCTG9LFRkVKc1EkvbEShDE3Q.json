@@ -1,0 +1,104 @@
+{
+    "id": "UCTG9LFRkVKc1EkvbEShDE3Q",
+    "header": {
+        "name": "Mitsuru Ch. 姫野みつる【HKVTuber】",
+        "image": "https://yt3.ggpht.com/dabsMi9UF5fOKBiG5l4cAlgEywilkJejLBD8sotDxZS9hwtan74glkdSnHuRVFn-iiqNGBc2=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/v7cLFExmsvC0ijwaAMT-UtVfxHlWMf57_y-vZQ8k_JQTQVxYTWRZLQCAF7KRe1OA7d8gm8UHXg"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E3qlCEkVEAAeke6?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E3qlCEkVEAAeke6?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "嚕嚕星的公主 但已經窮到城堡也沒了 就決定去地球流浪 \n來到地球遇到一樣是流浪的yuyuko(紫菜尾巴的鳥鳥)就開始和他相依為命的生活σ ﾟ∀ ﾟ) ﾟ∀ﾟ)σ"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#MitsuruLive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#MitsuruMusic",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#MitsuruFanArt",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#MitsuruMeme",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCTG9LFRkVKc1EkvbEShDE3Q"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "himenomitsuru"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "XqgS0zMZnZo",
+                        "image": "https://i.ytimg.com/vi/XqgS0zMZnZo/hqdefault.jpg",
+                        "title": "【自我介紹】初次見面!konnichihuahua!!【HKVTuber/姫野みつる】",
+                        "author": "Mitsuru Ch. 姫野みつる【HKVTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

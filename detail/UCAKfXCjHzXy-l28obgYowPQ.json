@@ -1,0 +1,159 @@
+{
+    "id": "UCAKfXCjHzXy-l28obgYowPQ",
+    "header": {
+        "name": "Ari Channel.天葉あり",
+        "image": "https://yt3.ggpht.com/TSLmnO4vwZI-wWKpuTDwQcYd1wsVtqvhH7mREzKeUtbTlfbypGcjsIu7V85QgSSsWHPgVFP8WA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/zcwmg5P4r5kJqFz05tJ2zQ1mnSfOupGZoRbM9fFLEagZByvQsdMHHXVPEuXEcKo1WLQ3uitFsyc"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E7ZbEYsVcAkPu6O?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E7ZbEYsVcAkPu6O?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/E7ZbEYsVcAQYVBY?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E7ZbEYsVcAQYVBY?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "亞里是一個來自未來的無能(廢)天使，由於這個時空的人界被魔族攻擊還有破壞時空秩序，亞里為了修正時空(擊(殲)退(滅)魔族)，來這個時空的人界(因為亞里是高中生所以稱為實習)，結果迷上在台上閃閃發光的IDOL們，想做到像在台上閃閃發光的idol們一樣用歌聲帶給觀眾歡樂和笑容，所以決定成為VTUBER ! ! !\n喜歡挑戰自我的天使，但是有輕微的錯失恐懼症和對人恐懼症，希望可以克服! ! ! 即使如此也希望有一天可以成為大家的IDOL  ! ! "
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n日文\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#亞里實習紀錄冊",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#天滅之音",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#里の圖鑑",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#里又開車",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#天使魔雲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#快樂亞里物",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#里的神秘番號",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCAKfXCjHzXy-l28obgYowPQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "amaha_ari"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/AmahaAri/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "h2z7UVicCiw",
+                        "image": "https://i.ytimg.com/vi/h2z7UVicCiw/hqdefault.jpg",
+                        "title": "【歌ってみた/4人の合唱】Magnet粵語填詞 (亞里/鬼彤/Saki/明里)【香港VTuber】",
+                        "author": "Ari Channel.天葉あり"
+                    },
+                    {
+                        "video_code": "JQB2GBQ2VFQ",
+                        "image": "https://i.ytimg.com/vi/JQB2GBQ2VFQ/hqdefault.jpg",
+                        "title": "【歌ってみた】ファンサ♡-(Half Ver) 【天滅之音】",
+                        "author": "Ari Channel.天葉あり"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "rpEd-WLf2LE",
+                        "image": "https://i.ytimg.com/vi/rpEd-WLf2LE/hqdefault.jpg",
+                        "title": "🔴【雜談】小時候的亞里究竟是怎樣的....??",
+                        "author": "Ari Channel.天葉あり"
+                    },
+                    {
+                        "video_code": "HVu67hLqJQo",
+                        "image": "https://i.ytimg.com/vi/HVu67hLqJQo/hqdefault.jpg",
+                        "title": "🔴【3.0新衣裝お披露目】真 ▪ 初配信！現在才是真正的開始！【HKvtuber/天葉亞里】",
+                        "author": "Ari Channel.天葉あり"
+                    },
+                    {
+                        "video_code": "mqBwNIYGaxQ",
+                        "image": "https://i.ytimg.com/vi/mqBwNIYGaxQ/hqdefault.jpg",
+                        "title": "🔴【收益化紀念配信】這是亞里想也沒想過的一天....感謝你們!!!感謝!!!",
+                        "author": "Ari Channel.天葉あり"
+                    }
+                ]
+            }
+        }
+    ]
+}

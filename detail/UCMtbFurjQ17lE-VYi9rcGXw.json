@@ -1,0 +1,167 @@
+{
+    "id": "UCMtbFurjQ17lE-VYi9rcGXw",
+    "header": {
+        "name": "Akirarara Ch. 赤紀麗 【HKVTuber】",
+        "image": "https://yt3.ggpht.com/qXkYrej7LtXNlYLnPqrZoZgejlIdAeh_jVOtXBfI8IwXODoX__JRBisdLPXLQMw7oTkiJeYelWU=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/fRP9JqsMdzpyPkEY8dUrIOFQGWIIT8xkPMdQry1_9QeIlSZlQJPeOQcWxRG0MndpxmWJUfHAMQ"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E24d3pWVEAAYPwA?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E24d3pWVEAAYPwA?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "一次交通事故後，赤紀麗意外地轉生成一名鹿人，而且是香港的唯一原生鹿赤麂。父親死後，便立志成爲勇者。目標便是擊倒邪惡的聖誕老人從而報上殺父之仇。爲了成爲一名全方位的勇者，赤紀麗不斷努力地修行中..."
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#Akirarara",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#Akirararamusic",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#Akirararaart",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#可麗餅",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#Akirararameme",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCMtbFurjQ17lE-VYi9rcGXw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "AkirararaCh"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/AkirararaCh"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/akirarara.ch"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "eT5FH7bnUt4",
+                        "image": "https://i.ytimg.com/vi/eT5FH7bnUt4/hqdefault.jpg",
+                        "title": "【HKVTuber/赤紀麗】 麗麗出道注意！香港Vtuber自我介紹！      |   【研究顯示世上只有69%嘅人可以聽到我講嘢】",
+                        "author": "Akirarara Ch. 赤紀麗 【HKVTuber】"
+                    },
+                    {
+                        "video_code": "pfYDPR7o1l0",
+                        "image": "https://i.ytimg.com/vi/pfYDPR7o1l0/hqdefault.jpg",
+                        "title": "【HKVTuber/赤紀麗】鹿語自我介紹",
+                        "author": "Akirarara Ch. 赤紀麗 【HKVTuber】"
+                    },
+                    {
+                        "video_code": "q-lg-SENpZQ",
+                        "image": "https://i.ytimg.com/vi/q-lg-SENpZQ/hqdefault.jpg",
+                        "title": "【成就解鎖】我終於講到人話啦!【HKVTuber/赤紀麗】",
+                        "author": "Akirarara Ch. 赤紀麗 【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "zMuF6_A5vBM",
+                        "image": "https://i.ytimg.com/vi/zMuF6_A5vBM/hqdefault.jpg",
+                        "title": "【HKVTuber/赤紀麗】初配信",
+                        "author": "Akirarara Ch. 赤紀麗 【HKVTuber】"
+                    },
+                    {
+                        "video_code": "GWZJAykL0Y8",
+                        "image": "https://i.ytimg.com/vi/GWZJAykL0Y8/hqdefault.jpg",
+                        "title": "【HKVTuber/赤紀麗】中指人身份揭秘［詠唱魔法唱歌台］",
+                        "author": "Akirarara Ch. 赤紀麗 【HKVTuber】"
+                    },
+                    {
+                        "video_code": "zIFVRlWNV_g",
+                        "image": "https://i.ytimg.com/vi/zIFVRlWNV_g/hqdefault.jpg",
+                        "title": "【HKVTuber/赤紀麗】麗的網台",
+                        "author": "Akirarara Ch. 赤紀麗 【HKVTuber】"
+                    },
+                    {
+                        "video_code": "ltIJqNwzTsU",
+                        "image": "https://i.ytimg.com/vi/ltIJqNwzTsU/hqdefault.jpg",
+                        "title": "【HKVTuber/赤紀麗】鹿鹿無窮之歌詠魔法🪄Feat. 鈴鹿沙織 Saori Suzuka",
+                        "author": "Akirarara Ch. 赤紀麗 【HKVTuber】"
+                    },
+                    {
+                        "video_code": "Y4ejkbIBziU",
+                        "image": "https://i.ytimg.com/vi/Y4ejkbIBziU/hqdefault.jpg",
+                        "title": "【HKVTuber/赤紀麗】麗的常識問答比賽 — 貓貓篇！  feat. 神崎涼子, 蒼神こ...",
+                        "author": "Akirarara Ch. 赤紀麗 【HKVTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

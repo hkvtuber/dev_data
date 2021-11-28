@@ -1,0 +1,73 @@
+{
+    "id": "UCibkRWWs4VSeL5ADoJ8uRxQ",
+    "header": {
+        "name": "Akatsuki Channel",
+        "image": "https://yt3.ggpht.com/iDNEHM_c3NQeJR7s5Dh819eenKK0kgGmrwq8qZXqBo352Gm9nn_SYWeleuO3Aa1B3U4fqRRFNYo=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "こんにちは！！高天原からきた神！暁です！\n原是居於高天原的戰神,但現世十分和平,\n而且高天原的生活太無聊而離開天界。\n一邊旅行,一邊尋找生活的樂趣。\n無意中接觸到Vtube後,決定化身為Vtuber賺取旅費"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#Akaive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#Akart",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#AhMemes",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCibkRWWs4VSeL5ADoJ8uRxQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "akatsukivtuber"
+                    }
+                ]
+            }
+        }
+    ]
+}

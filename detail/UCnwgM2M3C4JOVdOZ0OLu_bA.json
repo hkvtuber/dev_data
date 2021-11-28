@@ -1,0 +1,220 @@
+{
+    "id": "UCnwgM2M3C4JOVdOZ0OLu_bA",
+    "header": {
+        "name": "Aisu Ch.小林あいす【香港VTuber】",
+        "image": "https://yt3.ggpht.com/HThK4mV9c20Z70ex7m7VRxIjd-SdV-LNUsS4GzKgKenTCRaoroEJHCvEbq3VxDhX6pd1Jw7g_0g=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/AObbd7j3f7em1Ns265eP_kDtg2hRyko8p5fvDqCFDhhSgBIFH1TA95ZKrFBZ-M-dkFAibpiJIA"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E5tHM2RVoAQtOY_?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E5tHM2RVoAQtOY_?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "あいすちは〜我是Mic On Project所屬，來自冰之國的17歲良好女子高中生小林あいす！！🧊\n\n★∻∹⋰⋰ ☆∻∹⋰⋰ ★∻∹⋰⋰ ☆∻∹⋰⋰\n\n❄️あいす的故事⭐️\n小林あいす是冰之國的國民，同時也是一個喜歡歌唱和玩遊戲看動畫的隱性宅。\n有一天冰之國迎來了冰川融化的重大危機。為解決國土面積逐漸縮小的問題，國王必須選出一名開朗而天真爛漫的少女成為VTuber，才能收集國民的快樂能量，拯救冰之國。\n而あいす卻有幸成為了該人選。雖然一開始卻因事出突然而拒絕了國王的要求，但隨著國民的擔憂和憂慮愈演愈烈，あいす最後也決意站出來保護這片土地及守護國民的笑容，以「アイス委員」的身份開始了Vtuber活動......\n\n★∻∹⋰⋰ ☆∻∹⋰⋰ ★∻∹⋰⋰ ☆∻∹⋰⋰"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "企業勢\nMic On Project",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#小林あいす",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#あいすらいぶ",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#Aisuta",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#あいすえがく",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#溶けあいす",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#あいすもち\n#雪米糍\n#觀音冰 ",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#冰精華",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#冰冰High大咗",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "禮物Tag",
+                        "content": "#呢批冰好純喎",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "個人分享Tag",
+                        "content": "#冰冰查你牌",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "貓Tag",
+                        "content": "#冰冰要吸貓",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "食物Tag",
+                        "content": "#冰冰食乜飯",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCnwgM2M3C4JOVdOZ0OLu_bA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "kobayashi_aisu"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/KobayashiAisu"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/kobayashi_aisu_official/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "iaitQAsllv0",
+                        "image": "https://i.ytimg.com/vi/iaitQAsllv0/hqdefault.jpg",
+                        "title": "【自我介紹】2分鐘讓你認識小林あいす！🧊【小林あいす/Mic On Project】【香港Vtuber】",
+                        "author": "Aisu Ch.小林あいす【HKVTuber】"
+                    },
+                    {
+                        "video_code": "FeBiYULv4_M",
+                        "image": "https://i.ytimg.com/vi/FeBiYULv4_M/hqdefault.jpg",
+                        "title": "【自我介紹】Vtuber一問一答自己紹介【小林あいす/Mic On Project】【香港Vtuber】",
+                        "author": "Aisu Ch.小林あいす【HKVTuber】"
+                    },
+                    {
+                        "video_code": "RH-a6zbtAiU",
+                        "image": "https://i.ytimg.com/vi/RH-a6zbtAiU/hqdefault.jpg",
+                        "title": "睡到三點 covered by 小林あいす / Mic On Project【HKVtuber】",
+                        "author": "Aisu Ch.小林あいす【HKVTuber】"
+                    },
+                    {
+                        "video_code": "_5MVeqy_4TI",
+                        "image": "https://i.ytimg.com/vi/_5MVeqy_4TI/hqdefault.jpg",
+                        "title": "超強普通話",
+                        "author": "Aisu Ch.小林あいす【HKVTuber】"
+                    },
+                    {
+                        "video_code": "zDBhrCHH5-g",
+                        "image": "https://i.ytimg.com/vi/zDBhrCHH5-g/hqdefault.jpg",
+                        "title": "《跌嘢唔好搵 Aisu Mix.》Covered by DJ AiSU【小林あいす/Mic On Project】【香港Vtuber】",
+                        "author": "Aisu Ch.小林あいす【HKVTuber】"
+                    },
+                    {
+                        "video_code": "KgN-356PP_w",
+                        "image": "https://i.ytimg.com/vi/KgN-356PP_w/hqdefault.jpg",
+                        "title": "小夜子-remastered- covered by 小林あいす / Mic On Project【HKVtuber】",
+                        "author": "Aisu Ch.小林あいす【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "nhE6or3-h6Q",
+                        "image": "https://i.ytimg.com/vi/nhE6or3-h6Q/hqdefault.jpg",
+                        "title": "【初配信・改】2.0公開！初配信！和大家一起回顧這五個月的冰冰！（*'∀'人）【小林あいす/Mic On Project】【香港VTuber】",
+                        "author": "Aisu Ch.小林あいす【HKVTuber】"
+                    },
+                    {
+                        "video_code": "YaZuWrFoQ7k",
+                        "image": "https://i.ytimg.com/vi/YaZuWrFoQ7k/hqdefault.jpg",
+                        "title": "【明明是突發但變成了天有光+半日台】8000訂所以要突發【小林あいす/Mic On Project】【香港VTuber】",
+                        "author": "Aisu Ch.小林あいす【HKVTuber】"
+                    },
+                    {
+                        "video_code": "LLO7jJTKS4A",
+                        "image": "https://i.ytimg.com/vi/LLO7jJTKS4A/hqdefault.jpg",
+                        "title": "【台詞朗讀會】自己說要讀的台詞，就一定要讀下去.......。【小林あいす/Mic On Project】【香港VTuber】",
+                        "author": "Aisu Ch.小林あいす【HKVTuber】"
+                    },
+                    {
+                        "video_code": "eP_Lbg81KNs",
+                        "image": "https://i.ytimg.com/vi/eP_Lbg81KNs/hqdefault.jpg",
+                        "title": "【港台聯動】港台文化大比拼！來交流文化吧~ ft.香草奈若 【小林あいす/Mic On Project】【香港VTuber】",
+                        "author": "Aisu Ch.小林あいす【HKVTuber】"
+                    },
+                    {
+                        "video_code": "mqVj2ltr8BA",
+                        "image": "https://i.ytimg.com/vi/mqVj2ltr8BA/hqdefault.jpg",
+                        "title": "【歌枠】藍冰冰演唱會要開始喇！【小林あいす/Mic On Project】【香港VTuber】",
+                        "author": "Aisu Ch.小林あいす【HKVTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

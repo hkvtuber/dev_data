@@ -1,0 +1,113 @@
+{
+    "id": "UCuQuiEqnBOl8sP0TedA8OMw",
+    "header": {
+        "name": "芯夏sam1_haa6 ch.[hkv]",
+        "image": "https://yt3.ggpht.com/CvOP1BcHCkFCHroaUm6HuqeNRMu69B9pYQo39EXWwaDNQ6W2HNz_Aww715-2wfCk0xpxuNF5Vg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E6am6-XVoAMytjY?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E6am6-XVoAMytjY?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/E6am7glUYAYbaFU?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E6am7glUYAYbaFU?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "♤仙子高中生-辣妹系♤"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#芯理創傷",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#夏次一定",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#有芯人",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#芯命有希望夏次實大獲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#芯命有價",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCuQuiEqnBOl8sP0TedA8OMw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "sam1_haa6"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "r-yJcEOvgmk",
+                        "image": "https://i.ytimg.com/vi/r-yJcEOvgmk/hqdefault.jpg",
+                        "title": "[初配信]開始活動![HKvtuber芯夏]",
+                        "author": "芯夏sam1_haa6 ch.[hkv]"
+                    }
+                ]
+            }
+        }
+    ]
+}

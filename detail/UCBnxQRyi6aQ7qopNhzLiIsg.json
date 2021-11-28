@@ -1,0 +1,72 @@
+{
+    "id": "UCBnxQRyi6aQ7qopNhzLiIsg",
+    "header": {
+        "name": "娜露キシメCh.🐿️【準備中】",
+        "image": "https://yt3.ggpht.com/8VUcgm8QRSN_d_9hkeAhu75ExMgfVy1PiQFOAsqIagYmG4L-dgHIERnK1kFRIPJ2cWHyngDLaw=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/r5VqCpG3K1B7b6-lzlMDpRaS5bbpSLKtv-2RZv75psmsuHIbfpsdzRPZXa4j3ylnwrmwmx6rGw"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCBnxQRyi6aQ7qopNhzLiIsg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "_Naru_0327"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "6Tr6Ay4QIQU",
+                        "image": "https://i.ytimg.com/vi/6Tr6Ay4QIQU/hqdefault.jpg",
+                        "title": "【cover】ネコガネコロンダー-娜露キツメ",
+                        "author": "娜露キシメCh.🐿️【準備中】"
+                    }
+                ]
+            }
+        }
+    ]
+}

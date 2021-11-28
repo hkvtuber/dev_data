@@ -1,0 +1,74 @@
+{
+    "id": "UCsLVyDlwl4Vj-5AyNzzk-iw",
+    "header": {
+        "name": "Rei ch. 鎖夜レイ【HKVtuber 準備中】",
+        "image": "https://yt3.ggpht.com/z3Om2N8iDE4D2qlc12ZBIvoNV4lZziWwGXb-9g72eHtngv818wTvvKt7-Q-L1fLIUQwyZsKS9A=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/BpBm8z1FlNDfTg_Ah7SHj5h6w-UUoaAZh3HUtu2eHs7juYXkRbxjIDByTI0ipVCZ-oI0yZI1"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E71vcw0VIAAOQ0y?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E71vcw0VIAAOQ0y?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "被大天使封印而要被迫留在人間尋找契約者解封的惡靈首領\n預定10月在人間覓食"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCsLVyDlwl4Vj-5AyNzzk-iw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "rei_sayoru"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/rei_sayoru/"
+                    }
+                ]
+            }
+        }
+    ]
+}

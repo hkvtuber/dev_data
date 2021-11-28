@@ -1,0 +1,164 @@
+{
+    "id": "UCG_Bvc6x7KxIA7-m96SJVsA",
+    "header": {
+        "name": "Murray Ch. 目黑 梅利【HKVTuber】",
+        "image": "https://yt3.ggpht.com/fla25-kPbjoxDGHXsIzdtshuLqm_EJFWOC2FVH5Bq2a2CEMMFD3kLvWwknwVqa5dAD26hk0S=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/zI857TCNlUAFRTlSc1x_oNARRzsXGE-Tbu7mNtNQbHV-02j880H7V29Ou53Kr_xWfzJPw4E"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E9elvrrUYAM3WNG?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E9elvrrUYAM3WNG?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "香港Vtuber 上輩子為中華白海豚的人類\n話雖如此, 仍對深海與巨物抱有極大恐懼\n現今居住於虛擬九龍賣緊白磚頭 (濃縮麵粉)\n現為宣傳目黑麵包鋪而與大家見面 請多多指教！"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#目黑租帶鋪",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#目黑收藏庫",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#廠房暗角見",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#MareMeme",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCG_Bvc6x7KxIA7-m96SJVsA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "meguro_murray"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/meguro_murray/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "PCnJ6gFvl6U",
+                        "image": "https://i.ytimg.com/vi/PCnJ6gFvl6U/hqdefault.jpg",
+                        "title": "【香港VTuber】「虛擬九龍話事人？」目黑梅利｜自我介紹",
+                        "author": "Murray Ch. 目黑 梅利【HKVTuber】"
+                    },
+                    {
+                        "video_code": "Fj9YhzLn9-0",
+                        "image": "https://i.ytimg.com/vi/Fj9YhzLn9-0/hqdefault.jpg",
+                        "title": "【自己紹介】#Vtuber一問一答自己紹介 【目黑梅利 / HKVTuber】",
+                        "author": "Murray Ch. 目黑 梅利【HKVTuber】"
+                    },
+                    {
+                        "video_code": "1wA3mVj3QfU",
+                        "image": "https://i.ytimg.com/vi/1wA3mVj3QfU/hqdefault.jpg",
+                        "title": "我...想跟你說...",
+                        "author": "Murray Ch. 目黑 梅利【HKVTuber】"
+                    },
+                    {
+                        "video_code": "DJ80Do-HKw0",
+                        "image": "https://i.ytimg.com/vi/DJ80Do-HKw0/hqdefault.jpg",
+                        "title": "【Muse Dash】東方Project聯動｜隱藏/裏譜面開啟方法＋Bad Apple!! 裏譜",
+                        "author": "Murray Ch. 目黑 梅利【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "iNLh5hsyXkc",
+                        "image": "https://i.ytimg.com/vi/iNLh5hsyXkc/hqdefault.jpg",
+                        "title": "【初配信】廠房OpenDay 八卦大會 | 目黑梅利 / 香港VTuber",
+                        "author": "Murray Ch. 目黑 梅利【HKVTuber】"
+                    },
+                    {
+                        "video_code": "rP3DlJLqNt4",
+                        "image": "https://i.ytimg.com/vi/rP3DlJLqNt4/hqdefault.jpg",
+                        "title": "【生日倒數】迎接生日Party(x) 測試我有冇朋友 (o)【目黑梅利 / 香港VTuber】",
+                        "author": "Murray Ch. 目黑 梅利【HKVTuber】"
+                    },
+                    {
+                        "video_code": "FxTwcuWm1Qg",
+                        "image": "https://i.ytimg.com/vi/FxTwcuWm1Qg/hqdefault.jpg",
+                        "title": "【同時視聽】仲夏夜之仁夢 第四章「昏睡レイプ！野獣と化した先輩」 | 目黑梅利 / 香港VTuber",
+                        "author": "Murray Ch. 目黑 梅利【HKVTuber】"
+                    },
+                    {
+                        "video_code": "3flOSoTSn40",
+                        "image": "https://i.ytimg.com/vi/3flOSoTSn40/hqdefault.jpg",
+                        "title": "【跑Online】過氣驚~開刷啦~ | 目黑梅利 / 香港VTuber",
+                        "author": "Murray Ch. 目黑 梅利【HKVTuber】"
+                    },
+                    {
+                        "video_code": "JX9vlnGDdxQ",
+                        "image": "https://i.ytimg.com/vi/JX9vlnGDdxQ/hqdefault.jpg",
+                        "title": "【200訂閱紀念台詞會】你班友逼害我之究極合成體 | 目黑梅利 / 香港VTuber",
+                        "author": "Murray Ch. 目黑 梅利【HKVTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "id": "UCbOqSWGZ-snERWmsQGrBDfQ",
+    "header": {
+        "name": "白昼夢ティアラ Daydream Tiara ch.",
+        "image": "https://yt3.ggpht.com/FOR3NbCjySvbJeewO9J7Xd7gqdOdhOKEdqvPAUowBEsFj8yUupwxTMTRIaYAUJpJ1V04eJ5ESw=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/4RCSIWTG7TtVNb-4X_jeuGirNwZGdVp_010_IyAQLpvOwZX-7YvDm9kJEEaCXVYsbYL2jrO_LKU"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "こんばちゅうむ、白昼夢ティアラです。\nバーチャル異世界からやってきた元エルフ軍の軍師さん。\n森の庭でのんびり暮らしています。\n隣にいるの白馬はメロウちゃん、庭の守護神です。\nネットからアイドルとVtuberのことを知った、そしてハマった。\n今は推しに憧れてVtuberの活動を始めるー"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n日文",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#Livechuumu",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#TiarArt",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#Eroforest",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#TiAlly 盟友",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#PiecesOfDream",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#Hakuchuumeme",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Mark",
+                        "content": "👑☁️💤",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCbOqSWGZ-snERWmsQGrBDfQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "hakuchuumutiara"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/hakuchuumutiara"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/hakuchuumutiara/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "tUxJXSU-Z6E",
+                        "image": "https://i.ytimg.com/vi/tUxJXSU-Z6E/hqdefault.jpg",
+                        "title": "✦歌ってみた✦ Butter-Fly．デジモンアドベンチャーOP．和田光司 / Covered by 白昼夢ティアラ【オリジナルPV / 4K】",
+                        "author": "白昼夢ティアラ Daydream Tiara ch."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "AiMqaIaXyik",
+                        "image": "https://i.ytimg.com/vi/AiMqaIaXyik/hqdefault.jpg",
+                        "title": "【初配信/DEBUT STREAM】ふぁ…初めまして、エルフ軍師の白昼夢ティアラです～【新人Vtuber】",
+                        "author": "白昼夢ティアラ Daydream Tiara ch."
+                    },
+                    {
+                        "video_code": "JuN7S61bTOI",
+                        "image": "https://i.ytimg.com/vi/JuN7S61bTOI/hqdefault.jpg",
+                        "title": "【My 1st ASMR】【廣東話/English/日本語】雨音・囁き・耳かき(Whispering/Ear Cleaning)【新人Vtuber✦白昼夢ティアラ】【Binaural・バイノーラル】",
+                        "author": "白昼夢ティアラ Daydream Tiara ch."
+                    },
+                    {
+                        "video_code": "Ch7QUV04dIg",
+                        "image": "https://i.ytimg.com/vi/Ch7QUV04dIg/hqdefault.jpg",
+                        "title": "【誕生日配信】\\HBD to Tiara/ 棉花糖＆凸待ち＆會動起來的生日賀圖兼新ED？＆？？？【新人 HK Vtuber✦白昼夢ティアラ/DayDream Tiara】",
+                        "author": "白昼夢ティアラ Daydream Tiara ch."
+                    },
+                    {
+                        "video_code": "YYitoWOrsT4",
+                        "image": "https://i.ytimg.com/vi/YYitoWOrsT4/hqdefault.jpg",
+                        "title": "【600人耐久┆Endurance Stream】正午到黃昏！打馬娘、吃午飯、雜談、唱歌通通都做 Chitchat Sing 【新人 HK Vtuber✦白昼夢ティアラ/DayDream Tiara】",
+                        "author": "白昼夢ティアラ Daydream Tiara ch."
+                    },
+                    {
+                        "video_code": "yslenRbIcPM",
+                        "image": "https://i.ytimg.com/vi/yslenRbIcPM/hqdefault.jpg",
+                        "title": "【#龍が如く0】完全初見！人中之龍0 誓約的場所【新人Vtuber✦白昼夢ティアラ/DayDream Tiara】",
+                        "author": "白昼夢ティアラ Daydream Tiara ch."
+                    }
+                ]
+            }
+        }
+    ]
+}

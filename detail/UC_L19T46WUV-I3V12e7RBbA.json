@@ -1,0 +1,122 @@
+{
+    "id": "UC_L19T46WUV-I3V12e7RBbA",
+    "header": {
+        "name": "KoKotori Ch. 光小鳥",
+        "image": "https://yt3.ggpht.com/7XYeNSGaSwi-fZ-xoJRrzV6bbAegPJYqCmm5Ds6RF3AlI6XX6d4Ge16loSOcqERypCcJhCBJuQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/pKbExUSXOlet-egNrxjYaWICZJj4XQLrGbjrw0sdAmmvMpFcadVDrudgzYrS_z2XrW10RxlggA"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E4D7lONVoAAlgw-?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E4D7lONVoAAlgw-?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#鳩播",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#咕姑固畫集",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#烤隻斑鳩",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#蠢雀迷因",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC_L19T46WUV-I3V12e7RBbA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "kokotori6"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "r6yvd4mQmu8",
+                        "image": "https://i.ytimg.com/vi/r6yvd4mQmu8/hqdefault.jpg",
+                        "title": "【初配信】來點特別的初配信~你能堅持到配信結束嗎？12點半準時開始～【HKVTuber / KoKotori】",
+                        "author": "KoKotori Ch. 光小鳥"
+                    },
+                    {
+                        "video_code": "vJzZ97ATqNE",
+                        "image": "https://i.ytimg.com/vi/vJzZ97ATqNE/hqdefault.jpg",
+                        "title": "【日常台+GrandChase】食飯 吹水 打GrandChase ~! #香港Vtuber #鳩播​ #耐久",
+                        "author": "KoKotori Ch. 光小鳥"
+                    },
+                    {
+                        "video_code": "Y5uPYC-M96w",
+                        "image": "https://i.ytimg.com/vi/Y5uPYC-M96w/hqdefault.jpg",
+                        "title": "【Unrailed!】With Kaya #香港Vtuber #鳩播​",
+                        "author": "KoKotori Ch. 光小鳥"
+                    },
+                    {
+                        "video_code": "NoaGFBvtY4M",
+                        "image": "https://i.ytimg.com/vi/NoaGFBvtY4M/hqdefault.jpg",
+                        "title": "【Unrailed!】突發聯動開台?! #香港Vtuber #鳩播​",
+                        "author": "KoKotori Ch. 光小鳥"
+                    }
+                ]
+            }
+        }
+    ]
+}

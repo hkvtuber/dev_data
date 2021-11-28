@@ -1,0 +1,58 @@
+{
+    "id": "UChl_WC7FDrBzAv2rDvpwxcw",
+    "header": {
+        "name": "阿草 Kusa Ch. / BLOSSOMY【香港VTuber】",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLQkTqD60SZotmex8GNHbg_VjPegmWhi5dlYzPz9=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UChl_WC7FDrBzAv2rDvpwxcw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "kusa_blossomy"
+                    }
+                ]
+            }
+        }
+    ]
+}

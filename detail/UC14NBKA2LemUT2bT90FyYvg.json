@@ -1,0 +1,75 @@
+{
+    "id": "UC14NBKA2LemUT2bT90FyYvg",
+    "header": {
+        "name": "BLOSSOMY OFFICIAL【HKVtuber】",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLSmysBvjviRQzAMuyvAjUthEzz4-NxyzDUwu9ki=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "校園放送部BLOSSOMY"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC14NBKA2LemUT2bT90FyYvg"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "H5y7ONLlkdM",
+                        "image": "https://i.ytimg.com/vi/H5y7ONLlkdM/hqdefault.jpg",
+                        "title": "【人月兩團員✨】中秋食咩好🥮？月圓之夜與謎之聲音🌕！？【校園放送部日常🌸】【香港VTuber】",
+                        "author": "BLOSSOMY OFFICIAL【HKVtuber】"
+                    },
+                    {
+                        "video_code": "Q6wya6Yj4GA",
+                        "image": "https://i.ytimg.com/vi/Q6wya6Yj4GA/hqdefault.jpg",
+                        "title": "【心都離一離👻】🎃Trick or Treat？Trick and Treat！🍬【校園放送部日常🌸】【香港VTuber】",
+                        "author": "BLOSSOMY OFFICIAL【HKVtuber】"
+                    },
+                    {
+                        "video_code": "7RMwpubKSzM",
+                        "image": "https://i.ytimg.com/vi/7RMwpubKSzM/hqdefault.jpg",
+                        "title": "【終於齊人喇✨】WE ARE BLOSSOMY🌸！【校園放送部開台鳥🐣】【香港VTuber】",
+                        "author": "BLOSSOMY OFFICIAL【HKVtuber】"
+                    },
+                    {
+                        "video_code": "97sG3Vv1mVQ",
+                        "image": "https://i.ytimg.com/vi/97sG3Vv1mVQ/hqdefault.jpg",
+                        "title": "【PV】喂…你哋兩隻嘢…【校園放送部日常🌸】【香港VTuber】",
+                        "author": "BLOSSOMY OFFICIAL【HKVtuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

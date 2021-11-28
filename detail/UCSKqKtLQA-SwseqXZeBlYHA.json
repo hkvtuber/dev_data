@@ -1,0 +1,96 @@
+{
+    "id": "UCSKqKtLQA-SwseqXZeBlYHA",
+    "header": {
+        "name": "阿道弗奇奇 【HK Vtuber】",
+        "image": "https://yt3.ggpht.com/aVd8vYXysXEAx5VK636wUxHE2fVMC1DYU_TUU4OEj2VWN3GfKza4p42yQOAiN65mR5Nhhc6_fw=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/JRvVNr8Up5nx-NfNXbiTlf3S4J79107VyT8FZYCHQ9xw8_b8oHUgotE0dBTbWBGkUqyqaGn1WQ"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "一隻來自義洛利獸人帝國的哈士奇，前世是憲兵，後來因公殉職而轉生到虛擬世界當V起來。\n什麼遊戲也喜歡玩，擅長FPS遊戲。還有討厭鳳梨披薩！"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCSKqKtLQA-SwseqXZeBlYHA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "adolfo_hasuki"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "6tgmWh46vrQ",
+                        "image": "https://i.ytimg.com/vi/6tgmWh46vrQ/hqdefault.jpg",
+                        "title": "阿道弗.奇奇初配信 & APEX觀眾參加型【粵/中/ENG】",
+                        "author": "AdolfoHasuki Ch. 阿道弗奇奇"
+                    },
+                    {
+                        "video_code": "YOhtqe-POJs",
+                        "image": "https://i.ytimg.com/vi/YOhtqe-POJs/hqdefault.jpg",
+                        "title": "【Phasmophobia】4人哈佬喂之旅  F.T 時崎燐 , 零肆04 , 黒田翔隼",
+                        "author": "AdolfoHasuki Ch. 阿道弗奇奇"
+                    },
+                    {
+                        "video_code": "6EkHc0hXFlQ",
+                        "image": "https://i.ytimg.com/vi/6EkHc0hXFlQ/hqdefault.jpg",
+                        "title": "【GTFO】English Stream  f.t Karley , Tiger , Maple",
+                        "author": "AdolfoHasuki Ch. 阿道弗奇奇"
+                    },
+                    {
+                        "video_code": "S3x_r3VLAO8",
+                        "image": "https://i.ytimg.com/vi/S3x_r3VLAO8/hqdefault.jpg",
+                        "title": "【APEX】聽說伺服器修好了? 來肝排位吧 (白金2⏫⏫鑽石4)",
+                        "author": "AdolfoHasuki Ch. 阿道弗奇奇"
+                    },
+                    {
+                        "video_code": "kbEGeK3xXVY",
+                        "image": "https://i.ytimg.com/vi/kbEGeK3xXVY/hqdefault.jpg",
+                        "title": "APEX 觀眾參加型 or 其他遊戲?",
+                        "author": "AdolfoHasuki Ch. 阿道弗奇奇"
+                    }
+                ]
+            }
+        }
+    ]
+}

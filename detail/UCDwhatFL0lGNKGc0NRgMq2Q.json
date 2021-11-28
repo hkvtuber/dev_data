@@ -1,0 +1,80 @@
+{
+    "id": "UCDwhatFL0lGNKGc0NRgMq2Q",
+    "header": {
+        "name": "Cou ch. 火神 紅【HKVTuber】",
+        "image": "https://yt3.ggpht.com/B70LatUKoDgdaQXhD04jEbFpxO5F41k2raPHBbv1JYxzcqH4GV_Obw2AUeobkMl4JpN3DLGFeA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/zrx9KForyYUtpwktAS8C_w-dxhrQFj60DOytYCHbcRJ-G9j-I7XaZhaKBhFfSRl2APITeJzA0Q"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FEQTTiracAAQleC?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FEQTTiracAAQleC?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "早晨🔥\n介紹返，我係火神 紅🐦VTuber囉。\n照計每日都會直播打機嘅、(準備中)\n除咗彈出黎嚇Q你個啲GAME之外咩都玩～\n嚟得就吹兩句啦，喺關ACG嘅全部都同你吹。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n日文\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#紅ちゃね",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#鑑紅絵",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCDwhatFL0lGNKGc0NRgMq2Q"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "kagamicou"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "id": "UC5bhpsL8ZUHQ9q-HOLVc82A",
+    "header": {
+        "name": "Cross Ch. 月島クロス【HKVTuber】",
+        "image": "https://yt3.ggpht.com/2NWyFwwdhrO6XV9GPmuOZkff18cV2CQqUydprZdBkZ1I2PI0c0NOkvnPwv1h4jCI77M8CiZ_j7U=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/VlFhuURk_udbn9QCj4b5lWFtmO5_W0qDdhG9zQHi0cU4XEzf9oHIMoIMvGuLEFPXtCruJRF8-Q"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FAwRsCnUYAELMUj?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FAwRsCnUYAELMUj?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "➕ 大家好，我是月島十字。+＋慵懶歌繪系VTuber。\n是目前正居於香港的一位吸血鬼王子 (♀) ，大家可以叫我殿下(との）。\n現在努力地學習人類相關知識中，特別喜歡繪畫，唱歌及玩遊戲（但非常手口眼不協調）\n希望藉著這裡可以和大家分享我的學習（遊玩？）和成長過程。\n來成為朋友吧，人類！🍷+＋"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "出道日",
+                        "content": "2021年6月13日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC5bhpsL8ZUHQ9q-HOLVc82A"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "tksmcross"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "xkCXa_O1RmY",
+                        "image": "https://i.ytimg.com/vi/xkCXa_O1RmY/hqdefault.jpg",
+                        "title": "【自我介紹】你的酷帥吸血鬼王子殿下駕到！【香港Vtuber/月島クロス】",
+                        "author": "Cross Ch. 月島クロス【HKVTuber】"
+                    },
+                    {
+                        "video_code": "ELiBxJWf4AM",
+                        "image": "https://i.ytimg.com/vi/ELiBxJWf4AM/hqdefault.jpg",
+                        "title": "KING-Kanaria / Covered by 月島クロス 一人で【歌ってみた/描いてみた】",
+                        "author": "Cross Ch. 月島クロス【HKVTuber】"
+                    },
+                    {
+                        "video_code": "xAcHdtAsrj4",
+                        "image": "https://i.ytimg.com/vi/xAcHdtAsrj4/hqdefault.jpg",
+                        "title": "エンヴィーベイビー - Kanaria / Covered by 月島クロス 一人で【歌ってみた/描いてみた】",
+                        "author": "Cross Ch. 月島クロス【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "wRRTf-KvxrE",
+                        "image": "https://i.ytimg.com/vi/wRRTf-KvxrE/hqdefault.jpg",
+                        "title": "【初配信】正！式！見！面！【香港Vtuber/月島クロス】",
+                        "author": "Cross Ch. 月島クロス【HKVTuber】"
+                    },
+                    {
+                        "video_code": "uNdjHlHyh9U",
+                        "image": "https://i.ytimg.com/vi/uNdjHlHyh9U/hqdefault.jpg",
+                        "title": "【初歌回】準備好你們的螢光棒了沒？！本殿……來找數了- _-【香港Vtuber/月島クロス】",
+                        "author": "Cross Ch. 月島クロス【HKVTuber】"
+                    },
+                    {
+                        "video_code": "pWamrQ5k47E",
+                        "image": "https://i.ytimg.com/vi/pWamrQ5k47E/hqdefault.jpg",
+                        "title": "【歌回】1000訂閱感謝演唱會！開場一定要看＋最後那段不準看！不然咬你- _-＋【香港Vtuber/月島クロス】",
+                        "author": "Cross Ch. 月島クロス【HKVTuber】"
+                    },
+                    {
+                        "video_code": "oTgs8ym8xqc",
+                        "image": "https://i.ytimg.com/vi/oTgs8ym8xqc/hqdefault.jpg",
+                        "title": "【歌回】收益化 X 兩個月紀念 感謝演唱會！【香港Vtuber/月島クロス】",
+                        "author": "Cross Ch. 月島クロス【HKVTuber】"
+                    },
+                    {
+                        "video_code": "Jlf4G30ihFk",
+                        "image": "https://i.ytimg.com/vi/Jlf4G30ihFk/hqdefault.jpg",
+                        "title": "【歌回】找數！☆＊懷舊乂MK乂歌回★× 那些年系列【香港Vtuber/月島クロス】",
+                        "author": "Cross Ch. 月島クロス【HKVTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

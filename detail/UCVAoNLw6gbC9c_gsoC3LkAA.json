@@ -1,0 +1,181 @@
+{
+    "id": "UCVAoNLw6gbC9c_gsoC3LkAA",
+    "header": {
+        "name": "雨宮みずき",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLRYI63pgW1hGk6dLkSncypIsBRss33T1fGRMYHtQA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/9_aiy0RmXAzU4qnZoEN-s0ggGoTOrBXGZY1m-ohpUHI6KHbDeT-k0tRAjXXuFdd6S4-rXTr43Q"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/EhJfZZcVoAEjiWh?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/EhJfZZcVoAEjiWh?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/EhJfZZlVgAAfOoT?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/EhJfZZlVgAAfOoT?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/EhJfZj7UMAUvT0s?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/EhJfZj7UMAUvT0s?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "超能力を研究している、雨宮みずきだー！！\n助手募集中だぞ！！"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "雨宮みずき",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "5月14日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "永遠の18歳",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "1.73くらい",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#AmamizuV",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#NamAmamizu",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#AmamizuArt",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#助手",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCVAoNLw6gbC9c_gsoC3LkAA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "amamiya_mizuki"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/people/%E9%9B%A8%E5%AE%AE-%E3%81%BF%E3%81%9A%E3%81%8D/100058008422072/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "uFAR6FW91eE",
+                        "image": "https://i.ytimg.com/vi/uFAR6FW91eE/hqdefault.jpg",
+                        "title": "【自我介紹】入黎我唱支歌仔比你聽丫",
+                        "author": "雨宮みずき"
+                    },
+                    {
+                        "video_code": "8jA9GckGvH0",
+                        "image": "https://i.ytimg.com/vi/8jA9GckGvH0/hqdefault.jpg",
+                        "title": "【＃２】演技力助手面接",
+                        "author": "雨宮みずき"
+                    },
+                    {
+                        "video_code": "9tgXPvTK-pc",
+                        "image": "https://i.ytimg.com/vi/9tgXPvTK-pc/hqdefault.jpg",
+                        "title": "【歌ってみた】ポジティブ・パレード【雨宮みずき】",
+                        "author": "雨宮みずき"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "sQN1yenhzNs",
+                        "image": "https://i.ytimg.com/vi/sQN1yenhzNs/hqdefault.jpg",
+                        "title": "【雨宮みずき】研究所大翻新！！【お披露目】",
+                        "author": "雨宮みずき"
+                    },
+                    {
+                        "video_code": "Z--nKzPrITs",
+                        "image": "https://i.ytimg.com/vi/Z--nKzPrITs/hqdefault.jpg",
+                        "title": "【還願Devotion】助手同我入黎翻夜班！！！！",
+                        "author": "雨宮みずき"
+                    },
+                    {
+                        "video_code": "N4u7LmGwveo",
+                        "image": "https://i.ytimg.com/vi/N4u7LmGwveo/hqdefault.jpg",
+                        "title": "【Detroit:become humen】唔玩完唔瞓挑戰",
+                        "author": "雨宮みずき"
+                    },
+                    {
+                        "video_code": "wOCdKe_vlos",
+                        "image": "https://i.ytimg.com/vi/wOCdKe_vlos/hqdefault.jpg",
+                        "title": "【雜談】好鬼冇用嘅超能力嘅有用之處＋乜都傾輕鬆雜談【雨宮みずき】",
+                        "author": "雨宮みずき"
+                    }
+                ]
+            }
+        }
+    ]
+}

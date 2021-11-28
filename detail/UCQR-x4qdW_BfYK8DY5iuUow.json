@@ -1,0 +1,92 @@
+{
+    "id": "UCQR-x4qdW_BfYK8DY5iuUow",
+    "header": {
+        "name": "金魚姫KingyoHime[香港Vtuber]",
+        "image": "https://yt3.ggpht.com/SU4hP_3umGHB515lCPw3RdeI_8F5X3YArFnhScGfPDKe5XQiU237wq1Zf0Izbk0lG4vexPRbdOs=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/ta-SDv1lC2jEc28wRJxzKLCUSYRwChWRpIwQRtY1UCpPS43MNiDhsZsPeGlNDfyNsR6ROkds"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "金魚姫"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCQR-x4qdW_BfYK8DY5iuUow"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "kingyohime403"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "_4VSAeB4p9A",
+                        "image": "https://i.ytimg.com/vi/_4VSAeB4p9A/hqdefault.jpg",
+                        "title": "【自我介紹】這是你家走失的金魚嗎？失敬了🐡［香港Vtuber/金魚姫] #Vtuber #香港Vtuber #HKVtuber",
+                        "author": "金魚姫KingyoHime[香港Vtuber]"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "9hA4ntnPpC0",
+                        "image": "https://i.ytimg.com/vi/9hA4ntnPpC0/hqdefault.jpg",
+                        "title": "[金魚姫KingyoHime] 突發歌回",
+                        "author": "金魚姫KingyoHime[香港Vtuber]"
+                    },
+                    {
+                        "video_code": "iFUTBTo6qk8",
+                        "image": "https://i.ytimg.com/vi/iFUTBTo6qk8/hqdefault.jpg",
+                        "title": "[金魚姫KingyoHime] 突發GAMING",
+                        "author": "金魚姫KingyoHime[香港Vtuber]"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "id": "UCqUU2QEPmNq_Xe_wf2MjI3w",
+    "header": {
+        "name": "Honodera Ch. 月陽炎寺",
+        "image": "https://yt3.ggpht.com/MkBjtPazf4wPioufues9cwi3L1QTZ3wbA2nkRzkivdoMLg-NrbyiPuYRN6KFja0C9iCYXEay=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/xinkXjemH20XAWNF8nDzFUk3KG53WJiTyT_0UWTGjnU3yDUUz9z-oHXa7WcEfgMaQJvietF6kQM"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "在地獄某處居住的鬼神劍士。\n因爲工作必須要天天重複折磨怨靈，感到很無聊。所以放長假並決定和人類交流而到了人間界\n成爲VTuber。活太長而有一點健忘，很容易忘記重要的事情。\n最喜歡折磨怨靈的方法就是把怨靈綁在用刑臺上，在它們清醒的狀態下用劍慢慢剝皮，任由其慘叫。\n不止希望可以跟人類打好關係，還希望可以向人類展示自己的能力，讓人類不要小看鬼族的強大。\n順便警告還活著的人類不要犯下滔天大罪，否則死後就會下地獄被鬼族以多種令人髮指的方式折磨。\n性格有點懶散和和平主義，不喜歡衝突。但對著地獄的怨靈就會變抖S一個。\n身爲鬼神卻莫名其妙喜歡可愛的東西。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#HonoLive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#HonoArt",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#炎鳥",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCqUU2QEPmNq_Xe_wf2MjI3w"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "getsuyohonodera"
+                    },
+                    {
+                        "key": "pixiv",
+                        "path": "https://www.pixiv.net/users/42148533"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "WX-qxj-cEwE",
+                        "image": "https://i.ytimg.com/vi/WX-qxj-cEwE/hqdefault.jpg",
+                        "title": "Kanaria - KING / 月陽炎寺 Cover【歌ってみた】",
+                        "author": "Honodera Ch. 月陽炎寺"
+                    },
+                    {
+                        "video_code": "icsx5WFgu_s",
+                        "image": "https://i.ytimg.com/vi/icsx5WFgu_s/hqdefault.jpg",
+                        "title": "Kanaria - エンヴィーベイビー / 月陽炎寺 Cover【歌ってみた】",
+                        "author": "Honodera Ch. 月陽炎寺"
+                    },
+                    {
+                        "video_code": "oXV5B-eeJbM",
+                        "image": "https://i.ytimg.com/vi/oXV5B-eeJbM/hqdefault.jpg",
+                        "title": "Kanaria - KING【紺珠傳風】",
+                        "author": "Honodera Ch. 月陽炎寺"
+                    },
+                    {
+                        "video_code": "3hWGcKxBZuQ",
+                        "image": "https://i.ytimg.com/vi/3hWGcKxBZuQ/hqdefault.jpg",
+                        "title": "【廢片】good morning weather hackers",
+                        "author": "Honodera Ch. 月陽炎寺"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "9BREALP5WsM",
+                        "image": "https://i.ytimg.com/vi/9BREALP5WsM/hqdefault.jpg",
+                        "title": "【初配信】來自地獄的鬼族劍士！我不是邪惡的鬼哦？【HKVtuber/Honodera Ch.】",
+                        "author": "Honodera Ch. 月陽炎寺"
+                    },
+                    {
+                        "video_code": "Lru06xuc4eg",
+                        "image": "https://i.ytimg.com/vi/Lru06xuc4eg/hqdefault.jpg",
+                        "title": "【Hamsterball】幻想游戲之一，小小倉鼠大比賽！【HKVtuber/Honodera Ch.】",
+                        "author": "Honodera Ch. 月陽炎寺"
+                    }
+                ]
+            }
+        }
+    ]
+}

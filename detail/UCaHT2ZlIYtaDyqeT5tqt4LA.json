@@ -1,0 +1,124 @@
+{
+    "id": "UCaHT2ZlIYtaDyqeT5tqt4LA",
+    "header": {
+        "name": "Hosino Ch. 社畜A星野ニア",
+        "image": "https://yt3.ggpht.com/LqhSkNkXpdOe-JP0QE2diWw0uAy1KHojNPJVXmkiGL0GjLKNobtFW2udRJaf3dRMOIb_JrukN78=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/-HsbbKe2f81SlssGNkO0gmWcS186jB7d6PT91FeM47y80J9Uir6I1-su5G_j4Kz0ptJ-mN2b"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCaHT2ZlIYtaDyqeT5tqt4LA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "shachikua_nia"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/shachikua_nia/"
+                    },
+                    {
+                        "key": "twitch",
+                        "path": "https://www.twitch.tv/nia_hkvtuber"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "gtAnDCRRMSw",
+                        "image": "https://i.ytimg.com/vi/gtAnDCRRMSw/hqdefault.jpg",
+                        "title": "【スーパーロボット大戦30/機戰30】(1) 菁英mode失敗集【新人Vtuber/社畜A星野ニア】",
+                        "author": "Hosino Ch. 社畜A星野ニア"
+                    },
+                    {
+                        "video_code": "F5gKuqJsweU",
+                        "image": "https://i.ytimg.com/vi/F5gKuqJsweU/hqdefault.jpg",
+                        "title": "【千年戦争アイギス】【ガチャ配信】8週年活動抽卡!結果是歐洲還是非洲?【新人vtuber社畜A星野ニア】",
+                        "author": "Hosino Ch. 社畜A星野ニア"
+                    },
+                    {
+                        "video_code": "vzpJ2wrUcOE",
+                        "image": "https://i.ytimg.com/vi/vzpJ2wrUcOE/hqdefault.jpg",
+                        "title": "【千年戦争アイギス】魔王城大討伐 幻影の王子神級放置【新人vtuber社畜A星野ニア】",
+                        "author": "Hosino Ch. 社畜A星野ニア"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "UK5e5p5i7jg",
+                        "image": "https://i.ytimg.com/vi/UK5e5p5i7jg/hqdefault.jpg",
+                        "title": "【#機戰30 /スーパーロボット大戦30/限制play】​8: 什麼?!超力電磁俠戰死了!?【新人Vtuber/社畜A星野ニア】",
+                        "author": "Hosino Ch. 社畜A星野ニア"
+                    },
+                    {
+                        "video_code": "SWPnpZByhqU",
+                        "image": "https://i.ytimg.com/vi/SWPnpZByhqU/hqdefault.jpg",
+                        "title": "【Don't Starve Together】第一次玩,究竟我會係第一個餓死定係全部人畀我累死呢 ^_0!【hkvtuber/社畜A星野ニア】",
+                        "author": "Hosino Ch. 社畜A星野ニア"
+                    },
+                    {
+                        "video_code": "4ygURQTR1lg",
+                        "image": "https://i.ytimg.com/vi/4ygURQTR1lg/hqdefault.jpg",
+                        "title": "【機戰30/スーパーロボット大戦30/限制play】#7 過了第2次緊急任務,聽說敵人會變6段改?【新人Vtuber/社畜A星野ニア】",
+                        "author": "Hosino Ch. 社畜A星野ニア"
+                    },
+                    {
+                        "video_code": "dYLhXymtCwY",
+                        "image": "https://i.ytimg.com/vi/dYLhXymtCwY/hqdefault.jpg",
+                        "title": "【雜談】咩話?!DSE仲有成百幾日就失眠?!你點頂呀..放鬆D啦~【hkvtuber】【社畜A星野ニア】",
+                        "author": "Hosino Ch. 社畜A星野ニア"
+                    }
+                ]
+            }
+        }
+    ]
+}

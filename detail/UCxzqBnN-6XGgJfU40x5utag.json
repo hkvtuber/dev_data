@@ -1,0 +1,167 @@
+{
+    "id": "UCxzqBnN-6XGgJfU40x5utag",
+    "header": {
+        "name": "伊香いくら【HKVtuber】",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLTfLIRGsJrgWM4QMzHqE-Zfy2UrgMCkw2h2zVvf=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/0fSJ2xbG_g5ssvJ_y3kT90uSMTDGZZAv6tBNww75UU2aYLMgEqjp0Yib36kdlfxFcbHhjBIZog"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E12p5cLVkAIlRre?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E12p5cLVkAIlRre?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "ᔦ .___. ᔨᔦ .___. ᔨᔦ .___. ᔨᔦ .___. ᔨ\n經常誤被邪教儀式召喚\n但其實只是見習海怪的膽小鬼\n膽小海怪會有一天成長為邪神嗎?\n\nᔦ .___. ᔨᔦ .___. ᔨᔦ .___. ᔨᔦ .___. ᔨ"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#海怪通信",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#海怪寶藏庫",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#祭品",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#海怪茶會",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#海怪迷因",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCxzqBnN-6XGgJfU40x5utag"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "ikaikura_HK"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "FL04QA8ofyg",
+                        "image": "https://i.ytimg.com/vi/FL04QA8ofyg/hqdefault.jpg",
+                        "title": "【伊香いくら】海怪的自我介紹【香港VTuber】♤ 廣東話+中文字幕",
+                        "author": "伊香いくら【HKVtuber】"
+                    },
+                    {
+                        "video_code": "Hu3TJpArtPQ",
+                        "image": "https://i.ytimg.com/vi/Hu3TJpArtPQ/hqdefault.jpg",
+                        "title": "oH Hi mArk",
+                        "author": "伊香いくら【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "LAWJgSBCv_Q",
+                        "image": "https://i.ytimg.com/vi/LAWJgSBCv_Q/hqdefault.jpg",
+                        "title": "【伊香いくら】初配信【香港VTuber】",
+                        "author": "伊香いくら【HKVtuber】"
+                    },
+                    {
+                        "video_code": "lM73PJjPRmc",
+                        "image": "https://i.ytimg.com/vi/lM73PJjPRmc/hqdefault.jpg",
+                        "title": "【新衣裝發佈會】500訂感謝!!【伊香いくら♤香港VTuber】",
+                        "author": "伊香いくら【HKVtuber】"
+                    },
+                    {
+                        "video_code": "u6-gkNAIrNQ",
+                        "image": "https://i.ytimg.com/vi/u6-gkNAIrNQ/hqdefault.jpg",
+                        "title": "【Monster Hunter Rise】流轉突刺長槍俠【香港VTuber/伊香いくら】",
+                        "author": "伊香いくら【HKVtuber】"
+                    },
+                    {
+                        "video_code": "E9Xq0AXW5mQ",
+                        "image": "https://i.ytimg.com/vi/E9Xq0AXW5mQ/hqdefault.jpg",
+                        "title": "【伊香いくら】海怪小畫家-芒亨封面圖【香港VTuber】",
+                        "author": "伊香いくら【HKVtuber】"
+                    },
+                    {
+                        "video_code": "yt0QPPBfzis",
+                        "image": "https://i.ytimg.com/vi/yt0QPPBfzis/hqdefault.jpg",
+                        "title": "【伊香いくら】醉酒練歌【香港VTuber】",
+                        "author": "伊香いくら【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "烤肉",
+                "video_list": [
+                    {
+                        "video_code": "yIk-suWDiYc",
+                        "image": "https://i.ytimg.com/vi/yIk-suWDiYc/hqdefault.jpg",
+                        "title": "【海怪精華】生理上無法接受太刀【香港VTuber/伊香いくら】",
+                        "author": "伊香いくら【HKVtuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

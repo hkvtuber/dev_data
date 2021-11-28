@@ -1,0 +1,110 @@
+{
+    "id": "UCDUY_H2U5bQ33T5X3SsmD_Q",
+    "header": {
+        "name": "水月いずき[ HK Vtuber ]",
+        "image": "https://yt3.ggpht.com/Rja5ONde_rxDknd01TqsBM7_DjFDFLUZ2BpldQwJSJttLWRO1OEuUE6tjE7ivi8l44K1xCUxxg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/6rSyrjAGxqpXesHlu5ZwVKuXXRiL420BxoUomdqhbBQNFHsSCK0JwREzdVqfHwefPrg3BFym3A"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCDUY_H2U5bQ33T5X3SsmD_Q"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/_mitsuki_07_/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "-tIf77peDmo",
+                        "image": "https://i.ytimg.com/vi/-tIf77peDmo/hqdefault.jpg",
+                        "title": "水月在什麼? ? ?",
+                        "author": "水月いずき[ HK Vtuber ]"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "0k5rwCkYui8",
+                        "image": "https://i.ytimg.com/vi/0k5rwCkYui8/hqdefault.jpg",
+                        "title": "【初配信】好緊張QwQ [ HKvtuber / 水月 ]",
+                        "author": "水月いずき[ HK Vtuber ]"
+                    },
+                    {
+                        "video_code": "CEi1iHr5fE0",
+                        "image": "https://i.ytimg.com/vi/CEi1iHr5fE0/hqdefault.jpg",
+                        "title": "【遊戲台】[像素男友] 要攻略全部男友 ! ! !   嘿嘿嘿 www[ HKvtuber / 水月 ]",
+                        "author": "水月いずき[ HK Vtuber ]"
+                    },
+                    {
+                        "video_code": "DOAntJryw4c",
+                        "image": "https://i.ytimg.com/vi/DOAntJryw4c/hqdefault.jpg",
+                        "title": "#HKVtuber # 水月Izuki 【畫畫台】來畫畫HKVtuber [ HKvtuber / 水月 ]",
+                        "author": "水月いずき[ HK Vtuber ]"
+                    },
+                    {
+                        "video_code": "N0g4QUe8bZ8",
+                        "image": "https://i.ytimg.com/vi/N0g4QUe8bZ8/hqdefault.jpg",
+                        "title": "#HKVtuber # 水月Izuki 【聯動台】跟友友玩遊戲 [ HKvtuber / 水月 ]",
+                        "author": "水月いずき[ HK Vtuber ]"
+                    },
+                    {
+                        "video_code": "MAj1H_1OALA",
+                        "image": "https://i.ytimg.com/vi/MAj1H_1OALA/hqdefault.jpg",
+                        "title": "#HKVtuber # 水月Izuki 【聯動台】跟友友玩遊戲 [ HKvtuber / 水月 ]",
+                        "author": "水月いずき[ HK Vtuber ]"
+                    }
+                ]
+            }
+        }
+    ]
+}

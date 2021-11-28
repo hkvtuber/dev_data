@@ -1,0 +1,122 @@
+{
+    "id": "UCGUEjJpbqkaXlJQYyiceZyw",
+    "header": {
+        "name": "卡路 卡諾 Karlo Carno 【HKVtuber】",
+        "image": "https://yt3.ggpht.com/cc-to2iLQceWRA4X3h0MarqSJbu5dj9a0LTNqkAK_Ncqh6jImJrHgpH2DvoMEQc7XHL8XON3ksA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/9S-x_nfWbUw_PYQeTPA5rrsqas_wP-3rHxPZ-tEw2kyZdK6B5yRVgJVWxxLmpRoHOHjaFsVL"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "食肉牛龍，恐龍系香港Vtuber\n會抓著你一直講恐龍(O)"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCGUEjJpbqkaXlJQYyiceZyw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "KarloCarno042A"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "33pjxXVawrM",
+                        "image": "https://i.ytimg.com/vi/33pjxXVawrM/hqdefault.jpg",
+                        "title": "【香港Vtuber】卡路．卡諾 出道宣佈！",
+                        "author": "卡路 卡諾 Karlo Carno 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "sQ_xPFPR3WI",
+                        "image": "https://i.ytimg.com/vi/sQ_xPFPR3WI/hqdefault.jpg",
+                        "title": "[粵語/國語字幕] 【粵讀廢文】純純正正既咸濕 【卡路．卡諾】",
+                        "author": "卡路 卡諾 Karlo Carno 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "3o8cyXn204Q",
+                        "image": "https://i.ytimg.com/vi/3o8cyXn204Q/hqdefault.jpg",
+                        "title": "【粵讀廢文】很好……你很腦殘嗎……敢這樣講刀劍神域……【卡路．卡諾】",
+                        "author": "卡路 卡諾 Karlo Carno 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "OnB5O6_gJzQ",
+                        "image": "https://i.ytimg.com/vi/OnB5O6_gJzQ/hqdefault.jpg",
+                        "title": "【自我介紹】卡路．卡諾自我介紹！五分鐘帶你認識青珊走犯【卡路．卡諾 Karlo Carno】",
+                        "author": "卡路 卡諾 Karlo Carno 【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "K_giP2mC0-M",
+                        "image": "https://i.ytimg.com/vi/K_giP2mC0-M/hqdefault.jpg",
+                        "title": "【香港Vtuber】卡路．卡諾 自我介紹",
+                        "author": "卡路 卡諾 Karlo Carno 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "5erMOTajH7o",
+                        "image": "https://i.ytimg.com/vi/5erMOTajH7o/hqdefault.jpg",
+                        "title": "【線下聯動】大型線下聯動 港V聖誕火雞Party【香港Vtuber多人】",
+                        "author": "卡路 卡諾 Karlo Carno 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "uGMSv2jmRdM",
+                        "image": "https://i.ytimg.com/vi/uGMSv2jmRdM/hqdefault.jpg",
+                        "title": "【繪圖】塗鴉 Doodle【卡路．卡諾 Karlo Carno】",
+                        "author": "卡路 卡諾 Karlo Carno 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "vpBD3QYT0l8",
+                        "image": "https://i.ytimg.com/vi/vpBD3QYT0l8/hqdefault.jpg",
+                        "title": "【新衣裝公佈】迷之新衣裝 公佈+深夜遊戲【卡路．卡諾 Karlo Carno】(嘔吐音注意)",
+                        "author": "卡路 卡諾 Karlo Carno 【HKVtuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

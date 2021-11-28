@@ -1,0 +1,189 @@
+{
+    "id": "UC-cHFd49zhY3Y7x9PZGDC_Q",
+    "header": {
+        "name": "Akito Ch. 緋佐あきと【HKVTuber】",
+        "image": "https://yt3.ggpht.com/dT4P69pPo1bRN0oSo_nigBgkur2cKzHrzsxsKeJVFQQ9pdNtQQA1nPwL0unnmQcV8UV9_Jc9OA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/VihWfJW_ouDFEdGs089bpaoALroZOcfg54oH5VTlcId0nMoQCMxlvzk9IBm-0m8TXB8OAWqc"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E3bjuMrUYAIq7m9?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E3bjuMrUYAIq7m9?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "某天跟家人出門覓食時意外走散了，\n餓了一整天後誤打誤撞食了動物園的飼料，\n然後就被飼養員抓進動物園裡了。\n動物園裡電腦設備很齊全，所以出道當vtuber了。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#緋佐生",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#緋佐唄",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#緋佐絵",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#緋佐絵_NSFW",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#緋佐草",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC-cHFd49zhY3Y7x9PZGDC_Q"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "akesaakito"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/Akito-Ch-%E7%B7%8B%E4%BD%90%E3%81%82%E3%81%8D%E3%81%A8HKVTuber-106450021587298"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "umOG_loQQiQ",
+                        "image": "https://i.ytimg.com/vi/umOG_loQQiQ/hqdefault.jpg",
+                        "title": "【自我介紹】你要來餵食小貓熊嗎🍤【HKVTuber/緋佐煌斗】",
+                        "author": "Akito Ch. 緋佐あきと【HKVTuber】"
+                    },
+                    {
+                        "video_code": "q52oi5mKHzo",
+                        "image": "https://i.ytimg.com/vi/q52oi5mKHzo/hqdefault.jpg",
+                        "title": "【COVER】WAVE - niki【緋佐煌斗】",
+                        "author": "Akito Ch. 緋佐あきと【HKVTuber】"
+                    },
+                    {
+                        "video_code": "E8SkdsoEgEg",
+                        "image": "https://i.ytimg.com/vi/E8SkdsoEgEg/hqdefault.jpg",
+                        "title": "【COVER】KING - Kanaria【緋佐煌斗】",
+                        "author": "Akito Ch. 緋佐あきと【HKVTuber】"
+                    },
+                    {
+                        "video_code": "MebMx9u4POc",
+                        "image": "https://i.ytimg.com/vi/MebMx9u4POc/hqdefault.jpg",
+                        "title": "【COVER】シニカルナイトプラン - Ayase【緋佐煌斗】",
+                        "author": "Akito Ch. 緋佐あきと【HKVTuber】"
+                    },
+                    {
+                        "video_code": "MkgKl3vAsts",
+                        "image": "https://i.ytimg.com/vi/MkgKl3vAsts/hqdefault.jpg",
+                        "title": "【COVER】ネコガネコロンダー - 弦月藤士郎【緋佐煌斗】#shorts",
+                        "author": "Akito Ch. 緋佐あきと【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "NCniuda3Ph0",
+                        "image": "https://i.ytimg.com/vi/NCniuda3Ph0/hqdefault.jpg",
+                        "title": "【歌回直播】兩個月出道記念歌回！！【HKVTuber/緋佐煌斗🍤】",
+                        "author": "Akito Ch. 緋佐あきと【HKVTuber】"
+                    },
+                    {
+                        "video_code": "ZQz8Xluz5JQ",
+                        "image": "https://i.ytimg.com/vi/ZQz8Xluz5JQ/hqdefault.jpg",
+                        "title": "【歌回直播】V家限定！！來聽小熊貓的叫聲😱【HKVTuber/緋佐煌斗🍤】",
+                        "author": "Akito Ch. 緋佐あきと【HKVTuber】"
+                    },
+                    {
+                        "video_code": "UWnvRx-KrUM",
+                        "image": "https://i.ytimg.com/vi/UWnvRx-KrUM/hqdefault.jpg",
+                        "title": "【初配信】我是小貓熊！！別給我傻傻分不清！！【HKVTuber/緋佐煌斗🍤】",
+                        "author": "Akito Ch. 緋佐あきと【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "烤肉",
+                "video_list": [
+                    {
+                        "video_code": "ARHcZpPqtdc",
+                        "image": "https://i.ytimg.com/vi/ARHcZpPqtdc/hqdefault.jpg",
+                        "title": "【緋佐煌斗/朱道】在直播中公然貼貼的兩人【HKVtuber/台灣Vtuber】全字幕精華",
+                        "author": "梅糖（ムイトン）"
+                    },
+                    {
+                        "video_code": "eFgYcb_qzDQ",
+                        "image": "https://i.ytimg.com/vi/eFgYcb_qzDQ/hqdefault.jpg",
+                        "title": "【帝丹官方精華】前面有一隻可愛的……？【糖豆人】",
+                        "author": "Gento Taitan ch."
+                    },
+                    {
+                        "video_code": "_BXishmDzXc",
+                        "image": "https://i.ytimg.com/vi/_BXishmDzXc/hqdefault.jpg",
+                        "title": "【緋佐煌斗】進擊的豆M？【HKVtuber】全字幕雜談精華",
+                        "author": "梅糖（ムイトン）"
+                    }
+                ]
+            }
+        }
+    ]
+}

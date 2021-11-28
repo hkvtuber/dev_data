@@ -1,0 +1,120 @@
+{
+    "id": "UCwNTysyZXTow0UIIEKUZTPw",
+    "header": {
+        "name": "暁月闇夜.Channel",
+        "image": "https://yt3.ggpht.com/7Ep-Cu42n5y5Gzs29ObFDzG5u33vitE55BueEWig4SnLAxdMa5vVZ_ntB51Vap8Z3gqphzv1=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E6OiVamVIAESqOf?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E6OiVamVIAESqOf?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "在魔界生活得太懶散又不想背負魔帝的責任，所以靜悄悄到人類世界玩。人間身分為高中生。後來覺得人類世界的娛樂好好玩。特別喜歡二次元相關的文化，日本和香港。所以留在人間做個調皮的高中生(惡魔)。同時希望世人明白貴為惡魔的魅力。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCwNTysyZXTow0UIIEKUZTPw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Akatsuki_Anya"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/akatsuki_anya"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "bxyfjTAkNVw",
+                        "image": "https://i.ytimg.com/vi/bxyfjTAkNVw/hqdefault.jpg",
+                        "title": "【暁月闇夜】Vtuber一問一答自己紹介 HK Vtuber",
+                        "author": "暁月闇夜.Channel"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "XXUJJc3hAFE",
+                        "image": "https://i.ytimg.com/vi/XXUJJc3hAFE/hqdefault.jpg",
+                        "title": "【暁月闇夜】一齊飛帽啦「super mario odyssey」#1",
+                        "author": "暁月闇夜.Channel"
+                    },
+                    {
+                        "video_code": "5ZVdr0ExheY",
+                        "image": "https://i.ytimg.com/vi/5ZVdr0ExheY/hqdefault.jpg",
+                        "title": "【暁月闇夜】一齊飛帽啦「super mario odyssey」#2",
+                        "author": "暁月闇夜.Channel"
+                    },
+                    {
+                        "video_code": "KkUxKlAYoto",
+                        "image": "https://i.ytimg.com/vi/KkUxKlAYoto/hqdefault.jpg",
+                        "title": "【暁月闇夜】你哋由依刻開始跟我「GTA 5」#1",
+                        "author": "暁月闇夜.Channel"
+                    },
+                    {
+                        "video_code": "4_nJgVpoxtE",
+                        "image": "https://i.ytimg.com/vi/4_nJgVpoxtE/hqdefault.jpg",
+                        "title": "【暁月闇夜】你哋由依刻開始跟我「GTA 5」#2",
+                        "author": "暁月闇夜.Channel"
+                    }
+                ]
+            }
+        }
+    ]
+}

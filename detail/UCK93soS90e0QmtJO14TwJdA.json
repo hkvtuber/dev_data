@@ -1,0 +1,172 @@
+{
+    "id": "UCK93soS90e0QmtJO14TwJdA",
+    "header": {
+        "name": "Yagi Ch. 黑木ヤギ",
+        "image": "https://yt3.ggpht.com/4me_dynYFMul_BvkuA7z0AvYZS6xw9H0Xrj3_wswvPGPbWzfFLeFGXCu6409ihwkyPWzN_aouw=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/F7RCBL0nsoqkj0Tv828hXsQsAEszifhkPTqdeSassweNbmZTIdYN0fE0NV0ab6V4TDSQ0Zd4AA"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FATHGKqVUAY1jFr?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FATHGKqVUAY1jFr?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#YagoatLive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#Yagillust",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#羊腩bro\n#Yagoatbro ",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#Yagoat404",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCK93soS90e0QmtJO14TwJdA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "yagikuroki"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/yagi.kuroki/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "LAaFV1XPiU8",
+                        "image": "https://i.ytimg.com/vi/LAaFV1XPiU8/hqdefault.jpg",
+                        "title": "🐐【初配信公告 | DEBUT ANNOUNCEMENT 】🐐",
+                        "author": "Yagi Ch. 黑木ヤギ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "QmECFBNAETE",
+                        "image": "https://i.ytimg.com/vi/QmECFBNAETE/hqdefault.jpg",
+                        "title": "【自己紹介 | Q&A Self Introduction】🐐Vtuber 一問一答自己紹介【黑木ヤギ/HKVTuber】",
+                        "author": "Yagi Ch. 黑木ヤギ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "zwO1KjfD31o",
+                        "image": "https://i.ytimg.com/vi/zwO1KjfD31o/hqdefault.jpg",
+                        "title": "【SPEEDPAINT】Hololive - Ouro Kronii🚁縮時繪圖過程",
+                        "author": "Yagi Ch. 黑木ヤギ【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "nxLmszNDGvY",
+                        "image": "https://i.ytimg.com/vi/nxLmszNDGvY/hqdefault.jpg",
+                        "title": "🐐【初配信 | DEBUT STREAM】咩露死苦!  Mehhhello!【黑木ヤギ/HKVtuber】(繁中字幕)",
+                        "author": "Yagi Ch. 黑木ヤギ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "ymk-dYetr_w",
+                        "image": "https://i.ytimg.com/vi/ymk-dYetr_w/hqdefault.jpg",
+                        "title": "【深夜畫畫天光台】🐐又失眠啦！好耶！【黑木ヤギ/HKVtuber】",
+                        "author": "Yagi Ch. 黑木ヤギ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "bhmPtS4GqRQ",
+                        "image": "https://i.ytimg.com/vi/bhmPtS4GqRQ/hqdefault.jpg",
+                        "title": "【深夜耍廢天光台】🐐我就廢【黑木ヤギ/HKVtuber】",
+                        "author": "Yagi Ch. 黑木ヤギ【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "烤肉",
+                "video_list": [
+                    {
+                        "video_code": "1QZGxnPnd5I",
+                        "image": "https://i.ytimg.com/vi/1QZGxnPnd5I/hqdefault.jpg",
+                        "title": "【直播精華再精華】🐐🔥炎上山羊 (物理) 【黑木ヤギ | 香港Vtuber】(繁中/ENG SUB)",
+                        "author": "Yagi Ch. 黑木ヤギ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "5rNd9QQU8XI",
+                        "image": "https://i.ytimg.com/vi/5rNd9QQU8XI/hqdefault.jpg",
+                        "title": "【直播精華】🐐暴走山羊的奇妙冒險 | Bug Simulator【黑木ヤギ | 香港Vtuber】(繁中字幕)",
+                        "author": "Yagi Ch. 黑木ヤギ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "tWrZS5q0MMI",
+                        "image": "https://i.ytimg.com/vi/tWrZS5q0MMI/hqdefault.jpg",
+                        "title": "【直播精華 | 讀空氣】🐐不是KY山羊而是色色山羊？！【黑木ヤギ | 香港Vtuber】(繁中字幕)",
+                        "author": "Yagi Ch. 黑木ヤギ【HKVtuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

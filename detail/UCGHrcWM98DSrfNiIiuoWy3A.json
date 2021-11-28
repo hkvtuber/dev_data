@@ -1,0 +1,96 @@
+{
+    "id": "UCGHrcWM98DSrfNiIiuoWy3A",
+    "header": {
+        "name": "TaiDa Ch. 黛惰夜【HKVTuber】",
+        "image": "https://yt3.ggpht.com/Ch5vWSFMvQk_6e4uRSMx-e2HbJAoMtz-120FDwhlj8rQPDVEUfKpFgNbU-icvb2-DzpjLYtQUQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/NIKB35U0EaWS9AId7rnVNAHVEYqUAyzdr57eMZn3SfukaROz6Ln6gXqCA90kmSAwtjR6j6eN5A"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "原天使因為太怠惰被神踢出天界…現任惡魔並創立了黛惰教(*¯︶¯*)\n歡迎加入黛惰教!!一齊宣揚怠惰的快樂QWQ"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#TaiDaArt",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#黛惰教",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCGHrcWM98DSrfNiIiuoWy3A"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "taida_yoru123"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/people/%E9%BB%9B%E6%83%B0%E5%A4%9CHKVTuber/100065173805153/"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/taida_yoru123/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "UlUpxC78X10",
+                        "image": "https://i.ytimg.com/vi/UlUpxC78X10/hqdefault.jpg",
+                        "title": "【自己紹介】Vtuber一問一答自己紹介【黛惰夜/惡魔教主Vtuber】",
+                        "author": "TaiDa Ch. 黛惰夜【HKVTuber】"
+                    },
+                    {
+                        "video_code": "C1rB7xm9dQ4",
+                        "image": "https://i.ytimg.com/vi/C1rB7xm9dQ4/hqdefault.jpg",
+                        "title": "【HKVTuber黛惰夜】羞恥台詞#1",
+                        "author": "TaiDa Ch. 黛惰夜【HKVTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "id": "UC0cTNL7I_1n-_ar9XHj9Jvg",
+    "header": {
+        "name": "社畜翁仔",
+        "image": "https://yt3.ggpht.com/99Bct7ngLWPVa09J8qMhm1Fn0v2sxybWNWywDDXiVzrT8bBODEQ55xUAPwR4RPk7zxGo5sOcfg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/D-qjgkYd0kTU2mUbuUV_iaupG-1_lsrwP_yixpR3lx9iGucD8C9ZZmX0lxIKZOdr9zFd_l8T"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FBT13rBVkA4SQ-O?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FBT13rBVkA4SQ-O?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "---認識社畜翁---"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC0cTNL7I_1n-_ar9XHj9Jvg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "yungyungyungjai"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "F9SBjDhlOro",
+                        "image": "https://i.ytimg.com/vi/F9SBjDhlOro/hqdefault.jpg",
+                        "title": "[縮時繪圖｜Speedpaint ] Pokemon劍盾 - 奇巴納",
+                        "author": "社畜翁仔"
+                    },
+                    {
+                        "video_code": "V5gt5cpV7Kg",
+                        "image": "https://i.ytimg.com/vi/V5gt5cpV7Kg/hqdefault.jpg",
+                        "title": "【Speed Painting-Photoshop】FGO-小太陽",
+                        "author": "社畜翁仔"
+                    },
+                    {
+                        "video_code": "4zm37bmVOVc",
+                        "image": "https://i.ytimg.com/vi/4zm37bmVOVc/hqdefault.jpg",
+                        "title": "[縮時繪圖｜Speedpaint ] - drawing challenge: witch character design",
+                        "author": "社畜翁仔"
+                    },
+                    {
+                        "video_code": "QhyGDKjgGME",
+                        "image": "https://i.ytimg.com/vi/QhyGDKjgGME/hqdefault.jpg",
+                        "title": "Speedpaint - One Piece Fanart - Zoro",
+                        "author": "社畜翁仔"
+                    },
+                    {
+                        "video_code": "uI4oFI3G1DE",
+                        "image": "https://i.ytimg.com/vi/uI4oFI3G1DE/hqdefault.jpg",
+                        "title": "Speedpaint - Kagepro Fanart:3",
+                        "author": "社畜翁仔"
+                    }
+                ]
+            }
+        }
+    ]
+}

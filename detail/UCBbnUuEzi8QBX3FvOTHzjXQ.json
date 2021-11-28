@@ -1,0 +1,122 @@
+{
+    "id": "UCBbnUuEzi8QBX3FvOTHzjXQ",
+    "header": {
+        "name": "Yuzu Ch. 日向柚子【HKVtuber】",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLTxXCS1SNE0VsR9AGumVLlvJw4eg5i9KrUIJUWVKg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/jLxU2qGp6AvojllMoTVb6RSClM2QHrf2YeRkiT4VJsI9PmKYeuCJyZJCxAADeZvP_xM1NJSt9w"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "12月24日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCBbnUuEzi8QBX3FvOTHzjXQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "hinatayuzu__"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "YH8ekOB3Hvc",
+                        "image": "https://i.ytimg.com/vi/YH8ekOB3Hvc/hqdefault.jpg",
+                        "title": "【自我介紹】蠢萌精靈上線啦！等等。。。你確定真的是蠢萌？片尾彩蛋!【日向柚子/HKVtuber】日語中字",
+                        "author": "Yuzu Ch. 日向柚子【HKVtuber】"
+                    },
+                    {
+                        "video_code": "HBc8DctR1hQ",
+                        "image": "https://i.ytimg.com/vi/HBc8DctR1hQ/hqdefault.jpg",
+                        "title": "⬩KING Kanaria⬩ Covered by HKVtuber日向ゆず 【歌ってみた/描いてみた】",
+                        "author": "Yuzu Ch. 日向柚子【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "A8F6sA7N55E",
+                        "image": "https://i.ytimg.com/vi/A8F6sA7N55E/hqdefault.jpg",
+                        "title": "【初配信】讓外表可愛only(? 的柚子跟大家打招呼吧~♥︎【HKVtuber/日向柚子】",
+                        "author": "Yuzu Ch. 日向柚子【HKVtuber】"
+                    },
+                    {
+                        "video_code": "liXtSMAwFEc",
+                        "image": "https://i.ytimg.com/vi/liXtSMAwFEc/hqdefault.jpg",
+                        "title": "【感謝祭】250訂閱棉花糖＋歌回！＞／／／＜【HKVtuber/日向柚子】",
+                        "author": "Yuzu Ch. 日向柚子【HKVtuber】"
+                    },
+                    {
+                        "video_code": "bM7QARZB5R0",
+                        "image": "https://i.ytimg.com/vi/bM7QARZB5R0/hqdefault.jpg",
+                        "title": "【GTA V】其實GTA係玩咩？？？【HKVtuber/日向柚子】",
+                        "author": "Yuzu Ch. 日向柚子【HKVtuber】"
+                    },
+                    {
+                        "video_code": "3KiP477gIAM",
+                        "image": "https://i.ytimg.com/vi/3KiP477gIAM/hqdefault.jpg",
+                        "title": "【Minecraft 四人聯動】100%全Lost地獄之旅QAQ (feat.雀雀 YUKI 真黒)【HKVtuber/日向柚子】",
+                        "author": "Yuzu Ch. 日向柚子【HKVtuber】"
+                    },
+                    {
+                        "video_code": "RYaf6S-hMCo",
+                        "image": "https://i.ytimg.com/vi/RYaf6S-hMCo/hqdefault.jpg",
+                        "title": "【FALL GUYS】超耐冇玩過Fall Guys～歡迎參加～【HKVtuber/日向柚子】",
+                        "author": "Yuzu Ch. 日向柚子【HKVtuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

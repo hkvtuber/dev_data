@@ -1,0 +1,182 @@
+{
+    "id": "UC3ATN3Eemy2g433RD5WAkzg",
+    "header": {
+        "name": "狛井葵Aoi【香港VTuber】",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLRpCY5r68tZckbKvh9n5cqWXLRRNFI4oXXNrLTP5A=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/BddO-9mUVlGTSDrsX3ufl-6r_xdBIC_X_LMVbuaK-_z0vIxfPDgRBgesiVMf8_kTS2zJgzC6AA"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/EsWfjTgU0AAwLVX?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/EsWfjTgU0AAwLVX?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/EsWftoLU4AA6d3W?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/EsWftoLU4AA6d3W?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "是一隻哈士奇🐕！主要會拍跟直播玩遊戲🖥"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#葵的零食盒",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#哈士葵",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(不可用)",
+                        "content": "#葵的日誌",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#健全葵",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC3ATN3Eemy2g433RD5WAkzg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "oi_0722"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/HasukiAoi0722"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "l_UQFmDuKQY",
+                        "image": "https://i.ytimg.com/vi/l_UQFmDuKQY/hqdefault.jpg",
+                        "title": "【自我介紹】這麼清楚可愛年輕的哈士葵不吸嗎【香港Vtuber】",
+                        "author": "狛井葵Aoi【香港VTuber】"
+                    },
+                    {
+                        "video_code": "YUP6woQDBDc",
+                        "image": "https://i.ytimg.com/vi/YUP6woQDBDc/hqdefault.jpg",
+                        "title": "【廢片】汪汪汪汪 喵 咩 BibuBibu【香港VTuber】",
+                        "author": "狛井葵Aoi【香港VTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "RpWyndoD6TQ",
+                        "image": "https://i.ytimg.com/vi/RpWyndoD6TQ/hqdefault.jpg",
+                        "title": "【特備節目】1000訂閱突破感謝祭(找數台)(๑Ő௰Ő๑)【香港Vtuber】",
+                        "author": "狛井葵Aoi【香港VTuber】"
+                    },
+                    {
+                        "video_code": "kwbIer96nPs",
+                        "image": "https://i.ytimg.com/vi/kwbIer96nPs/hqdefault.jpg",
+                        "title": "【Rainbow Six Siege】Rainbow復健【視聽者參加型】【香港Vtuber】",
+                        "author": "狛井葵Aoi【香港VTuber】"
+                    },
+                    {
+                        "video_code": "GDY8Z66LllM",
+                        "image": "https://i.ytimg.com/vi/GDY8Z66LllM/hqdefault.jpg",
+                        "title": "【#狛井葵新衣裝】半周年當然會有驚喜(?)~ 雜談及告知OvO【香港Vtuber】",
+                        "author": "狛井葵Aoi【香港VTuber】"
+                    },
+                    {
+                        "video_code": "Zi0n7im3aoI",
+                        "image": "https://i.ytimg.com/vi/Zi0n7im3aoI/hqdefault.jpg",
+                        "title": "【MHW】打嬴黑龍才睡覺... 我能睡嗎...【香港Vtuber】",
+                        "author": "狛井葵Aoi【香港VTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "烤肉",
+                "video_list": [
+                    {
+                        "video_code": "l_UQFmDuKQY",
+                        "image": "https://i.ytimg.com/vi/l_UQFmDuKQY/hqdefault.jpg",
+                        "title": "【自我介紹】這麼清楚可愛年輕的哈士葵不吸嗎【香港Vtuber】",
+                        "author": "狛井葵Aoi【香港VTuber】"
+                    },
+                    {
+                        "video_code": "kwbIer96nPs",
+                        "image": "https://i.ytimg.com/vi/kwbIer96nPs/hqdefault.jpg",
+                        "title": "【Rainbow Six Siege】Rainbow復健【視聽者參加型】【香港Vtuber】",
+                        "author": "狛井葵Aoi【香港VTuber】"
+                    },
+                    {
+                        "video_code": "GDY8Z66LllM",
+                        "image": "https://i.ytimg.com/vi/GDY8Z66LllM/hqdefault.jpg",
+                        "title": "【#狛井葵新衣裝】半周年當然會有驚喜(?)~ 雜談及告知OvO【香港Vtuber】",
+                        "author": "狛井葵Aoi【香港VTuber】"
+                    },
+                    {
+                        "video_code": "zmoKlu3gMOI",
+                        "image": "https://i.ytimg.com/vi/zmoKlu3gMOI/hqdefault.jpg",
+                        "title": "【配信精華】一分鐘不明聲音合集 #EP1【香港Vtuber】",
+                        "author": "狛井葵Aoi【香港VTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "id": "UCHliItlbzEhLQBt-RwQZ1jA",
+    "header": {
+        "name": "Giyuu Ch. 名津義勇【HKvtuber】",
+        "image": "https://yt3.ggpht.com/y2pJ7XudYWF-0uGUAU2d1ARL-ePmWXlWSG3CmBh3lFq8iWAAx49pGnx-CkbH0s3snlPFS1MCoQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/lPUc0fyMACUr-z2EYItMiNWc8HcSRYcRpjINvWUUHAUWYTEjgcM7PB6WF2_9dDxLRcE0lfHR"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FASrTL_UUAk_MFb?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FASrTL_UUAk_MFb?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "一隻自以為好爛口既文青look貓店長\n為了分享生活上的有趣事件以及宣傳小店而成為了Vtuber!!"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n英文",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#Giyuulive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#ARTNa",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#義勇軍",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCHliItlbzEhLQBt-RwQZ1jA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "NatsuGiyuu"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "Oa84Jbtrysc",
+                        "image": "https://i.ytimg.com/vi/Oa84Jbtrysc/hqdefault.jpg",
+                        "title": "初配信!速戰速決【名津義勇/HKvtuber】",
+                        "author": "Giyuu Ch. 名津義勇【HKvtuber】"
+                    },
+                    {
+                        "video_code": "D6r6SetWrDs",
+                        "image": "https://i.ytimg.com/vi/D6r6SetWrDs/hqdefault.jpg",
+                        "title": "Apex台+找數!!!【名津義勇/HKvtuber】",
+                        "author": "Giyuu Ch. 名津義勇【HKvtuber】"
+                    },
+                    {
+                        "video_code": "ACb0GPT0x2Y",
+                        "image": "https://i.ytimg.com/vi/ACb0GPT0x2Y/hqdefault.jpg",
+                        "title": "Rocket League衝rk 到最後會有咩分呢?!【名津義勇/HKvtuber】",
+                        "author": "Giyuu Ch. 名津義勇【HKvtuber】"
+                    },
+                    {
+                        "video_code": "uJq78D3zvvo",
+                        "image": "https://i.ytimg.com/vi/uJq78D3zvvo/hqdefault.jpg",
+                        "title": "RAINBOW 6耐久台!!!【名津義勇/HKvtuber】",
+                        "author": "Giyuu Ch. 名津義勇【HKvtuber】"
+                    },
+                    {
+                        "video_code": "tIHOCYItpNQ",
+                        "image": "https://i.ytimg.com/vi/tIHOCYItpNQ/hqdefault.jpg",
+                        "title": "駕駛技術改進課程!Deja VU!【名津義勇/HKvtuber】",
+                        "author": "Giyuu Ch. 名津義勇【HKvtuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

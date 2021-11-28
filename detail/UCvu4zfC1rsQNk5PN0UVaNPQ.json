@@ -1,0 +1,109 @@
+{
+    "id": "UCvu4zfC1rsQNk5PN0UVaNPQ",
+    "header": {
+        "name": "亜紀AKIRA【香港VTuber】",
+        "image": "https://yt3.ggpht.com/aPsARErrWfT91aCVNxeituAbI_z3hlAFfoCkmXyZo6EL0Ymju8erv1HyNXKcT7VOsT_WjSmC=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/hZVAJyUhZ5s3MoxwlS5g2vTwwJHveb0X_hWPNVR6lF-W9oGIJpN8Wsyn6rhuDzeFjWwlSnmE-w"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "❌被附身的靈體強迫開頻道當VTuber是否搞錯了什麼\n⭕精分/睡眠/度假系VTuber"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "💙亜紀 / 💛AKIRA",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "16 / 不詳",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#午夜空靈",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#音樂靈聲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#靈魂畫家",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(不可用)",
+                        "content": "#禁止通靈",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#咸靈漆",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#靈魂",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#靈魂烤肉",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#大麻靈",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCvu4zfC1rsQNk5PN0UVaNPQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "aageiAKIRA"
+                    }
+                ]
+            }
+        }
+    ]
+}

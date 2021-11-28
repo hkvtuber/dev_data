@@ -1,0 +1,143 @@
+{
+    "id": "UCXW9RKZCOgSWfj92zhQqmkw",
+    "header": {
+        "name": "彼岸るりRuri Channel",
+        "image": "https://yt3.ggpht.com/WXZCpftt3a0hSUvrkwpvzhuv_GyKsVjX8q-DCwSo9mcCBtNUhNuoNCR7itz4PTr7W4z3X4agxQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/SEFAndwW9tfEv_OZ351LvYmRG9ilWbThBPcl5l4xc0QRYAsEjSNNV8_Uh48qzRUfOtJAGMqB1qc"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "從異世界過來的失憶少年,為了找回記憶而開始Vtuber活動......"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "6月1日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n日文\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#琉璃回憶錄",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#琉璃萬華鏡",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(不可用)",
+                        "content": "#彼岸畫廊",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCXW9RKZCOgSWfj92zhQqmkw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "higanruri"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "qNPq4rzUDU8",
+                        "image": "https://i.ytimg.com/vi/qNPq4rzUDU8/hqdefault.jpg",
+                        "title": "【自我介紹】猶如在彼岸盛開的鮮花,初次見面,我是彼岸るり Ruri 【香港Vtuber】",
+                        "author": "彼岸るりRuri Channel"
+                    },
+                    {
+                        "video_code": "np8xcIkLbug",
+                        "image": "https://i.ytimg.com/vi/np8xcIkLbug/hqdefault.jpg",
+                        "title": "【動物森友會】 Bubblegum．RURI 【香港Vtuber】",
+                        "author": "彼岸るりRuri Channel"
+                    },
+                    {
+                        "video_code": "NmUpzquk6dg",
+                        "image": "https://i.ytimg.com/vi/NmUpzquk6dg/hqdefault.jpg",
+                        "title": "彼岸るり 「Flamingo」",
+                        "author": "彼岸るりRuri Channel"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "-INBcnwipzo",
+                        "image": "https://i.ytimg.com/vi/-INBcnwipzo/hqdefault.jpg",
+                        "title": "【初配信】雑談+打陣遊戲 【香港Vtuber】",
+                        "author": "彼岸るりRuri Channel"
+                    },
+                    {
+                        "video_code": "4SzNcH1VlKw",
+                        "image": "https://i.ytimg.com/vi/4SzNcH1VlKw/hqdefault.jpg",
+                        "title": "【正月】新衣装お披露目配信 | 正月新衣裝【#りり配信】",
+                        "author": "彼岸るりRuri Channel"
+                    },
+                    {
+                        "video_code": "LMW-9f-HFkg",
+                        "image": "https://i.ytimg.com/vi/LMW-9f-HFkg/hqdefault.jpg",
+                        "title": "【AmongUs】為什麼在一旁看著！難道你真的背叛了嗎！OMO【ruri視點】【#りり配信】",
+                        "author": "彼岸るりRuri Channel"
+                    },
+                    {
+                        "video_code": "Y5mSfj4XUWA",
+                        "image": "https://i.ytimg.com/vi/Y5mSfj4XUWA/hqdefault.jpg",
+                        "title": "【復活配信】各位我返嚟啦!近況雜談同埋清問題時間~【彼岸るり】",
+                        "author": "彼岸るりRuri Channel"
+                    },
+                    {
+                        "video_code": "yplowe89-8o",
+                        "image": "https://i.ytimg.com/vi/yplowe89-8o/hqdefault.jpg",
+                        "title": "【誕生日配信】大家和我一起過生日!多謝大家!但是......",
+                        "author": "彼岸るりRuri Channel"
+                    }
+                ]
+            }
+        }
+    ]
+}

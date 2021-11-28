@@ -1,0 +1,146 @@
+{
+    "id": "UCRRWbnJl4nfN-ylsZom8BCQ",
+    "header": {
+        "name": "PINK - 狐ピンク",
+        "image": "https://yt3.ggpht.com/lShGfREchfUFHQxaXbNAEQb5gCP_woGyXeEiPyBVo_HiF4sxv7lqPPcv5jSGVKJzIEut1lto=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/jz_V3VyR7cHTF8f6k9C917Ejn8Vqy4-AcfNo6Ch3Qmn88Ya9W489RCGx3oSTeYOsi5WU_fq5"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FBqqF2XVcAszjL-?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FBqqF2XVcAszjL-?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "來自狐の国的未來狐。\n沒有打算尋找方法回到未來的時空，比起未來更喜歡現在。\n開直播只是為了自己爽，請不要擅自抱有任何期望。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "狐ピンク\nKitsune Pink\n狐粉",
+                        "heightRate": "2.00"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#PINK_L",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#PINK_MU",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#PINK_A",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#PINK_NSFW",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#PINK_CL",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#PINK_MEE",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCRRWbnJl4nfN-ylsZom8BCQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "KitsunePink"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "Oq09NCd96UE",
+                        "image": "https://i.ytimg.com/vi/Oq09NCd96UE/hqdefault.jpg",
+                        "title": "沒有Wink🦊",
+                        "author": "PINK - 狐ピンク"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "PJTjMDx3Cfk",
+                        "image": "https://i.ytimg.com/vi/PJTjMDx3Cfk/hqdefault.jpg",
+                        "title": "🦊PINK💕初配信 * 來不來看都無所謂，能快點結束去打遊戲更好。【狐ピンク/HKVTuber】",
+                        "author": "PINK - 狐ピンク"
+                    },
+                    {
+                        "video_code": "vkF245-WFZQ",
+                        "image": "https://i.ytimg.com/vi/vkF245-WFZQ/hqdefault.jpg",
+                        "title": "🦊PINK💕Apex Legends * 能打出100傷就夠了。【狐ピンク/HKVTuber】",
+                        "author": "PINK - 狐ピンク"
+                    },
+                    {
+                        "video_code": "rgSIyLcm4tY",
+                        "image": "https://i.ytimg.com/vi/rgSIyLcm4tY/hqdefault.jpg",
+                        "title": "🦊PINK💕Apex Legends * 隨便打兩場。【狐ピンク/HKVTuber】",
+                        "author": "PINK - 狐ピンク"
+                    }
+                ]
+            }
+        }
+    ]
+}

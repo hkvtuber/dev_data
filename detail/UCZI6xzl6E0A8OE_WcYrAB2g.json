@@ -1,0 +1,102 @@
+{
+    "id": "UCZI6xzl6E0A8OE_WcYrAB2g",
+    "header": {
+        "name": "佛系RANNY",
+        "image": "https://yt3.ggpht.com/u1jIatBdcQ9fuBhq0Qhr5D2tHg7iR5kohsnzkNRJ1l6JX5a5aYgdLb4cx45vtcDD9BOErFox=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/js5dW_IEeyc4H1ZKE8Qboxm65ze0xP10SEU0V4BGxVzvtwCgfPzJpMWO9vRoHJuCEGDs0Jzd"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/ErX6mwRUUAICU8i?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/ErX6mwRUUAICU8i?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "係一隻毛茸茸der長耳貓。直播不定期，一切隨緣睇心情。\n開開心心無聊hea下is the best。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCZI6xzl6E0A8OE_WcYrAB2g"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "rannyfathai"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "F5NkH2UCJ4g",
+                        "image": "https://i.ytimg.com/vi/F5NkH2UCJ4g/hqdefault.jpg",
+                        "title": "畫野畫乜畫乜鬼 #2 - 畫獸化？",
+                        "author": "佛系RANNY"
+                    },
+                    {
+                        "video_code": "1c8lciEfHmE",
+                        "image": "https://i.ytimg.com/vi/1c8lciEfHmE/hqdefault.jpg",
+                        "title": "畫野畫乜畫乜鬼 #1 - 天竺鼠車車！",
+                        "author": "佛系RANNY"
+                    },
+                    {
+                        "video_code": "SNfBxvLeLs0",
+                        "image": "https://i.ytimg.com/vi/SNfBxvLeLs0/hqdefault.jpg",
+                        "title": "畫野畫乜畫乜鬼 #4 - 構圖",
+                        "author": "佛系RANNY"
+                    },
+                    {
+                        "video_code": "k05L5KK0gos",
+                        "image": "https://i.ytimg.com/vi/k05L5KK0gos/hqdefault.jpg",
+                        "title": "FF14 5.5 - 初見Nier24人本！",
+                        "author": "佛系RANNY"
+                    }
+                ]
+            }
+        }
+    ]
+}

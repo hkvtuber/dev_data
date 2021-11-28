@@ -1,0 +1,142 @@
+{
+    "id": "UCiWoas68LUrpEmcgW5_S_eA",
+    "header": {
+        "name": "Sakira Channel / 咲娜 サキラ  ",
+        "image": "https://yt3.ggpht.com/0Kbl-FecuDxh9jbLWO6cKc_Iu7oXH6IUWjIcmwkeWHMuMzSW6hma0HimjIZ-y79sPp-MenxjOw=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E_-kqxpUYAEthSj?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E_-kqxpUYAEthSj?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "熱愛玩遊戲的愛睡少女！"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#咲娜觀察日記",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#SakirArt",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#登島記錄簿",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "時間表Tag",
+                        "content": "#草島開放日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCiWoas68LUrpEmcgW5_S_eA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "sakira_onna"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "BGZM8uU01Q4",
+                        "image": "https://i.ytimg.com/vi/BGZM8uU01Q4/hqdefault.jpg",
+                        "title": "【咲娜の觀察日記】🌸もしもし？🌸",
+                        "author": "Sakira Channel / 咲娜 サキラ  "
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "TOl9VNdB15s",
+                        "image": "https://i.ytimg.com/vi/TOl9VNdB15s/hqdefault.jpg",
+                        "title": "【初配信】もしもし、明明邀請你了也不來看初配信嗎？【Sakira咲娜】",
+                        "author": "Sakira Channel / 咲娜 サキラ  "
+                    },
+                    {
+                        "video_code": "s-rQ-O5561I",
+                        "image": "https://i.ytimg.com/vi/s-rQ-O5561I/hqdefault.jpg",
+                        "title": "【初遊戲直播】來玩大家投票了的遊戲！ 【Sakira咲娜】",
+                        "author": "Sakira Channel / 咲娜 サキラ  "
+                    },
+                    {
+                        "video_code": "IHukD4USxH0",
+                        "image": "https://i.ytimg.com/vi/IHukD4USxH0/hqdefault.jpg",
+                        "title": "【APEX】突發~加油加油再努力 ft.若凌~繪師媽媽(前半)【Sakira咲娜】",
+                        "author": "Sakira Channel / 咲娜 サキラ  "
+                    },
+                    {
+                        "video_code": "I52lIJH9fEo",
+                        "image": "https://i.ytimg.com/vi/I52lIJH9fEo/hqdefault.jpg",
+                        "title": "【Super Animal Royale】新手初次上場！雷也是正常的吧？Ft.沐幽【Sakira咲娜】",
+                        "author": "Sakira Channel / 咲娜 サキラ  "
+                    },
+                    {
+                        "video_code": "DA976erlijY",
+                        "image": "https://i.ytimg.com/vi/DA976erlijY/hqdefault.jpg",
+                        "title": "【雙人成行/It's takes two #1】來看Sakira如何跟可愛的惡鬼頭目Kurona合作闖關吧！Ft.酒吞 クロナ【Sakira咲娜】",
+                        "author": "Sakira Channel / 咲娜 サキラ  "
+                    }
+                ]
+            }
+        }
+    ]
+}

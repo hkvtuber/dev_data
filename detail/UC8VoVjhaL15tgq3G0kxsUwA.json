@@ -1,0 +1,146 @@
+{
+    "id": "UC8VoVjhaL15tgq3G0kxsUwA",
+    "header": {
+        "name": "Kuiro ch. 古洢蘿【Vtuber】",
+        "image": "https://yt3.ggpht.com/iAHTIY10i_PisQMGT5l8z2FSfh6_Nix8aSNd2rVCY7fkQQDd6EJUQgJO-JHl9PPsa8b3q6KiaQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/IbEsgICuFo88DJOlP8GDZAtWdnwnxHusjMBB5_HQZPblRj_tPaPZAh0cyRYPYV-IqvBSy4gfXX0"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E3_rrPTX0AU4cSv?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E3_rrPTX0AU4cSv?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/E3_rsyiWQAUEkrX?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E3_rsyiWQAUEkrX?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "一隻從湖泊而來的鱷魚\n因為居住環境被破壞\n為了尋找食物, 為了生存而轉生成為Vtuber"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#kuiromore",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#kuirolive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#kuiroart",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#魚肉粒",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC8VoVjhaL15tgq3G0kxsUwA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "kuiro0723"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "XNLQ8xc7YQI",
+                        "image": "https://i.ytimg.com/vi/XNLQ8xc7YQI/hqdefault.jpg",
+                        "title": "【自我介紹】🐊可以給我咬一口嗎? 🐊【Kuiro古洢蘿/鱷魚/Vtuber】",
+                        "author": "Kuiro ch. 古洢蘿【Vtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "wdofy_0Bc3A",
+                        "image": "https://i.ytimg.com/vi/wdofy_0Bc3A/hqdefault.jpg",
+                        "title": "【初配信】🐊鱷魚出沒注意🐊❗❗【Kuiro古洢蘿/鱷魚/Vtuber】",
+                        "author": "Kuiro ch. 古洢蘿【Vtuber】"
+                    },
+                    {
+                        "video_code": "Pl80pPvXCPA",
+                        "image": "https://i.ytimg.com/vi/Pl80pPvXCPA/hqdefault.jpg",
+                        "title": "【生日台】 - 終於迎來第70年鱷生🎉【Kuiro古洢蘿/鱷魚/Vtuber】",
+                        "author": "Kuiro ch. 古洢蘿【Vtuber】"
+                    },
+                    {
+                        "video_code": "2Ty9oXOp3-c",
+                        "image": "https://i.ytimg.com/vi/2Ty9oXOp3-c/hqdefault.jpg",
+                        "title": "【200訂閱活動】-  傳說中的古歌仔環節 + 吃吃棉花糖, 很感謝大家一路的陪伴-v-【Kuiro古洢蘿/鱷魚/Vtuber】",
+                        "author": "Kuiro ch. 古洢蘿【Vtuber】"
+                    },
+                    {
+                        "video_code": "-vKLb8o91N4",
+                        "image": "https://i.ytimg.com/vi/-vKLb8o91N4/hqdefault.jpg",
+                        "title": "【香中體驗】 -  肉類研究學會 - 不同肉類的市場營銷手法 + 香中學力測驗【Kuiro古洢蘿/鱷魚/Vtuber】",
+                        "author": "Kuiro ch. 古洢蘿【Vtuber】"
+                    },
+                    {
+                        "video_code": "u-3-zX8sPpA",
+                        "image": "https://i.ytimg.com/vi/u-3-zX8sPpA/hqdefault.jpg",
+                        "title": "【突發繪圖台】 -  新系列⁓畫大家的像素圖-v-【Kuiro古洢蘿/鱷魚/Vtuber】",
+                        "author": "Kuiro ch. 古洢蘿【Vtuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "id": "UC1cDif43hS1GCgyoUr6LBXQ",
+    "header": {
+        "name": "Area Shojo 面積少女",
+        "image": "https://yt3.ggpht.com/ptHqH1ciyHfXLNtGVwPd1nZ7GyNpEXSUdZRerA-IHNvAcE4ZXNSjJAh_5G5I4Wrid-AfwZN-dg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/6AgX15VQ0KQbyZtKDSev3Sz6D1kJcaIS3tWLj7eUsQrvegU5VJI8RNE1S1S0Pu8f5JNsq3d4jw"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E-BClhAVgAI7r8G?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E-BClhAVgAI7r8G?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "面積少女"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n英文\n韓文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#AreaMP",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#OnArea",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#Area12bh",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#Areart",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#Triangel",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC1cDif43hS1GCgyoUr6LBXQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "AreaShojo"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "ww8FGc4j_FU",
+                        "image": "https://i.ytimg.com/vi/ww8FGc4j_FU/hqdefault.jpg",
+                        "title": "【Q&A Self Introduction】Vtuber一問一答自己紹介【Area Shojo/面積少女】",
+                        "author": "Area Shojo 面積少女"
+                    },
+                    {
+                        "video_code": "vE37PLbZHkk",
+                        "image": "https://i.ytimg.com/vi/vE37PLbZHkk/hqdefault.jpg",
+                        "title": "心做し / Area Shojo Cover【50sec Mic Check】",
+                        "author": "Area Shojo 面積少女"
+                    },
+                    {
+                        "video_code": "EdxKmtOjRkw",
+                        "image": "https://i.ytimg.com/vi/EdxKmtOjRkw/hqdefault.jpg",
+                        "title": "【Highlight】Violet Evergarden OP - Sincerely  / Cover by Area Shojo",
+                        "author": "Area Shojo 面積少女"
+                    },
+                    {
+                        "video_code": "C6_InlS79hM",
+                        "image": "https://i.ytimg.com/vi/C6_InlS79hM/hqdefault.jpg",
+                        "title": "【Debut Trailer】Wake Up - MP1",
+                        "author": "Area Shojo 面積少女"
+                    },
+                    {
+                        "video_code": "hqgGQwAkfaA",
+                        "image": "https://i.ytimg.com/vi/hqgGQwAkfaA/hqdefault.jpg",
+                        "title": "【3D Model Showcase】Hello Human =]",
+                        "author": "Area Shojo 面積少女"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "2rvGWRcPJXQ",
+                        "image": "https://i.ytimg.com/vi/2rvGWRcPJXQ/hqdefault.jpg",
+                        "title": "【DEBUT Stream】Area Shojo is HACKING into your computer【Area Shojo/面積少女】",
+                        "author": "Area Shojo 面積少女"
+                    },
+                    {
+                        "video_code": "fotDSg3b0FI",
+                        "image": "https://i.ytimg.com/vi/fotDSg3b0FI/hqdefault.jpg",
+                        "title": "【Drawing】找數台 Draw Icons【Area Shojo/面積少女】",
+                        "author": "Area Shojo 面積少女"
+                    },
+                    {
+                        "video_code": "iLV-HBbsZoM",
+                        "image": "https://i.ytimg.com/vi/iLV-HBbsZoM/hqdefault.jpg",
+                        "title": "【Relax歌枠】English song singing stream! Relax~~【Area Shojo/面積少女】",
+                        "author": "Area Shojo 面積少女"
+                    },
+                    {
+                        "video_code": "VdCJR1gup9I",
+                        "image": "https://i.ytimg.com/vi/VdCJR1gup9I/hqdefault.jpg",
+                        "title": "【HK/KR COLLAB 港韓聯動】Let's burn out the house!  ft. Jdalbee【Area Shojo/面積少女】(ENG/KR)",
+                        "author": "Area Shojo 面積少女"
+                    }
+                ]
+            }
+        }
+    ]
+}

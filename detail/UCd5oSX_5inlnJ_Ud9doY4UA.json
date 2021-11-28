@@ -1,0 +1,168 @@
+{
+    "id": "UCd5oSX_5inlnJ_Ud9doY4UA",
+    "header": {
+        "name": "Chu Ni Morkilo中二艾露【HKVtuber】",
+        "image": "https://yt3.ggpht.com/lWS6pn8Sw_jTe-u-hxL1LtNA1TeC-ImHmsDn5f7UcGyfjRwFazoArDUQvx9cCCchheZ-UdUiEg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/U2xJBStHuny1MxW-ZbQ5Xz5AB648IeYykJaLNBqftgob8hY892M5knxlRq7K8OSsxcDRQ4d88w"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E7T5f1nXIAU0Z7v?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E7T5f1nXIAU0Z7v?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#艾露在製醬",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#魔音露醬",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#艾露很可愛",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#樹寶",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#艾露語日常",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#生草露",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCd5oSX_5inlnJ_Ud9doY4UA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Morkilo_vtuber"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/chu_ni_mork"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "GsI5mTJEK1w",
+                        "image": "https://i.ytimg.com/vi/GsI5mTJEK1w/hqdefault.jpg",
+                        "title": "【自我介紹】🌲『艾露你邊位呀.冇人識你呀?』-#🌻【中二艾露🌱】",
+                        "author": "Chu Ni Morkilo中二艾露【HKVtuber】"
+                    },
+                    {
+                        "video_code": "80hDyjn9F4U",
+                        "image": "https://i.ytimg.com/vi/80hDyjn9F4U/hqdefault.jpg",
+                        "title": "🌱中二艾露世界觀🌱(關於我被召喚到異世界當上守護神,但我卻為了尋找妹妹而踏上了VTUBER之旅的那回事)🌲第一章:塔爾路亞森林誕生🌲",
+                        "author": "Chu Ni Morkilo中二艾露【HKVtuber】"
+                    },
+                    {
+                        "video_code": "LUPLnA3eiIg",
+                        "image": "https://i.ytimg.com/vi/LUPLnA3eiIg/hqdefault.jpg",
+                        "title": "🌱【自己紹介】Vtuber一問一答自己紹介 【香港VTuber中二艾露)】🌱",
+                        "author": "Chu Ni Morkilo中二艾露【HKVtuber】"
+                    },
+                    {
+                        "video_code": "kjb2AJmQguc",
+                        "image": "https://i.ytimg.com/vi/kjb2AJmQguc/hqdefault.jpg",
+                        "title": "🌱中二艾露世界觀🌱(關於我被召喚到異世界當上守護神,但我卻為了尋找妹妹而踏上了VTUBER之旅的那回事)🌲第三章:艾露登場🌲(6月12日初配信)",
+                        "author": "Chu Ni Morkilo中二艾露【HKVtuber】"
+                    },
+                    {
+                        "video_code": "4BaB32A869I",
+                        "image": "https://i.ytimg.com/vi/4BaB32A869I/hqdefault.jpg",
+                        "title": "【中二艾露】?????我到底嗑了什麼?",
+                        "author": "Chu Ni Morkilo中二艾露【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "V9RlO-OXrA0",
+                        "image": "https://i.ytimg.com/vi/V9RlO-OXrA0/hqdefault.jpg",
+                        "title": "【一天艾露】🌲『來森林縱火一天』-#🌻【中二艾露🌱】",
+                        "author": "Chu Ni Morkilo中二艾露【HKVtuber】"
+                    },
+                    {
+                        "video_code": "1NZY8BXGfBs",
+                        "image": "https://i.ytimg.com/vi/1NZY8BXGfBs/hqdefault.jpg",
+                        "title": "🌱中二艾露🌱~從零開始的畫畫生涯🌲~『艾露握起畫筆,決定從畫畫裡開始拯救世界,已畫感動世人的那回事』~#2🌻",
+                        "author": "Chu Ni Morkilo中二艾露【HKVtuber】"
+                    },
+                    {
+                        "video_code": "Uuw3QJ7w0yk",
+                        "image": "https://i.ytimg.com/vi/Uuw3QJ7w0yk/hqdefault.jpg",
+                        "title": "【從零開始的畫畫生涯】🌲『休息是為了行走更遠的道路,艾露回來畫畫了』-#14🌻【中二艾露🌱】",
+                        "author": "Chu Ni Morkilo中二艾露【HKVtuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "id": "UCcq_2wCkX15Z-4nBdSzjFRA",
+    "header": {
+        "name": "加藤小麻雀【HKVTuber】",
+        "image": "https://yt3.ggpht.com/R8-LVboVPBMHanUedBHiUi09qWGhA_gYDexFrhdDryvITVBad73347h9Aa01AEYUJw3Fci0lcg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/A6ZqEFhTmjBXtfWacfIvawn9rxVUlh99a6zKR41Ox4oGc6YUUI0XOyJaFmV2BciadksikrJDAQ"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "🪶🪶小學雞笨蛋🪶🪶🪶\n畫畫會手震唱歌會走音的天才"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#雀雀豔照",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#暗爽小黃雀",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#雀毛毛",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#肉食雀雀",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#迷因中毒雀雀",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCcq_2wCkX15Z-4nBdSzjFRA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "katosparrow"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/GODSSHOPS/"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/godsshops/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "kX8h5x2cqRU",
+                        "image": "https://i.ytimg.com/vi/kX8h5x2cqRU/hqdefault.jpg",
+                        "title": "Lap Tap Love [加藤小麻雀]",
+                        "author": "Pekozawa"
+                    },
+                    {
+                        "video_code": "q2gPAsOEVZI",
+                        "image": "https://i.ytimg.com/vi/q2gPAsOEVZI/hqdefault.jpg",
+                        "title": "ベノム[加藤小麻雀]",
+                        "author": "Pekozawa"
+                    },
+                    {
+                        "video_code": "0x2T3mfL4Ws",
+                        "image": "https://i.ytimg.com/vi/0x2T3mfL4Ws/hqdefault.jpg",
+                        "title": "虎視眈々 [小麻雀, 葵, 亞里]",
+                        "author": "Pekozawa"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "3LT0S_AvbfY",
+                        "image": "https://i.ytimg.com/vi/3LT0S_AvbfY/hqdefault.jpg",
+                        "title": "『出道一個月紀念日』All day 雀雀",
+                        "author": "加藤小麻雀【HKVTuber】"
+                    },
+                    {
+                        "video_code": "yG9iTfghBEs",
+                        "image": "https://i.ytimg.com/vi/yG9iTfghBEs/hqdefault.jpg",
+                        "title": "『收益化感謝祭』多謝咁多位雀毛毛陪我行到呢步～！係時候講下雀雀對大家既印象...？",
+                        "author": "加藤小麻雀【HKVTuber】"
+                    },
+                    {
+                        "video_code": "FUvj6SfXhk4",
+                        "image": "https://i.ytimg.com/vi/FUvj6SfXhk4/hqdefault.jpg",
+                        "title": "『第二屆搞Gag王大賽』",
+                        "author": "加藤小麻雀【HKVTuber】"
+                    },
+                    {
+                        "video_code": "2PHsAB_dTP8",
+                        "image": "https://i.ytimg.com/vi/2PHsAB_dTP8/hqdefault.jpg",
+                        "title": "『搞Gag王大賽』",
+                        "author": "加藤小麻雀【HKVTuber】"
+                    },
+                    {
+                        "video_code": "2MBn4lQRexc",
+                        "image": "https://i.ytimg.com/vi/2MBn4lQRexc/hqdefault.jpg",
+                        "title": "『棉花糖台詞』答雀毛毛問題＋羞恥台詞回",
+                        "author": "加藤小麻雀【HKVTuber】"
+                    },
+                    {
+                        "video_code": "-BDzohINuSg",
+                        "image": "https://i.ytimg.com/vi/-BDzohINuSg/hqdefault.jpg",
+                        "title": "雀雀午餐會『煎雞翼＋炒菜心＋玉子燒』- 電腦水魚",
+                        "author": "加藤小麻雀【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "烤肉",
+                "video_list": [
+                    {
+                        "video_code": "LgmMZVtbS8k",
+                        "image": "https://i.ytimg.com/vi/LgmMZVtbS8k/hqdefault.jpg",
+                        "title": "【加藤小麻雀】第二屆搞Gag王冠軍 斷水流大「C.C」【香港VTuber】",
+                        "author": "殿下的珍珠奶茶AKA人傑"
+                    },
+                    {
+                        "video_code": "35p16ZSk108",
+                        "image": "https://i.ytimg.com/vi/35p16ZSk108/hqdefault.jpg",
+                        "title": "【第二屆搞gag王賽事精華】斷水流大C兄再戰香港區gag王比賽⚔️歷盡艱辛成功登上冠軍寶座❗️【加藤小麻雀】【廣東話字幕】",
+                        "author": "Hai哥"
+                    },
+                    {
+                        "video_code": "t6ilf96B2jo",
+                        "image": "https://i.ytimg.com/vi/t6ilf96B2jo/hqdefault.jpg",
+                        "title": "【香港VTuber】當小麻雀知道有人J佢之後既反應",
+                        "author": "水族館職員"
+                    }
+                ]
+            }
+        }
+    ]
+}

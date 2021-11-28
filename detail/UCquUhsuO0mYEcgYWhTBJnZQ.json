@@ -1,0 +1,146 @@
+{
+    "id": "UCquUhsuO0mYEcgYWhTBJnZQ",
+    "header": {
+        "name": "希琉 柏洛斯-Keru Beros Ch.",
+        "image": "https://yt3.ggpht.com/Zmfy8u_8tbNOumLZrX4v9mjoTj9lHsqGmF7oq8TqoTX0GBqpObcRcJEGsLOyVyExyUBiVm_08YU=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/HN4xRRQs2fnfCO22Sj6oAb-C4xp8o2W942O5lAGq1sFEPv1THBV41GJqBy2EAQyeYyQ_xZRjCg"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FESt1HeVUAMsuNH?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FESt1HeVUAMsuNH?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FESt1IkVkAEJO0-?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FESt1IkVkAEJO0-?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "🐺地獄犬Vtuber✡️"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\r\n普通話\r\n日文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#地獄犬遊記",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#地獄犬繪圖",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#希琉秘密小罐罐",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#團員",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCquUhsuO0mYEcgYWhTBJnZQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "keru_beros_"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "MqDcKO58n0E",
+                        "image": "https://i.ytimg.com/vi/MqDcKO58n0E/hqdefault.jpg",
+                        "title": "【希琉 柏洛斯】超簡短的自我介紹+初配信日期公佈【香港Vtuber】",
+                        "author": "希琉 柏洛斯-Keru Beros Ch."
+                    },
+                    {
+                        "video_code": "LeD_xcnHTvU",
+                        "image": "https://i.ytimg.com/vi/LeD_xcnHTvU/hqdefault.jpg",
+                        "title": "【希琉 柏洛斯】初配信日期更新！要看到最後唷！！【香港Vtuber】",
+                        "author": "希琉 柏洛斯-Keru Beros Ch."
+                    },
+                    {
+                        "video_code": "s0RfoWAVi7E",
+                        "image": "https://i.ytimg.com/vi/s0RfoWAVi7E/hqdefault.jpg",
+                        "title": "【地獄廢片#01】在Youtube的第1段影片就這麼廢真的OK?【希琉 柏洛斯｜香港Vtuber】",
+                        "author": "希琉 柏洛斯-Keru Beros Ch."
+                    },
+                    {
+                        "video_code": "YzIkR7PFec4",
+                        "image": "https://i.ytimg.com/vi/YzIkR7PFec4/hqdefault.jpg",
+                        "title": "【希琉 柏洛斯】空色デイズ(Short Ver)+歌回介面展示【香港Vtuber】",
+                        "author": "希琉 柏洛斯-Keru Beros Ch."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "99CzJY787F4",
+                        "image": "https://i.ytimg.com/vi/99CzJY787F4/hqdefault.jpg",
+                        "title": "【希琉 柏洛斯】地獄軍團召集日！是時候加入地獄軍團唷！！【香港Vtuber】",
+                        "author": "希琉 柏洛斯-Keru Beros Ch."
+                    },
+                    {
+                        "video_code": "vh4eM3SEWcQ",
+                        "image": "https://i.ytimg.com/vi/vh4eM3SEWcQ/hqdefault.jpg",
+                        "title": "【APEX】希琉初次的APEX直播！到底能不能打中敵人？？【希琉 柏洛斯｜香港Vtuber】",
+                        "author": "希琉 柏洛斯-Keru Beros Ch."
+                    }
+                ]
+            }
+        }
+    ]
+}

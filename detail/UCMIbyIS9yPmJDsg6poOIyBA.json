@@ -1,0 +1,166 @@
+{
+    "id": "UCMIbyIS9yPmJDsg6poOIyBA",
+    "header": {
+        "name": "Edward Hosson (光子) 【HK vtuber】",
+        "image": "https://yt3.ggpht.com/quRHm4XBk4FvyxHS-XzUr6ntLXpSaruBEcX5r7nkZ2e_6ZgHhgS6p5o_3lWZ7eQfZ5lNm1iUd9o=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/TPn1R1PBDnSzwPp7ey9TiL0js-P7hGASyUjCqe8OccOIheG4PSKOfkDV0RFi7ZpTmHntFvup"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FCHBsFSVgAkR3K4?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FCHBsFSVgAkR3K4?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FCHBtQhVcAU-BBX?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FCHBtQhVcAU-BBX?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FCHBuDEVgAQzuzV?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FCHBuDEVgAQzuzV?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "1309是一名人型虛擬實體，自稱是一名來自香港的virtual youtuber。\n於20年月日在youtube 活動，1309活動主要以遊戲和雜談直播為主。會否有其他類別的活動仍有待觀察。\n可觀察到其右眼是人工義眼(下稱1309-1)，據1309聲稱1309-1可以透過其自身的發聲器官與人溝通，并指出1309-1是量子電腦。\n1309-1 偏好使用MEME 來回應他人(包括1309自身)。\n實驗1309-A:\nÎÒ´òµÄ¾ÍÊÇÂÒÂë ................ 存取被拒\n實驗1309-A 的一切資料突然於20年月日拒絕任何人的查詢(已無法修復)，起初無法確定入侵者身份，\n但1309主動表示為1309-1的自主行動。(下稱此事件為 E-1309)\n\n在E-1309發生後，1309提出了可行的方案以避免類似事件發生。\n只要1309被長期觀察就能確定1309-1的量子態以及防止1309-1的入侵行為，而且觀察者數量愈多更有效確定1309-1的量子態，\n故此公開此文檔以鼓勵所有人訂閱1309的youtube頻道。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n英文",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#光子被觀測中",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#光子觀測報告",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#初見詐騙犯",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#高能光子",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCMIbyIS9yPmJDsg6poOIyBA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "EdwardPD_00"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/photonvtuber"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "giyQmPyzEIM",
+                        "image": "https://i.ytimg.com/vi/giyQmPyzEIM/hqdefault.jpg",
+                        "title": "係呀。無錯呀。一名vtuber的自我介紹呀。錦鯉睇唔睇?",
+                        "author": "Edward Hosson (光子) 【HK vtuber】"
+                    },
+                    {
+                        "video_code": "zj-4ZSeIICc",
+                        "image": "https://i.ytimg.com/vi/zj-4ZSeIICc/hqdefault.jpg",
+                        "title": "[Meme MMD Animation] Russian Push Up ft. Photon 光子 【HKvtuber】",
+                        "author": "Edward Hosson (光子) 【HK vtuber】"
+                    },
+                    {
+                        "video_code": "5uPJXDcp5IY",
+                        "image": "https://i.ytimg.com/vi/5uPJXDcp5IY/hqdefault.jpg",
+                        "title": "【Can't Help Falling in Love】 Cover by: 光子 Photon",
+                        "author": "Edward Hosson (光子) 【HK vtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "OwFHws2O7-I",
+                        "image": "https://i.ytimg.com/vi/OwFHws2O7-I/hqdefault.jpg",
+                        "title": "[PDA Council #1] 吹水?打機?不...兩樣都要 Ft. Bonita, Alan Birkin | Edward Hosson (光子) 【HKvtuber】",
+                        "author": "Edward Hosson (光子) 【HK vtuber】"
+                    },
+                    {
+                        "video_code": "b6rgM4SP7Rs",
+                        "image": "https://i.ytimg.com/vi/b6rgM4SP7Rs/hqdefault.jpg",
+                        "title": "[耐久直播] 畫初見詐騙犯們，兼等100訂閱  | Edward Hosson (光子) 【HKvtuber】",
+                        "author": "Edward Hosson (光子) 【HK vtuber】"
+                    },
+                    {
+                        "video_code": "865uzvRSZW4",
+                        "image": "https://i.ytimg.com/vi/865uzvRSZW4/hqdefault.jpg",
+                        "title": "[Meme歌回] I love memes.  | Photon 光子 【HKvtuber】",
+                        "author": "Edward Hosson (光子) 【HK vtuber】"
+                    },
+                    {
+                        "video_code": "b22s3KSFid4",
+                        "image": "https://i.ytimg.com/vi/b22s3KSFid4/hqdefault.jpg",
+                        "title": "[生日歌回] 生日我大曬，坐低聽我鳩唱  | Edward Hosson (光子) 【HKvtuber】",
+                        "author": "Edward Hosson (光子) 【HK vtuber】"
+                    },
+                    {
+                        "video_code": "1Mvra2fyFD0",
+                        "image": "https://i.ytimg.com/vi/1Mvra2fyFD0/hqdefault.jpg",
+                        "title": "[耐久直播] 畫初見詐騙犯們，兼等100訂閱  Part 2 | Edward Hosson (光子) 【HKvtuber】",
+                        "author": "Edward Hosson (光子) 【HK vtuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

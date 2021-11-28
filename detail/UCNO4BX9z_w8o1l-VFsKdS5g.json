@@ -1,0 +1,108 @@
+{
+    "id": "UCNO4BX9z_w8o1l-VFsKdS5g",
+    "header": {
+        "name": "幻花茶屋",
+        "image": "https://yt3.ggpht.com/wfKZXX1x8OFqLukPggALbn4pZosGtGnZXSLe-WHA2jzjFq9ago6jjTwABpdzO-MpFxeqmDrd=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/ZW7quYLeZFHA1CQugHrG_bAaGKHvsM2wTdQwXP7_S3GGJNcGeCg2RyqCojfv1co0VWeOlBvkZ6U"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "「你有聽說過街角那間幻花茶屋嗎？」\n\n四人四色、來自香港的女性VTuber組合，似乎正在合力經營茶屋。\n\n🍵茶屋每週也會舉辦不同的活動，有空的話請一起來喝茶吧～！"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "直播Tag",
+                        "content": "#茶屋營業中",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#茶屋畫廊",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#茶屋意見箱",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#茶屋意見箱",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCNO4BX9z_w8o1l-VFsKdS5g"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "HKVTOPIA"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "2yzSUwVOnTU",
+                        "image": "https://i.ytimg.com/vi/2yzSUwVOnTU/hqdefault.jpg",
+                        "title": "【茶屋物語#1】不起眼的街角似乎有什麼正在改變……【幻花茶屋/HKVTuber】",
+                        "author": "幻花茶屋"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "JIZFy_iWsY8",
+                        "image": "https://i.ytimg.com/vi/JIZFy_iWsY8/hqdefault.jpg",
+                        "title": "【開張慶祝日】路過的客人們不要走！來一起喝茶吧～🍵【幻花茶屋/HKVtuber】",
+                        "author": "幻花茶屋"
+                    },
+                    {
+                        "video_code": "09Nkl9w5pmA",
+                        "image": "https://i.ytimg.com/vi/09Nkl9w5pmA/hqdefault.jpg",
+                        "title": "【互相問答！】加深認識的機會？！🍵茶屋默契訓練會🍵 【幻花茶屋/HKVtuber】",
+                        "author": "幻花茶屋"
+                    },
+                    {
+                        "video_code": "wOhgSsoy-y0",
+                        "image": "https://i.ytimg.com/vi/wOhgSsoy-y0/hqdefault.jpg",
+                        "title": "【茶屋挑戰！】🍵聲線模仿的強者是...？🍵【幻花茶屋/HKVtuber】",
+                        "author": "幻花茶屋"
+                    }
+                ]
+            }
+        }
+    ]
+}

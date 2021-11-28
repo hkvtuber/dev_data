@@ -1,0 +1,180 @@
+{
+    "id": "UC8lYKWs12u3UXLx4Omt15mw",
+    "header": {
+        "name": "Ko-el ch.鵑鳴曉春【HKVTuber】",
+        "image": "https://yt3.ggpht.com/BzQdwlJWppzgyo_kGMV6Vkb8YzeQzeUwGsmXRQRhYEN3GucfR0asX6IR8vs4tvfrdZaMg9_DiQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/HCyFflL9mmyz8NZRti-TG9UFJA21MG5JTHdsT7L04nxyPJ2e_R__5kdcHZDC2Tw0fkeX8a3j"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/Evx0YsWVoAEx077?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Evx0YsWVoAEx077?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/Evx0cdvVEAcfrfv?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Evx0cdvVEAcfrfv?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/Evx0eRMVEAMF8p6?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Evx0eRMVEAMF8p6?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "KOEL 由叫春鳥(升key雀)千年修練化身人形的神靈!!"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#Koel拉庫",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#Koel藏畫閣",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#Koel雀友會\n#雀友",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#Koel迷迷庫",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC8lYKWs12u3UXLx4Omt15mw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "hkvtuber_koel"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/Ko-el-ch-%E9%B5%91%E9%B3%B4%E6%9B%89%E6%98%A5-HKVtuber%E6%BA%96%E5%82%99%E4%B8%AD-101219172027694/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "dVOLeRV5u5g",
+                        "image": "https://i.ytimg.com/vi/dVOLeRV5u5g/hqdefault.jpg",
+                        "title": "【初見】首條自我介紹!新鮮滾熱辣(•ө•)♡【香港VTuber/Ko-el ch. 鵑鳴曉春】",
+                        "author": "Ko-el ch.鵑鳴曉春【HKVTuber】"
+                    },
+                    {
+                        "video_code": "YP0D_LnEKwk",
+                        "image": "https://i.ytimg.com/vi/YP0D_LnEKwk/hqdefault.jpg",
+                        "title": "【初配信5/5預告】小春首次線上配信上線啦【香港VTuber/Ko-el ch. 鵑鳴曉春】",
+                        "author": "Ko-el ch.鵑鳴曉春【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "dAoltF4uckA",
+                        "image": "https://i.ytimg.com/vi/dAoltF4uckA/hqdefault.jpg",
+                        "title": "【初配信】升key雀雀出道啦!! 自我介紹+棉花糖【香港VTuber/Ko-el ch. 鵑鳴曉春】(•ө•)♡",
+                        "author": "Ko-el ch.鵑鳴曉春【HKVTuber】"
+                    },
+                    {
+                        "video_code": "iqBD1HqvHUA",
+                        "image": "https://i.ytimg.com/vi/iqBD1HqvHUA/hqdefault.jpg",
+                        "title": "塗鴉+雜談+garticphone+撞機+英語學術討論+祝山下平吉出道臺【香港VTuber/Ko-el ch. 鵑鳴曉春】(0ө0)♡ feat.加藤小麻雀 鈴鹿沙織 真黒makuro 白川由紀",
+                        "author": "Ko-el ch.鵑鳴曉春【HKVTuber】"
+                    },
+                    {
+                        "video_code": "w1uZ1mHMkz4",
+                        "image": "https://i.ytimg.com/vi/w1uZ1mHMkz4/hqdefault.jpg",
+                        "title": "【Devotion還願】#一日通關 恭迎慈孤觀音，渡世靈顯四方?!【香港VTuber/Ko-el ch. 鵑鳴曉春】(0ө0)♡",
+                        "author": "Ko-el ch.鵑鳴曉春【HKVTuber】"
+                    },
+                    {
+                        "video_code": "q4lTW887h-g",
+                        "image": "https://i.ytimg.com/vi/q4lTW887h-g/hqdefault.jpg",
+                        "title": "【一百日紀念】~小春休息的一天~【香港VTuber/Ko-el ch. 鵑鳴曉春】(•ө•)♡",
+                        "author": "Ko-el ch.鵑鳴曉春【HKVTuber】"
+                    },
+                    {
+                        "video_code": "umHzIouJ3Y8",
+                        "image": "https://i.ytimg.com/vi/umHzIouJ3Y8/hqdefault.jpg",
+                        "title": "【雀魂+棉花糖台詞】♡我和麻將有個約會♡【香港VTuber/Ko-el ch. 鵑鳴曉春】(•ө•)♡  feat. 天葉亞里 Ari BBG ♡",
+                        "author": "Ko-el ch.鵑鳴曉春【HKVTuber】"
+                    },
+                    {
+                        "video_code": "tsbLfbdkMEE",
+                        "image": "https://i.ytimg.com/vi/tsbLfbdkMEE/hqdefault.jpg",
+                        "title": "【歌回+棉花糖】升key雀!! 300 訂閱 慶祝 【香港VTuber/Ko-el ch. 鵑鳴曉春】(•ө•)♡",
+                        "author": "Ko-el ch.鵑鳴曉春【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "烤肉",
+                "video_list": [
+                    {
+                        "video_code": "QdanimwxC1o",
+                        "image": "https://i.ytimg.com/vi/QdanimwxC1o/hqdefault.jpg",
+                        "title": "【300訂閱慶祝精華】帝女花+愛大家~♡【香港VTuber/Ko-el ch. 鵑鳴曉春】(•ө•)♡",
+                        "author": "Ko-el ch.鵑鳴曉春【HKVTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

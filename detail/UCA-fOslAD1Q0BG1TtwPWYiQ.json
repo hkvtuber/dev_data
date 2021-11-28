@@ -1,0 +1,125 @@
+{
+    "id": "UCA-fOslAD1Q0BG1TtwPWYiQ",
+    "header": {
+        "name": "桃野薔薇 ch . 【HKVtuber】",
+        "image": "https://yt3.ggpht.com/vipmcbcsk-qu69PeKCX7zF5cVfrXXDWIDc2zXiLN04DUAPWXYNPaLETY43z2mzVrJAWTC0NS=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/cg8HXRFevP4BPPqWtYt8K6nGCcSRSKGvNgeh1QloXpD7wLlanG9KhkmwV_5X230UkxJhozsGDQ"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FDkddgTagAApjbt?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FDkddgTagAApjbt?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FDkdey9akAAhkO1?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FDkdey9akAAhkO1?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "🌹生於魔女用作製毒的薔薇花園中。本體原是枯竭掉落的玫瑰，因長期吸收魔素而意外幻化出還不完整的靈魂和身體。🌹需要魔素維持肉體穩定沒辦法離開花園 *俗稱家裡蹲* 🌹花園在台灣🌹"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#捕獲野生薔薇",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#野薔薇寫生",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉／精華Tag",
+                        "content": "#桃野薔薇烤肉",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCA-fOslAD1Q0BG1TtwPWYiQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Momo_Nobara"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/MomoNobara"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "sZ5q9u3Vh1A",
+                        "image": "https://i.ytimg.com/vi/sZ5q9u3Vh1A/hqdefault.jpg",
+                        "title": "【深夜薔】每週一次的ASMR按摩 X 心音。跳跳糖。口腔音【桃野薔薇 | HKVTBER】",
+                        "author": "桃野薔薇 ch . 【港台Vtuber｜Vtype 】"
+                    },
+                    {
+                        "video_code": "EJTW7xhcgRM",
+                        "image": "https://i.ytimg.com/vi/EJTW7xhcgRM/hqdefault.jpg",
+                        "title": "【ASMR】｜每週固定睡眠導入 近距離耳邊哄睡 ｜【桃野薔薇 | HKVTUBER 】",
+                        "author": "桃野薔薇 ch . 【港台Vtuber｜Vtype 】"
+                    },
+                    {
+                        "video_code": "gvNTQirQD0I",
+                        "image": "https://i.ytimg.com/vi/gvNTQirQD0I/hqdefault.jpg",
+                        "title": "【Ghost of tsushima 對馬戰鬼 】繼續不講武德！【桃野薔薇 | HKVTUBER 】",
+                        "author": "桃野薔薇 ch . 【港台Vtuber｜Vtype 】"
+                    },
+                    {
+                        "video_code": "BZeMy1Ep1IY",
+                        "image": "https://i.ytimg.com/vi/BZeMy1Ep1IY/hqdefault.jpg",
+                        "title": "【週日觀眾酒場】大話骰 X 黃牌 ！賭L薔在線騙酒喝！6個7！！【桃野薔薇 | HKVTUBER  / VTYPE】",
+                        "author": "桃野薔薇 ch . 【港台Vtuber｜Vtype 】"
+                    }
+                ]
+            }
+        }
+    ]
+}

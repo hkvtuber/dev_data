@@ -1,0 +1,110 @@
+{
+    "id": "UCVhVjMVs3aWkFDjh-y9mEsA",
+    "header": {
+        "name": "Kotose ch. 音羽 ことせ ",
+        "image": "https://yt3.ggpht.com/l-S_w9K796NBgtIQrvCFBR3XftEy0fu66cjfHoPn-6H4JGkIg4t56KJuf90EKMhp5OjG1dAE=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/ZVu2G-L36Cn9QHV__4zmylruvBsxnrRHuAZAimPQEujcnkqs5MvNoseuaCn8EW4MgW9QDsv3"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "早啊各位~這裡是琴瀨的頻道OwO\n我從小就有歌手的夢想，因為唱歌能表達我的心情，但一直卻沒有機會可以嘗試一番，心情很低落......\n但，在這個時候，有個人對我張開了手....給我了希望\n我開始練習唱歌，希望能成為專業的歌唱者\n目前還是練習生，請大家多多關注和鼓勵啦-w-"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCVhVjMVs3aWkFDjh-y9mEsA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Otoha_Kotose"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "cz729aWkzXI",
+                        "image": "https://i.ytimg.com/vi/cz729aWkzXI/hqdefault.jpg",
+                        "title": "【廢片】勞贖 [琴瀨ver.]   #勞贖",
+                        "author": "Kotose ch. 音羽 ことせ "
+                    },
+                    {
+                        "video_code": "7r0V-k9QY_Y",
+                        "image": "https://i.ytimg.com/vi/7r0V-k9QY_Y/hqdefault.jpg",
+                        "title": "【廢片】啊啊啊呀啊",
+                        "author": "Kotose ch. 音羽 ことせ "
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "-yEvyieotUM",
+                        "image": "https://i.ytimg.com/vi/-yEvyieotUM/hqdefault.jpg",
+                        "title": "【Minecraft】新手來玩玩Minecraft @w@ [Otoha Kotose/音羽ことせ]",
+                        "author": "Kotose ch. 音羽 ことせ "
+                    },
+                    {
+                        "video_code": "F4-aR1f20Q0",
+                        "image": "https://i.ytimg.com/vi/F4-aR1f20Q0/hqdefault.jpg",
+                        "title": "【Minecraft】再來！！再來！！畫skin時間ww [Otoha Kotose/音羽ことせ]",
+                        "author": "Kotose ch. 音羽 ことせ "
+                    },
+                    {
+                        "video_code": "5n8U6LTtv7c",
+                        "image": "https://i.ytimg.com/vi/5n8U6LTtv7c/hqdefault.jpg",
+                        "title": "【Terraria】(突發聯動！觀眾場~）新買的遊戲!?聽說好像有和don't strave合作哦OAO[Otoha Kotose/音羽ことせ]ft.Remy Ch.奇拉レイミ,啊尼,Emile 夢持",
+                        "author": "Kotose ch. 音羽 ことせ "
+                    },
+                    {
+                        "video_code": "z1ndvN1hQZM",
+                        "image": "https://i.ytimg.com/vi/z1ndvN1hQZM/hqdefault.jpg",
+                        "title": "【OSU!】進來一起聊天玩玩呀~~~ [Otoha Kotose/音羽ことせ]",
+                        "author": "Kotose ch. 音羽 ことせ "
+                    }
+                ]
+            }
+        }
+    ]
+}

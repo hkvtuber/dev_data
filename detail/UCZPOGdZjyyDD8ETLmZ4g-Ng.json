@@ -1,0 +1,116 @@
+{
+    "id": "UCZPOGdZjyyDD8ETLmZ4g-Ng",
+    "header": {
+        "name": "御使守koi",
+        "image": "https://yt3.ggpht.com/aUsDGeKVgOkHlR4AzGoAjVd7pELxDD3qEivunPPMSmcIUj7W91-nCtnMX_JwuNMAd3fnqFn0QHQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/WTF5TbhJr8NqpXF_8RCD1hzleMzwac3RUTp1_usppQoKFJvUzSyseB2sGeJWHUXIO2VHVkwh"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "大家好，我是御使守Koi。是一位魔法師。平常都是打機為多，主力玩《失落的龍絆》，不時會玩其他遊戲，甚至會跟大家一起清淡一下放鬆一下。還會寫下個人故事介紹Koi的記憶。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCZPOGdZjyyDD8ETLmZ4g-Ng"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "koi_yuishisyou"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "xz_d9QmPzYg",
+                        "image": "https://i.ytimg.com/vi/xz_d9QmPzYg/hqdefault.jpg",
+                        "title": "[Dragalia Lost] 真闇龍攻略 及 中高級配置｜劍劍刀短戰鬥詳解",
+                        "author": "御使守koi"
+                    },
+                    {
+                        "video_code": "pgG2xNukLX4",
+                        "image": "https://i.ytimg.com/vi/pgG2xNukLX4/hqdefault.jpg",
+                        "title": "[Dragalia Lost] 真輝龍中級攻略 及 進場最低配置｜家康、奶克菈兒戰鬥詳解",
+                        "author": "御使守koi"
+                    },
+                    {
+                        "video_code": "3mEoSPzdIG0",
+                        "image": "https://i.ytimg.com/vi/3mEoSPzdIG0/hqdefault.jpg",
+                        "title": "[Dragalia Lost] 風屬咢牙高級配置及攻略詳解｜主角弟補詳解",
+                        "author": "御使守koi"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "2U41ASI4QBQ",
+                        "image": "https://i.ytimg.com/vi/2U41ASI4QBQ/hqdefault.jpg",
+                        "title": "[ 御使守koi ] 開放會員功能了！｜一齊加入成為魔法錦鯉！【香港vtuber】",
+                        "author": "御使守koi"
+                    },
+                    {
+                        "video_code": "apA9bU_8R8k",
+                        "image": "https://i.ytimg.com/vi/apA9bU_8R8k/hqdefault.jpg",
+                        "title": "[Dragalia Lost] 御使守 Koi︱[2100開抽] 失落龍絆日大爆抽 ︱就等我成為你嘅兄様好好咁守護你啦！ [失落的龍絆][ ドラガリアロスト]",
+                        "author": "御使守koi"
+                    },
+                    {
+                        "video_code": "3wrifJTkXlk",
+                        "image": "https://i.ytimg.com/vi/3wrifJTkXlk/hqdefault.jpg",
+                        "title": "[Dragalia Lost] 御使守 Koi︱「雪爾希爾叛逆戰」拓荒挑戰 [失落的龍絆][ ドラガリアロスト]",
+                        "author": "御使守koi"
+                    },
+                    {
+                        "video_code": "FsYUigUVSSU",
+                        "image": "https://i.ytimg.com/vi/FsYUigUVSSU/hqdefault.jpg",
+                        "title": "[Dragalia Lost] 御使守 Koi︱[2100開抽]不是失落龍絆日︱300抽VS伊利亞 [失落的龍絆][ ドラガリアロスト]",
+                        "author": "御使守koi"
+                    }
+                ]
+            }
+        }
+    ]
+}
