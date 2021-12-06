@@ -27,7 +27,7 @@
         },
         {
             "term": "企業勢",
-            "explanation": "由公司營運，公司提供各種協助，代表有Eggtart。"
+            "explanation": "由公司營運，公司提供各種協助，代表有Eggtart 和 Mic On Project。"
         },
         {
             "term": "草",
@@ -38,7 +38,7 @@
             "explanation": "看起來像很多草，代表大笑的意思"
         },
         {
-            "term": "烤肉",
+            "term": "精華/烤肉",
             "explanation": "意思是把影片(生肉),通過剪輯，加字幕等方式處理(烤肉)，再上傳至Youtube，主要用途是吸引路人關注該VTuber"
         },
         {
@@ -61,33 +61,129 @@
     "suggest_roast_list": [
         {
             "video_code": "EoHN-xqBbeE",
-            "image": "https://i.ytimg.com/vi/EoHN-xqBbeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnXCxBK3OJDNvwKKF4rY3scelAFQ",
+            "image": "https://i.ytimg.com/vi/EoHN-xqBbeE/hqdefault.jpg",
             "title": "【精華】面對燈謎竟然說出了ＯＯ字眼？面臨BAN台危機！【米亞】",
             "author": "米亞MYA【HKVTuber】"
+        },
+        {
+            "video_code": "H38lDyvt6Ic",
+            "image": "https://i.ytimg.com/vi/H38lDyvt6Ic/hqdefault.jpg",
+            "title": "常識零分的王道IDOL 再度表演 常識之鬼嘅利害 | 到底係佢眼中西多士係乜樣？ 叉燒同時又叫做乜？【紡霊拉比】【小林あいす/Mic On Project】【香港Vtuber精華】",
+            "author": "乂醉曖比比乂"
+        },
+        {
+            "video_code": "0nlE_il8On8",
+            "image": "https://i.ytimg.com/vi/0nlE_il8On8/hqdefault.jpg",
+            "title": "【月島クロス】Ado「うっせぇわ」粵語廣東話翻唱『收皮啦』【香港VTuber】",
+            "author": "湯姆烤肉店【在幸國患如月病的黑騎】"
+        },
+        {
+            "video_code": "s5aK1EW4irs",
+            "image": "https://i.ytimg.com/vi/s5aK1EW4irs/hqdefault.jpg",
+            "title": "【廢片(x)】小林あいす係全港最清楚Vtuber【小林あいす】",
+            "author": "香港Vtuber宣傳大使"
+        },
+        {
+            "video_code": "NwxeA7M8p-8",
+            "image": "https://i.ytimg.com/vi/NwxeA7M8p-8/hqdefault.jpg",
+            "title": "【香港Vtuber精華】超機密! 望月ルーナ中之人暴露!!!【望月ルーナ+(紡霊拉比)】",
+            "author": "香港Vtuber宣傳大使"
+        },
+        {
+            "video_code": "Da_1UtJ9INI",
+            "image": "https://i.ytimg.com/vi/Da_1UtJ9INI/hqdefault.jpg",
+            "title": "【如月ルミィ/如月瑠美】畫畫接龍一直歪樓 最終Rumii變成了蟑螂？【香港VTuber】",
+            "author": "PANDORA"
         }
     ],
     "suggest_video_list": [
         {
-            "video_code": "EoHN-xqBbeE",
-            "image": "https://i.ytimg.com/vi/EoHN-xqBbeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnXCxBK3OJDNvwKKF4rY3scelAFQ",
-            "title": "(Video)【精華】面對燈謎竟然說出了ＯＯ字眼？面臨BAN台危機！【米亞】",
+            "video_code": "4hpxyVidUIo",
+            "image": "https://i.ytimg.com/vi/4hpxyVidUIo/hqdefault.jpg",
+            "title": "【自我介紹】你要來點惡魔IDOL嗎♡【HKVTuber/如月瑠美】",
+            "author": "Rumii Ch. 如月ルミィ【HKVTuber】"
+        },
+        {
+            "video_code": "Lmlfs8nP23U",
+            "image": "https://i.ytimg.com/vi/Lmlfs8nP23U/hqdefault.jpg",
+            "title": "【Original】講你知123 ♡ ！【米亞MYA / HKVtuber】",
             "author": "米亞MYA【HKVTuber】"
+        },
+        {
+            "video_code": "8WPRgKiDJac",
+            "image": "https://i.ytimg.com/vi/8WPRgKiDJac/hqdefault.jpg",
+            "title": "MK妹初出道！ 史上第一段消音最多既vtuber自介片？",
+            "author": "MK妹【香港VTuber】"
+        },
+        {
+            "video_code": "FeBiYULv4_M",
+            "image": "https://i.ytimg.com/vi/FeBiYULv4_M/hqdefault.jpg",
+            "title": "【自我介紹】Vtuber一問一答自己紹介【小林あいす/Mic On Project】【香港Vtuber】",
+            "author": "Aisu Ch.小林あいす【HKVTuber】"
+        },
+        {
+            "video_code": "QZbHraIyTbg",
+            "image": "https://i.ytimg.com/vi/QZbHraIyTbg/hqdefault.jpg",
+            "title": "【香港VTuber】榎川幸、VTuber出道～！【自己紹介】",
+            "author": "榎川幸【香港VTuber】"
         }
     ],
     "suggest_live_list": [
         {
-            "video_code": "EoHN-xqBbeE",
-            "image": "https://i.ytimg.com/vi/EoHN-xqBbeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnXCxBK3OJDNvwKKF4rY3scelAFQ",
-            "title": "(Live)【精華】面對燈謎竟然說出了ＯＯ字眼？面臨BAN台危機！【米亞】",
+            "video_code": "VjepVw3EUHs",
+            "image": "https://i.ytimg.com/vi/VjepVw3EUHs/hqdefault.jpg",
+            "title": "【一萬訂閱多L謝晒♡】仲吾入泥聽我唱歌？系米想死v0v【HKVTuber/醉曖老味】",
+            "author": "Rumii Ch. 如月ルミィ【HKVTuber】"
+        },
+        {
+            "video_code": "6dVTVVxzQ0M",
+            "image": "https://i.ytimg.com/vi/6dVTVVxzQ0M/hqdefault.jpg",
+            "title": "【米亞】啊咧...突然一萬訂閱了？...？....？【HKVtuber】",
             "author": "米亞MYA【HKVTuber】"
+        },
+        {
+            "video_code": "-GHXwNP2frU",
+            "image": "https://i.ytimg.com/vi/-GHXwNP2frU/hqdefault.jpg",
+            "title": "MK妹下海初直播",
+            "author": "MK妹【香港VTuber】"
+        },
+        {
+            "video_code": "LLO7jJTKS4A",
+            "image": "https://i.ytimg.com/vi/LLO7jJTKS4A/hqdefault.jpg",
+            "title": "【台詞朗讀會】自己說要讀的台詞，就一定要讀下去.......。【小林あいす/Mic On Project】【香港VTuber】",
+            "author": "Aisu Ch.小林あいす【HKVTuber】"
+        },
+        {
+            "video_code": "GEvRq4WUJWA",
+            "image": "https://i.ytimg.com/vi/GEvRq4WUJWA/hqdefault.jpg",
+            "title": "【歌枠】1000 Subs 感謝LIVE【香港VTuber/榎川幸】",
+            "author": "榎川幸【香港VTuber】"
         }
     ],
     "other_video_list": [
         {
-            "video_code": "EoHN-xqBbeE",
-            "image": "https://i.ytimg.com/vi/EoHN-xqBbeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnXCxBK3OJDNvwKKF4rY3scelAFQ",
-            "title": "(Other)【精華】面對燈謎竟然說出了ＯＯ字眼？面臨BAN台危機！【米亞】",
+            "video_code": "gcph9iq77Rw",
+            "image": "https://i.ytimg.com/vi/gcph9iq77Rw/hqdefault.jpg",
+            "title": "【７分鐘輕鬆解釋！】要怎樣成為Vtuber？由設計到製作模組全解釋！",
             "author": "米亞MYA【HKVTuber】"
+        },
+        {
+            "video_code": "oR77hP71RH8",
+            "image": "https://i.ytimg.com/vi/oR77hP71RH8/hqdefault.jpg",
+            "title": "【VTuber】最簡單教你如何設定OBS跟VTS直播",
+            "author": "Yuurei Ch.白石幽怜"
+        },
+        {
+            "video_code": "7Vw7sdkQ8LI",
+            "image": "https://i.ytimg.com/vi/7Vw7sdkQ8LI/hqdefault.jpg",
+            "title": "真人偶像已過氣？香港虛擬偶像日賺一萬！ 誠實點評8位香港VTuber🔥🇭🇰 (如月瑠美, 米亞MYA, 小林あいす…) | Plong",
+            "author": "Plong Poon"
+        },
+        {
+            "video_code": "kQSuHdLex0Q",
+            "image": "https://i.ytimg.com/vi/kQSuHdLex0Q/hqdefault.jpg",
+            "title": "【推坑&分析】10分鐘就能明白的VTuber文化與香港VTuber【ACGSphere】",
+            "author": "FRONTIER"
         }
     ]
 }
