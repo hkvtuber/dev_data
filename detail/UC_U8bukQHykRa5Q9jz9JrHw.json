@@ -28,6 +28,29 @@
         {
             "type": "title_map",
             "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "2月27日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "125",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "170cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
                 "title": "關於直播",
                 "map_list": [
                     {
@@ -57,7 +80,7 @@
                     },
                     {
                         "key": "Meme Tag",
-                        "content": "#大麻理迷因 ",
+                        "content": "#大麻理迷因",
                         "heightRate": "1"
                     }
                 ]

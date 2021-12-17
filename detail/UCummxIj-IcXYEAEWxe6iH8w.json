@@ -31,6 +31,34 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "_XGyRKQSjNc",
+                        "image": "https://i.ytimg.com/vi/_XGyRKQSjNc/hqdefault.jpg",
+                        "title": "凝聚社介紹！凝聚社到底係?",
+                        "author": "凝聚社"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "lwHLDlb4b6w",
+                        "image": "https://i.ytimg.com/vi/lwHLDlb4b6w/hqdefault.jpg",
+                        "title": "第一屆 UHC港澳Vtuber競賽",
+                        "author": "凝聚社"
+                    }
+                ]
+            }
         }
     ]
 }

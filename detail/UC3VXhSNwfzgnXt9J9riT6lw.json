@@ -26,7 +26,25 @@
             "type": "title_content",
             "data": {
                 "title": "描述",
-                "content": "原居魔法森林的女巫星芽 \n討厭人類但為了和平而穿越去虛擬地球"
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "年齡",
+                        "content": "永遠18歳(300以上)",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "165cm",
+                        "heightRate": "1"
+                    }
+                ]
             }
         },
         {

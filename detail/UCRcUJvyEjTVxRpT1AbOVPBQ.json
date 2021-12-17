@@ -28,6 +28,29 @@
         {
             "type": "title_map",
             "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "11月30號\n1月1號",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "4歲\n3歲",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "163cm(連鞋)\n167cm",
+                        "heightRate": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
                 "title": "關於直播",
                 "map_list": [
                     {

@@ -28,6 +28,19 @@
         {
             "type": "title_map",
             "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "身高",
+                        "content": "155cm(連角170cm)",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
                 "title": "關於直播",
                 "map_list": [
                     {
@@ -57,7 +70,7 @@
                     },
                     {
                         "key": "Fan Name Tag",
-                        "content": "#愛露信者\n#我愛蘿 ",
+                        "content": "#愛露信者\n#我愛蘿",
                         "heightRate": "2"
                     }
                 ]

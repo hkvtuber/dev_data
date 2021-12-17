@@ -32,6 +32,24 @@
         {
             "type": "title_map",
             "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "12月1日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "148cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
                 "title": "關於直播",
                 "map_list": [
                     {
@@ -68,6 +86,11 @@
                         "key": "Fan Name Tag",
                         "content": "#Rabbito\n#有色芝士",
                         "heightRate": "2"
+                    },
+                    {
+                        "key": "生日Tag",
+                        "content": "#拉比生日咁大件事冇人講2021",
+                        "heightRate": "1"
                     }
                 ]
             }

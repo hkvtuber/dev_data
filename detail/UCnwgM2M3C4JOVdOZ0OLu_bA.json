@@ -22,7 +22,25 @@
             "type": "title_content",
             "data": {
                 "title": "描述",
-                "content": "あいすちは〜我是Mic On Project所屬，來自冰之國的17歲良好女子高中生小林あいす！！🧊\n\n★∻∹⋰⋰ ☆∻∹⋰⋰ ★∻∹⋰⋰ ☆∻∹⋰⋰\n\n❄️あいす的故事⭐️\n小林あいす是冰之國的國民，同時也是一個喜歡歌唱和玩遊戲看動畫的隱性宅。\n有一天冰之國迎來了冰川融化的重大危機。為解決國土面積逐漸縮小的問題，國王必須選出一名開朗而天真爛漫的少女成為VTuber，才能收集國民的快樂能量，拯救冰之國。\n而あいす卻有幸成為了該人選。雖然一開始卻因事出突然而拒絕了國王的要求，但隨著國民的擔憂和憂慮愈演愈烈，あいす最後也決意站出來保護這片土地及守護國民的笑容，以「アイス委員」的身份開始了Vtuber活動......\n\n★∻∹⋰⋰ ☆∻∹⋰⋰ ★∻∹⋰⋰ ☆∻∹⋰⋰"
+                "content": "小林あいす是冰之國的國民，同時也是一個喜歡歌唱和玩遊戲看動畫的隱性宅。\n有一天冰之國迎來了冰川融化的重大危機。為解決國土面積逐漸縮小的問題，國王必須選出一名開朗而天真爛漫的少女成為VTuber，才能收集國民的快樂能量，拯救冰之國。\n而あいす卻有幸成為了該人選。雖然一開始卻因事出突然而拒絕了國王的要求，但隨著國民的擔憂和憂慮愈演愈烈，あいす最後也決意站出來保護這片土地及守護國民的笑容，以「アイス委員」的身份開始了Vtuber活動......"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "年齡",
+                        "content": "永遠17歲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "159cm",
+                        "heightRate": "1"
+                    }
+                ]
             }
         },
         {
@@ -67,7 +85,7 @@
                     },
                     {
                         "key": "Fan Name Tag",
-                        "content": "#あいすもち\n#雪米糍\n#觀音冰 ",
+                        "content": "#あいすもち\n#雪米糍\n#觀音冰",
                         "heightRate": "2.00"
                     },
                     {
@@ -183,9 +201,9 @@
                         "author": "Aisu Ch.小林あいす【HKVTuber】"
                     },
                     {
-                        "video_code": "YaZuWrFoQ7k",
-                        "image": "https://i.ytimg.com/vi/YaZuWrFoQ7k/hqdefault.jpg",
-                        "title": "【明明是突發但變成了天有光+半日台】8000訂所以要突發【小林あいす/Mic On Project】【香港VTuber】",
+                        "video_code": "OeSguIpFZQU",
+                        "image": "https://i.ytimg.com/vi/OeSguIpFZQU/hqdefault.jpg",
+                        "title": "【耐久】2000訂閲者前一邊唱歌等候_( ´ ω `_)⌒)_。【小林あいす/Mic On Project】【香港VTuber】",
                         "author": "Aisu Ch.小林あいす【HKVTuber】"
                     },
                     {

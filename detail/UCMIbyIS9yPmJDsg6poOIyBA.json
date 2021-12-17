@@ -36,6 +36,24 @@
         {
             "type": "title_map",
             "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "年齡",
+                        "content": "18歲\n25歲\n21歲",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "170cm\n170cm\n155cm",
+                        "heightRate": "2.00"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
                 "title": "關於直播",
                 "map_list": [
                     {

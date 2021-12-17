@@ -28,6 +28,24 @@
         {
             "type": "title_map",
             "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "12月16日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "181cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
                 "title": "關於直播",
                 "map_list": [
                     {
@@ -57,7 +75,7 @@
                     },
                     {
                         "key": "Meme Tag",
-                        "content": "#迷因特攻隊 ",
+                        "content": "#迷因特攻隊",
                         "heightRate": "1"
                     }
                 ]
