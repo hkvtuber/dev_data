@@ -7,10 +7,45 @@
     },
     "body": [
         {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/Ey5-GZ_UYAMUVCu?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Ey5-GZ_UYAMUVCu?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
             "type": "title_content",
             "data": {
                 "title": "描述",
                 "content": "🪶🪶小學雞笨蛋🪶🪶🪶\n畫畫會手震唱歌會走音的天才"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "3月20日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "14+?歲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "138cm",
+                        "heightRate": "1"
+                    }
+                ]
             }
         },
         {

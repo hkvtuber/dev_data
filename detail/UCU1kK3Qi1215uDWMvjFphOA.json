@@ -32,6 +32,24 @@
         {
             "type": "title_map",
             "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "6月7號\n3月22號",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "155cm\n155+2cm",
+                        "heightRate": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
                 "title": "關於直播",
                 "map_list": [
                     {

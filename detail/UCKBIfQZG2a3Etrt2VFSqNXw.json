@@ -7,10 +7,45 @@
     },
     "body": [
         {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/E8vj7UPVkAUcjLf?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/E8vj7UPVkAUcjLf?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
             "type": "title_content",
             "data": {
                 "title": "描述",
                 "content": "最廢妖怪在此登場   (我)⊂彡☆))д`)"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "8月4號",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "18歲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "179cm",
+                        "heightRate": "1"
+                    }
+                ]
             }
         },
         {

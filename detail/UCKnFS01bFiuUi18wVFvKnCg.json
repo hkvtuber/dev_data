@@ -28,6 +28,29 @@
         {
             "type": "title_map",
             "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "8月16號\n8月20號",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "18歲\n15歲",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "178cm\n143cm",
+                        "heightRate": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
                 "title": "關於直播",
                 "map_list": [
                     {
