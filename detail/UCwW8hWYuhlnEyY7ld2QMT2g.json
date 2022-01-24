@@ -1,0 +1,99 @@
+{
+    "id": "UCwW8hWYuhlnEyY7ld2QMT2g",
+    "header": {
+        "name": "Akari ch.赤津明里",
+        "image": "https://yt3.ggpht.com/Fsv5mT91dJlrHmNLprC7tTXpAraQ1eRrE-OylSBlBZ9R-zBN16Mzhrco9xsPQ2q6BjT2ZXI5Zg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/f54JUKEIT8onNvtlc57ICbIGYTN-bKvDJCrwGZgSNbzLIbJBS8RVfPOhkcHiM8pAOWh7QYT_6Hw"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FIorfNnacAoHPbg?format=png&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FIorfNnacAoHPbg?format=png&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FIorfNoacAUyX1B?format=png&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FIorfNoacAUyX1B?format=png&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "10月21日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#狐思亂想",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#明里筆記本",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#赤小豆",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCwW8hWYuhlnEyY7ld2QMT2g"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Akatsu_Akari"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/akatsu_akari/"
+                    }
+                ]
+            }
+        }
+    ]
+}

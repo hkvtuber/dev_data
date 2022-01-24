@@ -1,0 +1,59 @@
+{
+    "id": "UC_FIKkLD5wQpvIkOtsA3GgA",
+    "header": {
+        "name": "Kage ch. 霧羅埼かげ",
+        "image": "https://yt3.ggpht.com/jXUjezfRR1D960cLcCc_WJclYClq60T2x3Vg-Y1CZj_Y9NOL1GzqL7jK56m0WaIZhiJmZWMRrQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC_FIKkLD5wQpvIkOtsA3GgA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "MurasakiVT31"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/profile.php?id=100077243411435"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/murasakikage1231/"
+                    }
+                ]
+            }
+        }
+    ]
+}

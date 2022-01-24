@@ -1,0 +1,61 @@
+{
+    "id": "UCL0imlchw5iO5vEHgeJHLsQ",
+    "header": {
+        "name": "黑蘋果 ❪香港Vtuber❫",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLR3lkUicMvtg6SD-kanhxSBWlftbUn1dhccUgaX=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/9i0J4wGzGlsLsOWXETHdLBVhcWLbXRFevVDclw7zSxBgS--DTFqOlQWfDiUz6SKFQOTJW5-1"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#黑蘋\n#黑蘋配信",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#黑蘋博物館",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCL0imlchw5iO5vEHgeJHLsQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "KuroRingo12"
+                    }
+                ]
+            }
+        }
+    ]
+}

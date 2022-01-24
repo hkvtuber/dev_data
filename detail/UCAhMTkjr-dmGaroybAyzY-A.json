@@ -1,0 +1,106 @@
+{
+    "id": "UCAhMTkjr-dmGaroybAyzY-A",
+    "header": {
+        "name": "Aya Ch. 佐藤あや【HKVtuber】",
+        "image": "https://yt3.ggpht.com/QSdNgepcKA4gTH2e27duum0lJID8ZR8Gl5IZ9oRJEdm-WbGDBZ_sWR8fv64iBZ2QvbmjXy3C=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/-BzEZehwzS0tZkZvfhYdLlQBFLHKjeArqyhh4M0JOtzDi_Z1d4rjiif7XnhLxi5YpaELBlVX"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FEIJm41VIA0D3Hf?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FEIJm41VIA0D3Hf?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "大家好！我是佐藤綾Sato Aya，一位來自魔界的廢材魔王\n由於本體只是一隻小兔子，而且又是一個笨手笨腳的遜砲，所以魔王城就變成廢城了啦！！！因此綾就逃到人類世界了\n嗚姆姆，魔界實在是太可怕了～人家也想要被愛着、被温柔對待吶！啊！！那就成為Vtuber收獲Aya激推bot吧！\n人家會努力的\n\n即使是鬱嬌，也可以受歡迎的！\n即使被炎上，也想被大家注視！\n我是佐藤あや！請多多指教！"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "5月20日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#Ayalive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#Ayart",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "血腥 Fan Art Tag",
+                        "content": "#醬燒兔頭",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#佐藤同學的秘密",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#Aya激推bot",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#Ayaya",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCAhMTkjr-dmGaroybAyzY-A"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "SatoAya_daze"
+                    }
+                ]
+            }
+        }
+    ]
+}

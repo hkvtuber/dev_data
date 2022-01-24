@@ -31,6 +31,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "生日",
+                        "content": "11月16日",
+                        "heightRate": "1"
+                    },
+                    {
                         "key": "年齡",
                         "content": "鼠齡2個月",
                         "heightRate": "1"

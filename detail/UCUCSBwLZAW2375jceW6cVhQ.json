@@ -1,0 +1,47 @@
+{
+    "id": "UCUCSBwLZAW2375jceW6cVhQ",
+    "header": {
+        "name": "雪染川⁎夜華Ch.",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLSH-Pue1uZA3HJbbxx3blMay7vW7ETldILX6KaB=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCUCSBwLZAW2375jceW6cVhQ"
+                    }
+                ]
+            }
+        }
+    ]
+}

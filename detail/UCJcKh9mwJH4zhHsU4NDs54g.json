@@ -147,10 +147,6 @@
                     {
                         "key": "facebook",
                         "path": "https://www.facebook.com/pages/category/Music-Video/Rumii-Ch-%E5%A6%82%E6%9C%88%E3%83%AB%E3%83%9F%E3%82%A3HKVTuber-104404504840255/"
-                    },
-                    {
-                        "key": "飛天奶茶",
-                        "path": "https://market.flyingmilktea.com/shop/108500"
                     }
                 ]
             }
@@ -234,7 +230,7 @@
         {
             "type": "title_youtube",
             "data": {
-                "title": "烤肉",
+                "title": "烤肉/精華",
                 "video_list": [
                     {
                         "video_code": "Da_1UtJ9INI",

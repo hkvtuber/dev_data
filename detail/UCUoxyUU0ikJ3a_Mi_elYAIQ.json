@@ -1,0 +1,74 @@
+{
+    "id": "UCUoxyUU0ikJ3a_Mi_elYAIQ",
+    "header": {
+        "name": "月川MoonRiver🌙HKVTuber",
+        "image": "https://yt3.ggpht.com/BdxM9beRIbBVisrskuJUMeQ_QZPF258ojM2VoC7U9n24ZAZvm-fCqTQz41MyjQbj4q3HuLQS=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/lKyxRCNciinYNBmDQTRhkQTQOwGsLS8BUqzbimP1e9GKxpabAy34hW8Q_RGFPxjJav8vrie4"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "你知道嗎？別看狐狸長得威風，現實中的狐狸其實都很膽小怕人的……我是躲在神社裏的「家裏蹲」狐狸月川，大家也可以叫我阿月，請多多指教！"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "2月14日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "1300多歲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "150cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCUoxyUU0ikJ3a_Mi_elYAIQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "vtubermoonriver"
+                    }
+                ]
+            }
+        }
+    ]
+}

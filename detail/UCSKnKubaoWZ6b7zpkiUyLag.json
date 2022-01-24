@@ -1,0 +1,51 @@
+{
+    "id": "UCSKnKubaoWZ6b7zpkiUyLag",
+    "header": {
+        "name": "Miyuu Ch. 美宇",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLT2tAV8i5NkEYUobSDk7JXT9vKnRjY8jeK1MDJN=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/IFtmzuIx5fWJczE_i8ckUjV_uC_MK2thsSYtT0zuT_vLV4ow5BJ2CtC4kcKhDWRCGeuWHisUpA"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCSKnKubaoWZ6b7zpkiUyLag"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Miyuufun"
+                    }
+                ]
+            }
+        }
+    ]
+}

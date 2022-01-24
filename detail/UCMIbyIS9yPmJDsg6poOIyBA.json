@@ -39,14 +39,19 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "生日",
+                        "content": "9月13日",
+                        "heightRate": "1"
+                    },
+                    {
                         "key": "年齡",
-                        "content": "18歲\n25歲\n21歲",
-                        "heightRate": "2.00"
+                        "content": "24歲",
+                        "heightRate": "1"
                     },
                     {
                         "key": "身高",
-                        "content": "170cm\n170cm\n155cm",
-                        "heightRate": "2.00"
+                        "content": "170cm",
+                        "heightRate": "1"
                     }
                 ]
             }

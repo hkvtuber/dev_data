@@ -1,0 +1,111 @@
+{
+    "id": "UCQPQzXw965sskIzywE42S1A",
+    "header": {
+        "name": "小林具瓏 Ch. HK vtuber",
+        "image": "https://yt3.ggpht.com/SvCK3yxGjANVTe5RdjLFn2oQ8Jc5NNiINHLGAdBsnlQl-kVkVOZoMjxqPIK-RF1Dh1HerZc7Hw=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/Cm5gUd18-bVsd_XGdvKjUwvpWou9TrfXXEIXHcKrJp0MF7xxH8leBRZOntqJSNyYG18LseGIEQ"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FI1ob1YacAMBepn?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FI1ob1YacAMBepn?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "8月7日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "17歲",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#具瓏出撃",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#掌上瓏珠",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#具瓏",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉/精華Tag",
+                        "content": "#巨龍精華time",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#大麻具瓏",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "時間表Tag",
+                        "content": "#具瓏今天要去哪",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCQPQzXw965sskIzywE42S1A"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "MepupuM"
+                    }
+                ]
+            }
+        }
+    ]
+}

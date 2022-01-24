@@ -1,0 +1,78 @@
+{
+    "id": "UC0moEaUSsgYaKvgGMBuOQzQ",
+    "header": {
+        "name": "暁瑚あきこ Akiko Channel  【Vtuber】",
+        "image": "https://yt3.ggpht.com/rt0BAkR0IvvVKsCI2HXeSDWKHR3PZPenEXetUFLkBmfmvQCMsHeOuw2zwQHHyrPMQpfLLSgnNg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/bkf64MH1vvaYylqx4HL1iOuqcG11mgTg6-VihV7kEGitItiEwWOnF_ZOKjM82xMibjWkm_P_"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "6月26日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "22歲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "168cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC0moEaUSsgYaKvgGMBuOQzQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Akikomajo_hk"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/%E6%9A%81%E7%91%9A%E3%81%82%E3%81%8D%E3%81%93AkikoV-Tuber-107279894971151"
+                    }
+                ]
+            }
+        }
+    ]
+}

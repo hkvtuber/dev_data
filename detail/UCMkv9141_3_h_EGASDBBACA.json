@@ -28,6 +28,19 @@
         {
             "type": "title_map",
             "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "年齡",
+                        "content": "20歲",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
                 "title": "關於直播",
                 "map_list": [
                     {
@@ -117,7 +130,7 @@
         {
             "type": "title_youtube",
             "data": {
-                "title": "烤肉",
+                "title": "烤肉/精華",
                 "video_list": [
                     {
                         "video_code": "NRAMzmMTxvk",

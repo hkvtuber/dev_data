@@ -1,0 +1,89 @@
+{
+    "id": "UCF_05iU9akActThNYAx_6xA",
+    "header": {
+        "name": "🌊海風ななみ  Nanami Ch. [HKVTuber]",
+        "image": "https://yt3.ggpht.com/RzE5ljj_GYBxOophYjX5K_j1OKscq2tGwCbgumUsMk0mMjp6ZWqxbbPToQ4EJjEKLDp_2I4KXng=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "1月25日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\r\n普通話\r\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#向七海航行",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#七色海風",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#海風飄揚",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#Nanameme",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "生日Tag",
+                        "content": "#七海誕生祭",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCF_05iU9akActThNYAx_6xA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "UmikazeNanami"
+                    }
+                ]
+            }
+        }
+    ]
+}

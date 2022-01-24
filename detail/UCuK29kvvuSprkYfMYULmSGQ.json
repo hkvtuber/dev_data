@@ -1,0 +1,55 @@
+{
+    "id": "UCuK29kvvuSprkYfMYULmSGQ",
+    "header": {
+        "name": "羽煙 - yvinn -",
+        "image": "https://yt3.ggpht.com/5RVPTRO51dMR3JxFqnAqxZVrmQQ-YsJn5y83rM0BZ6Qp9zj0stpkWz1W80HkhV2oqObp15u0zoo=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/PUa7c6moege3QEL2k_-pc-AIvkNhkOgcEkSDp5O8NHEKJUkgstm1iYRvElooXgUHiUgJjk4ltw"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCuK29kvvuSprkYfMYULmSGQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "_yvinn"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/__yvinn/ "
+                    }
+                ]
+            }
+        }
+    ]
+}

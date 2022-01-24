@@ -1,0 +1,95 @@
+{
+    "id": "UCUjw5PLyOVI2pRiw0Ckn1wA",
+    "header": {
+        "name": "A1M1愛美 Ch. EggtartV",
+        "image": "https://yt3.ggpht.com/pKijahT5RpCEsKYQSv0qu9B1gDMSGXwHMzWOVA71ZXRrHdJ_-zs-uYUxtyPvWb6gYTpCHUrO3w=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/Uc6MbOncMMhfGVLQstnT39hyfqn7URUNtq61r3SfCTQ16glZCXGjU2V3keZINsuVlWbkkhRI2Q"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FHtK7uaaQAUfbiZ?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FHtK7uaaQAUfbiZ?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FHtK-C1acAAvbKt?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FHtK-C1acAAvbKt?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "3月30日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "企業勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "日文\n廣東話",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#A1M1Live",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#A1M1Art",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#FAM1LY",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCUjw5PLyOVI2pRiw0Ckn1wA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "A1M1Eggtart"
+                    }
+                ]
+            }
+        }
+    ]
+}

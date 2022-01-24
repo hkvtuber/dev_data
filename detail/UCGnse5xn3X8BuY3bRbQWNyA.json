@@ -1,0 +1,87 @@
+{
+    "id": "UCGnse5xn3X8BuY3bRbQWNyA",
+    "header": {
+        "name": "Maya Ch.獅子堂マヤ",
+        "image": "https://yt3.ggpht.com/z7wBGw4uTa7xhZVcOnVFIafE7F02Zq7KeL_IIqxprM3zvHj9w2Kqv3bQWDq2MEjCNY3j0U_5xrs=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/F9t3VmRxnRouhpdvcpwc2FFmxzeLTmdmwb36j1LDXimF5DUMxmdG3NDgTiMAceNQovFJ6PXt_A"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "7月16日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "170cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#mayaction",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#mayart",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCGnse5xn3X8BuY3bRbQWNyA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "shishidomaya"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/vtubermaya"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/shishidomaya/"
+                    }
+                ]
+            }
+        }
+    ]
+}

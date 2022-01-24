@@ -7,10 +7,45 @@
     },
     "body": [
         {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FHsQr_GVQAIKvjX?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FHsQr_GVQAIKvjX?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
             "type": "title_content",
             "data": {
                 "title": "描述",
                 "content": "大家好我是雷達 "
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "11月29日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "24歲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "185cm",
+                        "heightRate": "1"
+                    }
+                ]
             }
         },
         {
@@ -27,6 +62,21 @@
                         "key": "語言",
                         "content": "廣東話\n普通話",
                         "heightRate": "2"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#雷達觀察中",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#雷達級亡靈畫師",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#雷達觀察員",
+                        "heightRate": "1"
                     }
                 ]
             }

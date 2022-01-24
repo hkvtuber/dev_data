@@ -1,0 +1,96 @@
+{
+    "id": "UC7FAbvLb1_Sw1fEnGdvJAOA",
+    "header": {
+        "name": "白鱗 ほし Hoshi Ch. 【HKVtuber】",
+        "image": "https://yt3.ggpht.com/m-LeVOoY-93Lo7rgYQuYyMSIE6SUKvhVC44IDmtpK5FsavLKkzL8fdQpsMwpVMOhZnG4pVDiNA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/b5vIhHpV7nTJOTG91bU50__PckS6slizvR-HVOYgZlNUuqvQUkj6GfjFwsv9k-zoWn_RJQRk8Q"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FHe05nlVQAE7uEu?format=jpg&name=smalll",
+                        "image_big": "https://pbs.twimg.com/media/FHe05nlVQAE7uEu?format=jpg&name=mediuml"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "10月20日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n日文\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#HoshiLIfe",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#HoshiArt",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#鱗鱗子",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉/精華Tag",
+                        "content": "#HoshiLIfe",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC7FAbvLb1_Sw1fEnGdvJAOA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Hakurin_Hoshi"
+                    }
+                ]
+            }
+        }
+    ]
+}

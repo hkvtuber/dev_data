@@ -1,0 +1,72 @@
+{
+    "id": "UCRiWgejWYcGspH_NXo3Ahlw",
+    "header": {
+        "name": "☆星鈴☆ 【Hosi Suzu】《HKvtuber》",
+        "image": "https://yt3.ggpht.com/zVk9H8cBu8KDi7NI0THWG9ucjkKAEagDu5HD-T9CVxL-0JMXpjdIUmJ4L0mzv8Ao7bXfZHN09g=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/sqvu0cSTD3jmcfT-BsD3m1BrnxVstYDnHS9xUvPhOQ73ib2ZBoYocBr_DfXak-cUsV4xQ7dt"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "4月29日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCRiWgejWYcGspH_NXo3Ahlw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "HosiSuzu"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/hosisuzu.hkvtuber/"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/hosi_suzu/"
+                    }
+                ]
+            }
+        }
+    ]
+}

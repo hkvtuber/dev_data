@@ -1,0 +1,89 @@
+{
+    "id": "UCYsrn7Ygy4jgJd4muJ85MbQ",
+    "header": {
+        "name": "🍁羽鳥楓鈴 Hatori Karin Ch. [HKVtuber]",
+        "image": "https://yt3.ggpht.com/gyBg629YbAaWwce87Oz8ni4AvLz3xrM_PvPcms325ha1KClDE9dzmhdYBOo19NOEjPtIgjhuf44=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/btrIARhLlxlzgOpS1VMKeyn0SjIyBqGEcYwdI1YfX2b5vKdzGY6yNgHZpqwJKfE-DdqyOE0E"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "11月4日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "22歲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "162cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n日文\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#hatorilive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#hatorillust",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉/精華Tag",
+                        "content": "#hatoriroiro",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCYsrn7Ygy4jgJd4muJ85MbQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Hatori_Karin"
+                    }
+                ]
+            }
+        }
+    ]
+}

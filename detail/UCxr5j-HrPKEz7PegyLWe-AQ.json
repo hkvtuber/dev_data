@@ -64,8 +64,8 @@
                     },
                     {
                         "key": "語言",
-                        "content": "廣東話\r\n普通話",
-                        "heightRate": "2"
+                        "content": "廣東話\n普通話",
+                        "heightRate": "2.00"
                     },
                     {
                         "key": "直播Tag",

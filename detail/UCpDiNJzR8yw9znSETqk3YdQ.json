@@ -1,0 +1,61 @@
+{
+    "id": "UCpDiNJzR8yw9znSETqk3YdQ",
+    "header": {
+        "name": "七空赤龍 Ryū【修道型V】準備中",
+        "image": "https://yt3.ggpht.com/aMGD1Y3TDmqEXXtZcGiuFxvWMe4-XZRAm_W61lSQ7vgZbq0dtNqnmmVl9bExaOEUMJJh428i_2A=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/tAb2XoC9B03TVY4YW75P3TcwbW10TX5Q-4t41DknyNRndXihxgSG_MACgZlaxtVwiXLRU-XWpw"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n日文\n德文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#huitunglive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#huitungraphy",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCpDiNJzR8yw9znSETqk3YdQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "akaairyu"
+                    }
+                ]
+            }
+        }
+    ]
+}

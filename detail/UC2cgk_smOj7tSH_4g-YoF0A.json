@@ -12,12 +12,20 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/Evx_N_IUYAM5Ono?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/Evx_N_IUYAM5Ono?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FJxlEX-aUAQIjpR?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FJxlEX-aUAQIjpR?format=jpg&name=medium"
                     },
                     {
-                        "image": "https://pbs.twimg.com/media/Evx_N-bVgAAmXpA?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/Evx_N-bVgAAmXpA?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FJxlI98akAEi6Yd?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FJxlI98akAEi6Yd?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FJxlO5PagAIGHP_?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FJxlO5PagAIGHP_?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FJxlQEGaIAEfqqo?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FJxlQEGaIAEfqqo?format=jpg&name=medium"
                     }
                 ]
             }
@@ -127,7 +135,7 @@
         {
             "type": "title_youtube",
             "data": {
-                "title": "烤肉",
+                "title": "烤肉/精華",
                 "video_list": [
                     {
                         "video_code": "7u0sYYWuT_U",

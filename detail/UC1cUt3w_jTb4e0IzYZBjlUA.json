@@ -1,0 +1,96 @@
+{
+    "id": "UC1cUt3w_jTb4e0IzYZBjlUA",
+    "header": {
+        "name": "法夫李恩哈特 Fafnirs‧M Ch.",
+        "image": "https://yt3.ggpht.com/QYVWSPLNPozFuLLJiXtqTsLBPBGC0W3LUKdRLzBejPnEPfvwPeldsbH2wVG5HJODLISniT5UuQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FIK13HAVcAAHTac?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FIK13HAVcAAHTac?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "6月9日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "2000歲",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#尋寶作戰會議",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#法幅ART",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#龍寶",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC1cUt3w_jTb4e0IzYZBjlUA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "fafnirs_m"
+                    }
+                ]
+            }
+        }
+    ]
+}
