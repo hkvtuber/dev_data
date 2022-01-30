@@ -16,6 +16,19 @@
         {
             "type": "title_map",
             "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "1月29日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
                 "title": "關於直播",
                 "map_list": [
                     {
@@ -63,7 +76,7 @@
                 "video_list": [
                     {
                         "video_code": "iB2wGRMZisI",
-                        "image": "https://i.ytimg.com/vi/iB2wGRMZisI/hqdefault.jpg",
+                        "image": "https://i.ytimg.com/vi/iB2wGRMZisI/mqdefault.jpg",
                         "title": "【HKvTuber 玖妹妹🐧】玖妹去大排檔竟然想食呢樣野？究竟大排檔侍應面對呢個神奇嘅要求會有啲乜嘢反應..?",
                         "author": "【HKvTuber】織夢 玖璃 Kuri ch."
                     }
@@ -77,31 +90,31 @@
                 "video_list": [
                     {
                         "video_code": "Ba6X7I7JfcY",
-                        "image": "https://i.ytimg.com/vi/Ba6X7I7JfcY/hqdefault.jpg",
+                        "image": "https://i.ytimg.com/vi/Ba6X7I7JfcY/mqdefault.jpg",
                         "title": "[🐧HKvTuber玖妹妹] 初配信!和大家聊聊天+Q&A~",
                         "author": "【HKvTuber】織夢 玖璃 Kuri ch."
                     },
                     {
                         "video_code": "q1pcCXIK5lc",
-                        "image": "https://i.ytimg.com/vi/q1pcCXIK5lc/hqdefault.jpg",
+                        "image": "https://i.ytimg.com/vi/q1pcCXIK5lc/mqdefault.jpg",
                         "title": "[🐧HKvTuber玖妹妹] 繞樑玖日🎵 第一回",
                         "author": "【HKvTuber】織夢 玖璃 Kuri ch."
                     },
                     {
                         "video_code": "qXqPI7AeNNs",
-                        "image": "https://i.ytimg.com/vi/qXqPI7AeNNs/hqdefault.jpg",
+                        "image": "https://i.ytimg.com/vi/qXqPI7AeNNs/mqdefault.jpg",
                         "title": "[🐧HKvTuber玖妹妹] 玖talk🎙 第一回～",
                         "author": "【HKvTuber】織夢 玖璃 Kuri ch."
                     },
                     {
                         "video_code": "CXCSR29Obw4",
-                        "image": "https://i.ytimg.com/vi/CXCSR29Obw4/hqdefault.jpg",
+                        "image": "https://i.ytimg.com/vi/CXCSR29Obw4/mqdefault.jpg",
                         "title": "[🐧HKvTuber玖妹妹] 你哋竟然夾埋恰我？Minecraft [鵝地一齊玩🎮]",
                         "author": "【HKvTuber】織夢 玖璃 Kuri ch."
                     },
                     {
                         "video_code": "TEdaVjdQyyA",
-                        "image": "https://i.ytimg.com/vi/TEdaVjdQyyA/hqdefault.jpg",
+                        "image": "https://i.ytimg.com/vi/TEdaVjdQyyA/mqdefault.jpg",
                         "title": "[🐧HKvTuber玖妹妹] (((用新電腦玖talk!!)))))🎙二回目",
                         "author": "【HKvTuber】織夢 玖璃 Kuri ch."
                     }
