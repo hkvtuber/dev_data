@@ -64,7 +64,7 @@
                         "heightRate": "2.00"
                     },
                     {
-                        "key": "Fan Art Tag(可用)",
+                        "key": "Fan Art Tag\n(有機會用在封面)",
                         "content": "#MatexArt",
                         "heightRate": "1"
                     },
@@ -132,12 +132,6 @@
             "data": {
                 "title": "推薦重播",
                 "video_list": [
-                    {
-                        "video_code": "ruvn3rV51gs",
-                        "image": "https://i.ytimg.com/vi/ruvn3rV51gs/mqdefault.jpg",
-                        "title": "【初配信】來自城堡的個人勢吸血鬼！[DEBUT] NEW Vampire arrived !",
-                        "author": "馬特斯‧文迪 Matex Vamdy 【HKVtuber】"
-                    },
                     {
                         "video_code": "NYEFGcSYxAM",
                         "image": "https://i.ytimg.com/vi/NYEFGcSYxAM/mqdefault.jpg",

@@ -69,12 +69,12 @@
                         "heightRate": "1"
                     },
                     {
-                        "key": "Fan Art Tag(可用)",
+                        "key": "Fan Art Tag\n(有機會用在封面)",
                         "content": "#Sakey_art",
                         "heightRate": "1"
                     },
                     {
-                        "key": "Fan Art Tag(不可用)",
+                        "key": "Fan Art Tag\n(不會被使用)",
                         "content": "#Sakey_lock",
                         "heightRate": "1"
                     },

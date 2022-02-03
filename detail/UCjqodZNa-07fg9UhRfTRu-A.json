@@ -1,0 +1,114 @@
+{
+    "id": "UCjqodZNa-07fg9UhRfTRu-A",
+    "header": {
+        "name": "Leliea レリア 莉莉亞 【HKvtuber 準備中】",
+        "image": "https://yt3.ggpht.com/cWFKVt4Vezr9YFXEVVfK5yAWHqXnFKIVd-XSXaXm5yZnZ3zQm9KLYUyji_EYe--uQjDJfVuO=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/nVsJhSqt-TT8GGxEO-vTGnPBOVNhZh6opcCHJQQXWfO_biVW376P1sFvCOOk-BzqOg0s56wZsJs"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FKd-keraUAIVVIB?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FKd-keraUAIVVIB?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FKd-kewakAAGwiE?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FKd-kewakAAGwiE?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "11月16日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "168cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#leliea",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#leliealive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#lelieagarden",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(不會被使用)",
+                        "content": "#lelieadame",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#魔迦",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCjqodZNa-07fg9UhRfTRu-A"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Lelieamoca"
+                    },
+                    {
+                        "key": "twitch",
+                        "path": "https://www.twitch.tv/leliea"
+                    }
+                ]
+            }
+        }
+    ]
+}

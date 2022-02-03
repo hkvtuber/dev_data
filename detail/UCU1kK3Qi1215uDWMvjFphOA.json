@@ -63,12 +63,12 @@
                         "heightRate": "2"
                     },
                     {
-                        "key": "Fan Art Tag(可用)",
+                        "key": "Fan Art Tag\n(有機會用在封面)",
                         "content": "#莉桃視藝室",
                         "heightRate": "1"
                     },
                     {
-                        "key": "Fan Art Tag(不可用)",
+                        "key": "Fan Art Tag\n(不會被使用)",
                         "content": "#莉桃地下畫室",
                         "heightRate": "1"
                     },
@@ -133,12 +133,6 @@
                         "video_code": "RlugyuIESCI",
                         "image": "https://i.ytimg.com/vi/RlugyuIESCI/mqdefault.jpg",
                         "title": "【HKVTuber / 自我介紹】精華篇-#05 歡迎加入Little Channel！",
-                        "author": "Little Channel-莉絲X優桃【香港VTuber】"
-                    },
-                    {
-                        "video_code": "ZYn9jom3vFk",
-                        "image": "https://i.ytimg.com/vi/ZYn9jom3vFk/mqdefault.jpg",
-                        "title": "【HKVTuber】Operation: Tango/行動代號: 探戈-Mission#1 Part A 史上最不可靠的組合要來拯(毀)救(滅)世界",
                         "author": "Little Channel-莉絲X優桃【香港VTuber】"
                     },
                     {

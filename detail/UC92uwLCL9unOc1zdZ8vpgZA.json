@@ -1,0 +1,36 @@
+{
+    "id": "UC92uwLCL9unOc1zdZ8vpgZA",
+    "header": {
+        "name": "赤口大炎上音樂祭2022",
+        "image": "https://yt3.ggpht.com/2KdbWxVUZ9t9wNipkcy7tBDc8EzpsZhW9Vx-imhFOHZZccCAISdgBSCntse3JN_SqRu90I65ccY=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/L9tGgLTwPr_V58k031_gXH5EEXs1jkDsT96kQOC-WDty5l6be2DSE1cCKJpSyoCu3w-b5Mj1HQ"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC92uwLCL9unOc1zdZ8vpgZA"
+                    }
+                ]
+            }
+        }
+    ]
+}

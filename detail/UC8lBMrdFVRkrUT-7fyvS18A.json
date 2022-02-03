@@ -69,12 +69,12 @@
                         "heightRate": "1"
                     },
                     {
-                        "key": "Fan Art Tag(可用)",
+                        "key": "Fan Art Tag\n(有機會用在封面)",
                         "content": "#現世狐貓繪",
                         "heightRate": "1"
                     },
                     {
-                        "key": "Fan Art Tag(不可用)",
+                        "key": "Fan Art Tag\n(不會被使用)",
                         "content": "#畢卡索狐貓",
                         "heightRate": "1"
                     },

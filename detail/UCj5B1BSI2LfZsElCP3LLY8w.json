@@ -59,7 +59,7 @@
                         "heightRate": "2.00"
                     },
                     {
-                        "key": "Fan Art Tag(可用)",
+                        "key": "Fan Art Tag\n(有機會用在封面)",
                         "content": "#曙光印記",
                         "heightRate": "1"
                     },
@@ -90,20 +90,6 @@
         {
             "type": "title_youtube",
             "data": {
-                "title": "推薦影片",
-                "video_list": [
-                    {
-                        "video_code": "0W-4QdNaMsY",
-                        "image": "https://i.ytimg.com/vi/0W-4QdNaMsY/mqdefault.jpg",
-                        "title": "【KiraRemy】終於拍自我介紹了！【香港Vtuber】",
-                        "author": "Aorea Ch. KiraRemy"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
@@ -122,12 +108,6 @@
                         "video_code": "BuKxNWlkPW0",
                         "image": "https://i.ytimg.com/vi/BuKxNWlkPW0/mqdefault.jpg",
                         "title": "DBD | 來抓我呀 AvA 【ft.社畜A星野二ア 光子 Photon 神崎狂三】⭐HKVtuber/KiraRemy⭐",
-                        "author": "Aorea Ch. KiraRemy"
-                    },
-                    {
-                        "video_code": "a-dymu5hOdk",
-                        "image": "https://i.ytimg.com/vi/a-dymu5hOdk/mqdefault.jpg",
-                        "title": "【KiraRemy】雜談！與新成員一起【香港Vtuber】",
                         "author": "Aorea Ch. KiraRemy"
                     }
                 ]

@@ -64,12 +64,12 @@
                         "heightRate": "1"
                     },
                     {
-                        "key": "Fan Art Tag(可用)",
+                        "key": "Fan Art Tag\n(有機會用在封面)",
                         "content": "#真黑社會",
                         "heightRate": "1"
                     },
                     {
-                        "key": "Fan Art Tag(不可用)",
+                        "key": "Fan Art Tag\n(不會被使用)",
                         "content": "#屎屎君抱抱",
                         "heightRate": "1"
                     },

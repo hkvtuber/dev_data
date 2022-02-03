@@ -1,0 +1,89 @@
+{
+    "id": "UCP1rMsVeqQvaofz8K2ePeGw",
+    "header": {
+        "name": "Nagisa ch. 凪砂【HKVTuber】",
+        "image": "https://yt3.ggpht.com/d2c9ip7oa49eG7vUQXGXWCyxzAJ8-cwEUVQR5FqmbraoVl6za7-Ysixl-X5tYQBz51_0ygDVsA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/P4rA1GXheK8h92OOzCANmHgUUwufIKO-g15BQL655w_DakomlBjca8uLxFmlmHIWlO60CyRlM4Y"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "生日",
+                        "content": "4月8日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "20歲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "154cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#NAGISAlive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#NAGISAart",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#怕羞草",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCP1rMsVeqQvaofz8K2ePeGw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "sasanagisa1"
+                    }
+                ]
+            }
+        }
+    ]
+}

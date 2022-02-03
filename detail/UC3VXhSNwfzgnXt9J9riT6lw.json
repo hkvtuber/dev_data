@@ -73,7 +73,7 @@
                         "heightRate": "1"
                     },
                     {
-                        "key": "Fan Art Tag(可用)",
+                        "key": "Fan Art Tag\n(有機會用在封面)",
                         "content": "#女巫出沒圖",
                         "heightRate": "1"
                     },
@@ -117,12 +117,6 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "NuP-4Gtrcmk",
-                        "image": "https://i.ytimg.com/vi/NuP-4Gtrcmk/mqdefault.jpg",
-                        "title": "[香港Vtuber] 女巫出沒注意?!出道介紹",
-                        "author": "女巫星芽【HK Vtuber】"
-                    },
-                    {
                         "video_code": "F8oSZDMNUPo",
                         "image": "https://i.ytimg.com/vi/F8oSZDMNUPo/mqdefault.jpg",
                         "title": "【HK Vtuber】女巫廢片 我要退出群組",
@@ -142,12 +136,6 @@
             "data": {
                 "title": "推薦重播",
                 "video_list": [
-                    {
-                        "video_code": "dzrySfORB9Y",
-                        "image": "https://i.ytimg.com/vi/dzrySfORB9Y/mqdefault.jpg",
-                        "title": "[HK Vtuber] 女巫星芽與人類的首次雜談🦉",
-                        "author": "女巫星芽【HK Vtuber】"
-                    },
                     {
                         "video_code": "XEjAa1S8Meg",
                         "image": "https://i.ytimg.com/vi/XEjAa1S8Meg/mqdefault.jpg",
