@@ -16,19 +16,21 @@
         {
             "type": "title_map",
             "data": {
-                "title": "關於直播",
+                "title": "個人資料",
                 "map_list": [
                     {
-                        "key": "類別",
-                        "content": "個人勢",
-                        "heightRate": "1"
-                    },
-                    {
-                        "key": "語言",
-                        "content": "廣東話",
+                        "key": "名字",
+                        "content": "獵人公會",
                         "heightRate": "1"
                     }
                 ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": []
             }
         },
         {

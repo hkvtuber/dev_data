@@ -1,7 +1,7 @@
 {
     "id": "UCE8b1BywujYbTfVG8Zzw42w",
     "header": {
-        "name": "凱婷【HKVtuber】",
+        "name": "Hoiting ch.凱婷【HKVtuber】",
         "image": "https://yt3.ggpht.com/vUpoP1KazRGGRS9v9-MVGZI9g285avl4c3fviQ-SsLbeOqCinET9J4ZAovIpC9Fohj1CKN_w=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/c674t9ChItu87cfPkxPZKkSS0eRhcco85X7Pmu0jjqOqaRuTg0ZOnHEBU6TTrkI2OUNsJ3SPRA"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "凱婷\nHoiting",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "9月10日",

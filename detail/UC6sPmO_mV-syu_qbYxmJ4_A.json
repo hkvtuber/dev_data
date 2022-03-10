@@ -1,7 +1,7 @@
 {
     "id": "UC6sPmO_mV-syu_qbYxmJ4_A",
     "header": {
-        "name": "梓神月かみつきCh.【香港Vtuber】",
+        "name": "梓神月かみつき【香港Vtuber】",
         "image": "https://yt3.ggpht.com/AQ0-cQ8hAjFV2j9QalvoQs6rdNswjrQ3rsqLfMoLlXyHSMTzMcLx2xwatDPHDXprB0I2xUJe=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/tl89xiuBzcGrxZnVsKXZ3WE7zV87sPEiXrVnrIiNNcOYm_4xeraFreD2ghyYvC7BWCC8-u0BxUQ"
     },
@@ -38,6 +38,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "梓神月かみつき",
+                        "heightRate": "1"
+                    },
                     {
                         "key": "生日",
                         "content": "10月21日",

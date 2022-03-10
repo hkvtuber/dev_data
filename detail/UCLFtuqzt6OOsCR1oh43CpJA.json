@@ -1,23 +1,11 @@
 {
     "id": "UCLFtuqzt6OOsCR1oh43CpJA",
     "header": {
-        "name": "BASA🦊轉生準備中",
+        "name": "BASA🦊83 Ch.",
         "image": "https://yt3.ggpht.com/A05Xp7XifrGtrsb2aooq0HySpJPKo04CKwmV9PAafjNSPAdJBFBEFygOLEDQkrdJlv3vhh-4=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/KkmipGIHt1n_HsZ93ID5SiCia8EBgYjuxOnYebUjziHunjC1pSdtlII5cuicNpXWQWANOsXe-kU"
     },
     "body": [
-        {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/E8GoPY9VIAA_OD0?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/E8GoPY9VIAA_OD0?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
         {
             "type": "title_content",
             "data": {
@@ -31,8 +19,13 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "BASA🦊83",
+                        "heightRate": "1"
+                    },
+                    {
                         "key": "生日",
-                        "content": "8月3日",
+                        "content": "3月8日",
                         "heightRate": "1"
                     },
                     {

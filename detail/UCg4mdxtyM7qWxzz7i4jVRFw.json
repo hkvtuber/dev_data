@@ -1,7 +1,7 @@
 {
     "id": "UCg4mdxtyM7qWxzz7i4jVRFw",
     "header": {
-        "name": "軒轅虛 KYON Ch. 【香港VTuber 準備中】",
+        "name": "軒轅虛 KYON Ch. 【香港VTuber】",
         "image": "https://yt3.ggpht.com/DGc5YHcxzg3AcFrL9-QOQQtWmRO-Ofp1Su67IZAX4b6zcyZVtUc2fDvD393LYiLUM9IfcsICuw=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/JKm7z4DkrrwtEgfNVl7EzG-tqYqWlU71bxVptq86Uz3fWqxIzgUW0Tx2j-TkPlJlI-u8_OJ6mt4"
     },
@@ -23,6 +23,19 @@
             "data": {
                 "title": "描述",
                 "content": "人族MIX鬼族混血 恐怖企劃系Vutber \n由鬼界黎到人類冒險既冒險者(?)\n同時亦都係一隻半鬼降魔師\n機緣巧合下成為Vtuber"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "軒轅虛\nKYON",
+                        "heightRate": "2"
+                    }
+                ]
             }
         },
         {

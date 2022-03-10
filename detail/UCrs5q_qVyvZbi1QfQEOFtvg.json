@@ -1,7 +1,7 @@
 {
     "id": "UCrs5q_qVyvZbi1QfQEOFtvg",
     "header": {
-        "name": "  ⟡卡爾 ⟡Kyle KK【HKVTuber】準備中",
+        "name": "Kyle 卡爾 HKVTuber",
         "image": "https://yt3.ggpht.com/e9rIsAYPlz9rLwc2cA9ry2m0DJn1ykrUeZXnSYgpKHDKwMhqfTGbU8NFnoQu1ptgCVeaJaU12Q=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/q2HCTkejlbirmapPkmjkicWo82XqfIsZ74GYK9BsJy1kWxwNRHF2Wtwh3WIqpmyQtIikEma5hg"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "卡爾\nKyle",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "2月22日",

@@ -1,7 +1,7 @@
 {
     "id": "UCYhvnaNxuFaA9XjrRAD2TCw",
     "header": {
-        "name": "星野ももこ MoMo Ch.[HK-Vtuber]",
+        "name": "星野ももこ 魔桃 Ch.[HK-Vtuber]",
         "image": "https://yt3.ggpht.com/iW7Fnk-OsJnpUwnYsYLpgs3XXRdMFLjAYVPGrImdG60scwPVZ3xegfzfFFJki4__Y3muOkR0H0w=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/xA2zxjyp1g-i2CKXAOnsXXLkhqh3691K-44foAxRaAIvu-JDeRxsQneqHHGnFjxHLAX7YcBt"
     },
@@ -10,7 +10,7 @@
             "type": "title_content",
             "data": {
                 "title": "描述",
-                "content": ""
+                "content": "我係HK Vtuber星野ももこ(Hoshino Momoko),我本來是生長於魔界中一棵桃樹上的桃，因意外以人類的姿態轉生到人界。我為了籌集資金組織桃子軍去打倒那個可惡的魔王和分享快樂令大家感到幸福，而決定成為Vtuber。請多多指教，よろしくお願いしますー！~🍑"
             }
         },
         {
@@ -18,6 +18,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "星野ももこ",
+                        "heightRate": "1"
+                    },
                     {
                         "key": "生日",
                         "content": "12月21日",

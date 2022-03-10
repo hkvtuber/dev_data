@@ -1,7 +1,7 @@
 {
     "id": "UCNqQfIrZMLNNJNLB0AOnfAg",
     "header": {
-        "name": "真黒makuro【HKVTuber】",
+        "name": "真黑makuro【HKVTuber】",
         "image": "https://yt3.ggpht.com/EzykyJBbdkhbamo7uBnL1dL3Yck13mcYbC5FZTqp-tLjo8CsnKtLfDs9kN1t2A5ixAaB7vqrJQ=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/w3iBXnr7UxfwKepALMbGCSgFi6xowj1QyuvdT7lP2adwd8R8DUtISvpvhZks189CCTDo5GDk4A"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "真黒\nmakuro",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "11月9日",

@@ -1,7 +1,7 @@
 {
     "id": "UCSKqKtLQA-SwseqXZeBlYHA",
     "header": {
-        "name": "阿道弗奇奇 【HK Vtuber】",
+        "name": "AdolfoHasuki Ch. 阿道弗奇奇",
         "image": "https://yt3.ggpht.com/aVd8vYXysXEAx5VK636wUxHE2fVMC1DYU_TUU4OEj2VWN3GfKza4p42yQOAiN65mR5Nhhc6_fw=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/JRvVNr8Up5nx-NfNXbiTlf3S4J79107VyT8FZYCHQ9xw8_b8oHUgotE0dBTbWBGkUqyqaGn1WQ"
     },
@@ -18,6 +18,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "阿道弗奇奇\nAdolfoHasuki",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "7月22日",

@@ -1,7 +1,7 @@
 {
     "id": "UCiWoas68LUrpEmcgW5_S_eA",
     "header": {
-        "name": "Sakira Channel / 咲娜 サキラ  ",
+        "name": "Sakira Ch. / 咲娜 サキラ ",
         "image": "https://yt3.ggpht.com/0Kbl-FecuDxh9jbLWO6cKc_Iu7oXH6IUWjIcmwkeWHMuMzSW6hma0HimjIZ-y79sPp-MenxjOw=s88-c-k-c0x00ffffff-no-rj",
         "bg": ""
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "サキラ\n咲娜\nSakira",
+                        "heightRate": "2.00"
+                    },
                     {
                         "key": "生日",
                         "content": "3月27日",

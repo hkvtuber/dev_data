@@ -1,0 +1,109 @@
+{
+    "id": "UCTy-zldx3oI-BZZRWUXsW8g",
+    "header": {
+        "name": "Rovszi 路斯吱 - HKVTuber",
+        "image": "https://yt3.ggpht.com/DhDXofWL6tj3Nysi1JGYt9tK4IVa5uu0P1Xv9ueeqPFV4E-jdn-GF8w2YZSMWjYMvcvPZS1izw=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/I5b4_h_DJ8ZVi1RqMEgjWe4s62xlYbr3WCbT1MguxcXmGV-rZp3q81QhUwxzcrbAWb6Y8knz_Q"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FNGyJ2UaIAEe05I?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FNGyJ2UaIAEe05I?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "路斯吱\nRovszi",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "3月2日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#路斯Live",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#路斯Art",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉/精華Tag",
+                        "content": "#路斯Art",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#路斯Me",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCTy-zldx3oI-BZZRWUXsW8g"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Roborovszi"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/Rovszihkv"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/roborovszi"
+                    }
+                ]
+            }
+        }
+    ]
+}

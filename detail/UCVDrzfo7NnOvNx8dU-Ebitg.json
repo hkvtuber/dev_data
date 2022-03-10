@@ -19,6 +19,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "米亞\nMYA",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "生日",
                         "content": "1月4日",
                         "heightRate": "1"
@@ -77,6 +82,16 @@
                         "heightRate": "1"
                     },
                     {
+                        "key": "個人分享Tag",
+                        "content": "#米亞家居檢疫",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "食物Tag",
+                        "content": "#尋找美食之光",
+                        "heightRate": "1"
+                    },
+                    {
                         "key": "生日Tag",
                         "content": "#米亞誕生祭",
                         "heightRate": "1"
@@ -106,9 +121,9 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "Lmlfs8nP23U",
-                        "image": "https://i.ytimg.com/vi/Lmlfs8nP23U/mqdefault.jpg",
-                        "title": "【Original】講你知123 ♡ ！【米亞MYA / HKVtuber】",
+                        "video_code": "6K6n9mfxvXI",
+                        "image": "https://i.ytimg.com/vi/6K6n9mfxvXI/mqdefault.jpg",
+                        "title": "米亞 MYA《講你知123！》ft. 甘米 (Official Music Video)",
                         "author": "米亞MYA【HKVTuber】"
                     },
                     {

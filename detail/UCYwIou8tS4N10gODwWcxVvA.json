@@ -35,6 +35,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "葉奈ちゃん\nHana",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "生日",
                         "content": "7月25日",
                         "heightRate": "1"

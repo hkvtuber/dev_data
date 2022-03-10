@@ -1,7 +1,7 @@
 {
     "id": "UCpDiNJzR8yw9znSETqk3YdQ",
     "header": {
-        "name": "七空赤龍 Ryū【修道型V】準備中",
+        "name": "七空赤龍 Ryū【修道型V】",
         "image": "https://yt3.ggpht.com/aMGD1Y3TDmqEXXtZcGiuFxvWMe4-XZRAm_W61lSQ7vgZbq0dtNqnmmVl9bExaOEUMJJh428i_2A=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/tAb2XoC9B03TVY4YW75P3TcwbW10TX5Q-4t41DknyNRndXihxgSG_MACgZlaxtVwiXLRU-XWpw"
     },
@@ -10,7 +10,20 @@
             "type": "title_content",
             "data": {
                 "title": "描述",
-                "content": ""
+                "content": "得道之子受命入世，以百年為限尋訪仙緣人，\n特設虛通閣廣開配信，助人渡法解惑、昇天遁地～"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "七空赤龍\nRyū",
+                        "heightRate": "2"
+                    }
+                ]
             }
         },
         {

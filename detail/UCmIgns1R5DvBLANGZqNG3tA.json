@@ -1,7 +1,7 @@
 {
     "id": "UCmIgns1R5DvBLANGZqNG3tA",
     "header": {
-        "name": "雷達 Ch. 【新人HKVtuber】",
+        "name": "雷門達也 Raimon Tatsuya Ch. 【爆肝系新人HKVtuber】",
         "image": "https://yt3.ggpht.com/LtAhtf2XkfQnX0P7beeOM0TiIj3GkPK8_9AfVuOi-veC9rM5urSp54RzcUsA88O4qEgiS3phew=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://lh3.googleusercontent.com/1ZJmnO126i8vFRU2deFTn5oPkFycuJj6VUwU6ZaUXEIeU2BcElr-z7BWEPIhOzlqkVn8GxNlkg"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "雷門達也\nRaimon Tatsuya",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "11月29日",

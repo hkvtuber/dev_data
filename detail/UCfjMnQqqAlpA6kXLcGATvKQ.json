@@ -1,0 +1,91 @@
+{
+    "id": "UCfjMnQqqAlpA6kXLcGATvKQ",
+    "header": {
+        "name": "Moriuchi Ch.森內寅時",
+        "image": "https://yt3.ggpht.com/mSoTVKRA5Gl4ou5D_PJXJurlafATJ_GM-IeauM4qb6W6lkExCQePq7v6SYDjfxJTwkOok1No=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/HXZD-tqT85fS9jW8KxIHTP8TVzQFs3tUXV9BfuprU9PYY9RHkzPOLCpdbNBw6ZpDU2yzZNcM"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FK0JDi2aUAURvmT?format=png&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FK0JDi2aUAURvmT?format=png&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "森內寅時\nMoriuchi",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "7月20日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "4歲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "183cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCfjMnQqqAlpA6kXLcGATvKQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "toraji720"
+                    }
+                ]
+            }
+        }
+    ]
+}

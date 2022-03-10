@@ -26,7 +26,7 @@
             "type": "title_content",
             "data": {
                 "title": "描述",
-                "content": ""
+                "content": "【Granto所屬 Dawn】"
             }
         },
         {
@@ -34,6 +34,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "赤津明里\nAkari",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "10月21日",

@@ -31,6 +31,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "瑠凜サキ\nRuriSaki",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "生日",
                         "content": "12月23日",
                         "heightRate": "1"

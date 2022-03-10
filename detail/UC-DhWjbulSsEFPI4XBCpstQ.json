@@ -31,6 +31,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "森月澪依\nReiyi",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "生日",
                         "content": "6月23日",
                         "heightRate": "1"

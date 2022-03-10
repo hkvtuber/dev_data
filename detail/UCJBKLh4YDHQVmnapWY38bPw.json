@@ -1,7 +1,7 @@
 {
     "id": "UCJBKLh4YDHQVmnapWY38bPw",
     "header": {
-        "name": "8rice [HK VTuber]",
+        "name": "飯",
         "image": "https://yt3.ggpht.com/ytc/AKedOLQuEzkAic4tjFthbbWAC1XA4p7hgiRzbyE-c07b=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/fx1bUlWePYs1wam_31wg7rUhn7m8Q6dRnMaykvBlpy6vx7vahuKHlJCY2rw3vzg2DY-90N9F"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "8rice",
+                        "heightRate": "1"
+                    },
                     {
                         "key": "生日",
                         "content": "9月14日",

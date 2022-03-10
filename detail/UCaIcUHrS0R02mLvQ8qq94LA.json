@@ -1,7 +1,7 @@
 {
     "id": "UCaIcUHrS0R02mLvQ8qq94LA",
     "header": {
-        "name": "天巡なき【HKvtuber準備中】",
+        "name": "天巡なき 【新人hkvtuber】",
         "image": "https://yt3.ggpht.com/EjmmTpSovXYExgT-zEo9PHbAlfPZhI9O3olMPnPAhkD0LmQ2rJ-7rPsOXjtf_S8eHyjxfWV72Kw=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/KKWo32hIABEgtORqFrtRYliQ7bf5Zx_paHwTPFXKuc4VPuQBSVyEUWi8vmFz6dkizve1OKdozw"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "天巡なき",
+                        "heightRate": "1"
+                    },
                     {
                         "key": "生日",
                         "content": "4月6日",

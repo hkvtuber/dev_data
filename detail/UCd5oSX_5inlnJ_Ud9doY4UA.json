@@ -31,6 +31,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "中二艾露\nChu Ni Morkilo",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "生日",
                         "content": "12月18日",
                         "heightRate": "1"

@@ -1,7 +1,7 @@
 {
     "id": "UCrodZ-UfvXUn58MuGRyPlAg",
     "header": {
-        "name": "紫萊姆 Raimu ch. 〖HKVtuber〗",
+        "name": "紫萊姆 Raimu ch. 【HKVtuber】",
         "image": "https://yt3.ggpht.com/tUFzFq3iR1rRu8k3lTKQ5j7xVln0INkVoBLSaVd93LLlDMg3ZoYQE7bwPKuBzC37PM8UIBJxhQ=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/FY7t69H-97z-Sh2N1pAmkTh5HsJfx3twhXe6mhQ-jgMNaOjaogLLFZ9Zb2mKylufYtx_4b_A9g"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "紫萊姆\nRaimu",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "3月13日",

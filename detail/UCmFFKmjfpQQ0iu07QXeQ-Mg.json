@@ -19,6 +19,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "夫顱\nFuru",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "生日",
                         "content": "5月26日",
                         "heightRate": "1"

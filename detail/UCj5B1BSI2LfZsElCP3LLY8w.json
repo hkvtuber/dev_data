@@ -1,7 +1,7 @@
 {
     "id": "UCj5B1BSI2LfZsElCP3LLY8w",
     "header": {
-        "name": "Remy Ch.奇拉レイミ",
+        "name": "Aorëa Ch. KiraRemy",
         "image": "https://yt3.ggpht.com/ytc/AKedOLQvePLJs7RxN09l68APP9si9zKxiE7zS4EwGJYpqA=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/tcAoFI6Q96StMn5vcHShd9747z0FuxX92lrR1uQnVJuS8Szy38VCWRk1XaX05bgSzPUKwJb8XrA"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "KiraRemy",
+                        "heightRate": "1"
+                    },
                     {
                         "key": "生日",
                         "content": "8月8日",

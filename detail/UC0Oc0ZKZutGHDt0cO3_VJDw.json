@@ -1,7 +1,7 @@
 {
     "id": "UC0Oc0ZKZutGHDt0cO3_VJDw",
     "header": {
-        "name": "G11 Ch. 步槍的那個",
+        "name": "G11 Ch.🔫",
         "image": "https://yt3.ggpht.com/nmjAZPswF5p3IikLMrrAguWNyOQRu81v-ha2ETDFP4TdNzcgb5JicdJPFMoq-Jv0kGJwJz7b=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/Fn1BwcFti9zRh3emn3gqW-TO0HpQyXpbOZJUxxEnYl7EL1ikBiQgVpwsPnVkx4XZ4kUGpd1R"
     },
@@ -34,6 +34,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "G11",
+                        "heightRate": "1"
+                    },
                     {
                         "key": "生日",
                         "content": "4月9日",

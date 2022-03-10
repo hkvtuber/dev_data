@@ -1,7 +1,7 @@
 {
     "id": "UC0ERoMwDtvoZ0AANFBrVsNQ",
     "header": {
-        "name": "Notioir諾托利亞",
+        "name": "諾托利亞 Notioir【HKvtuber】",
         "image": "https://yt3.ggpht.com/9K_0WgLLS5WsrNO7SegkECP-HleVZa7XA2o5h3ZrwMcaPLYdPSWmRVKGiEaiqBbpU1rlLsMG=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/JM2KSZO-4DxF2rw2XqLkbOYz-ObywvNQTp5bNMyvWjUQJwSRPW1QClfGq2E45vfspsLUSqEzhw"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "諾托利亞\nNotioir",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "10月18日",

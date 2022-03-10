@@ -39,6 +39,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "鵑鳴曉春\nKo-el",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "生日",
                         "content": "2月4日",
                         "heightRate": "1"

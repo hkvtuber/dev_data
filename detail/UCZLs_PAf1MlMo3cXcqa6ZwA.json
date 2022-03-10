@@ -1,0 +1,74 @@
+{
+    "id": "UCZLs_PAf1MlMo3cXcqa6ZwA",
+    "header": {
+        "name": "火神鳥",
+        "image": "https://yt3.ggpht.com/9VMbjHryB_4Y1bjudXCkPeYig1bE4CVOU0npJ0FTs3YngxwxZbvA0EFb6_906TjJZ0lifG5ktQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/72xS3OsfTAmQS8npS2MECKLI7DTqFZR7ABRcrMjMtX74Ogw0LHCAyhm6HRnigo135C0tdpx5y9k"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "火神鳥",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#V界空域",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#鳥與花香",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCZLs_PAf1MlMo3cXcqa6ZwA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "firegodbird"
+                    }
+                ]
+            }
+        }
+    ]
+}

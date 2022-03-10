@@ -1,7 +1,7 @@
 {
     "id": "UCYsrn7Ygy4jgJd4muJ85MbQ",
     "header": {
-        "name": "🍁羽鳥楓鈴 Hatori Karin Ch. [HKVtuber]",
+        "name": "羽鳥楓鈴 Hatori Karin Ch. [HKVtuber]",
         "image": "https://yt3.ggpht.com/gyBg629YbAaWwce87Oz8ni4AvLz3xrM_PvPcms325ha1KClDE9dzmhdYBOo19NOEjPtIgjhuf44=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/btrIARhLlxlzgOpS1VMKeyn0SjIyBqGEcYwdI1YfX2b5vKdzGY6yNgHZpqwJKfE-DdqyOE0E"
     },
@@ -10,7 +10,7 @@
             "type": "title_content",
             "data": {
                 "title": "描述",
-                "content": ""
+                "content": "從前，有一隻銀喉長尾山雀飛到楓葉之國，然後轉身成人類。\n本性宅宅，喜歡打機、看動畫、儲模型和看Vtuber。\n變做人類後決定繼續宅，並且嘗試Vtuber出道。"
             }
         },
         {
@@ -18,6 +18,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "羽鳥楓鈴\nHatori Karin",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "11月4日",

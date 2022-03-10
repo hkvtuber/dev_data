@@ -1,7 +1,7 @@
 {
     "id": "UCYXtBPnxZPX_cm6AZlRETYA",
     "header": {
-        "name": "Mera Airu 米良アイル",
+        "name": "米良 艾露 / Mera Airu",
         "image": "https://yt3.ggpht.com/ytc/AKedOLRjSfSDEsyOjiDxxkynnUOqJRBtTeKroB5FQOrb8A=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/9lyq-BGnXn7w6UD0qnstD1CSPX1vFOmySuGnTl3ZP_o9U6WaHBdz_UNpiJiqL6ZhvAMGkH0cUg"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "米良 艾露\nMera Airu",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "10月5日",

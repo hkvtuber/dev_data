@@ -35,6 +35,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "莉絲\n優桃",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "生日",
                         "content": "6月7日\n3月22日",
                         "heightRate": "2"

@@ -1,7 +1,7 @@
 {
     "id": "UCGnse5xn3X8BuY3bRbQWNyA",
     "header": {
-        "name": "Maya Ch.獅子堂マヤ",
+        "name": "Maya Ch. 獅子堂マヤ ~HKVtuber~",
         "image": "https://yt3.ggpht.com/z7wBGw4uTa7xhZVcOnVFIafE7F02Zq7KeL_IIqxprM3zvHj9w2Kqv3bQWDq2MEjCNY3j0U_5xrs=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/F9t3VmRxnRouhpdvcpwc2FFmxzeLTmdmwb36j1LDXimF5DUMxmdG3NDgTiMAceNQovFJ6PXt_A"
     },
@@ -10,7 +10,7 @@
             "type": "title_content",
             "data": {
                 "title": "描述",
-                "content": ""
+                "content": "一隻喜歡收集各樣寶藏的鷹頭獅, 某日在一個山洞發現了一部電腦!\n然後她就深陷網海, 再也出不去了....\n為了能結織更多喜歡遊戲, 願意一起玩的同伴, \n她成為了vtuber, 希望跟大家分享遊戲的快樂٩(●˙▿˙●)۶…⋆ฺ"
             }
         },
         {
@@ -18,6 +18,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "獅子堂マヤ\nMaya",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "7月16日",

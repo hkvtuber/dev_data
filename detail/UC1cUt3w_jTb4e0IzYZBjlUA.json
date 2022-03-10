@@ -22,7 +22,7 @@
             "type": "title_content",
             "data": {
                 "title": "描述",
-                "content": ""
+                "content": "『動漫﹑電玩﹑快樂水...就是這邊世界的寶物嗎 ? 作為財寶的守護者，看來有必要了解一下。』\n\n【Granto所屬Dawn】"
             }
         },
         {
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "法夫李恩哈特\nFafnirs‧M",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "6月9日",

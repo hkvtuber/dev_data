@@ -31,6 +31,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "雪櫃\nReiha",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "生日",
                         "content": "12月29日",
                         "heightRate": "1"

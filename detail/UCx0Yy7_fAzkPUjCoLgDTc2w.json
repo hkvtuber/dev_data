@@ -31,6 +31,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "如月兎苺\nKisaragi Ui",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "生日",
                         "content": "2月22日",
                         "heightRate": "1"

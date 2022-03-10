@@ -1,7 +1,7 @@
 {
     "id": "UCzM0pNUsr_OfMmxccZ57dFw",
     "header": {
-        "name": "OkitaBuru ch. 沖田ブル 【HKVtuber準備中】",
+        "name": "OkitaBuru ch. 沖田ブル 【HKVtuber】",
         "image": "https://yt3.ggpht.com/ZSOB-QIWk_JfQxjLwK6lxW5LQvY_TBWQfaVBDIOwkMrqnp-mQf_xfwwZ1Zj08VJUE8YJ4pzA=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/dIQ5Dek5VfOfDQV970HRJbF8tQUdC0LSZYPali_Vy21ozvEbJedDaVyrs9t4yuyYnAjyFGl4"
     },
@@ -34,6 +34,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "沖田ブル\nOkitaBuru",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "2月6日",

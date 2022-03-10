@@ -1,7 +1,7 @@
 {
     "id": "UC8Y1npAUbpbuOHjfSo2aiBg",
     "header": {
-        "name": "雲仔【香港VTuber】",
+        "name": "出雲ふゆ / 雲仔【香港VTuber】",
         "image": "https://yt3.ggpht.com/ytc/AKedOLSE1UaDUs6E9_UcbmC0mVxuuChtEjmg4OFPMCRD=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/VeHOXVTEDeG7JaveS327OCgZpvNq2tuOHYWDE1X-dPRsWXb5BrV4Y3gHONTSVj2GOfWU-E6C6A"
     },
@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FAbel_uVcAQn8pZ?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FAbel_uVcAQn8pZ?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FF1fcH7VIAEg_15?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FF1fcH7VIAEg_15?format=jpg&name=medium"
                     }
                 ]
             }
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "出雲ふゆ\n雲仔",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "9月16日",
@@ -92,7 +97,7 @@
                     },
                     {
                         "key": "twitter",
-                        "path": "onetwo12_hkv"
+                        "path": "onetwofuyu"
                     }
                 ]
             }

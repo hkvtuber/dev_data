@@ -19,6 +19,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "錨星こすも\nKosumo",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "生日",
                         "content": "3月30日",
                         "heightRate": "1"

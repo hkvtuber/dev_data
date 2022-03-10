@@ -1,0 +1,110 @@
+{
+    "id": "UCHkoTzcw7PSs8lb3BWemmfQ",
+    "header": {
+        "name": "Arata Clocksworth",
+        "image": "https://yt3.ggpht.com/WdMyb2YNayCGWH8cjKzuzbF_2vFZIGYgPq8OcslRZBL2bHwwZCtQr-s-3NTaYvTLNTVi-VVQmQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FLRc-AxXwAc098G?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FLRc-AxXwAc098G?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "歡迎來臨 \"時空神殿The Horologium\"\n我本名叫Arata! 全名係Arata Clocksworth!\n我係一個鐘錶師，負責維修同修理維持緊各個異世界嘅時間線嘅世界鐘!"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "Arata Clocksworth",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "12月16日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "Timeless",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "176cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#AraLive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#Aravocals",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#AratArts",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCHkoTzcw7PSs8lb3BWemmfQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "aratahorologist"
+                    },
+                    {
+                        "key": "twitch",
+                        "path": "https://www.twitch.tv/arataclocksworth"
+                    }
+                ]
+            }
+        }
+    ]
+}

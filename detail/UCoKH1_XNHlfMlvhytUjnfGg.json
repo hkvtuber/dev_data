@@ -1,7 +1,7 @@
 {
     "id": "UCoKH1_XNHlfMlvhytUjnfGg",
     "header": {
-        "name": "Chris Ch.克里斯",
+        "name": "Chris Ch.克里斯【HKVtuber】",
         "image": "https://yt3.ggpht.com/5bbn5Tsmtjjdcg1HVKluO1__5iy7gsSYZ3wdjfPbf-v51N-SVDLr2OqONfgkEfuYVBGM474sTXo=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/o8biaiXVqj-N0PQqgwUFfvbbxL5SRaeh_gZmRXHrs97PSRbFeQiZfEGtOYUzlirScn8kVKyaDw"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "克里斯\nChris",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "8月8日",

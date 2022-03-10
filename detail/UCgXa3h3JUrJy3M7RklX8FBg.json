@@ -1,7 +1,7 @@
 {
     "id": "UCgXa3h3JUrJy3M7RklX8FBg",
     "header": {
-        "name": "Mizuki Ch. 秋本瑞希 SkyliveHK",
+        "name": "Mizuki Ch. 秋本瑞希 SkyLiveHK",
         "image": "https://yt3.ggpht.com/BT7OPL4-_Czrxy2lHBRT2uDI2U9kEURgtrIqyh8umzK65ekvg9mdAHI4vecG_7rOg6kWb98nmw=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/_bMPXl5G-CNCUpqzYjPSRYljxBYclyregoWaFVtN6wLw3rpvJNX3xhfx_z7DR96wwmWkJ_5iBg"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "秋本瑞希\nMizuki",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "3月14日",

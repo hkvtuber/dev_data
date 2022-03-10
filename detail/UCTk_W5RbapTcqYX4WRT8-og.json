@@ -1,7 +1,7 @@
 {
     "id": "UCTk_W5RbapTcqYX4WRT8-og",
     "header": {
-        "name": "琥橞里 KoEri Ch.【HKvtuber】",
+        "name": "琥橞里 KoEri【HKvtuber】",
         "image": "https://yt3.ggpht.com/c9fSqmDdiJbdMz5qemLvKS3MGkZjNZdno1UG779iw_vIqaBBE0jn0XppeP4hiYs4nOz-2fufzpQ=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/AF6UePsgSMnjzr4lj3yuKh1qYq9NoQds4MV9E8l8GVILg-EgsW-nf1uE11PwLbWCFKM9t2OYtQ"
     },
@@ -11,6 +11,19 @@
             "data": {
                 "title": "描述",
                 "content": "Hello，我喺琥橞里 Eri，一個老虎系香港Vtuber，主要直播玩game。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "琥橞里\nKoEri",
+                        "heightRate": "2"
+                    }
+                ]
             }
         },
         {

@@ -1,7 +1,7 @@
 {
     "id": "UCW5aUJJMCFxGrfM-7FHPO3w",
     "header": {
-        "name": "不求人 【香港VTuber】",
+        "name": "不求人",
         "image": "https://yt3.ggpht.com/ytc/AKedOLTmmPA5eoqbpiSyoqYMQMaRxZ34EYOZUSP8GWtH=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/70OJMiEyrTqJdscd7VV7PX2xGH3mHL6l1_Dm1rQcO5EeKoXVBTUeGaOD2vl06rmUoGzpAxLc4Q"
     },
@@ -18,6 +18,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "不求人",
+                        "heightRate": "1"
+                    },
                     {
                         "key": "生日",
                         "content": "12月30日",

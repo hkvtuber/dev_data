@@ -1,7 +1,7 @@
 {
     "id": "UCDUY_H2U5bQ33T5X3SsmD_Q",
     "header": {
-        "name": "水月いずき[ HK Vtuber ]",
+        "name": "水月 Izuki [ HK Vtuber ]",
         "image": "https://yt3.ggpht.com/Rja5ONde_rxDknd01TqsBM7_DjFDFLUZ2BpldQwJSJttLWRO1OEuUE6tjE7ivi8l44K1xCUxxg=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/6rSyrjAGxqpXesHlu5ZwVKuXXRiL420BxoUomdqhbBQNFHsSCK0JwREzdVqfHwefPrg3BFym3A"
     },
@@ -11,6 +11,19 @@
             "data": {
                 "title": "描述",
                 "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "水月\nIzuki",
+                        "heightRate": "2"
+                    }
+                ]
             }
         },
         {

@@ -1,11 +1,23 @@
 {
     "id": "UCUoxyUU0ikJ3a_Mi_elYAIQ",
     "header": {
-        "name": "月川MoonRiver🌙HKVTuber",
+        "name": "月川MoonRiver🦊HKVTuber",
         "image": "https://yt3.ggpht.com/BdxM9beRIbBVisrskuJUMeQ_QZPF258ojM2VoC7U9n24ZAZvm-fCqTQz41MyjQbj4q3HuLQS=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/lKyxRCNciinYNBmDQTRhkQTQOwGsLS8BUqzbimP1e9GKxpabAy34hW8Q_RGFPxjJav8vrie4"
     },
     "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FJ61-h4WYAAe4yH?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FJ61-h4WYAAe4yH?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
         {
             "type": "title_content",
             "data": {
@@ -19,8 +31,13 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "月川\nMoonRiver",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "生日",
-                        "content": "2月14日",
+                        "content": "7月11日",
                         "heightRate": "1"
                     },
                     {
@@ -30,7 +47,7 @@
                     },
                     {
                         "key": "身高",
-                        "content": "150cm",
+                        "content": "153cm",
                         "heightRate": "1"
                     }
                 ]
@@ -50,6 +67,26 @@
                         "key": "語言",
                         "content": "廣東話\n普通話\n英文",
                         "heightRate": "2.00"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#MoonRiverSing",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#MoonRiverArt",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#明治\n#Meiji",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "烤肉/精華Tag",
+                        "content": "#MoonRiverClip",
+                        "heightRate": "1"
                     }
                 ]
             }

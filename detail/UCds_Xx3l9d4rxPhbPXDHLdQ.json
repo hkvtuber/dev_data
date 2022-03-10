@@ -1,7 +1,7 @@
 {
     "id": "UCds_Xx3l9d4rxPhbPXDHLdQ",
     "header": {
-        "name": "男 コトリ Kotori Ch [HKVtuber]",
+        "name": "男 コトリ Kotori Ch. [HKVtuber]",
         "image": "https://yt3.ggpht.com/uyCNixA59lGSckOylan4HXdUHyFcwsKIM9bciEOmDag2RmKSqRO_217flUGX8jdCquX-1UwtaQ=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/toXBoxr-Sswjc3BniuUyTu-4AqXBXny3-GEDTI_bj2eOd7D2y6V6wjGDOjHBa-Q6Nbx-tx-P"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "男 コトリ\nKotori",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "11月21日",

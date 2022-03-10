@@ -31,6 +31,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "甘美\nKimmyJe",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "生日",
                         "content": "11月30日",
                         "heightRate": "1"

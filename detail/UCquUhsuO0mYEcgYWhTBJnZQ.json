@@ -1,7 +1,7 @@
 {
     "id": "UCquUhsuO0mYEcgYWhTBJnZQ",
     "header": {
-        "name": "希琉 柏洛斯-Keru Beros Ch.",
+        "name": "Keru Ch. 希琉 柏洛斯",
         "image": "https://yt3.ggpht.com/Zmfy8u_8tbNOumLZrX4v9mjoTj9lHsqGmF7oq8TqoTX0GBqpObcRcJEGsLOyVyExyUBiVm_08YU=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/HN4xRRQs2fnfCO22Sj6oAb-C4xp8o2W942O5lAGq1sFEPv1THBV41GJqBy2EAQyeYyQ_xZRjCg"
     },
@@ -34,6 +34,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "希琉 柏洛斯\nKeru",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "5月23日",

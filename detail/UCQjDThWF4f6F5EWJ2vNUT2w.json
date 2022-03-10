@@ -1,7 +1,7 @@
 {
     "id": "UCQjDThWF4f6F5EWJ2vNUT2w",
     "header": {
-        "name": "鈴萌兎琉HKVtuber-準備中",
+        "name": "鈴萌兎琉HKVtuber",
         "image": "https://yt3.ggpht.com/WbgLWquhvpGVOHQ64xvGutwjJp7BmyYXxCSio36nnLx0bWRnWO6smEu1U-XMPxWNPv3ZxqMm6Q=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/CSoyeQ2BK8hjwtFdM24hgtWWFVjXp7TNcT2G9JqrSWApC53gpDCt8f-6UJVKsqYEb801tgeIqA"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "鈴萌兎琉",
+                        "heightRate": "1"
+                    },
                     {
                         "key": "生日",
                         "content": "11月11日",

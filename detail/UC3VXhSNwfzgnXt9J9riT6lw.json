@@ -1,7 +1,7 @@
 {
     "id": "UC3VXhSNwfzgnXt9J9riT6lw",
     "header": {
-        "name": "女巫星芽【HK Vtuber】",
+        "name": "女巫星芽 Hoshime Ch.【HK Vtuber】",
         "image": "https://yt3.ggpht.com/k2vQyxm8hTOrosmbHek9kSlqORwsUngLzgQSd_WsJKixorLpIIeslgY0wfdFMcUE1YVOfaKz=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/FhW7Et15gBgObCsx6ay2UHseQMLz8yOPhtojZoCkNHeUvjc1zBSZXBYoaDp_vEOfQTZO7WDqew"
     },
@@ -34,6 +34,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "女巫星芽\nHoshime",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "8月1日",

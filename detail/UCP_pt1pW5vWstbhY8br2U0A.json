@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/E4p08ZXVUAMYW0p?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/E4p08ZXVUAMYW0p?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FLP3TYuVEAIAiQ_?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FLP3TYuVEAIAiQ_?format=jpg&name=medium"
                     }
                 ]
             }
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "菊理しおり\nShiori",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "2月10日",

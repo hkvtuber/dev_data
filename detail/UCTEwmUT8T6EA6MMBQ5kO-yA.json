@@ -1,7 +1,7 @@
 {
     "id": "UCTEwmUT8T6EA6MMBQ5kO-yA",
     "header": {
-        "name": "MxM • MIR VTuber",
+        "name": "MIR 的日常角度 ︳MIR's Daily Angle",
         "image": "https://yt3.ggpht.com/Ggf80rBWTVr9qEYVF2bC2q-TQ8sQzgfHmxTmaE2LUTOM5O1FeypJcIvqXwWIk7_Tzid0bBKsEg8=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/zG1phyIUfOBNhmG7VDOLL976IyctfJmIAS9lUIOlo1ErJaI_g48519YBrhNUhkMI1af2W-HaLgw"
     },
@@ -11,6 +11,19 @@
             "data": {
                 "title": "描述",
                 "content": "RACE QUEEN / RQ（レースクイーン）MIR（ミラ）原型屬 SKYLINE GT-R BNR34。\n於 2002 年停產，在此於 MIR VTuber RACING CIRCUIT 延續東瀛戰神之傳奇。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "MIR 的日常角度\nMIR's Daily Angle",
+                        "heightRate": "2"
+                    }
+                ]
             }
         },
         {
@@ -42,7 +55,7 @@
                     },
                     {
                         "key": "twitter",
-                        "path": "MxMMirVTuber"
+                        "path": "MIRsDailyAngle"
                     },
                     {
                         "key": "facebook",

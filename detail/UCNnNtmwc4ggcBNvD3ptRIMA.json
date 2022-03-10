@@ -1,0 +1,111 @@
+{
+    "id": "UCNnNtmwc4ggcBNvD3ptRIMA",
+    "header": {
+        "name": "鎖拉白老鼠【HKVtuber】",
+        "image": "https://yt3.ggpht.com/rDuwd8eGIds2xDJd9WOtApMEus2AwUBLztrtT9VdPL_w4xeKSLspjJAxMhmoZiaG_wKDTjyGKw=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/H7kkz7EKbljqYE_s5_NTEBJCp78y2CBYQlKT-jReQ5syX4ZSJWeo9dwugO9F1gXX3n_gtGxa-g"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FKmiQ9fUcAU5ktG?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FKmiQ9fUcAU5ktG?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "鎖拉白老鼠",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "10月18日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "16歲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "165cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#白老鼠逃走中",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#啦啦吱吱吱",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#鎖匙拉鍊畫",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉/精華Tag",
+                        "content": "#鎖拉的麵包",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCNnNtmwc4ggcBNvD3ptRIMA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "ZiZiSORA_"
+                    }
+                ]
+            }
+        }
+    ]
+}

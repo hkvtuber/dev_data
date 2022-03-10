@@ -1,7 +1,7 @@
 {
     "id": "UCnwgM2M3C4JOVdOZ0OLu_bA",
     "header": {
-        "name": "Aisu Ch.小林あいす【香港VTuber】",
+        "name": "Aisu Ch.小林あいす【HKVTuber】",
         "image": "https://yt3.ggpht.com/HThK4mV9c20Z70ex7m7VRxIjd-SdV-LNUsS4GzKgKenTCRaoroEJHCvEbq3VxDhX6pd1Jw7g_0g=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/AObbd7j3f7em1Ns265eP_kDtg2hRyko8p5fvDqCFDhhSgBIFH1TA95ZKrFBZ-M-dkFAibpiJIA"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "小林あいす\nAisu",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "5月9日",

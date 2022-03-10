@@ -31,6 +31,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "空三小\nKukiMitsuo",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "生日",
                         "content": "11月30日\n1月1日",
                         "heightRate": "2"

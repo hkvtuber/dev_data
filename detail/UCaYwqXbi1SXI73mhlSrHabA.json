@@ -31,6 +31,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "鈴鹿沙織\nSaoriSuzuka",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "生日",
                         "content": "7月6日",
                         "heightRate": "1"

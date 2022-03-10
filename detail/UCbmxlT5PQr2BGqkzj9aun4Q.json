@@ -1,7 +1,7 @@
 {
     "id": "UCbmxlT5PQr2BGqkzj9aun4Q",
     "header": {
-        "name": " 蒔幻 タイム  JikanTime Ch. 【HK VTuber】",
+        "name": "蒔幻 タイム JikanTime Ch. 【HK VTuber】",
         "image": "https://yt3.ggpht.com/hybPZeCkFhptKQbLj_E_3hPYg_RpiQf2ToRWOrpHgNnFzzAljWXx85s1CEGp71ZP7xcgwyo2=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/sfvlfTrpTNv63pD27xSPw1fQkHKdJW6wQCMSl7pu1bApNrXYO_Dl3_xPsDYEbPbTQKXLOFvaXg"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "蒔幻 タイム\nJikanTime",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "7月4日",

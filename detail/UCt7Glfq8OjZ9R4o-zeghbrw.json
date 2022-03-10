@@ -1,7 +1,7 @@
 {
     "id": "UCt7Glfq8OjZ9R4o-zeghbrw",
     "header": {
-        "name": "沢田ユウ 【hkvtuber】 Yuu.Sawada CH",
+        "name": "沢田ユウ Yuu.Sawada CH",
         "image": "https://yt3.ggpht.com/FozHip9-gHhJU8YgmxYJr3bUlvm-726LWSnM1tnCvWgFc0LvwXEDej0wb-0lKTkwWdhZlZ8MzVo=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/uGDRsNdhCRvf7LOazzjYrXWP0SDENdTiiCldM8ZQscQ_8-F-RhmWQiVRf_-NcFJ1IAMPbpthZw"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "沢田ユウ\nYuu.Sawada",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "1月1日",

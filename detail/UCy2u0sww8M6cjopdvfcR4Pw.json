@@ -1,7 +1,7 @@
 {
     "id": "UCy2u0sww8M6cjopdvfcR4Pw",
     "header": {
-        "name": "Emerald Ch. エメラルド",
+        "name": "Emerald Ch. エメラルド (已畢業)",
         "image": "https://yt3.ggpht.com/YP4w99UgilW9fUDhr3R13UKhPRIk8fsShLNo7QkftCljDRw8rhv67OzMUSWKtprp07E4_nLr=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/xZYX8g5clPbM18p1OCfA2ennXIrp9X6jGcie5gvVwQnihEUutSlkQzNLGy0MCBUbuAQ3t2X0Vg"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "エメラルド\nEmerald",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "5月5日",

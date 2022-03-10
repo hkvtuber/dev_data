@@ -10,7 +10,7 @@
             "type": "title_content",
             "data": {
                 "title": "描述",
-                "content": ""
+                "content": "虛擬生命體 貓耳 (貓耳未來 / 貓耳希望)\n從數碼世界中的虛擬數據研究所 VDLab 到現實人類世界\n在人類世界是以狐貓 (赤狐/ 雪狐) 的擬人化生活\n希望可以普及知識到更多人"
             }
         },
         {
@@ -18,6 +18,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "貓耳\nNekomix",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "8月1日",

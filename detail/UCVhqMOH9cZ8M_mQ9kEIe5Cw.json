@@ -31,6 +31,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "水樹はやと\n水樹颯斗\nHayato",
+                        "heightRate": "2.00"
+                    },
+                    {
                         "key": "生日",
                         "content": "1月20日",
                         "heightRate": "1"

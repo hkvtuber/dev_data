@@ -1,7 +1,7 @@
 {
     "id": "UCGDNjQIgEPjtkDTR4s7SojQ",
     "header": {
-        "name": "Kokoro ch.倉鼠",
+        "name": "Hamster Lily Ch.【水彩莉莉】",
         "image": "https://yt3.ggpht.com/tXd04kLHsiCx10PzheBRLfyVJtIixjiw51yxPURsXDpaFVKLI2xHyioM7Nmzyd-6jS2jvrCg=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/gj-qvZViy6h8QLQAxkxgb-q1HfCVU515R7ft4ymH6z1DJasOx0Kg8BprfYacHAkC_8Zl-CVptdM"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "水彩莉莉\nHamster Lily",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "11月16日",

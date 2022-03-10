@@ -1,0 +1,95 @@
+{
+    "id": "UCPBka7JedCOz5yHQ_cTwrdg",
+    "header": {
+        "name": "冬夜Touya 【hkvtuber】",
+        "image": "https://yt3.ggpht.com/pFaJ2hrHJjNHEUa1GzeQ4FdJ_s7Vnboh-ENCxdNYTk5g3gCzp5krc4xV_r4YunJkj2q05zTyDw=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/t4ce4hwmX6bNuyjWeDg9GYXtN9SfVgK9A78mDq9gBrAzN4HlU52hgnVZuojuDBUG61OCwUMktw"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FCI9VM5VcAIcd-9?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FCI9VM5VcAIcd-9?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "冬夜\nTouya",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "10月21日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "17歲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "170cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCPBka7JedCOz5yHQ_cTwrdg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "touya39976597"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/touya_vtuber"
+                    }
+                ]
+            }
+        }
+    ]
+}

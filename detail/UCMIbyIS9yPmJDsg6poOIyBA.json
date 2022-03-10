@@ -1,7 +1,7 @@
 {
     "id": "UCMIbyIS9yPmJDsg6poOIyBA",
     "header": {
-        "name": "Edward Hosson (光子) 【HK vtuber】",
+        "name": "Edward Hosson 【HK vtuber】Photon Dynamic 主頻道",
         "image": "https://yt3.ggpht.com/quRHm4XBk4FvyxHS-XzUr6ntLXpSaruBEcX5r7nkZ2e_6ZgHhgS6p5o_3lWZ7eQfZ5lNm1iUd9o=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/TPn1R1PBDnSzwPp7ey9TiL0js-P7hGASyUjCqe8OccOIheG4PSKOfkDV0RFi7ZpTmHntFvup"
     },
@@ -38,6 +38,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "Edward Hosson",
+                        "heightRate": "1"
+                    },
                     {
                         "key": "生日",
                         "content": "9月13日",

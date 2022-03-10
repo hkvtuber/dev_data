@@ -1,7 +1,7 @@
 {
     "id": "UCMREoa6oWpvCwdLFxPNXg1w",
     "header": {
-        "name": "百孤－バグ .ch【HKVtuber】 ",
+        "name": "小百子－バココ .ch【HKVtuber】 ",
         "image": "https://yt3.ggpht.com/XGGviVB4Lul1mdHEQPkH6f4kXLeqYq1LpOjm2ngXCm0fbJXwCGez0anyYcWJTkYOyVkewYIhA5w=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/U4zAPLVmN7f9f58nRSYjKvaV3i0NB2DwPW5B8Il_Syv3de3BULEAqkq3YbFSgup_HvYHloJ8wg"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "バココ\n小百子",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "12月25日",

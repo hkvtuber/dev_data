@@ -1,7 +1,7 @@
 {
     "id": "UCW8G8aeRjbIOlL-Fgms8hEQ",
     "header": {
-        "name": "CheukCat綽貓喵 【HKVtuber】",
+        "name": "CheukCat Ch. 綽貓喵",
         "image": "https://yt3.ggpht.com/nqe-vuSsdCtOWxqE6i2zlxs1PoobsZgVLOT7gXv7SBuy2FnK5iFwGYDewjvhTCl3XZIVo9IB=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/i9Zrxrkf4UogxJNEoKOdK1_iRW6DXsCOroaT4R_GLBUNOnfrFL1ViG3FDdGIS7eyZyKVzBqJkg4"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "綽貓喵\nCheukCat",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "6月24日",

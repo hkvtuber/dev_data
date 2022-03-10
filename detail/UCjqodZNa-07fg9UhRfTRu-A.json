@@ -1,7 +1,7 @@
 {
     "id": "UCjqodZNa-07fg9UhRfTRu-A",
     "header": {
-        "name": "Leliea レリア 莉莉亞 【HKvtuber 準備中】",
+        "name": "Leliea 莉莉亞 【HKvtuber 準備中】",
         "image": "https://yt3.ggpht.com/cWFKVt4Vezr9YFXEVVfK5yAWHqXnFKIVd-XSXaXm5yZnZ3zQm9KLYUyji_EYe--uQjDJfVuO=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/nVsJhSqt-TT8GGxEO-vTGnPBOVNhZh6opcCHJQQXWfO_biVW376P1sFvCOOk-BzqOg0s56wZsJs"
     },
@@ -34,6 +34,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "莉莉亞\nLeliea",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "11月16日",

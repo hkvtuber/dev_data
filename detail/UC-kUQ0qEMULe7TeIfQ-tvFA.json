@@ -31,6 +31,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "浅羽和紗\nKazusa",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "生日",
                         "content": "3月3日",
                         "heightRate": "1"

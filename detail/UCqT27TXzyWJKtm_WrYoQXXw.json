@@ -1,7 +1,7 @@
 {
     "id": "UCqT27TXzyWJKtm_WrYoQXXw",
     "header": {
-        "name": "KinaRira ch.浣熊",
+        "name": "浣熊 KinaRira ch.",
         "image": "https://yt3.ggpht.com/L6mvjGqNniKcqjEsYOKJS5UbweJzjan7Ak1weXf3S4bsyb-3uLp5fdR9f0nW6m68uOko1yJe=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/x6SDF-5qJc_Qh5aOEgZB_4U1j0iCQwFFfu6F_mD_ZeCu5BIQElRNzDPb_bphGl-GfBCRE7kR"
     },
@@ -18,6 +18,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "浣熊\nKinaRira",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "4月15日",

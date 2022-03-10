@@ -35,6 +35,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "黑佃みほ\nMiho",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "生日",
                         "content": "6月30日",
                         "heightRate": "1"

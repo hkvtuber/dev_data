@@ -1,0 +1,49 @@
+{
+    "id": "UC7l7ACAUIXfeS3aLG-EcAAw",
+    "header": {
+        "name": "Havoc in the nirvana【Nirvoc】",
+        "image": "https://yt3.ggpht.com/U5A-d76aj3cNCREj3mAlP3Ui5GPr7zI3zkBvXrLbXiX3EdIWqYWPAwdUdIoD2GY9ICyfilRCdg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "香港混沌系vtuber社團。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "Havoc in the nirvana",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC7l7ACAUIXfeS3aLG-EcAAw"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -35,6 +35,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "侑里\nYURI NYA",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "生日",
                         "content": "1月26日",
                         "heightRate": "1"

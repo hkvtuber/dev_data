@@ -31,6 +31,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "肉粒\nYoluv",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "生日",
                         "content": "4月4日",
                         "heightRate": "1"

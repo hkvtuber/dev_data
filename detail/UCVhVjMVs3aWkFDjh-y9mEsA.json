@@ -1,7 +1,7 @@
 {
     "id": "UCVhVjMVs3aWkFDjh-y9mEsA",
     "header": {
-        "name": "Kotose ch. 音羽 ことせ ",
+        "name": "Aorëa ch. 音羽 ことせ",
         "image": "https://yt3.ggpht.com/l-S_w9K796NBgtIQrvCFBR3XftEy0fu66cjfHoPn-6H4JGkIg4t56KJuf90EKMhp5OjG1dAE=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/ZVu2G-L36Cn9QHV__4zmylruvBsxnrRHuAZAimPQEujcnkqs5MvNoseuaCn8EW4MgW9QDsv3"
     },
@@ -11,6 +11,19 @@
             "data": {
                 "title": "描述",
                 "content": "早啊各位~這裡是琴瀨的頻道OwO\n我從小就有歌手的夢想，因為唱歌能表達我的心情，但一直卻沒有機會可以嘗試一番，心情很低落......\n但，在這個時候，有個人對我張開了手....給我了希望\n我開始練習唱歌，希望能成為專業的歌唱者\n目前還是練習生，請大家多多關注和鼓勵啦-w-"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "音羽 ことせ\nAorëa",
+                        "heightRate": "2"
+                    }
+                ]
             }
         },
         {

@@ -31,6 +31,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "ありす\n夢姬\narisu",
+                        "heightRate": "2.00"
+                    },
+                    {
                         "key": "生日",
                         "content": "9月10日",
                         "heightRate": "1"

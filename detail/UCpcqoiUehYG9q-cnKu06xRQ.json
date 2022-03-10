@@ -1,7 +1,7 @@
 {
     "id": "UCpcqoiUehYG9q-cnKu06xRQ",
     "header": {
-        "name": "稜斬月,暴走,黃標型hkvtuber",
+        "name": "稜月.Ch_孤狼type",
         "image": "https://yt3.ggpht.com/qvnJx8Ags709pYaO0ZvI6Y0VbYxRircYz4opIvnXjnszb3xUj1q39HFK6wrk7N6212JCqQuwig=s88-c-k-c0x00ffffff-no-rj",
         "bg": ""
     },
@@ -18,6 +18,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "稜月",
+                        "heightRate": "1"
+                    },
                     {
                         "key": "生日",
                         "content": "12月23日",

@@ -22,7 +22,7 @@
             "type": "title_content",
             "data": {
                 "title": "描述",
-                "content": ""
+                "content": "在某地方經營著一家歷史悠久的寵物CAFE。由於社區重建，街道變得冷清，加上經營不善，CAFE最終倒閉，人去樓空。店裏的小動物們想重新經營CAFE，牠們都化身成為人類。現在當中的兔子桃瀬結兎為了重新經營這個「家」而努力著成為了Vtuber。"
             }
         },
         {
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "桃瀬結兎\nMomose Yuto",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "2月22日",

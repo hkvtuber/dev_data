@@ -35,6 +35,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "芯夏\nsam1_haa6",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "生日",
                         "content": "3月20日",
                         "heightRate": "1"

@@ -1,7 +1,7 @@
 {
     "id": "UCRLOQ3XCFpZtTcMmjL7U6uw",
     "header": {
-        "name": "柔木月 HKVtuber",
+        "name": "柔木月 YawaragiTsuki Ch.(HKvtuber ) ",
         "image": "https://yt3.ggpht.com/tTJHLcZMFYvyfDyWxgJuXpBuDx1ElGAYTzBjW3SvyLktA9uKWRpFbAjCNHY6w9wIOfrgxCih=s88-c-k-c0x00ffffff-no-rj",
         "bg": ""
     },
@@ -22,7 +22,7 @@
             "type": "title_content",
             "data": {
                 "title": "描述",
-                "content": ""
+                "content": "神界嘅天使族，為咗搵返變為死神的哥哥,因而落嚟人界,係機緣巧合下認識到VTuber,透過佢哋嘅鼓勵講述應該追尋夢想,而成為V,能以用這樣的方式與哥哥重逢,也不錯。好多時候因為樣子和聲音而被誤會為女性，實質為純正嘅男性(男の娘)。 平時鍾意動漫、電玩及日麻， 希望有更多嘅人成為玩伴，一齊釋放平時嘅壓力,令大家有動力生活"
             }
         },
         {
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "柔木月\nYawaragiTsuki",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "2月2日",

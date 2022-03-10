@@ -31,6 +31,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "華萊莉雅.克勞福德\nWaleria.Crawford",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "年齡",
                         "content": "19歲",
                         "heightRate": "1"
